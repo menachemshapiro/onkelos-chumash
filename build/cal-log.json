@@ -1,0 +1,469 @@
+{
+ "calls": [
+  {
+   "aliyah": "bereishit-2",
+   "form": "(chapter 2 word list)",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=51001&sub=02&cset=H",
+   "time": "2026-10-20 11:56:20"
+  },
+  {
+   "aliyah": "bereishit-2",
+   "form": "דִּמְרַגֵּג",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100102091&word=7&hasvariant=0",
+   "time": "2026-10-20 11:56:20"
+  },
+  {
+   "aliyah": "bereishit-3",
+   "form": "(chapter 3 word list)",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=51001&sub=03&cset=H",
+   "time": "2026-10-20 12:00:21"
+  },
+  {
+   "aliyah": "bereishit-3",
+   "form": "וְחַטִּיטוּ",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100103071&word=7&hasvariant=1",
+   "time": "2026-10-20 12:00:21"
+  },
+  {
+   "aliyah": "bereishit-4",
+   "form": "(chapter 4 word list)",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=51001&sub=04&cset=H",
+   "time": "2026-10-20 12:03:31"
+  },
+  {
+   "aliyah": "bereishit-4",
+   "form": "וְעַדִּיאַת",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100104011&word=5&hasvariant=0",
+   "time": "2026-10-20 12:03:31"
+  },
+  {
+   "aliyah": "bereishit-4",
+   "form": "מִטַלְטֵל",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100104121&word=9&hasvariant=0",
+   "time": "2026-10-20 12:03:31"
+  },
+  {
+   "aliyah": "bereishit-4",
+   "form": "גָּלֵי",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100104161&word=7&hasvariant=0",
+   "time": "2026-10-20 12:03:31"
+  },
+  {
+   "aliyah": "bereishit-6",
+   "form": "חָלוּ",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100104261&word=11&hasvariant=0",
+   "time": "2026-10-20 12:07:00"
+  },
+  {
+   "aliyah": "bereishit-6",
+   "form": "אִיתְלִאוּ",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100104241&word=3&hasvariant=0",
+   "time": "2026-10-20 12:07:00"
+  },
+  {
+   "aliyah": "bereishit-6",
+   "form": "לַטְטַהּ (wrong word index)",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100105291&word=13&hasvariant=0",
+   "time": "2026-10-20 12:07:00"
+  },
+  {
+   "aliyah": "noach-3",
+   "form": "דְּיַבִּישׁוּ",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100108071&word=7&hasvariant=0",
+   "time": "2026-10-20 12:10:41"
+  },
+  {
+   "aliyah": "noach-3",
+   "form": "הֲקַלִּיאוּ (CAL text has אִם here)",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100108081&word=5&hasvariant=0",
+   "time": "2026-10-20 12:10:41"
+  },
+  {
+   "aliyah": "noach-4",
+   "form": "דְּיֵשׁוֹד",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100109051&word=13&hasvariant=0",
+   "time": "2026-10-20 12:10:41"
+  },
+  {
+   "aliyah": "lechlecha-1",
+   "form": "לְאִתּוֹתָבָא",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100112101&word=6&hasvariant=0",
+   "time": "2026-10-20 12:15:18"
+  },
+  {
+   "aliyah": "lechlecha-3",
+   "form": "סוֹבָרַת",
+   "url": "https://cal.huc.edu/getlex.php?coord=5100113061&word=1&hasvariant=0",
+   "time": "2026-10-20 12:15:18"
+  },
+  {
+   "aliyah": "bereishit-2",
+   "form": "(repeat after restart) 2:8 word 8",
+   "url": "getlex 5100102081 w8",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "bereishit-2",
+   "form": "(repeat after restart) chapter 2 word list",
+   "url": "get_a_chapter 51001/02",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "bereishit-2",
+   "form": "(repeat after restart) וְאַשְׁוֵי",
+   "url": "getlex 5100102081 w6",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "bereishit-2",
+   "form": "(repeat after restart) 2:9 word 4",
+   "url": "getlex 5100102091 w4",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "bereishit-2",
+   "form": "(repeat after restart) chapter 2 word list, 2nd question",
+   "url": "get_a_chapter 51001/02",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "bereishit-2",
+   "form": "(repeat after restart) דִּמְרַגֵּג",
+   "url": "getlex 5100102091 w7",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "bereishit-3",
+   "form": "(repeat after restart) chapter 3 word list",
+   "url": "get_a_chapter 51001/03",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "bereishit-3",
+   "form": "(repeat after restart) וְחַטִּיטוּ",
+   "url": "getlex 5100103071 w7",
+   "time": "2026-10-20 14:00"
+  },
+  {
+   "aliyah": "vayetzei-3",
+   "form": "(chapter 30 word list) חֲמֵידַת — CAL reads חמידית",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=51001&sub=30&cset=H",
+   "time": "2026-10-20 14:40"
+  },
+  {
+   "aliyah": "vayetzei-5",
+   "form": "(chapter 30 word list) 30:37 trees: CAL reads וּדְלוּז, וְדִדְלוּב",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=51001&sub=30&cset=H",
+   "time": "2026-10-20 14:52"
+  },
+  {
+   "aliyah": "vayeshev-7",
+   "form": "(chapter 40 word list) 40:13 יַדְבְּרִנָּךְ — CAL reads ידכרינך",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=51001&sub=40&cset=H",
+   "time": "2026-10-20 16:00"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "(chapter word list, wrong file code — empty page)",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=53011&sub=CC&cset=H",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "(chapter 11 word list) bird/creature spellings; 11:17 CAL reads וְקַדיָא (our text וְקַרְיָא)",
+   "url": "https://cal.huc.edu/get_a_chapter.php?file=51003&sub=11&cset=H",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "וְטָרָפִיתָא — \"a bird of prey\"",
+   "url": "getlex 5100311141 w1",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "וְשָׁלֵינוּנָא — \"pelican, heron\"",
+   "url": "getlex 5100311171 w1",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "וּבַוְתָא — \"an unclean bird\"",
+   "url": "getlex 5100311181 w0",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "וְקָאתָא — (returned only the conjunction)",
+   "url": "getlex 5100311181 w1",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "וְאָשׁוּתָא — \"mole\"",
+   "url": "getlex 5100311301 w4",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "וְחֻלְטֵיתָא — \"a type of lizard\"",
+   "url": "getlex 5100311301 w2",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "shemini-6",
+   "form": "וְיָלָא — \"a type of lizard\"",
+   "url": "getlex 5100311301 w0",
+   "time": "2026-10-20 19:45"
+  },
+  {
+   "aliyah": "tazria-1",
+   "form": "עַמְקָא — \"skin lesion; sunken skin lesion\"",
+   "url": "getlex 5100313021 w5",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "tazria-1",
+   "form": "עַדְיָא — \"scab\"",
+   "url": "getlex 5100313021 w7",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "tazria-3",
+   "form": "מַכִּיךְ — \"low\"",
+   "url": "getlex 5100313201 w4",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "tazria-5",
+   "form": "נִתְקָא — \"bald spot\"",
+   "url": "getlex 5100313301 w16",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "tazria-6",
+   "form": "גְּלוֹשׁ — \"bald in front\"",
+   "url": "getlex 5100313411 w6",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "tazria-6",
+   "form": "מְחַסְרָא — (index miss: returned מַכְתָּשָׁא)",
+   "url": "getlex 5100313511 w21",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "tazria-6",
+   "form": "מְחַסְרָא — (index miss: returned מְסָאָב)",
+   "url": "getlex 5100313511 w22",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "tazria-6",
+   "form": "מְחַסְרָא — D \"to harm\"",
+   "url": "getlex 5100313511 w20",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "metzora-4",
+   "form": "פַּחֲתִין — \"pits; depressions in a surface\"",
+   "url": "getlex 5100314371 w7",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "metzora-5",
+   "form": "חָתִים — \"to seal, close up\"",
+   "url": "getlex 5100315031 w9",
+   "time": "2026-10-20 20:05"
+  },
+  {
+   "aliyah": "kedoshim-6",
+   "form": "קְלָנַהּ (wrong word index)",
+   "url": "getlex 5100320181 w10",
+   "time": "2026-10-20T16:50:06Z"
+  },
+  {
+   "aliyah": "achareimot-1",
+   "form": "יָחֵת",
+   "url": "getlex 5100316041 w14",
+   "time": "2026-10-20T16:50:06Z"
+  },
+  {
+   "aliyah": "kedoshim-6",
+   "form": "קְלָנַהּ",
+   "url": "getlex 5100320181 w9",
+   "time": "2026-10-20T16:50:06Z"
+  },
+  {
+   "aliyah": "emor-2",
+   "form": "גְבִין",
+   "url": "getlex 5100321201 w1",
+   "time": "2026-10-20T16:55:59+00:00"
+  },
+  {
+   "aliyah": "emor-2",
+   "form": "דֻקָּא",
+   "url": "getlex 5100321201 w3",
+   "time": "2026-10-20T16:55:59+00:00"
+  },
+  {
+   "aliyah": "emor-2",
+   "form": "חָרִים (wrong word index)",
+   "url": "getlex 5100321181 w13",
+   "time": "2026-10-20T16:55:59+00:00"
+  },
+  {
+   "aliyah": "behar-1",
+   "form": "כַּתֵּי",
+   "url": "getlex 5100325051 w1",
+   "time": "2026-10-20T16:57:37+00:00"
+  },
+  {
+   "aliyah": "bechukotai-3",
+   "form": "וִיצָרְיוּן (wrong word index)",
+   "url": "getlex 5100326321 w5",
+   "time": "2026-10-20T16:57:37+00:00"
+  },
+  {
+   "aliyah": "bechukotai-3",
+   "form": "חֲנִיסְנְסֵיכוֹן",
+   "url": "getlex 5100326301 w5",
+   "time": "2026-10-20T16:57:37+00:00"
+  },
+  {
+   "aliyah": "bechukotai-3",
+   "form": "פִּגּוּר",
+   "url": "getlex 5100326301 w10",
+   "time": "2026-10-20T16:57:37+00:00"
+  },
+  {
+   "aliyah": "bechukotai-3",
+   "form": "וִיצָרְיוּן",
+   "url": "getlex 5100326321 w4",
+   "time": "2026-10-20T16:57:37+00:00"
+  },
+  {
+   "aliyah": "naso-4",
+   "form": "מַתְרוּת",
+   "url": "getlex 5100406031 w13",
+   "time": "2026-10-20T17:07:17+00:00"
+  },
+  {
+   "aliyah": "naso-4",
+   "form": "עִצּוּרִין",
+   "url": "getlex 5100406041 w9",
+   "time": "2026-10-20T17:07:17+00:00"
+  },
+  {
+   "aliyah": "shelach-2",
+   "form": "עוֹבַרְתָּא",
+   "url": "getlex 5100413231 w6",
+   "time": "2026-10-20T17:11:41+00:00"
+  },
+  {
+   "aliyah": "behaalotecha-6",
+   "form": "שַׁיְטִין",
+   "url": "getlex 5100411081 w0",
+   "time": "2026-10-20T17:11:41+00:00"
+  },
+  {
+   "aliyah": "korach-2",
+   "form": "שְׁחָרִית",
+   "url": "getlex 5100416151 w14",
+   "time": "2026-10-20T17:15:07+00:00"
+  },
+  {
+   "aliyah": "chukat-5",
+   "form": "קָלָן",
+   "url": "getlex 5100421061 w5",
+   "time": "2026-10-20T17:15:07+00:00"
+  },
+  {
+   "aliyah": "balak-5",
+   "form": "לֵאוּת",
+   "url": "getlex 5100423211 w9",
+   "time": "2026-10-20T17:17:32+00:00"
+  },
+  {
+   "aliyah": "matot-6",
+   "form": "מַבְעִין",
+   "url": "getlex 5100432171 w2",
+   "time": "2026-10-20T17:22:45+00:00"
+  },
+  {
+   "aliyah": "matot-5",
+   "form": "מָחוֹךְ (wrong word index)",
+   "url": "getlex 5100431501 w12",
+   "time": "2026-10-20T17:22:45+00:00"
+  },
+  {
+   "aliyah": "devarim-4",
+   "form": "נַתְּזָן (wrong word index: got דַּבַּרְיָתָא)",
+   "url": "getlex 5100501441 w10",
+   "time": "2026-10-20T17:26:15+00:00"
+  },
+  {
+   "aliyah": "devarim-1",
+   "form": "דְּאִתַּפָּלוּ",
+   "url": "getlex 5100501011 w22",
+   "time": "2026-10-20T17:26:15+00:00"
+  },
+  {
+   "aliyah": "reeh-4",
+   "form": "וְדִיצָא",
+   "url": "getlex 5100514051 w6",
+   "time": "2026-10-20T17:32:28+00:00"
+  },
+  {
+   "aliyah": "eikev-1",
+   "form": "יְחֵפוּ",
+   "url": "getlex 5100508041 w6",
+   "time": "2026-10-20T17:32:28+00:00"
+  },
+  {
+   "aliyah": "kiteitzei-2",
+   "form": "תַּסְקוֹפֵי",
+   "url": "getlex 5100522141 w2",
+   "time": "2026-10-20T17:36:34+00:00"
+  }
+ ],
+ "answers": {
+  "(chapter 2 word list)": "chapter page",
+  "דִּמְרַגֵּג": "mrgg adj. highly desirable",
+  "(chapter 3 word list)": "chapter page: 3:5 גְלֵי (ours גַּלֵּי); 3:6 אָסוּ (ours אַסֵּי)",
+  "וְחַטִּיטוּ": "ḥwṭ verb D1 to sew, to fasten",
+  "(chapter 4 word list)": "chapter page",
+  "וְעַדִּיאַת": "lemma ʿdy, stem not shown",
+  "מִטַלְטֵל": "mṭlṭl adj. homeless",
+  "גָּלֵי": "gly verb G",
+  "חָלוּ": "ḥll G to become profane",
+  "אִיתְלִאוּ": "tly Gt to be suspended",
+  "לַטְטַהּ (wrong word index)": "got יוי instead",
+  "דְּיַבִּישׁוּ": "ybš verb G to dry up",
+  "הֲקַלִּיאוּ (CAL text has אִם here)": "ʾm conj. if",
+  "דְּיֵשׁוֹד": "ʾšd verb G to pour",
+  "לְאִתּוֹתָבָא": "lemma ytb (Ct: to become settled)",
+  "סוֹבָרַת": "swbr verb quad. to carry, bear",
+  "קְלָנַהּ": "qlnʾ n.m. disgrace, shame",
+  "יָחֵת": "nḥt verb C to lower",
+  "גְבִין": "gbyn adj. curved, humped (hunchbacked)",
+  "דֻקָּא": "dwq adj. dwarf",
+  "כַּתֵּי": "kt n.f. aftercrop (grain growing from what was missed in the previous harvest)",
+  "חֲנִיסְנְסֵיכוֹן": "ḥnsns n.m. veil; pagan shrine",
+  "פִּגּוּר": "pgwr destruction (variant pgr corpse)",
+  "וִיצָרְיוּן": "CAL text וְיִצְדּוּן: ṣdy to be laid waste",
+  "מַתְרוּת": "mtrw n.f. liquid, infusion",
+  "עִצּוּרִין": "ʿiṣṣūr v.n.D pressed-out fluid, wine pressing",
+  "עוֹבַרְתָּא": "ʿwbrh n.f. branch",
+  "שַׁיְטִין": "šwṭ G to go about, roam",
+  "שְׁחָרִית": "šḥr D confiscate",
+  "קָלָן": "qly G to roast (burning)",
+  "לֵאוּת": "lʾw n.f. work, labor; weariness; trouble, mischief",
+  "מַבְעִין": "bʿʿ C to hurry",
+  "דַּבַּרְיָתָא": "dbwry n.f. bee, hornet",
+  "דְּאִתַּפָּלוּ": "tpl Dt to malign; with על to complain about",
+  "וְדִיצָא": "dyyṣ n.m. ibex",
+  "יְחֵפוּ": "yḥp G to be barefoot",
+  "תַּסְקוֹפֵי": "tsqwp n.m. false charge, machination"
+ }
+}

@@ -1,0 +1,31 @@
+# Vayeshev 39:7–23
+שְׁכוּב | shkv | G impv ms | lie
+וְ=.אֵ~I_f.חוֹב | hwb | G impf 1cs | and sin
+מַלֵּילַ.ת~she_p | mll2 | D pf 3fs | she spoke
+לְ=.מִ~inf.בְדַּק | bdq | G inf | to check
+בְּ=.כִתְבֵי | ktava | n mp cs | the records of
+חָשְׁבְּנ.ֵיהּ=his | hushban | n+3ms | his accounts (Hebrew: לַעֲשׂוֹת מְלַאכְתּוֹ, to do his work)
+וַ=.אֲחִדְ.תֵּ~she_p.יהּ=him | ahd | G pf 3fs+3ms | and she seized him
+בִּ=by.לְבוּשׁ.ֵיהּ=his | levush | n+3ms | by his garment
+לִ=.לְבוּשׁ.ֵיהּ=his | levush | n+3ms | his garment (לְ marks the object)
+וַ=.עֲרַק | rq | G pf 3ms | and (he) fled
+לְ=.שׁוּק.ָא=emph | shuqa | n emph | outside (lit. to the street)
+חֲזַ.ת~she_p | hzy | G pf 3fs | she saw
+בֵית.ַהּ=her | beit | n+3fs | her household
+לְ=.חַיָּכ.ָא~inf_end | hyk | D inf | to mock (lit. to laugh)
+וּ=.קְרֵי.ת~I_p | qry | G pf 1cs | and I called out
+וַ=.אֲ~C.חִתְּתֵ.יהּ=it | nht | C pf 3fs+3ms | and (she) put it down | the נ of נחת is absorbed
+רָגְז.ֵיהּ=his | rugza | n+3ms | his anger
+אֲסִירֵי | asr | Gp ptc mp | prisoners (בֵּית אֲסִירֵי = prison)
+אַסִירֵי | asr | Gp ptc mp | prisoners (בֵּית אַסִירֵי = prison)
+אֲסִיר.ִין~mp | asr | Gp ptc mp | are imprisoned
+וּ=.נְגַד | ngd | G pf 3ms | and (He) extended (lit. drew)
+חִסְדּ.ָא=emph | hisda | n emph | kindness
+וִ=.יהָב.ֵיהּ=him | yhb | G pf 3ms+3ms | and (He) granted him (favor)
+אֲסִיר.ַיָּא=emphp | asr | Gp ptc mp | the prisoners
+מִ~ptc.תְ~Gt.עֲבֵד | avad | Gt ptc ms | was done
+סָרְחָן | surhan | n | fault (Hebrew: מְאוּמָה, anything)
+דִ=what is.בְ=in.בֵית.ָא=emph | beit | n emph | what is in the house
+וְ=.שָׁבְקֵ.יהּ=it | shbq | G pf 3ms+3ms | and (he) left it
+וּ=.מַנֵּי | mny | D pf 3ms | and (the warden) put (in charge)
+בְּדִי | di | conj | because (lit. in that)

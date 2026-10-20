@@ -1,0 +1,66 @@
+# Vayeshev 40:1–19
+סְרָח.וּ~they_p | srh | G pf 3mp | (they) sinned
+נַחְתּוֹמ.ָא=emph | nahtom | n emph | the baker
+לְ=against.רִבּוֹנ.ֵיהוֹן=their | ribbon | n+3mp | against their master
+וּ=.רְגֵז | rgz | G pf 3ms | and (Paroh) was angry
+רַבְרְבָנ.וֹהִי=his | rav | n mp+3ms | his officers
+שָׁקֵי | shqy | G ptc mp | cupbearers (רַב שָׁקֵי = the chief cupbearer)
+נַחְתּוֹמֵי | nahtom | n mp | bakers (רַב נַחְתּוֹמֵי = the chief baker)
+אָסִיר | asr | Gp ptc ms | imprisoned
+וּ=.מַנִּי | mny | D pf 3ms | and (he) appointed
+וַ=.חֲלָמ.וּ~they_p | hlm | G pf 3mp | and (they) dreamt
+חֶלְמ.ֵיהּ=his | helma | n+3ms | his dream
+פּוּשְׁרַן | pushran | n cs | the interpretation of
+כְּ=according to.פוּשְׁרַן | pushran | n cs | according to the interpretation of
+נְסִיס.ִין~mp | nss | Gp ptc mp | troubled (Hebrew: זֹעֲפִים)
+מָא | ma | q | why (מָא דֵין = why)
+אַפֵּי.כוֹן=your | anpin | n mp+2mp | your faces
+חֲלֵמְ.נָא~we_p | hlm | G pf 1cp | we dreamt
+וּ=.פָשַׁר | pshr | G ptc ms | and an interpreter (lit. one who interprets)
+אִ~Dt.שְׁתָּע.וּ~cmd_pl | shy2 | Dt impv mp | tell | the passive ת moves after the ש
+בְּ=in.חֶלְמ.ִי=my | helma | n+1cs | in my dream
+גוּפְנ.ָא=emph | gufna | n emph | a vine
+שִׁבְשׁ.ִין=pl | shivsha | n mp abs | branches
+אַ~C.פְרַחַ.ת~she_p | prh2 | C pf 3fs | it budded
+אַ~C.פֵּקַ.ת~she_p | npq | C pf 3fs | it brought forth | the נ of נפק is absorbed (the dot in פ)
+לַבְלְב.ִין=pl | lavlev | n mp abs | buds
+וַ=.אֲ~C.נִיצַ.ת~she_p | nts2 | C pf 3fs | and it blossomed
+נֵץ | nets | n | blossoms
+בַּשִּׁיל.וּ~they_p | bshl | D pf 3mp | ripened
+אִתְכְּלָתָ.הָא=its | itkela | n fp+3fs | its clusters
+עִנְּב.ִין=pl | inba | n mp abs | (into) grapes
+כַּסּ.ָא=emph | kasa | n emph | the cup
+וּ=.נְסֵיבִ.ת~I_p | nsv | G pf 1cs | and I took
+עִנְּב.ַיָּא=emphp | inba | n mp emph | the grapes
+וְ=.עַצָּר.ִית~I_p | tsr | D pf 1cs | and I squeezed
+פִּשְׁרָנ.ֵיהּ=its | pushran | n+3ms | its interpretation
+יַ~he_f.דְבְּרִ.נָּךְ=you | dkr | G impf 3ms+2ms | will remember you (Hebrew: יִשָּׂא … אֶת רֹאשֶׁךָ, will lift up your head) | CAL’s text reads ידכרינך, “will remember you”; the ב here looks like a misprint for כ
+רֵישׁ.ָךְ=your | resh | n+2ms | your head
+וִ=.י~he_f.תֵיבִ.נָּךְ=you | twv | C impf 3ms+2ms | and (he) will restore you
+שִׁמּוּשׁ.ָךְ=your | shimmush | n+2ms | your position (Hebrew: כַּנֶּךָ)
+כְּ=according to.הִלְכְת.ָא=emph | hilkheta | n fs emph | the (former) practice (Hebrew: כַּמִּשְׁפָּט)
+הֲוֵי.תָא~you_p | hwy | G pf 2ms | you were
+מַ~ptcC.שְׁקֵי | shqy | C ptc ms | giving drink (to)
+תִּ~you_f.דְכְּרִ.נַּנִי=me | dkr | G impf 2ms+1cs | you will remember me
+יֵ~he_f.יטַב | ytv2 | G impf 3ms | it goes well
+וְ=.תִ~you_f.דְכַּר | dkr | G impf 2ms | and you will mention
+וְ=.תַ~you_f.פְּקִ.נַּנִי=me | npq | C impf 2ms+1cs | and get me out | the נ of נפק is absorbed (the dot in פ)
+אֲסִיר.ָא=emph | asr | Gp ptc mp | prisoners (בֵּית אֲסִירָא = prison)
+מִ~inf.גְנַב | gnv | G inf | (I was surely) stolen | an infinitive before the verb strengthens it
+גְּנֵבְנָא | gnv | !verb, Pe‘al passive, past | I was stolen
+דְ=of.עִבְרָאֵי | name | name | of the Hebrews
+שַׁוִּיא.וּ~they_p | shwy | D pf 3mp | they put
+פָּשַׁר | pshr | G pf 3ms | (he) had interpreted
+פָשַׁר | pshr | G pf 3ms | (he) interpreted
+סַלּ.ִין=pl | salla | n mp abs | baskets
+סַלּ.ָא=emph | salla | n emph | the basket
+דְּ=of.חִירוּ | hiru | n | of white bread (Hebrew: חֹרִי)
+רֵישׁ.ִי=my | resh | n+1cs | my head
+עוֹבַד | ovada | n cs | the work of
+נַחְתּוֹם | nahtom | n | a baker
+מֵ=from.עִלָּוֵי | illawi | prep | from above
+יַ~he_f.עְדִּי | dy_rm | C impf 3ms | will remove
+וְ=.יִ~he_f.צְלוֹב | tslb | G impf 3ms | and (he) will hang
+צְלִיב.ָא=emph | tseliva | n emph | a gallows
+בִּשְׂר.ָךְ=your | bsr | n+2ms | your flesh
+בְּ=in.מַטְּר.ָא=emph | mattara | n emph | in custody (lit. under guard)

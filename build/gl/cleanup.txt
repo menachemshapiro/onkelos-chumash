@@ -1,0 +1,253 @@
+# Whole-Torah cleanup corrections (read last; pid/c:v> scopes to that verse)
+# --- global ---
+כִּתְפָּא | katef | n emph | the shoulder(piece)
+מַסְדִּיק | sdq | C ptc ms | has split (hooves)
+מַעְשַׂר | asra | n cs | the tithe of
+וּ=and.מֶחֱזֵי | hezu | n cs | and the appearance of
+וְ=and.יֶחֱזֵי | hzy | G impf 3ms | and he shall see
+וְ=and.יִפּוֹק | npq | G impf 3ms | and (it) shall go out
+וְ=and.יֵיעוֹל | ill | G impf 3ms | and he shall come in
+וּ=and.דְ=whoever.יֵיעוֹל | ill | G impf 3ms | and whoever comes in
+וּ=and.דְ=whoever.יִשְׁכּוּב | shkv | G impf 3ms | and whoever lies down
+וּ=and.דְ=whoever.יֵיכוּל | akhal | G impf 3ms | and whoever eats
+לְ=for.דִכְר.ִין=pl | dikhra | n mp | for the rams
+כְּ=as.מִסַּת | missat | n cs | enough for (lit. as the sufficiency of)
+כְ=as.מִסַּת | missat | n cs | enough to (lit. as the sufficiency of)
+וּ=and.מְעַזֵּי | iza | n mp | and goats' hair
+מְעַזֵּי | iza | n mp | goats' hair
+קָרִיב | qariv | a ms | near
+# --- scoped ---
+vayera/20:13>קָרִיב | qrb | D pf 3ms | (Hashem) brought near
+naso/7:18>קָרִיב | qrb | D pf 3ms | (he) offered (lit. brought near)
+naso/7:19>קָרִיב | qrb | D pf 3ms | (he) offered (lit. brought near)
+emor/21:10>קָרִיב | qrb | D pf 3ms | (who) offered (lit. brought near)
+kitisa/32:19>קָרִיב | qrb | G pf 3ms | (he) drew near
+behaalotecha/9:13>קָרִיב | qrb | D pf 3ms | (he did not) offer (lit. bring near)
+achareimot/18:6>קָרִיב | qariv | a cs | (any) close relative of (lit. near one of)
+noach/7:21>וּ=and.בְ=in.חַיְתָא | hay | n emph | and among the beasts
+toldot/26:27>מִ=from.לְּוָתְ.כוֹן=you | lwat | prep+2mp | from you (lit. from with you)
+beshalach/17:11>וַ=and.הֲוָא | hwy | G pf 3ms | and it was
+tetzaveh/29:33>לְ=to.קַדָּשָׁא | qdsh | D inf | to sanctify
+kitisa/34:15>לְ=with.יָתֵב | ytv | G ptc ms cs | with the inhabitant(s) of
+vayikra/5:2>מְכַסָּא | ksy | Dp ptc ms | hidden
+tazria/13:32>וּ=and.מֶחֱזֵי | hezu | n cs | and the appearance of
+korach/16:5>דְּ=who.כָשַׁר | kshr | a ms | who is fit (for Him)
+chukat/19:13>בְּ=on.מִיתָא | mita | n emph | (touches) a dead body
+chukat/19:13>בְ=of.נַפְשָׁא | nafsha | n cs | the body (lit. soul) of
+chukat/20:19>כְּבִישָׁא | kvsh | Gp ptc fs emph | the (paved) highway (lit. trodden road)
+chukat/20:19>דְּ=that.בִישׁ | bish | a ms | (no) harmful (thing)
+chukat/21:3>וְ=and.קַבֵּיל | qbl2 | D pf 3ms | and (Hashem) accepted (= listened)
+chukat/21:28>דְּ=who.פָלְח.ִין~mp | plh | G ptc mp | who worship
+chukat/21:29>דְ=who.פָלְח.ִין~mp | plh | G ptc mp | who worship
+balak/22:15>וְ=and.אוֹסִיף | ysf | C pf 3ms | and (Balak) again (sent)
+balak/23:12>דִּ=that.ישַׁוִּי | shwy | D impf 3ms | that (Hashem) puts
+balak/24:10>מְבָרְכַת | brk | D ptc fs | you have blessed (lit. blessing)
+balak/24:15>דְּ=who.שַׁפִּיר | shapir | a ms | whose (eye) sees well (lit. who well)
+devarim/1:15>וּ=and.מַדְּעָ.ן=pl | madda | a mp | and knowledgeable
+vaetchanan/4:49>מְ=of.רָמָתָא | ramta | n emph | of the heights (Hebrew: הַפִּסְגָּה)
+kitavo/28:57>וּ=and.בִ=with.זְעֵר | zeir | a | and with the smallest (her infant)
+kitavo/28:44>לְ=as.תַקִּיף | taqqif | a ms | strong (Hebrew: לְרֹאשׁ, the head)
+kitavo/28:44>לְ=as.חַלָּשׁ | hlsh | a ms | weak (Hebrew: לְזָנָב, the tail)
+kitavo/28:25>וּ=and.בְ=by.שִׁבְעָא | shava | num | and by seven (roads)
+kitavo/26:13>מַעְשְׂרָא | asra | n emph | the tithe
+vezot/33:18>בְּ=when.מִ~inf.פְּקָ.ךְ=you | npq | G inf+2ms | when you go out
+kitisa/32:13>לַ=for.עֲלָם | alma | n | forever
+shoftim/17:16>לְ=to.אַסְגָּאָה | sgy | C inf | to increase (horses)
+shelach/14:13>וְ=and.יִשְׁמְעוּן | shm | G impf 3mp | and (they) will hear
+vezot/33:10>וּ=and.גְמִיר | gmr2 | Gp ptc ms | and a whole (burnt offering) (lit. complete)
+vezot/33:7>וְ=and.סָעִיד | sad | G ptc ms | and a helper (lit. helping)
+# --- shared glosses that only fit the verse where they were first written ---
+~מַשְׁכַּן>זִמְנָא | zman | n emph | (the Tent of) Meeting (lit. appointment)
+רַבָּא | rav | a ms emph | the great (one); the chief
+וּ=and.נְטָלוּ | ntl | G pf 3mp | and (they) journeyed (lit. lifted, i.e. broke camp)
+noach/7:17>וּ=and.נְטָלוּ | ntl | G pf 3mp | and (they) lifted
+miketz/42:26>וּ=and.נְטָלוּ | ntl | G pf 3mp | and (they) loaded (lit. lifted)
+vayigash/46:5>וּ=and.נְטָלוּ | ntl | G pf 3mp | and (they) carried
+vayechi/50:13>וּ=and.נְטָלוּ | ntl | G pf 3mp | and (they) carried
+וּ=and.שְׁרוֹ | shry | G pf 3mp | and (they) encamped
+chayeisarah/25:18>וּ=and.שְׁרוֹ | shry | G pf 3mp | and (they) dwelt
+עֲלֵי.הוֹן=them | al | prep+3mp | upon them, over them (also: against them)
+עוֹד | od | adv | again; still, any more
+מֵ=from.עַל | eil | prep | from upon (off)
+bereishit/1:7>מֵ=from.עַל | eil | prep | above
+עֲלָ.ךְ=you | al | prep+2ms | upon you; about you (also: against you)
+עֲבָדוּ | avad | G pf 3mp | they did, they made
+עָבֵד | avad | G ptc ms | doing, making
+bereishit/1:12>עָבֵד | avad | G ptc ms | producing (fruit)
+kiteitzei/23:18>עָבֵד | eved | n | a slave (Hebrew: קָדֵשׁ)
+יְהַב | yhb | G pf 3ms | gave, has given
+דְּכֵי | dakhi | a ms | pure, clean
+יִתִּרְעֵי | ry2 | Gt impf 3ms | will choose (lit. will be pleased with)
+emor/22:27>יִתִּרְעֵי | ry2 | Gt impf 3ms | it shall be accepted with favour
+reeh/14:26>יִתִּרְעֵי | ry2 | Gt impf 3fs | (your soul) desires
+וּ=and.בְ=in.כָל | kol | n cs | and in all (of), and with all
+bereishit/1:26>וּ=and.בְ=over.כָל | kol | n cs | and over every
+קַיִּים | qwm2 | D pf 3ms | swore (lit. confirmed)
+vayechi/50:5>קַיִּים | qwm2 | D pf 3ms | made (me) swear (lit. confirmed)
+שְׁלִים | shlim | a ms | unblemished, perfect (lit. complete)
+chayeisarah/23:9>שְׁלִים | shlim | a ms | full (price)
+חֲלַף | halaf | prep | in place of; because
+וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) journeyed (lit. lifted, i.e. set out)
+vayetzei/29:1>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) lifted (his feet)
+vayetzei/31:17>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) lifted
+miketz/43:34>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) had carried
+bo/10:19>וּ=and.נְטַל | ntl2 | G pf 3ms | and (it) carried (off)
+bo/12:34>וּ=and.נְטַל | ntl2 | G pf 3ms | and (the people) took
+balak/23:7>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) took up (his parable)
+balak/23:18>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) took up (his parable)
+balak/24:3>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) took up (his parable)
+balak/24:15>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) took up (his parable)
+balak/24:20>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) took up (his parable)
+balak/24:21>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) took up (his parable)
+balak/24:23>וּ=and.נְטַל | ntl2 | G pf 3ms | and (he) took up (his parable)
+יִתֵּן | yhb | G impf 3ms | will give, will put
+miketz/43:14>יִתֵּן | yhb | G impf 3ms | may (God) give
+יִסַּב | nsv | G impf 3ms | he shall take
+vayishlach/32:21>יִסַּב | nsv | G impf 3ms | he will lift (יִסַּב אַפַּי = he will forgive me, lit. lift my face)
+דִּין | din2 | n | judgment, law (בֵּית דִּין = court)
+lechlecha/16:5>דִּין | din2 | n | (I have) a claim
+דִּכְר.ִין=pl | dekhar | n mp | rams
+kitisa/34:19>דִּכְר.ִין=pl | dekhar | n mp | (the) males
+reeh/15:19>דִּכְר.ִין=pl | dekhar | n mp | (the) males
+וּ=and.תְקֵף | tqf | G pf 3ms | and (it) grew strong (anger flared)
+bereishit/4:5>וּ=and.תְקֵף | tqf | G pf 3ms | and it grieved (lit. it was strong)
+korach/16:15>וּ=and.תְקֵף | tqf | G pf 3ms | and it grieved (lit. it was strong)
+eikev/8:17>וּ=and.תְקֵף | tqof | n cs | and the might of
+וְ=and.אִתְגְּלִי | gly | Itpe pf 3ms | and (Hashem) revealed Himself (appeared)
+noach/9:21>וְ=and.אִתְגְּלִי | gly | Itpe pf 3ms | and (he) was uncovered
+vayigash/46:29>וְ=and.אִתְגְּלִי | gly | Itpe pf 3ms | and (he) appeared (lit. was revealed)
+מַלֵּל | mll2 | D impv ms | speak!
+chayeisarah/24:7>מַלֵּל | mll2 | D pf 3ms | (He) spoke
+chayeisarah/24:33>מַלֵּל | mll2 | D impv ms | speak!
+chayeisarah/24:51>מַלֵּל | mll2 | D pf 3ms | (Hashem) has spoken
+kitisa/34:32>מַלֵּל | mll2 | D pf 3ms | (Hashem) had spoken
+vaetchanan/5:24>מַלֵּל | mll2 | D pf 3ms | (Hashem) speaks
+יָתֵב | ytv | G ptc ms | dwelling, sitting
+behar/25:52>יָתֵב | twv | C impf 3ms | he shall pay back (lit. return)
+מִנֵ.הּ=him | min | prep+3ms | from him, from it
+מִנֵּ.הּ=him | min | prep+3ms | from him, from it
+לְ=to.מִ~inf.פְלַח | plh | G inf | to work, to serve
+וַ=and.אֲתֵיב | twv | C pf 3ms | and (he) answered (lit. returned)
+vayera/20:14>וַ=and.אֲתֵיב | twv | C pf 3ms | and (he) returned (= gave back)
+vayeshev/40:21>וַ=and.אֲתֵיב | twv | C pf 3ms | and (he) restored
+shemot/4:7>וַ=and.אֲתֵיב | twv | C pf 3ms | and (he) put back
+beshalach/15:19>וַ=and.אֲתֵיב | twv | C pf 3ms | and (Hashem) brought back
+יִתְעֲבֵד | avad | Itpe impf 3ms | shall be done, shall be made
+vayishlach/34:31>יִתְעֲבֵד | avad | Itpe impf 3ms | should (one) act (lit. should it be done)
+תְקַבֵּל | qbl2 | D impf 2ms | you shall accept (listen to)
+kitisa/30:12>תְקַבֵּל | qbl2 | D impf 2ms | you take (the count; lit. receive)
+bamidbar/1:49>תְקַבֵּל | qbl2 | D impf 2ms | you shall (not) take (their count)
+עָבְר.ִין~mp | avr | G ptc mp | crossing, passing
+shelach/14:41>עָבְר.ִין~mp | avr | G ptc mp | (are you) transgressing
+שָׁרֵי | shry | G ptc ms | dwelling, encamped
+noach/10:8>שָׁרֵי | shry | G pf 3ms | (he) began
+korach/17:11>שָׁרֵי | shry | G pf 3ms | (the plague) has begun
+korach/17:12>שָׁרֵי | shry | G pf 3ms | (the plague) had begun
+devarim/2:24>שָׁרֵי | shry | C impv ms | begin!
+לְ=to.רוּחַ | ruah | n fs | to the side (lit. wind) of
+bereishit/2:7>לְ=into.רוּחַ | ruah | n fs | into a spirit
+וּ=and.מְחָא | mhy | G pf 3ms | and (he) struck
+noach/7:23>וּ=and.מְחָא | mhy | G pf 3ms | and (He) wiped out
+וּ=and.בִ=among.בְעִירָא | beir | n emph | and (among) the cattle
+bereishit/1:26>וּ=and.בִ=over.בְעִירָא | beir | n emph | and over the cattle
+וְ=and.יִפְלְחוּן | plh | G impf 3mp | and (they) will serve
+lechlecha/15:13>וְ=and.יִפְלְחוּן | plh | G impf 3mp | and (they) will enslave (lit. work with)
+naso/4:26>וְ=and.יִפְלְחוּן | plh | G impf 3mp | and (they) shall do the work
+וְ=and.תָבוּ | twv | G pf 3mp | and (they) returned
+noach/8:3>וְ=and.תָבוּ | twv | G pf 3mp | and (they) receded (lit. returned)
+יְקַבְּלוּן | qbl2 | D impf 3mp | they will accept (listen); receive
+lechlecha/14:24>יְקַבְּלוּן | qbl2 | D impf 3mp | they will take (lit. receive)
+kedoshim/20:19>יְקַבְּלוּן | qbl2 | D impf 3mp | they shall bear (lit. receive)
+emor/22:9>יְקַבְּלוּן | qbl2 | D impf 3mp | they bear (lit. receive)
+לְ=to.מִ~inf.תַּב | ytv | G inf | to dwell, to sit
+lechlecha/16:3>לְ=to.מִ~inf.תַּב | ytv | G inf | (after) dwelling
+קַבִּילוּ | qbl2 | D pf 3mp | (they) accepted (= listened)
+chayeisarah/23:8>קַבִּילוּ | qbl2 | D impv mp | accept (= listen to)
+bamidbar/1:2>קַבִּילוּ | qbl2 | D impv mp | take (the count; lit. receive)
+matot/31:49>קַבִּילוּ | qbl2 | D pf 3mp | (they) have taken (the count)
+וּ=and.שְׁרָא | shry | G pf 3ms | and (he) encamped (dwelt)
+chayeisarah/24:32>וּ=and.שְׁרָא | shry2 | G pf 3ms | and (he) unloaded (lit. untied)
+וַ=and.חֲפָא | hpy | G pf 3ms | and (it) covered; and (he) overlaid
+bo/10:5>וַ=and.חֲפָא | hpy | G pf 3ms | and (they) will cover (lit. and it covered)
+לְ=to.אַשְׁרָאָה | shry | C inf | to make (the) Presence dwell
+זַכַּי | zakkai | a ms | innocent; free (of obligation)
+שְׁקַר | shiqra | n | falsehood (deceit)
+גְּזַר | gzr | G pf 3ms | (he) made (a covenant); circumcised (lit. cut)
+וְ=and.תַקִּיף | taqqif | a ms | and mighty, and severe
+vaera/9:12>וְ=and.תַקִּיף | tqf | D pf 3ms | and (Hashem) hardened (lit. strengthened)
+יֵיעוֹל | ill | G impf 3ms | he shall come in
+mishpatim/21:3>יֵיעוֹל | ill | G impf 3ms | he came in (lit. will come in)
+עֲבָד | avad | G pf 3ms | (he) made, (he) did
+chayeisarah/24:62>אָתָא | aty | G pf 3ms | came
+toldot/27:30>אָתָא | aty | G pf 3ms | came
+קְרֵיב | qrb | G pf 3ms | (he) came near; come near!
+וַ=and.אֲתֵב | twv | C pf 3ms | and (he) answered (lit. returned)
+lechlecha/14:16>וַ=and.אֲתֵב | twv | C pf 3ms | and (he) brought back
+kitisa/34:35>וַ=and.אֲתֵב | twv | C pf 3ms | and (he) put back
+קָמַת | qwm | G pf 3fs | (she) stood; stopped (lit. stood still)
+vayishlach/35:14>קָמַת | qama | n cs | a pillar of
+vayishlach/35:20>קָמַת | qama | n cs | the pillar of
+יִתְקֵף | tqf | G impf 3ms | will (it) grow strong (flare)
+vayetzei/31:35>יִתְקֵף | tqf | G impf 3ms | let it (not) be hard (lit. strong)
+וְ=and.תִדְכַּר | dkr | G impf 2ms | and you shall remember
+קְשֵׁי | qshy | G pf 3ms | (was) hard, stiff
+יַעְבְּדוּן | avad | G impf 3mp | they shall make, they shall do
+וְ=and.יָעֵל | ill | C impf 3ms | and he shall bring in
+terumah/27:7>וְ=and.יָעֵל | ill | C impf 3ms | and (the poles) shall be inserted (lit. one shall bring in)
+וְ=and.תַב | twv_r | G pf 3ms | and (he) returned
+bereishit/6:6>וְ=and.תַב | twv_r | G pf 3ms | and (He) reconsidered (lit. returned)
+kitisa/32:14>וְ=and.תַב | twv_r | G pf 3ms | and (He) reconsidered (lit. returned)
+וְ=and.אַתְקֵף | tqf | C pf 3ms | and (he) hardened (lit. strengthened)
+vayera/19:3>וְ=and.אַתְקֵף | tqf | C pf 3ms | and (he) urged (lit. pressed hard)
+vayishlach/33:11>וְ=and.אַתְקֵף | tqf | C pf 3ms | and (he) urged (lit. pressed hard)
+shemot/4:4>וְ=and.אַתְקֵף | tqf | C pf 3ms | and (he) grasped (lit. held strongly)
+וִ=and.יקוּמוּן | qwm | G impf 3mp | and (they) will stand (arise)
+תוֹסֵף | ysf | C impf 3fs | (it) will increase (spread; lit. add)
+bo/11:6>תוֹסֵף | ysf | C impf 3fs | will there be again (lit. will it add)
+vaetchanan/3:26>תוֹסֵף | ysf | C impf 2ms | (do not) continue (lit. add)
+וְ=and.תִפּוֹק | npq | G impf 3fs | and she shall go out
+mishpatim/21:3>וְ=and.תִפּוֹק | npq | G impf 3fs | then (his wife) shall go out
+kiteitzei/23:13>וְ=and.תִפּוֹק | npq | G impf 2ms | and you shall go out
+וְ=and.תִפְלַח | plh | G impf 2ms | and you shall serve (work)
+יְקַבֵּל | qbl2 | D impf 3ms | will listen to (lit. accept)
+tzav/7:18>יְקַבֵּל | qbl2 | D impf 3ms | shall bear (lit. receive)
+kedoshim/20:17>יְקַבֵּל | qbl2 | D impf 3ms | shall bear (lit. receive)
+וְ=and.רַבִּי | rby | D pf 3ms | and (he) anointed (lit. raised to greatness)
+vayechi/50:23>וְ=and.רַבִּי | rby | D pf 3ms | and (Yosef) raised (them)
+יִסְגֵּי | sgy | G impf 3ms | will increase (grow great)
+bereishit/1:22>יִסְגֵּי | sgy | G impf 3ms | let (birds) multiply
+וְ=and.אַשְׁרֵי | shry | C impf 1cs | and I will rest (My Presence)
+bereishit/3:24>וְ=and.אַשְׁרֵי | shry | C pf 3ms | and (He) stationed
+chayeisarah/24:11>וְ=and.אַשְׁרֵי | shry | C pf 3ms | and (he) made (the camels) kneel (lit. rest)
+וְ=and.אִסְתַּלַּק | slq2 | Itpa pf 3ms | and (he) went up (moved away)
+זַמִּין | zmn | D ptc ms | prepared, ready
+chayeisarah/24:12>זַמִּין | zmn | D impv ms | arrange (it)
+toldot/27:20>זַמִּין | zmn | D pf 3ms | (Hashem) arranged (it)
+vaetchanan/4:19>זַמִּין | zmn | D pf 3ms | (Hashem) apportioned (lit. prepared)
+וּ=and.שְׁפַר | shpr | G pf 3ms | and (it) was good (pleasing)
+beshalach/15:4>וּ=and.שְׁפַר | shufra | n cs | and the choicest of
+mishpatim/22:4>וּ=and.שְׁפַר | shufra | n cs | and the best of
+וְ=and.יֵחוֹת | nht | G impf 3ms | and (it) will come down
+וְ=and.סַגִּי | saggi | a | and numerous (much)
+vaera/9:28>וְ=and.סַגִּי | saggi | a | and (there is) much (relief)
+יֶחֱזֵי | hzy | G impf 3ms | will see
+miketz/41:33>יֶחֱזֵי | hzy | G impf 3ms | let (Paroh) look out (for)
+נָחִית | nht | G ptc ms | coming down
+noach/8:11>נָחִית | nht | Gp ptc ms | lying (lit. placed)
+אֲתֵיב | twv | C pf 3ms | (he) returned (restored)
+vayera/20:7>אֲתֵיב | twv | C impv ms | return!
+שֵׁצִי | shetsi | Sh pf 3ms | (he) finished; destroyed
+vezot/33:27>שֵׁצִי | shetsi | Sh impv ms | destroy!
+וּ=and.שְׁלִימוּ | shlm | G pf 3mp | and (they) were completed
+vayera/21:15>וּ=and.שְׁלִימוּ | shlm | G pf 3mp | and (the water) was used up
+וְ=and.זָרֵז | zrz | D pf 3ms | and (he) girded (lit. made ready)
+vayera/22:3>וְ=and.זָרֵז | zrz | D pf 3ms | and (he) saddled (lit. made ready)
+וּ=and.לְ=to.בֵית | beit | n cs | and to the house of
+bereishit/1:10>וּ=and.לְ=to.בֵית | beit | n cs | and to the place of
+תַדְבֵּק | dbq | C impf 3fs | (his hand) reaches (= he can afford)
+וּ=and.תְקֵיף | tqf | G pf 3ms | and (it) grew strong (severe)
+vayetzei/30:2>וּ=and.תְקֵיף | tqf | G pf 3ms | and (his anger) grew strong
+וַ=and.אֲרֵים | rwm | C pf 3ms | and (he) raised (stretched out)
+תִקְרַב | qrb | G impf 2ms | you (shall not) come near (touch)
+מְלֵי | malei | a cs | the full (amount) of
+miketz/44:1>מְלֵי | mly | D impv ms | fill!

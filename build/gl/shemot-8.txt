@@ -1,0 +1,11 @@
+# Shemot 5:22–6:1
+אַ~C.בְאֵשְׁ.תָּא~you_p | bsh | C pf 2ms | have You done harm
+שְׁלַחְ.תָּ~you_p.נִי=me | shlh | G pf 2ms+1cs | have You sent me
+עַלִ.ית~I_p | ill | G pf 1cs | I came (in)
+אַ~C.בְאֵשׁ | bsh | C pf 3ms | he has done harm
+וְ=.שֵׁזָב.ָא~inf_end | shyzv | Sh inf | and saving (doubles the verb: You have surely not saved)
+שֵׁזַבְ.תָּא~you_p | shyzv | Sh pf 2ms | You have (not) saved
+תֶּ~you_f.חֱזֵי | hzy | G impf 2ms | you will see
+יְ~he_f.שַׁלְחִ.נוּן=them | shlh | D impf 3ms+3mp | he will send them away
+יְ~he_f.תָרֵכִ.נוּן=them | trk | D impf 3ms+3mp | he will drive them out
+מֵ=from.אַרְע.ֵהּ=his | ara | n+3ms | from his land

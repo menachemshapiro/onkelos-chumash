@@ -1,0 +1,75 @@
+# Noach 11:1–11:28
+לִישָׁן | lishan | n abs | a language
+וְ=.לִישָׁן | lishan | n abs | and a language
+לִישַׁן | lishan | n cs | the language of
+לִישָׁנ.ְהוֹן=their | lishan | n+3mp | their language
+וּ=.מַמְלַל | mamlal | n abs | and speech
+בְּ=when.מִ~inf.טַּלְ.הוֹן=they | ntl2 | G inf+3mp | when they journeyed (lit. in their setting out) | the נ of נטל is absorbed (the dot in טּ)
+בְּ=.קַדְמֵית.ָא=emph | qadmeita | n fs emph | at first (Hebrew: מִקֶּדֶם)
+וְ=.אַ~C.שְׁכָּח.וּ~they_p | shkh | C pf 3mp | and (they) found
+בִּקְעֲת.ָא=emph | biqa | n fs emph | a valley
+וִ=.יתִיב.וּ~they_p | ytv | G pf 3mp | and (they) settled
+וַ=.אֲמָר.וּ~they_p | amr | G pf 3mp | and (they) said
+לְ=to.חַבְר.ֵיהּ=his | havra | n+3ms | to his fellow
+חַבְר.ֵיהּ=his | havra | n+3ms | his fellow
+הָב.וּ~cmd_pl | hav | G impv mp | come (lit. give)
+נִ~we_f.רְמֵי | rmy | G impf 1cp | let us make (lit. throw; Hebrew: נִלְבְּנָה)
+11:3> לִבְנ.ִין=pl | lvina | n fp abs | bricks
+וְ=.נִ~we_f.שְׂרְפִ.נּוּן=them | srf | G impf 1cp+3mp | and let us burn them
+בְּ=in.נוּר.ָא=emph | nura | n fs emph | in fire
+יוֹקַדְתּ.ָא=emph | yoqadta | n fs emph | burning (= a furnace; an added word in some texts)
+לְבִנְתּ.ָא=emph | lvina | n fs emph | brick
+לְ=for.אַבְנ.ָא=emph | avna | n fs emph | for stone
+וְ=.חֵימָר.ָא=emph | heimar | n emph | and bitumen
+לְ=for.שִׁיעַ | shia | n abs | for mortar
+נִ~we_f.בְנֵי | bny | G impf 1cp | let us build
+לָ.נָא=us | le | prep+1cp | for us
+וּ=.מַגְדְּל.ָא=emph | migdal | n emph | and a tower
+וְ=.רֵישׁ.ֵיהּ=its | resh | n+3ms | and its top (lit. head)
+צֵית | tseit | prep | toward, up to
+וְ=.נַ~we_f.עְבֵּיד | avad | G impf 1cp | and let us make
+נִ~we_f.תְ~Dt.בַּדַּר | bdr | Dt impf 1cp | we will be scattered
+לְ=.אִתְ~Gt.פְּרָע.ָא~inf_end | pra | Gt inf | to punish (lit. to exact payment)
+עוֹבָדֵי | ovada | n mp cs | the deeds of
+בְנ.וֹ~they_p | bny | G pf 3mp | (they) built
+עַמּ.ָא=emph | amma2 | n emph | a people
+לְ=for.כָלּ.ְהוֹן=them | kol | n+3mp | for all of them
+דְּ=that.שָׁרִי.וּ~they_p | shry | G pf 3mp | that they began
+לְ=.מֶ~inf.עְבָּד | avad | G inf | to do
+יִ~he_f.תִּ~Gt.מְנַע | mna | Gt impf 3ms | will be held back
+מִנְ.הוֹן=them | min | prep+3mp | from them
+דִּ=that.חַשִּׁיב.וּ~they_p | hshb | D pf 3mp | that they planned
+נִ~we_f.תְ~Gt.גְּלִי | gly | Gt impf 1cp | let Us reveal Ourselves (Hebrew: נֵרְדָה, let Us go down)
+וּ=.נְ~we_f.בַלְבֵּל | blbl | Q impf 1cp | and let Us confuse
+יִ~they_f.שְׁמְע.וּן~mp | shm | G impf 3mp | they will understand (lit. hear)
+וּ=.בַדַּר | bdr | D pf 3ms | and (He) scattered
+וּ=.מְנָע.וּ~they_p | mna | G pf 3mp | and (they) stopped (lit. held back)
+לְ=.מִ~inf.בְנֵי | bny | G inf | (from) building
+וְ=.אִתְ~Gt.מְנָע.וּ~they_p | mna | Gt pf 3mp | and (they) were held back (a variant reading)
+מִ=from.לְּ=.מִ~inf.בְנֵי | bny | G inf | from building (a variant reading)
+שְׁמ.ַהּ=her | shum | n+3fs | her name, its name
+בַּלְבֵּל | blbl | Q pf 3ms | (He) confused
+בַּדָּרִ.נּוּן=them | bdr | D pf 3ms+3mp | (He) scattered them
+אַרְפַּכְשָׁד | name | name | Arpakhshad
+חֲיָא | hyy | G pf 3ms | lived
+תְּלָת.ִין=pl | tlat | num | thirty
+שֶׁלַח | name | name | Shelach
+אַרְבַּע | arba | num | four
+וְ=.אַרְבַּע | arba | num | and four
+פָּלֶג | name | name | Peleg
+פֶלֶג | name | name | Peleg
+רְעוּ | name | name | Reu
+מָאתָן | mayatan | num | two hundred
+שְׂרוּג | name | name | Serug
+נָחוֹר | name | name | Nachor
+עֶשְׂר.ִין=pl | asar | num | twenty
+תָּרַח | name | name | Terach
+תֶּרַח | name | name | Terach
+תֶרַח | name | name | Terach
+שִׁבְע.ִין=pl | shavin | num | seventy
+אַבְרָם | name | name | Avram
+הָרָן | name | name | Haran
+לוֹט | name | name | Lot
+דְ=of.יַלָּדוּת.ֵיהּ=his | yalluta | n fs+3ms | of his birth (= his native land)
+בְּ=in.אוּר.ָא=emph | ura | n emph | in Ur (lit. the fire)
+דְ=of.כַסְדָּא.ֵי=pl | name | name | of the Kasdim (Chaldeans)

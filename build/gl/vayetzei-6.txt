@@ -1,0 +1,91 @@
+# Vayetzei 31:17–42
+גֵּית.וֹהִי=his | geita | n mp+3ms | his livestock
+בְּ=.פַדַּן | name | name | in Paddan (Aram)
+לְ=.מִ~inf.גַּז | gzz | G inf | to shear
+וְ=.כַסִּיא.ַת~she_p | ksy | D pf 3fs | and (Rachel) took secretly (lit. hid) (Hebrew: וַתִּגְנֹב, stole)
+צַלְמָנ.ַיָּא=emphp | tselem | n mp emph | the images (Hebrew: הַתְּרָפִים)
+וְ=.כַסִּי | ksy | D pf 3ms | and (Yaakov) concealed (Hebrew: וַיִּגְנֹב … אֶת לֵב, he deceived)
+דְ=of.גִלְעָד | name | name | of Gilad
+וְ=.אִתְ~Dt.חֲוָה | hwy2 | Dt pf 3ms | and it was told
+וְ=.אַ~C.דְבֵּק | dbq | C pf 3ms | and (he) overtook
+וְ=.אַ~C.דְבֵּיק | dbq | C pf 3ms | and (he) overtook
+בְּ=.חֵילְמ.ָא=emph | helma | n emph | in a dream
+תְ~you_f.מַלֵּיל | mll2 | D impf 2ms | you speak
+אַ~C.שְׁרֵי | shry | C pf 3ms | (he) stationed (Hebrew: תָּקַע, pitched)
+וְ=.כַסֵּי.תָא~you_p | ksy | D pf 2ms | and you concealed (it)
+וּ=.דְבַרְ.תָּא~you_p | dbr | G pf 2ms | and you led away
+בְּנָת.ַי=my | bnat | n fp+1cs | my daughters
+כְּ=like.שַׁבְיוֹת | shivya | n fp cs | like the captives of
+אִ~Dt.טְמַרְ.תָּ~you_p | tmr | Dt pf 2ms | did you hide (yourself) | the ת of the passive becomes ט (אִתְטְמַר → אִטְּמַר)
+וְ=.שַׁלָּחִ.תָּ~I_p.ךְ=you | shlh | D pf 1cs+2ms | and I would have sent you off
+וּ=.בְ=.תוּשְׁבְּח.ָן=pl | tushbahta | n fp abs | and with praises (songs)
+בְּ=.תוּפ.ִין=pl | tuppa | n mp abs | with drums
+וּ=.בְ=.כִנָּר.ִין=pl | kinnora | n mp abs | and with harps
+שְׁבַקְ.תַּ~you_p.נִי=me | shbq | G pf 2ms+1cs | you (did not) let me
+לְ=.נַשָּׁק.ָא~inf_end | nshq | D inf | to kiss
+וְ=.לִ=.בְנָת.ָי=my | bnat | n fp+1cs | and my daughters
+אַ~C.סְכֶּלְ.תָּא~you_p | skl2 | C pf 2ms | you have acted foolishly
+חֵיל.ָא=emph | heil | n emph | the power
+מֵ~inf.יזַל | azl | G inf | (you have surely) gone | an infinitive before the verb strengthens it
+אֲזַלְ.תָּ~you_p | azl | G pf 2ms | you have gone
+חַמָּד.ָא~inf_end | hmd | D inf | (you surely) longed | an infinitive before the verb strengthens it
+חַמֵּדְ.תָּא~you_p | hmd | D pf 2ms | you longed
+נְסִבְ.תָּא~you_p | nsv | G pf 2ms | did you take
+דַּחַלְתּ.ִי=my | dahalta | n fs+1cs | my god (lit. what I revere) (Hebrew: אֱלֹהָי)
+דְחֵיל.ִית~I_p | dhl | G pf 1cs | I was afraid
+תָ~you_f.נֵיס | ans | G impf 2ms | you would take away by force | the א of אנס drops
+תַ~you_f.שְׁכַּח | shkh | C impf 2ms | you find
+דַּחַלְתּ.ָךְ=your | dahalta | n fs+2ms | your god (lit. what you revere)
+אֲחָ.נָא=our | ah | n mp+1cp | our brothers (kinsmen)
+אִשְׁתְּ~passive causative (Ishtaf‘al).מוֹדַע | shmd | Sht impv ms | recognize | Ishtaf‘al of ידע: ש־ת in front, the י becomes ו
+נְסִיבָתְ.הוֹן=them | nsv | G pf 3fs+3mp | had taken them
+נְסִיבַ.ת~she_p | nsv | G pf 3fs | had taken
+וְ=.שַׁוִּתִּ.נּוּן=them | shwy | D pf 3fs+3mp | and (she) put them
+בַּ=.עֲבִיט.ָא=emph | avita | n emph | in the saddle
+וּ=.מַשִּׁישׁ | mshsh | D pf 3ms | and (Lavan) searched (lit. felt through)
+אַ~C.שְׁכָּח | shkh | C pf 3ms | (he) found
+יִ~he_f.תְקֵף | tqf | G impf 3ms | let it (not) be hard (lit. strong)
+לְ=.מֵ~inf.יקַם | qwm | G inf | to rise
+אֹרַח | orah | n cs | the way of (אֹרַח נְשִׁין = the way of women)
+וּ=.בְלַשׁ | blsh | G pf 3ms | and (he) searched
+וּ=.נְצָא | nts | G pf 3ms | and (he) quarreled
+סוּרְחָנ.ִי=my | surhan | n+1cs | my offense
+רְדַפְ.תָּא~you_p | rdf | G pf 2ms | you pursued
+מַשִּׁשְׁ.תָּא~you_p | mshsh | D pf 2ms | you have searched
+מָנ.ַי=my | mana | n mp+1cs | my things (lit. vessels)
+אַ~C.שְׁכַּחְ.תָּא~you_p | shkh | C pf 2ms | have you found
+מָנֵי | mana | n mp cs | the things (vessels) of
+וְ=.אַח.ָיךְ=your | ah | n mp+2ms | and your brothers (kinsmen)
+וְ=.יוֹ~they, future (Af‘el).כִיח.וּן~mp | ykh | C impf 3mp | and let them decide | Af‘el of יכח: the י becomes ו
+תַּרְוָ.נָא=us | tren | num+1cp | the two of us
+דְּנַן | denan | pron | these (דְּנַן עֶסְרִין שְׁנִין = these twenty years)
+עֶסְר.ִין=pl | asra | num | twenty
+רְחֵל.ָךְ=your | rehela | n fp+2ms | your ewes
+וְ=.עִזּ.ָךְ=your | iza | n fp+2ms | and your she-goats
+אַ~C.תְכִּיל.וּ~they_p | tkl | C pf 3mp | (did not) miscarry
+וְ=.דִכְרֵי | dikhra | n mp cs | and the rams of
+אֲכָל.ִית~I_p | akhal | G pf 1cs | I ate
+דִּ=what (was).תְבִיר.ָא=emph | tvr | Gp ptc fs | torn (lit. broken)
+אַ~C.יְתֵי.תִי~I_p | aty | C pf 1cs | I brought
+שָׁגְי.ָא~fs | shgy | G ptc fs | missing
+מִ=from.מִּנְיָנ.ָא=emph | minyan | n emph | from the count
+בָּעֵי | bay | G ptc ms | demanded (lit. seeking)
+נְטָר.ִית~I_p | ntr | G pf 1cs | I guarded
+אֲכַלְ.נִי=me | akhal | G pf 3ms+1cs | consumed me
+שַׁרְב.ָא=emph | sharva | n emph | the heat
+וּ=.גְלִיד.ָא=emph | glida | n emph | and the frost
+נָחֵית | nht | G ptc ms | coming down
+וּ=.נְדַד | ndd | G pf 3ms | and (my sleep) fled
+שִׁנְתּ.ִי=my | shinta | n fs+1cs | my sleep
+מֵ=from.עֵינ.ָי=my | eina | n fp+1cs | from my eyes
+פְּלָחִ.תָּ~I_p.ךְ=you | plh | G pf 1cs+2ms | I served you
+עֶסְרֵי | asra | num | ten (אַרְבַּע עֶסְרֵי = fourteen)
+בְּנָת.ָיךְ=your | bnat | n fp+2ms | your daughters
+וְ=.אַ~C.שְׁנֵי.תָא~you_p | shny | C pf 2ms | and you changed
+אִילוּלָא | ilula | conj | were it not that
+רֵיקָן | reqan | a ms | empty-handed
+שִׁלַּחְ.תָּ~you_p.נִי=me | shlh | D pf 2ms+1cs | you would have sent me away
+עַמְל.ִי=my | amal | n+1cs | my toil (Hebrew: עָנְיִי)
+לֵיאוּת | leut | n cs | the weariness of (Hebrew: יְגִיעַ)
+דְּ=of.תַרְתֵּין | tren | num | of the two
+31:29> מִ=from.לְּ=.מַלָּל.ָא~inf_end | mll | D inf | from speaking

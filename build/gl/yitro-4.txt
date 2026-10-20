@@ -1,0 +1,16 @@
+# Shemot 19:1–6
+מֵ=from.רְפִידִים | name | name | from Refidim
+סְלֵק | slq | G pf 3ms | went up
+וּ=.תְ~you_f.חַוִי | hwy2 | D impf 2ms | and you shall tell
+חֲזִ.תּוּן~ypl_p | hzy | G pf 2mp | you have seen
+וּ=.נְטָלִ.ית~I_p | ntl | G pf 1cs | and I carried
+19:4> נ | ednote | note | note in the printed text: “נ״א = another version (reads)
+19:4> א | ednote | note | …וְאַטְלִית”
+וְ=.אַ~C.טְלִ.ית~I_p | ntl | C pf 1cs | and I made (you) journey | the נ of נטל is absorbed
+כִּ=as.דְ=.עַל | al | prep | as if on
+גַדְפ.ֵי~cs_pl | gadfa | n mp cs | the wings of
+נִשְׁר.ִין~pl | nishra | n mp abs | eagles
+וְ=.קָרֵבִ.ית~I_p | qrb | D pf 1cs | and I brought near
+חַבִּיב.ִין~pl | haviv | a mp | beloved
+כָּהֲנ.ִין~pl | kahana | n mp abs | priests
+19:1> לְ=after.מִ~inf.פַּק | npq | G inf | (after) the going out of | the נ of נפק is absorbed

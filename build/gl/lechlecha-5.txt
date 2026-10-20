@@ -1,0 +1,49 @@
+# Lech Lecha 14:21–15:6
+הַב | hav | G impv ms | give
+אֲ~C.רֵימִ.ית~I_p | rwm | C pf 1cs | I raise (lit. I have raised) | Af‘el of רום
+יְד.ַי=my | yad | n fp+1cs | my hands
+בִּ=in.צְלוֹ | tslo | n | in prayer
+מִ=from.חוּט.ָא=emph | huta | n emph | from a thread
+עַרְקַת | arqa | n fs cs | a strap of
+מְסָנ.ָא=emph | msana | n emph | a shoe
+אֶ~I_f.סַּב | nsv | G impf 1cs | I will take | the נ of נסב is absorbed (the dot in סּ)
+תֵ~you_f.ימַר | amr | G impf 2ms | you will say | the א of אמר becomes י
+אַ~C.עְתָּר.ִית~I_p | atr | C pf 1cs | I made rich
+מִ=from.דִּ=what.אֲכָל.וּ~they_p | akhal | G pf 3mp | (except) what they ate
+עוּלֵמ.ַיָּא=emphp | ulema | n mp emph | the young men
+וְ=.חוּלַק | hulaq | n cs | and the share of
+חֲלָק.ְהוֹן=their | hulaq | n+3mp | their share
+גֻּבְר.ַיָּא=emphp | gvar | n mp emph | the men
+אֲזָל.וּ~they_p | azl | G pf 3mp | (they) went
+אֶשְׁכֹּל | name | name | Eshkol
+יְ~they_f.קַבְּל.וּן~mp | qbl2 | D impf 3mp | they will take (lit. receive)
+פִּתְגָּמ.ַיָּא=emphp | pitgam | n mp emph | the events (lit. words)
+פִּתְגָּמ.ָא=emph | pitgam | n emph | the word
+הָאִלֵּין | illein | pron pl | these
+בִּ=in.נְבוּאָה | nevua | n fs abs | in a prophecy (Hebrew: בַּמַּחֲזֶה, in a vision)
+תִ~you_f.דְחַל | dhl | G impf 2ms | (do not) fear
+תְּקוֹף | tqof | n | strength (Hebrew: מָגֵן, a shield)
+אַגְר.ָךְ=your | agra | n+2ms | your reward
+תִּ~you_f.תֶּן | yhb | G impf 2ms | will You give | the future of יְהַב comes from נתן
+אָזֵיל | azl | G ptc ms | going (= living on)
+15:2> בְּ=without.לָא | la | neg | without (lit. in not)
+15:2> וּ=.בַר | bar | n cs | and the son of (בַּר פַּרְנָסָא = the steward)
+פַּרְנָס.ָא=emph | parnasa | n emph | the steward(ship)
+דִּ=that (is).בְ=in.בֵית.ִי=my | beit | n+1cs | that is in my house
+בֵּית.ִי=my | beit | n+1cs | my house
+דַּמַּשְׂקָאָה | name | name | the Damascene
+אֱלִיעֶזֶר | name | name | Eliezer
+יְהַבְ.תְּ~you_p | yhb | G pf 2ms | You have given
+יָרִית | yrt | G ptc ms | will inherit (lit. inheriting)
+יִ~he_f.רְתִ.נָּךְ=you | yrt | G impf 3ms+2ms | will inherit you
+אֱלָהֵין | elahen | conj | but rather
+דְּ=that.תוֹ~you_f.לִיד | yld | C impf 2ms | that you will father | Af‘el: the י of ילד shows as וֹ
+15:5> וְ=.אַ~C.פֵּיק | npq | C pf 3ms | and (He) brought out | the נ of נפק is absorbed (the dot in פּ)
+לְ=to.בָר.ָא=emph | bara | n emph | outside
+אִסְ~Gt.תְּכִי | skh | Gt impv ms | look | the passive ת moves after the ס
+וּ=.מְנֵי | mny | G impv ms | and count
+תִּ~you_f.כּוֹל | ykl | G impf 2ms | you can
+כְּדֵין | kedein | adv | so
+וְ=.הֵ~C.ימִין | hymn | C pf 3ms | and (he) believed
+וְ=.חָשְׁב.ַהּ=it (fem.) | hshb2 | G pf 3ms+3fs | and (He) reckoned it
+לְ=as.זָכוּ | zakhu | n fs | as merit (Hebrew: צְדָקָה)

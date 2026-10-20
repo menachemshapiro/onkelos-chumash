@@ -1,0 +1,41 @@
+# Shemot 13:17–14:8
+דַבָּרִי.נוּן=them | dbr | D pf 3ms+3mp | (Hashem did not) lead them
+קָרִיב.ָא=emph | qariv | a emph | near
+יְ~they_f.זוּע.וּן~mp | zwa | G impf 3mp | (the people) will be shaken (i.e. will regret)
+בְּ=when.מֶ~inf.חֱזֵי.הוֹן=they | hzy | G inf+3mp | when they see
+לְ=.מֶ~inf.חֱזֵי.הוֹן=them | hzy | G inf+3mp | to see them
+וְ=.אַ~C.סְחַר | shr2 | C pf 3ms | and (Hashem) led (the people) around
+וּ=.מְ~ptcD.זָרְז.ִין~mp | zrz | Dp ptc mp | and armed
+וְ=.אַ~C.סִיק | slq | C pf 3ms | and (Moshe) brought up | the ל of סלק is absorbed
+גַרְמ.ֵי~cs_pl | garma | n mp cs | the bones of
+אוֹמָא.ָה~inf_end | ymy | C inf | (with) an oath (doubles the verb: he made them swear solemnly)
+אוֹמִי | ymy | C pf 3ms | (he) made swear
+בְ=at.אֵתָם | name | name | at Etam
+קָדָמֵי.הוֹן=them | qodam | prep+3mp | before them
+בְּ=in.עַמוּד.ָא=emph | amuda | n emph | in a pillar of
+עַמוּד.ָא=emph | amuda | n emph | the pillar of
+לְ=.דַבָּרוּתְ.הוֹן=them | dbr | D inf+3mp | to lead them
+בְּ=on.אוֹרְח.ָא=emph | orah | n emph | on the way
+וְ=.יִ~they_f.שְׁר.וּן~mp | shry | G impf 3mp | and let them encamp
+תִּ~ypl_f.שְׁר.וּן~mp | shry | G impf 2mp | you shall encamp
+חִירָתָא | name | name | Hirata (Hebrew: פִּי הַחִירֹת)
+מִגְדוֹל | name | name | Migdol
+צְפוֹן | name | name | Tzefon (בְּעֵיל צְפוֹן = Ba‘al Tzefon)
+בְּעֵיל | name | name | Be‘eil (בְּעֵיל צְפוֹן = Ba‘al Tzefon)
+מְ~ptcD.עַרְבְּל.ִין~mp | rbl | Dp ptc mp | confused (lit. entangled)
+וְ=.יִ~he_f.רְדַף | rdf | G impf 3ms | and he will pursue
+מַשִׁרְיָת.ֵהּ=his | mashrita | n fs+3ms | his camp (i.e. army)
+וּ=.מַשִׁרְיָת.ֵהּ=his | mashrita | n fs+3ms | and his camp (i.e. army)
+וְ=.אִתְ~Gt.הֲפִיךְ | hpk | Gt pf 3ms | and (Pharaoh's heart) was turned
+שַׁלַחְ.נָא~we_p | shlh | D pf 1cp | we sent away
+מִ=from.פָּלְחָנ.ָנָא=our | pulhana | n+1cp | from our service
+רְתִכּ.ֵהּ=his | rtikha | n+3ms | his chariot
+רְתִכּ.ִין~pl | rtikha | n mp abs | chariots
+בְּחִיר.ָן~mp | bhr | Gp ptc mp | chosen
+רְתִכּ.ֵי~cs_pl | rtikha | n mp cs | the chariots of
+כֻּלְ.הוֹן=them | kol | n+3mp | all of them
+מְ~ptcD.מַנ.ָן~mp | mny | Dp ptc mp | appointed
+וִ=and.י~they_f.תוּב.וּן~mp | twv | G impf 3mp | and they will return
+מְ~ptcD.דַבַּר | dbr | D ptc ms | led (lit. leading)
+וְ=.אֶ~I_f.תְ~Dt.יַקַר | yqr2 | Dt impf 1cs | and I will be honored (Hebrew: וְאִכָּבְדָה)
+14:4> בְּ=through.פַרְעֹה | name | name | through Paroh (Pharaoh)

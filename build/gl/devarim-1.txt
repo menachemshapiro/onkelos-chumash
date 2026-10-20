@@ -1,0 +1,212 @@
+# Devarim, all in one batch (other aliyah files are stubs)
+אוֹכַח | ykh | C pf 3ms | he rebuked
+סוּף | name | name | Suf
+דְּ=that.אִתַּפָּלוּ | tpl | Dt pf 3mp | that they complained (about)
+מֵ=from.חֹרֵב | name | name | from Chorev
+דֶ=of.אֱמֹרָאָה | name | name | of the Emorite
+בְּ=in.עַשְׁתָּרֹת | name | name | in Ashtarot
+בְּ=in.אֶדְרֶעִי | name | name | in Edrei
+בְּ=at.חֹרֵב | name | name | at Chorev
+מָגִיר.וֹהִי=its | magira | n mp+3ms | its neighbors
+וּ=and.בִ=in.שְׁפֶלְתָּא | shefelta | n emph | and in the lowland
+לַ=to.אֲבָהָתְ.כוֹן=your | av | n mp+2mp | to your fathers
+וְ=and.לִ=to.בְנֵ.יהוֹן=their | bnin | n mp+3mp | and to their children
+דַ=of.אֲבָהָתְ.כוֹן=your | av | n mp+2mp | of your fathers
+אֵסוֹבַר | svr | Q impf 1cs | can I bear
+טָרְחֲ.כוֹן=your | tirha | n+2mp | your burden (lit. trouble)
+וְ=and.עִסְקֵ.יכוֹן=your | isqa | n mp+2mp | and your affairs
+וְ=and.דִינְ.כוֹן=your | din2 | n+2mp | and your disputes
+וְ=and.סוּכְלְתָנ.וּן~mp | sukhletan | a mp | and understanding
+לְ=by.שִׁבְטֵ.יכוֹן=your | shivta | n mp+2mp | by your tribes
+וֶ=and.אֱמַנִּ.נּוּן=them | mny | D impf 1cs+3mp | and I will appoint them
+וַ=and.אֲתֶבְתּוּן | twv | C pf 2mp | and you answered (lit. returned)
+שִׁבְטֵ.יכוֹן=your | shivta | n mp+2mp | your tribes
+וּ=and.מַנֵּתִי | mny | D pf 1cs | and I appointed
+וְ=and.סָרְכ.ִין=pl | sarkha | n mp | and officers
+דַּיָנֵ.יכוֹן=your | dayyan | n mp+2mp | your judges
+וּ=and.תְדוּנוּן | dyn | G impf 2mp | and you shall judge
+גִּיּוֹרֵ.יהּ=his | giyora | n+3ms | his stranger (convert)
+תִשְׁתְּמוֹדְעוּן | shmd | Qt impf 2mp | you shall (not) recognize (show favor to)
+תִּשְׁמְעוּן | shm | G impf 2mp | you shall hear
+יִקְשֵׁי | qshy | G impf 3ms | is too hard
+וְ=and.אֶשְׁמְעִ.נֵּיהּ=it | shm | G impf 1cs+3ms | and I will hear it
+וּ=and.נְטַלְנָא | ntl2 | G pf 1cp | and we journeyed
+וְ=and.הַלִּיכְנָא | hlk | D pf 1cp | and we went
+אַחֲסַן | hsn | C impv ms | take possession
+תִתְּבָר | tvr | Gt impf 2ms | be broken (dismayed)
+וּ=and.קְרֶבְתּוּן | qrb | G pf 2mp | and you approached
+כֻּלְּ.כוֹן=you | kol | n+2mp | all of you
+נִשְׁלַח | shlh | G impf 1cp | let us send
+וִ=and.יאַלֲלוּן | ll | D impf 3mp | and they will spy out
+נִסֵּק | slq | G impf 1cp | we shall go up
+נֵעוֹל | ill | G impf 1cp | we shall come
+בְּ=in.עֵינַ.י=my | eina | n fp+1cs | in my eyes
+וַ=and.אֲחִית.וּ~they_p | nht | C pf 3mp | and they brought down
+אֲבִיתוּן | avy | G pf 2mp | you were willing
+וְ=and.סָרֶבְתּוּן | srv | G pf 2mp | and you rebelled
+בְּ=in.מַשְׁכְּנֵ.יכוֹן=your | mashkan | n mp+2mp | in your tents
+בִּ=because.דְ=that.סָנֵי | sny | G ptc ms | because (Hashem) hates
+לְ=to.מִ~inf.מְסַר | msr | G inf | to hand over
+לְ=to.שֵׁצָיוּתָ.נָא=us | shetsi | Sh inf+1cp | to destroy us
+תְבָר.וּ~they_p | tvr | G pf 3mp | they broke
+לִבָּ.נָא=our | lev | n+1cp | our heart
+רַבְרְב.ָן~fp | rav | a fp | great
+תִתָּבְרוּן | tvr | Gt impf 2mp | be broken (dismayed)
+סוֹבְרָ.ךְ=you | svr | Q pf 3ms+2ms | (Hashem) carried you
+מְסוֹבַר | svr | Q ptc ms | carries
+הַלֶּכְתּוּן | hlk | D pf 2mp | you went
+מֵיתֵ.יכוֹן=your | meta | n+2mp | your coming
+לֵיתֵ.יכוֹן=you | leit | neg+2mp | you are not
+מְדַבֵּר | dbr | D ptc ms | leads
+מֵישְׁרִי | shry | G inf | a resting (place)
+לְ=to.אַשְׁרָיוּתְ.כוֹן=you | shry | C inf+2mp | to settle you (encamp you)
+לְ=to.אַחֲזָיוּתְ.כוֹן=you | hzy | C inf+2mp | to show you
+דְרַךְ | drk | G pf 3ms | he trod
+בְּ=because.דִילְ.כוֹן=you | bdil | prep+2mp | because of you
+תַּקֵּף | tqf | D impv ms | strengthen
+יַחְסְנִ.נַּהּ=it | hsn | C impf 3ms+3fs | shall give it as inheritance
+יֵירְתֻ.נַּהּ=it | yrt | G impf 3mp+3fs | shall inherit it
+אִתְפְּנִיּוּ | pny | Gt impv mp | turn
+וּ=and.נְגִיחַ | gwh | C impf 1cp | and we will wage (war)
+פַקְּדָ.נָא=us | pqd | D pf 3ms+1cp | (Hashem) commanded us
+וְ=and.זָרֶזְתּוּן | zrz | D pf 2mp | and you girded
+קְרָבֵ.יהּ=his | qrava | n+3ms | of his war
+וְ=and.שָׁרֵיתוּן | shry | G pf 2mp | and you began
+תְגִיחוּן | gwh | C impf 2mp | you shall wage (war)
+תִּתָּבְרוּן | tvr | Gt impf 2mp | you will be broken (defeated)
+וְ=and.אַרְשַׁעְתּוּן | rsha | C pf 2mp | and you acted wickedly
+וּ=and.סְלֶקְתּוּן | slq | G pf 2mp | and you went up
+אֱמֹרָאָה | name | name | the Emorite
+לְ=to.קַדָּמוּתְ.כוֹן=you | qadmuta | n+2mp | against you (lit. to meet you)
+נַתְּזָ.ן~fp | ntz | G ptc fp | swarm (lit. spring out)
+דַּבַּרְיָתָא | dabbarta | n fp emph | the bees
+וּ=and.טְרָד.וּ~they_p | trd | G pf 3mp | and drove (you)
+וּ=and.בְכִיתוּן | bky | G pf 2mp | and you wept
+צְלוֹתְ.כוֹן=your | tslo | n+2mp | your prayer
+אַצֵּית | tsyt | C pf 3ms | (He) listened
+לְ=to.מִלֵּ.יכוֹן=your | milla | n mp+2mp | to your words
+וְ=and.אִתְפְּנֵינָא | pny | Gt pf 1cp | and we turned
+וְ=and.אַקֵּפְנָא | nqf | C pf 1cp | and we went around
+דְּ=that.אַקֶּפְתּוּן | nqf | C pf 2mp | that you have gone around
+וְ=and.יִדְחֲלוּן | dhl | G impf 3mp | and they will fear
+תִתְגָּרוּן | gry | Dt impf 2mp | you shall (not) provoke (lit. stir yourselves)
+מִ=.דְרַךְ | drk | G inf | the treading of
+פַּרְסַת | parsa | n cs | the sole of
+תִזְבְּנוּן | zvn | G impf 2mp | you shall buy
+תִּכְרוּן | kry2 | G impf 2mp | you shall buy (Hebrew: תִּכְרוּ)
+וְ=and.תִשְׁתּוּן | shty | G impf 2mp | and you shall drink
+בֵּרְכָ.ךְ=you | brk | D pf 3ms+2ms | He has blessed you
+עֹבַד | ovada | n cs | the work of
+סַפֶּק | spq | D pf 3ms | He supplied
+צָרְכָּ.ךְ=your | tsorkha | n+2ms | your needs
+בְּ=in.מֵ~inf.הֱכָ.ךְ=your | hlk2 | G inf+2ms | in your walking (journey)
+מֵ=from.אֵילַת | name | name | from Eilat
+תְצוּר | tswr | G impf 2ms | you shall (not) besiege
+תִתְגָּרֵי | gry | Dt impf 2ms | provoke (lit. stir yourself)
+לְ=.חָיָת | name | name | Lechayat (Hebrew: עָר)
+מִתְחַשְּׁב.ִין~mp | hshb | Dt ptc mp | are reckoned
+יִקְרַן | qry | G ptc mp | call
+חֹרָאֵי | name | name | the Chorites
+תָּרֵכֻ.נּוּן=them | trk | D pf 3mp+3mp | drove them out
+וְ=and.שֵׁצָיֻ.נּוּן=them | shetsi | Sh pf 3mp+3mp | and destroyed them
+בְּ=in.אַתְרֵ.יהוֹן=their | atar | n+3mp | in their place
+יְרֻתָּתֵ.יהּ=his | yerutta | n+3ms | his inheritance
+הַלֶּכְנָא | hlk | D pf 1cp | we went
+דְ=of.זֶרֶד | name | name | of Zered
+עָבֵר | avr | G ptc ms | are passing
+מִתְחַשְּׁבָא | hshb | Dt ptc fs | is reckoned
+יָתִיבוּ | ytv | G pf 3mp | dwelt
+וְ=and.עַמּוֹנָאֵי | name | name | and the Ammonites
+חֻשְׁבָּנֵי | name | name | Chushbanei (Hebrew: זַמְזֻמִּים)
+וְ=and.שֵׁצִ.נּוּן=them | shetsi | Sh pf 3ms+3mp | and (Hashem) destroyed them
+וְ=and.תָרֵכֻ.נּוּן=them | trk | D pf 3mp+3mp | and they drove them out
+בְ=in.אַתְרֵ.יהוֹן=their | atar | n+3mp | in their place
+וְ=and.עַוָּאֵי | name | name | and the Avvim
+בִּ=in.דְפִיחַ | name | name | in Rafiach (Hebrew: בַּחֲצֵרִים)
+מִ=from.קַּפּוּטְק.ַיָּא=pl | name | name | from Kaputkaya (Hebrew: מִכַּפְתֹּר)
+שֵׁצֻ.נּוּן=them | shetsi | Sh pf 3mp+3mp | destroyed them
+דְ=of.אַרְנֹן | name | name | of Arnon
+לְ=to.תָרָכוּתֵ.יהּ=him | trk | D inf+3ms | to drive him out
+וְ=and.אִתְגָּרֵי | gry | Dt impv ms | and provoke (him)
+אֱשָׁרֵי | shry | G impf 1cs | I will begin
+זֻעְתָּ.ךְ=your | zwa | n+2ms | your terror (the trembling at you)
+שִׁמְעָ.ךְ=your | shema | n+2ms | your report (fame)
+דִ=of.קְדֵמוֹת | name | name | of Kedemot
+אֵעִבַּר | avr | G impf 1cs | let me pass
+אֶסְטֵי | sty | G impf 1cs | I will (not) turn aside
+תְּזַבֶּן | zvn | D impf 2ms | you shall sell
+וְ=and.אֶשְׁתֵּי | shty | G impf 1cs | and I will drink
+אֵעִבַר | avr | G impf 1cs | I will pass
+בְּ=on.רַגְלָ.י=my | regel | n fp+1cs | on my feet
+בִּ=in.לְחָיָת | name | name | in Lechayat (Hebrew: בְּעָר)
+אָבֵי | avy | G pf 3ms | (Sichon) was (not) willing
+סִיחֹן | name | name | Sichon
+לְ=to.מִ~inf.שְׁבְּקָ.נָא=us | shbq | G inf+1cp | to let us
+לְ=to.מִ~inf.מְסְרֵ.יהּ=him | msr | G inf+3ms | to hand him over
+וּ=and.מָסְרֵ.יהּ=him | msr | G pf 3ms+3ms | and (Hashem) handed him over
+וּ=and.מְחֵנָא | mhy | G pf 1cp | and we struck
+וּ=and.כְבַשְׁנָא | kvsh | G pf 1cp | and we conquered
+קִרְו.וֹהִי=his | qirya | n fp+3ms | his cities
+וְ=and.גַמַּרְנָא | gmr2 | D pf 1cp | and we destroyed (completely)
+אַשְׁאַרְנָא | shar | C pf 1cp | we left
+בַּזָּנָא | bzz | G pf 1cp | we took as spoil
+וַ=and.עֲדִי | adaa | n cs | and the spoil of
+כְבַשְׁנָא | kvsh | G pf 1cp | we conquered
+תְקֵפַת | tqf | G pf 3fs | was too strong
+קָרֶבְתָּא | qrb | G pf 2ms | you approached
+וּ=and.סְלֶקְנָא | slq | G pf 1cp | and we went up
+אֶדְרֶעִי | name | name | Edrei
+לְ=to.סִיחֹן | name | name | to Sichon
+וּ=and.מְחִ.נּוֹהִי=him | mhy | G pf 1cp+3ms | and we struck him
+נְסִבְנָא | nsv | G pf 1cp | we took
+פָּלָךְ | pelekh | n cs | the district of
+טְרָכוֹנָא | name | name | Trachona (Hebrew: אַרְגֹּב)
+מַלְכְּוָתָא | malkhu | n cs | the kingdom of
+מַקְּפ.ָן~fp | nqf | C ptc fp | surrounded (by)
+רָם | ram | a ms | high
+דִּילְ.הֶן=their | dil | pron+3fp | (with) their
+דָּשׁ.ִין=pl | dasha | n mp | doors
+גַּמַּר | gmr2 | D inf abs | (utterly) destroying
+וּ=and.נְסִבְנָא | nsv | G pf 1cp | and we took
+דְ=of.חֶרְמוֹן | name | name | of Chermon
+צִידֹנָאֵי | name | name | the Tzidonians
+קְרָא.ן~mp | qry | G ptc mp | call
+לְ=.חֶרְמוֹן | name | name | Chermon
+סִרְיֹן | name | name | Siryon
+וֶ=and.אֱמֹרָאֵי | name | name | and the Emorites
+תַּלְגָּא | talga | n emph | snow
+סַלְכָה | name | name | Salchah
+וְ=and.אֶדְרֶעִי | name | name | and Edrei
+עַרְסֵ.יהּ=his | arsa | n+3ms | his bed
+בְּ=in.רַבַּת | name | name | in Rabbat
+אָרְכַּ.הּ=its | orka | n+3fs | its length
+בְּ=by.אַמַת | amma | n cs | by the cubit of
+יְרִיתְנָא | yrt | G pf 1cp | we took possession
+וְ=and.קִרְו.וֹהִי=its | qirya | n fp+3ms | and its cities
+פָּלַךְ | pelekh | n cs | the district of
+גְּשׁוּרָאָה | name | name | the Geshurite
+וְ=and.אַפְקֵירוֹס | name | name | and Afkeiros (Hebrew: וְהַמַּעֲכָתִי)
+3:16>גּוֹ | go | prep | the midst (of)
+מִ=from.גֵּנוֹסַר | name | name | from Genosar (Kinneret)
+מַשְׁפַּךְ | mashpakh | n cs | the slopes of (lit. outpouring)
+תַּעְבְּרוּן | avr | G impf 2mp | you shall pass
+יְנִיחַ | nwh | C impf 3ms | (Hashem) gives rest
+לִ=to.ירֻתְּתֵ.יהּ=his | yerutta | n+3ms | to his inheritance
+יְהוֹשׁוּעַ | name | name | Yehoshua
+חֲזָאָה | hzy | G ptc fp | (your eyes) saw
+# global fixes
+וּ=and.מַלֵּלִית | mll | D pf 1cs | and I spoke
+לְ=to.מֶ~inf.עְבַּר | avr | G inf | to pass (through)
+בְּ=in.מַתְנָן | name | name | in Matnan (Hebrew: בַּבָּשָׁן)
+# scoped
+1:7>וּ=and.בִ=on.סְפַר | sfar2 | n cs | and on the coast (edge) of
+1:7>וְ=and.לִבְנָן | name | name | and Levanon
+1:13>וּ=and.מַדְּע.ָן~mp | madda | a mp | and knowledgeable
+1:44>וּ=and.רְדָפ.וּ~they_p | rdf | G pf 3mp | and they pursued
+1:45>וְ=and.תַבְתּוּן | twv | G pf 2mp | and you returned
+2:19>וְ=and.תִקְרַב | qrb | G impf 2ms | and you approach
+2:25>וְ=and.דַחַלְתָּ.ךְ=your | dahalta | n+2ms | and the fear of you
+2:25>וִ=and.יזוּעוּן | zwa | G impf 3mp | and they will tremble
+2:28>וְ=and.אֵיכוּל | akhal | G impf 1cs | and I will eat
+3:2>וְ=and.תַעְבֶּד | avad | G impf 2ms | and you shall do
+3:17>מְ=of.רָמָתָא | ramta | n fp emph | of the heights

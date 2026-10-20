@@ -1,0 +1,25 @@
+# Vayigash 45:19–27
+מְ~ptcD.פַקָּדָא | pqd | D pp ms | are commanded
+עֶגְל.ָן=pl | agalta | n fp abs | wagons
+עֲגַלָּת.ָא=emph | agalta | n fp emph | the wagons
+לְ=for.טַפְל.ֵיכוֹן=your | tafla | n+2mp | for your small children
+וְ=.לִ=for.נְשֵׁי.כוֹן=your | nashin | n fp+2mp | and for your wives
+וְ=.תִ~ypl_f.טְּל.וּן~mp | ntl | G impf 2mp | and carry | the נ of נטל is absorbed (the dot in ט)
+וְ=.תֵ~ypl_f.ית.וּן~mp | aty | G impf 2mp | and come | the א of אתי becomes י
+וְ=.עֵינְ.כוֹן=your | eina | n+2mp | and your eye
+תְ~she_f.חוּס | hws | G impf 3fs | (let your eye not) pity
+מָנ.ֵיכוֹן=your | mana | n mp+2mp | your belongings
+דִּ=.לְ.כוֹן=you | dil | part+2mp | is yours
+אִצְטְלַו.ָּן=pl | itstela | n fp abs | robes (Hebrew: חֲלִפוֹת, changes of clothes)
+דִּ=of.לְבוּשׁ.ָא=emph | levush | n emph | of clothing
+חֲמָר.ִין=pl | hmara | n mp abs | donkeys
+טְעִינ.ָן~fp | tn | Gp ptc fp | loaded with
+תִ~ypl_f.תְ~Dt.נַצּ.וּן~mp | nts | Dt impf 2mp | (do not) quarrel
+וּ=.סְלִיק.וּ~they_p | slq | G pf 3mp | and (they) went up
+מִלּ.ַיָּא=emphp | milla | n fp emph | the words
+פָּיְג.ָן~fp | pwg | G ptc fp | fading (Hebrew: וַיָּפָג לִבּוֹ, his heart grew numb)
+לִבּ.ֵיהּ=his | lev | n+3ms | his heart
+הֵ~C.ימִין | hymn | C pf 3ms | he (did not) believe
+לְ=.מִ~inf.טַּל | ntl | G inf | to carry | the נ of נטל is absorbed (the dot in ט)
+וּ=.שְׁרַ.ת~she_p | shry | G pf 3fs | and (the spirit of prophecy) rested
+וַ=.עֲסַר | asar | num | and ten

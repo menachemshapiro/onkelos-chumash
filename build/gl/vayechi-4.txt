@@ -1,0 +1,130 @@
+# Vayechi 49:1–18
+אִתְ~Dt.כַּנָּשׁ.וּ~cmd_pl | kns | Dt impv mp | gather together
+וַ=.אֲ~I_f.חַוֵּי | hwy2 | D impf 1cs | and I will tell
+יְ~he_f.עַרַע | ra | D impf 3ms | will befall
+49:2> וְ=.קַבִּיל.וּ~cmd_pl | qbl2 | D impv mp | and accept
+בּוּכְר.ִי=my | bukhra | n+1cs | my firstborn
+תָּקְפּ.ִי=my | tqof | n+1cs | my strength
+חוּלָק.ִין=pl | hulaq | n mp abs | portions
+בְּכֵירוּת.ָא=emph | bekhoruta | n fs emph | the birthright
+כְּהֻנְתּ.ָא=emph | kehunta | n fs emph | the priesthood
+דַּ=because.אֲזַלְ.תָּא~you_p | azl | G pf 2ms | because you went
+אַ~C.הֲנֵי.תָא~you_p | hny | C pf 2ms | you did (not) benefit
+חוֹלָק | hulaq | n | a portion
+תִ~you_f.סָּב | nsv | G impf 2ms | you will (not) take | the נ of נסב is absorbed (the dot in ס)
+סְלֶקְ.תָּא~you_p | slq | G pf 2ms | you went up
+אֲ~C.חֶלְ.תָּא~you_p | hll2 | C pf 2ms | you profaned
+לְ=.שִׁוּוּי.ִי=my | shiwwuy | n+1cs | my couch
+גִּבָּר.ִין=pl | gibbar | n mp abs | mighty men
+גְבוּר.ָא=emph | gvura | n emph | mighty deeds
+בְּ=in.רָזְ.הוֹן=their | raza | n+3mp | in their secret (counsel)
+בְּ=when.אִתְ~Dt.כַּנְּשׁ.ֵהוֹן=their | kns | Dt inf+3mp | when they gathered
+לִ=.מְ~inf.הַךְ | hlk2 | G inf | to go
+נְחָת.ִית~I_p | nht | G pf 1cs | I (did not) descend
+רָגְזְ.הוֹן=their | rugza | n+3mp | their anger
+קְטוֹל | qtl | G inf | killing (קְטָלוּ קְטוֹל = they killed in slaughter)
+וּ=.בִ=in.רְעוּתְ.הוֹן=their | reuta | n fs+3mp | and in their will
+תַּרָע.וּ~they_p | tr | D pf 3mp | they broke down
+שׁוּר | shura | n cs | the wall of
+סַנְאָה | sana | n emph | the enemy
+וְ=.חֵמַתְ.הוֹן=their | hemta | n fs+3mp | and their wrath
+אֲ~I_f.פַלְּגִ.נּוּן=them | plg | D impf 1cs+3mp | I will divide them
+וְ=.אֵ~I_f.בַדָּרִ.נּוּן=them | bdr | D impf 1cs+3mp | and I will scatter them
+אוֹ~C.דֵי.תָא~you_p | ydy | C pf 2ms | you confessed | Af‘el of ידי: the י becomes ו
+בְהֵיתְ.תָא~you_p | bht | G pf 2ms | (and were not) ashamed
+יוֹ~they_f.ד.וּן~mp | ydy | C impf 3mp | will acknowledge (lit. praise) | Af‘el of ידי: the י becomes ו
+תִּ~she_f.תְקֵף | tqf | G impf 3fs | will be strong
+דְבָב.ָךְ=your | dvavu | n+2ms | your enmity (בַּעֲלֵי דְבָבָךְ = your enemies)
+בַּעֲלֵי | bal | n mp cs | the masters of (בַּעֲלֵי דְבָבָךְ = your enemies)
+יִ~they_f.תְ~Dt.בַּדְּר.וּן~mp | bdr | Dt impf 3mp | will be scattered
+סַנְא.ָךְ=your | sana | n mp+2ms | your enemies
+קְדַל | qdal | n | the back of the neck (מְחַזְּרִין קְדַל = turning their backs)
+מְ~ptcD.קַדְּמ.ִין~mp | qdm2 | D ptc mp | will be first (to greet)
+בִּ=about.שְׁלָמ.ָךְ=your | shlam | n+2ms | about your welfare
+לְ=.מִ~inf.שְׁאַל | shl | G inf | to ask
+שִׁלְטוֹן | shultan | n | rule
+בְ=at.שֵׁרוּי.ָא=emph | sheruya | n emph | at the beginning
+וּ=.בְ=at.סוֹפ.ָא=emph | sof | n emph | and at the end
+יִ~he_f.תְ~Dt.רַבָּא | rby | Dt impf 3ms | will be anointed (lit. raised up)
+מִ=from.דְּ=of.בֵית | beit | n cs | from the house of
+מִ=from.דִּין | dina | n cs | from the judgment of
+קַטְל.ָא=emph | qetala | n emph | of death
+יְ~he_f.נוּחַ | nwh | G impf 3ms | he will rest
+כְּ=like.אַרְי.ָא=emph | arya | n emph | like a lion
+וּ=.כְ=like.לֵית.ָא=emph | leita | n emph | and like a lioness
+מַלְכוּ | malkhu | n | (no) kingdom
+דִ=that.תְ~she_f.זַעְזְעִ.נֵּיהּ=him | zz | Q impf 3fs+3ms | that could shake him
+יַ~he_f.עֲדֵי | dy_rm | C impf 3ms | will (not) pass away
+שָׁלְטַן | shultan | n | rule (עָבֵד שָׁלְטַן = one who wields rule)
+וְ=.סַפְר.ָא=emph | safra | n emph | nor the scribe (lit. and the scribe)
+עָלְמ.ָא=emph | alma | n emph | eternity (עַד עָלְמָא = forever)
+דְּ=until.יֵ~he_f.יתֵי | aty | G impf 3ms | (until) comes
+מְשִׁיח.ָא=emph | meshiha | n emph | Mashiach
+דְּ=to whom.דִילֵ.יהּ=his | dil | part+3ms | to whom (the kingdom) belongs
+וְ=.לֵ.יהּ=him | le | prep+3ms | and to him
+יִ~they_f.שְׁתַּמְּע.וּן~mp | shm | Dt impf 3mp | will obey (lit. will hear) | the passive ת moves after the ש
+יַ~he_f.סְחַר | shr | C impf 3ms | will surround
+יִ~they_f.בְנ.וּן~mp | bny | G impf 3mp | will build
+הֵיכְל.ֵיהּ=his | heikhla | n+3ms | his temple
+צַדִּיק.ַיָּא=emphp | tsaddiq | a mp emph | the righteous
+וְ=.עָבְדֵי | avad | G ptc mp | and those who practice (lit. do)
+אַרְגְּוָן | argwan | n | purple
+מֵילָא | meila | n | fine wool (מֵילָא מֵילָא = the finest wool)
+צְבַע | tseva | n cs | dyed (lit. the dye of)
+זְהוֹרִי | zehorita | n | scarlet
+וְ=.צִבְעוֹנ.ִין=pl | tsivon | n mp abs | and colored (garments)
+יְ~they_f.סַמְּק.וּן~mp | smq | D impf 3mp | will be red
+טוּר.וֹהִי=his | tura | n mp+3ms | his mountains
+בְּ=with.כַרְמ.וֹהִי=his | karma | n mp+3ms | with his vineyards
+יְ~they_f.טוּפ.וּן~mp | twf | G impf 3mp | will flow
+נַעֲו.וֹהִי=his | naava | n mp+3ms | his hills
+בַּ=with.חֲמָר | hamra | n | with wine
+יְ~they_f.חַוְּר.ָן~fp | hwr | D impf 3fp | will be white
+בִּקְעֲת.ֵיהּ=his | biqa | n fp+3ms | his valleys
+וּ=.בְ=with.עֶדְרֵי | edra | n mp cs | and with flocks of
+זְבוּלֻן | name | name | Zevulun
+יַמְמ.ַיָּא=emphp | yam | n mp emph | the seas
+יְ~he_f.כַבֵּשׁ | kvsh | D impf 3ms | will conquer
+מְחוֹז.ִין=pl | mehoza | n mp abs | districts, harbor towns
+בִּ=with.סְפִינ.ַן=pl | sfina | n fp abs | with ships
+יֵ~he_f.יכוּל | akhal | G impf 3ms | will eat (enjoy)
+עַתִּיר | attir | a ms | rich
+בְּ=in.נִכְס.ִין=pl | nikhsin | n mp abs | in possessions
+וְ=.אַחֲסַנְתּ.ֵיהּ=his | ahsanta | n fs+3ms | and his inheritance
+תְּחוּמ.ַיָּא=emphp | tehum | n mp emph | the borders
+חוּלָק.ָא=emph | hulaq | n emph | the portion
+מְ~ptcD.עַבְּד.ָא~fs | avad | D ptc fs | produces (lit. makes)
+מָחוֹזֵי | mehoza | n mp cs | the districts of
+דַּיָּר.ֵיהוֹן=their | dayyar | n mp+3mp | their inhabitants
+וּ=.דְ=those who.אִ~Gt.שְׁתַּאֲרוּן | shar | Gt pf 3mp | and those who remain | the passive ת moves after the ש
+פַּלְח.ִין~mp | plh | G ptc mp | servants (lit. serving)
+וּ=.מַ~ptcC.סְּקֵי | slq | C ptc mp | and payers of (lit. those who bring up)
+מַסּ.ִין=pl | masa | n mp abs | tribute
+יִ~he_f.תְ~Gt.בְּחַר | bhr | Gt impf 3ms | will be chosen
+וִ=.י~he_f.קוּם | qwm | G impf 3ms | and (a man) will arise
+יִ~he_f.תְ~Gt.פְּרֵק | prq | Gt impf 3ms | will be redeemed
+עַמּ.ֵיהּ=his | amma2 | n+3ms | his people
+וּ=.בִ=in.שְׁנ.וֹהִי=his | shna | n fp+3ms | and in his years
+יְ~they_f.נוּח.וּן~mp | nwh | G impf 3mp | will rest
+שִׁבְט.ַיָּא=emphp | shivta | n mp emph | the tribes
+אֵימְת.ֵיהּ=his | eima | n fs+3ms | his terror
+תִּ~she_f.תְ~Gt.רְמֵי | rmy | Gt impf 3fs | will be cast
+וּ=.מְחָת.ֵיהּ=his | mehata | n fs+3ms | and his blow
+כְּ=like.חִיוֵי | hiwya | n mp cs | like snakes of
+חוּרְמָן | hurman | n | the viper kind
+וּ=.כְ=like.פִתְנ.ָא=emph | pitna | n emph | and like an adder
+יִ~he_f.כְמוֹן | kmn | G impf 3ms | he will lie in wait
+שְׁבִיל.ָא=emph | shvila | n emph | the path
+יְ~he_f.קַטֵּל | qtl | D impf 3ms | he will slay
+גִּבָּרֵי | gibbar | n mp cs | the mighty men of
+מַשִּׁרְיַת | mashrita | n fs cs | the camp of
+פָּרָשׁ.ִין=pl | parasha | n mp abs | horsemen
+רַגְלָא.ִין=pl | raglai | n mp abs | foot soldiers
+יְ~he_f.עַקֵּר | qr | D impf 3ms | he will hamstring
+סוּסָו.ָן=pl | susya | n fp abs | horses
+וּ=.רְתִכּ.ִין=pl | rtikha | n mp abs | and chariots
+וִ=.י~he_f.מַגֵּר | mgr | D impf 3ms | and he will throw down
+רוֹכְב.ֵיהוֹן=their | rkv | G ptc mp+3mp | their riders
+לַ=.אֲחוֹר.ָא=emph | ahor | n emph | backwards
+לְ=for.פוּרְקָנ.ָךְ=your | purqan | n+2ms | for your salvation
+סַבָּר.ִית~I_p | svr2 | D pf 1cs | I hope

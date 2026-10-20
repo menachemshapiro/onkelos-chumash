@@ -1,0 +1,72 @@
+# Shemot 7:8–8:6
+חוּטְר.ָךְ=your | hutra | n+2ms | your staff
+וּ=.רְמֵי | rmy | G impv 2ms | and throw (it)
+לְ=.תַנִּינ.ָא=emph | tannin | n emph | (into) a serpent
+חוּטְר.ֵיהּ=his | hutra | n+3ms | his staff
+לְ=.חַכִּימ.ַיָּא~emphp | hkm | a mp emph | the wise men
+וּ=.לְ=.חָרָשׁ.ַיָּא~emphp | harash | n mp emph | and the sorcerers
+חָרָשׁ.ַיָּא~emphp | harash | n mp emph | the sorcerers
+בְּ=with.לַחֲשׁ.ֵיהוֹן=their | lahash | n mp+3mp | with their spells
+חֻטְר.ֵיהוֹן=their | hutra | n mp+3mp | their staffs
+וְ=.אִתַּ~Dt.קַּף | tqf | Dt pf 3ms | and (Pharaoh's heart) was hardened (lit. strengthened) | the passive ת merges with the ת of תקף
+אִתְ~Dt.יַקַּר | yqr2 | Dt pf 3ms | is heavy (i.e. stubborn)
+לפרש | ednote | note | note in the printed text: “according to the explanation of
+7:14> י | ednote | note | (…Rash)i” — Rashi reads יַקִּיר, “heavy”
+נָפֵיק | npq | G ptc ms | is going out
+וְ=.תִ~you_f.תְ~Dt.עַתַּד | td | Dt impf 2ms | and you shall station yourself
+דְּ=that.אִתְ~Gt.הֲפִיךְ | hpk | Gt pf 3ms | that was turned (into)
+קַבֵּילְ.תָּא~you_p | qbl2 | D pf 2ms | you have (not) listened
+וְ=.יִ~they_f.תְ~Dt.הַפְּכ.וּן~mp | hpk | Dt impf 3mp | and they will turn (into)
+7:18> וּ=.סְרִי | sry | G pf 3ms | and (the river) will stink
+7:21> וּ=.סְרִי | sry | G pf 3ms | and (the river) stank
+וּ=.סְרִי | sry | G pf 3ms | and (it) stank
+וְ=.יִ~they_f.לְא.וּן~mp | lay | G impf 3mp | and (the Egyptians) will weary (of trying)
+טוֹל | ntl | G impv 2ms | take! | the נ of נטל drops out
+חֻטְר.ָךְ=your | hutra | n+2ms | your staff
+בְּ=with.חֻטְר.ָךְ=your | hutra | n+2ms | with your staff
+נַהֲר.ֵיהוֹן=their | nahar | n mp+3mp | their rivers
+אֲרִתּ.ֵיהוֹן=their | arita | n mp+3mp | their canals
+אַגְמ.ֵיהוֹן=their | agma | n mp+3mp | their ponds
+מֵימ.ֵיהוֹן=their | mayin | n+3mp | their waters
+אָע.ָא=emph | a | n emph | wood
+וְ=.אִתְ~Gt.הֲפִיכ.וּ~they_p | hpk | Gt pf 3mp | and (all the water) turned (lit. was turned)
+וְ=.אִתְ~Gt.פְּנִי | pny | Gt pf 3ms | and (Pharaoh) turned away
+סַחֲרָנוּת | shor | !noun, construct | (all) around (lit. the surroundings of)
+וְ=.אַ~C.שְׁלֵם | shlm | C pf 3ms | and (seven days) were completed
+דִּ=that.מְחָא | mhy | G pf 3ms | (after) (Hashem) struck
+תְּחוּמ.ָךְ=your | tehum | n+2ms | your border
+בְּ=with.עֻרְדְּעָנ.ַיָּא~emphp | urdeana | n mp emph | with frogs
+עֻרְדְּעָנ.ַיָּא~emphp | urdeana | n mp emph | frogs (lit. the frogs)
+וִ=.י~he_f.רַבֵּי | rby | D impf 3ms | and (the river) will swarm with (lit. raise)
+וְ=.יֶ~they_f.עֱל.וּן~mp | ill | G impf 3mp | and they will come in
+וּ=.בְ=in.אִדְּרוֹן | idron | n cs | and in the chamber of
+מִשְׁכְּב.ָךְ=your | mishkav | n+2ms | your bed
+עַרְס.ָךְ=your | arsa | n+2ms | your bed
+וּ=.בְ=in.תַנּוּר.ָךְ=your | tanur | n+2ms | and in your ovens
+וּ=.בְ=in.אַצְוָת.ָךְ=your | ashwata | n+2ms | and in your kneading troughs
+וּ=.בָ.ךְ=you | be | prep+2ms | and on you
+יִ~they_f.סְּק.וּן~mp | slq | G impf 3mp | will go up | the ל of סלק is absorbed
+אֲרֵים | rwm | C impv 2ms | raise!
+נַהֲר.ַיָּא~emphp | nahar | n mp emph | the rivers
+אֲרִתּ.ַיָּא~emphp | arita | n mp emph | the canals
+אַגְמ.ַיָּא~emphp | agma | n mp emph | the ponds
+וּ=.סְלֵיק.ַת~she_p | slq | G pf 3fs | and (the frogs) came up
+וַ=.חֲפ.ַת~she_p | hpy | G pf 3fs | and (they) covered
+צַלּ.וֹ~cmd_pl | tsly | D impv 2mp | pray!
+וְ=.יַ~he_f.עְדֵּי | dy_rm | C impf 3ms | and let Him remove
+וְ=.יִ~they_f.דְבְּח.וּן~mp | dbh | G impf 3mp | and (they) may sacrifice
+שְׁאַל | shl | G impv 2ms | ask (for yourself a mighty deed) (Hebrew: הִתְפָּאֵר)
+זְמַן | zman | n | a time
+לְ=for.אִמָּתַי | immatai | adv | for when
+אֱ~I_f.צַלֵּי | tsly | D impf 1cs | I shall pray
+לְ=.שֵׁיצָא.ָה~inf_end | shetsi | Sh inf | to destroy
+וּ=.מִ=from.בָּתּ.ָיךְ=your | beit | n mp+2ms | and from your houses
+תִּ~they_f.שְׁתָּ~passive (Itpe‘el).אָר.ָן~fp | shar | Gt impf 3fp | will remain | the passive ת moves after the ש
+לִ=for.מְחָר | mehar | adv | for tomorrow
+כַּ=like.ייָ | yy | !the Divine Name | like Hashem
+וּ=.בְלַע | bla | G pf 3ms | and (Aharon's staff) swallowed
+וּ=.בְ=in.עַמָּ.ךְ=your | amma2 | n+2ms | and in your people
+וּ=.מֵ=from.עַמּ.ִי=my | amma2 | n+1cs | and from my people
+לְ=into.תַנִּינ.ַיָּא~emphp | tannin | n mp emph | into serpents
+בְּ=with.חֻטְר.ָא=emph | hutra | n emph | with the staff
+לִ=into.דְמ.ָא=emph | dam | n emph | into blood

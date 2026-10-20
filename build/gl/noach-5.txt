@@ -1,0 +1,29 @@
+# Noach 9:8–9:17
+מֵ~ptcC.קִים | qwm | C ptc ms | establishing | Af‘el of קום
+עִמְּ.כוֹן=you (pl.) | im | prep+2mp | with you
+דְּ=that (are).עִמְּ.כוֹן=you (pl.) | im | prep+2mp | that are with you
+בְּנֵי.כוֹן=your (pl.) | bnin | n mp+2mp | your children
+בַּתְר.ֵיכוֹן=you (pl.) | batar | prep+2mp | after you
+חֵיוַת | heiva | n fs cs | the beasts of
+חַיַּת | heiva | n fs cs | the beasts of
+נַפְקֵי | npq | G ptc mp cs | those who went out of
+אָת | at | n cs | the sign of
+לְ=for.אָת | at | n cs | for a sign of
+קְיָם | qyam | n abs | (the) covenant
+קְיַם | qyam | n cs | the covenant of
+יָהֵב | yhb | G ptc ms | am giving
+מֵימְר.ִי=my | meimra | n+1cs | My Word
+וּ=.בֵינ.ֵיכוֹן=you (pl.) | bein | prep+2mp | and between you
+לְ=for.דָרֵי | dar | n mp cs | for the generations of
+עַלְמ.ָא=emph | alma | n emph | the world (= for all generations)
+קַשְׁתּ.ִי=my | qashta | n fs+1cs | My bow
+קַשְׁתּ.ָא=emph | qashta | n fs emph | the bow
+בַּ=in.עֲנָנ.ָא=emph | anana | n emph | in the cloud
+עֲנָנ.ָא=emph | anana | n emph | clouds (lit. the cloud)
+וּ=.תְ~she_f.הִי | hwy | G impf 3fs | and it shall be
+בַּ=when.עֲנָנוּת.ִי=I | ananuta | n fs+1cs | when I bring clouds (lit. in My clouding)
+וּ=.דְכִיר.ְנָא=I | dkr | Gp ptc ms+1cs | and I will remember (דְּכִיר + אֲנָא)
+וְ=.אֵ~I_f.חֲזִ.נַּהּ=it (fem.) | hzy | G impf 1cs+3fs | and I will see it
+לְ=.מִ~inf.דְכַּר | dkr | G inf | to remember
+עָלָם | alam | n abs | eternal (lit. of eternity)
+אֲ~C.קֵמִ.ית~I_p | qwm | C pf 1cs | I have established | Af‘el of קום

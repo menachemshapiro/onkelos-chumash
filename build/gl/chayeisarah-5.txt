@@ -1,0 +1,50 @@
+# Chayei Sarah 24:53–24:67
+וְ=.אַ~C.פֵּק | npq | C pf 3ms | and (he) brought out | the נ of נפק is absorbed (the dot in פּ)
+מָנ.ִין=pl | mana | n mp abs | vessels, articles
+וּ=.מָנ.ִין=pl | mana | n mp abs | and vessels
+וּ=.מִגְדָּנ.ִין=pl | migdana | n mp abs | and precious gifts
+וּ=.שְׁתִיא.וּ~they_p | shty | G pf 3mp | and (they) drank
+וּ=.בָת.וּ~they_p | bwt | G pf 3mp | and (they) stayed overnight
+שַׁלְּח.וּ~cmd_pl.נִי=me | shlh | D impv mp+1cs | send me
+וְ=.שַׁלְּח.וּ~they_p | shlh | D pf 3mp | and (they) sent
+עִדַּן | iddan | n | a time (עִדַּן בְּעִדַּן = a year)
+בְּ=with.עִדַּן | iddan | n | with a time
+יַרְח.ִין=pl | yarha | n mp abs | months
+תְ~ypl_f.אַחֲר.וּן~mp | ahr | D impf 2mp | (do not) delay
+נִ~we_f.קְרֵי | qry | G impf 1cp | let us call
+וְ=.נִ~we_f.שְׁמָע | shm | G impf 1cp | and let us hear
+אָמְר.ָה~fs | amr | G ptc fs | says
+הֲ=?.תֵי~you_f.זְל.ִי~fs | azl | G impf 2fs | will you (fem.) go | the א of אזל becomes י
+אֵי~I_f.זִיל | azl | G impf 1cs | I will go
+מֵנִקְתּ.ַהּ=her | meneqta | n fs+3fs | her nurse
+גַּבְר.וֹהִי=his | gvar | n mp+3ms | his men
+וּ=.בָרִיכ.וּ~they_p | brk | D pf 3mp | and (they) blessed
+הֲוֵי | hwy | G impv fs | be (= become)
+לְ=into.אַלְפ.ִין=pl | alaf | num | into thousands
+וּ=.לְ=into.רִבְו.ָן=pl | ribbo | num | and into myriads
+בְּנַ.יְכִי=your (fem.) | bnin | n mp+2fs | your children
+וְ=.עוּלֶמְתָּ.הָא=her | ulemta | n fs+3fs | and her maidens
+וּ=.רְכִיב.ָא~they_p | rkv | G pf 3fp | and (they) rode
+וַ=.אֲזָל | azl | G pf 3ms | and (he) went
+מִ=from.מֵּת.וֹהִי=his | meta | n+3ms | from coming (to)
+24:62>עַל | al | prep | in (a variant reading: עַל בְּמֵתוֹהִי)
+בְּ=.מֵת.וֹהִי=his | meta | n+3ms | in his coming (a variant reading)
+אִתְ~Gt.חֲזִי | hzy | Gt pf 3ms | appeared (lit. was seen)
+לְ=.צַלָּא.ָה~inf_end | tsly | D inf | to pray
+לְ=at.מִ~inf.פְנֵי | pny | G inf | at the turning of (the evening)
+אָת.ָן~mp | aty | G ptc mp | coming
+וּ=.זְקָפ.ַת~she_p | zqf | G pf 3fs | and (she) raised
+עֵינָ.הָא=her | eina | n fp+3fs | her eyes
+וְ=.אִתְ~Gt.רְכִינ.ַת~she_p | rkn | Gt pf 3fs | and (she) leaned down
+גַּמְל.ָא=emph | gamla | n emph | the camel
+דֵיכִי | deikhi | pron | there (lit. that one)
+לְ=.קַדָּמוּת.ָנָא=us | qadmuta | n fs+1cp | toward us (lit. to meet us)
+עֵיפ.ָא=emph | eifa | n emph | the veil
+וְ=.אִתְ~Dt.כַּסִּיא.ַת~she_p | ksy | Dt pf 3fs | and (she) covered herself
+וְ=.אִ~Gt.שְׁתָּעֵי | shy2 | !verb, Ishtaf‘al, past, 3rd masc. sing. | and (he) told | the passive ת moves after the ש
+וְ=.אַ~C.עֲל.ַהּ=her | ill | C pf 3ms+3fs | and (he) brought her in
+תַקְּנ.ִין~mp | taqqin | a mp abs | proper
+עוֹבָד.ָהָא=her | ovada | n mp+3fs | her deeds
+וּ=.רְחִימ.ַהּ=her | rhm | G pf 3ms+3fs | and (he) loved her
+וְ=.אִתְ~Gt.נְחֵם | nhm | Gt pf 3ms | and (he) was comforted
+דְּ=that.מִית.ַת~she_p | mwt | G pf 3fs | (after) that (his mother) died

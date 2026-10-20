@@ -1,0 +1,22 @@
+# Toldot 26:6–26:12
+וּ=.שְׁאִיל.וּ~they_p | shl | G pf 3mp | and (they) asked
+דְחִיל | dhl | G pf 3ms | he was afraid
+יִ~they_f.קְטְלֻ.נַּנִי=me | qtl | G impf 3mp+1cs | (they) will kill me
+סְגִיא.וּ~they_p | sgy | G pf 3mp | (they) were many
+יוֹמ.ַיָּא=emphp | yom | n mp emph | the days
+אַבִימֶלֶךְ | name | name | Avimelekh
+חֲרַכּ.ָא=emph | harakha | n emph | the window
+מְ~ptcD.חַיִּיךְ | hyk | D ptc ms | jesting (with)
+וְ=.אֶכְדֵּין | ekhdein | adv | and how
+אֲמַרְ.תָּ~you_p | amr | G pf 2ms | did you say
+אֵי~I_f.מוּת | mwt | G impf 1cs | I will die
+כִּ=as.זְעֵר | zeir | a | almost (כִּזְעֵר פּוֹן = nearly)
+פּוֹן | pon | adv | a little
+שָׁכִיב | shkv | G ptc ms | (might have) lain
+דִּ=the one who (is).מְ~ptcD.יָחֵד | yhd | D ptc ms | the distinguished one
+דְּ=whoever.יַ~he_f.נְזֵק | nzq | C impf 3ms | whoever harms
+אַ~C.נְזִיקְ.נָ~we_p.ךְ=you | nzq | C pf 1cp+2ms | we (did not) harm you
+אִתְ~Gt.קְטָל.ָא~inf_end | qtl | Gt inf | (shall surely) be put to death
+יִ~he_f.תְ~Gt.קְטֵל | qtl | Gt impf 3ms | will be put to death
+וּ=.זְרַע | zra | G pf 3ms | and (he) sowed
+בִ=beyond.דְ=what.שַׁעֲר.וֹהִי=its | shiur | n+3ms | beyond its estimate

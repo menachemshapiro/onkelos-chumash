@@ -1,0 +1,307 @@
+# Tazria and Metzora (batch for both parshiyot): Vayikra 12:1–15:33
+תְ~she_f.עַדִּי | dy | C impf 3fs | (a woman) conceives
+דְּכָר | dekhar | n | a male
+רִחוּק | rihuq | n cs | the separation of
+כְּ=as in.רִחוּק.ַהּ=her | rihuq | n+3fs | as in her separation
+בְ=in.רִיחוּק.ַהּ=her | rihuq | n+3fs | in her separation
+בְּ=in.רִחוּק.ַהּ=her | rihuq | n+3fs | in her separation
+בְּ=beyond.רִיחוּק.ַהּ=her | rihuq | n+3fs | beyond her separation
+רִחוּק.ַהּ=her | rihuq | n+3fs | her separation
+סוֹבְת.ַהּ=her | sovta | n fs+3fs | her impurity
+מִ=from.סּוֹאֲבַת | sovta | n fs cs | from the impurity of
+כְּ=like.סוֹאֲבַת | sovta | n fs cs | like the impurity of
+מִ=from.סּוֹאֲבַתְ.הוֹן=their | sovta | n fs+3mp | from their impurity
+בְּ=in.סוֹאֲבַתְ.הוֹן=their | sovta | n fs+3mp | in their impurity
+בְּ=in.סָאָבְ.הוֹן=their | sovta | n+3mp | in their defiling
+וְ=.לִ=for.דְ=her who.סָאוּבְתּ.ָא=emph | sovta | n fs emph | and for her who is impure
+תֵּי~she_f.תֵב | ytv | G impf 3fs | she shall remain (lit. sit) | the י of יתב drops out
+תֵי~she_f.תֵב | ytv | G impf 3fs | she sits | the י of יתב drops out
+תֵ~she_f.תֵב | ytv | G impf 3fs | she sits | the י of יתב drops out
+יֵ~he_f.יתֵב | ytv | G impf 3ms | he shall dwell
+דְ=who.יֵ~he_f.יתֵב | ytv | G impf 3ms | whoever sits
+וּ=.דְ=who.יֵ~he_f.יתֵב | ytv | G impf 3ms | and whoever sits
+דְּ=who.יֵ~he_f.יתֵב | ytv | G impf 3ms | whoever sits
+יָתְב.ָא~fs | ytv | G ptc fs | sits
+דְּכוּ | dakhu | n | purity
+דָכוּת.ַהּ=her | dakhu | n fs+3fs | her purification
+לְ=for.דַכּוּת.ֵיהּ=his | dakhu | n fs+3ms | for his purification
+דָּכוּת.ֵיהּ=his | dakhu | n fs+3ms | his purification
+דְ=of.דָכוּת.ֵיהּ=his | dakhu | n fs+3ms | of his purification
+בְּ=for.דָכוּת.ֵיהּ=his | dakhu | n fs+3ms | for his purification
+לְ=for.דָכוּת.ֵיהּ=his | dakhu | n fs+3ms | for his purification
+לְ=.דַכָּיוּת.ֵיהּ=it | dky | D inf+3ms | to declare it pure
+תֵ~she_f.עוֹל | ill | G impf 3fs | she shall (not) enter
+וּ=.בְ=at.מִ~inf.שְׁלַם | shlm | G inf | and at the completion of
+שַׁתּ.ֵיהּ=its | shna | n+3ms | its year (בַּר שַׁתֵּיהּ = in its first year)
+שַׁפְנִינ.ָא=emph | shafnina | n emph | a young dove
+וְ=.תִ~she_f.דְכֵּי | dky | G impf 3fs | and she will be pure
+תִּ~she_f.דְכֵּי | dky | G impf 3fs | she will be pure
+יִ~he_f.דְכֵּי | dky | G impf 3ms | he will be pure
+דְּכִיא.ַת~she_p | dky | G pf 3fs | she becomes pure
+דְּמָ.הָא=her | dam | n mp+3fs | her blood
+דְ=of.יַלֶּדְתּ.ָא=emph | yld | !participle (D), fem. sing. emph | of the woman who gives birth
+לְ=for.דוּכְר.ָא=emph | dekhura | n emph | for a male
+לִ=for.נְקֻבְת.ָא=emph | nuqva | n fs emph | for a female
+עַמְק.ָא=emph | amqa | n emph | a (sunken) lesion (Hebrew: שְׂאֵת)
+וּ=.לְ=for.עַמְק.ָא=emph | amqa | n emph | and for the (sunken) lesion
+בְּ=.עַמִּקְתּ.ָא=emph | amiq | a fs emph | in the deep (part)
+עַדְי.ָא=emph | adya | n emph | a scab (Hebrew: סַפַּחַת)
+וּ=.לְ=for.עַדְי.ָא=emph | adya | n emph | and for the scab
+עֲדִית.ָא=emph | adya | n fs emph | the scab
+בַהֲר.ָא=emph | bahara | n emph | a bright spot (Hebrew: בַּהֶרֶת)
+בַּהֲר.ָא=emph | bahara | n emph | a bright spot
+וּ=.לְ=for.בַהֲר.ָא=emph | bahara | n emph | and for the bright spot
+בֶּהַרְתּ.ָא=emph | behara | n fs emph | the bright spot
+בַּהֶרְתּ.ָא=emph | behara | n fs emph | the bright spot
+בְּ=in.בַהֶרְתּ.ָא=emph | behara | n fs emph | in the bright spot
+סְגִירוּ | sgiru | n | tzara'at
+סְגִירוּת | sgiru | n cs | the tzara'at of
+סְגִירוּת.ָא=emph | sgiru | n fs emph | the tzara'at
+דִּ=of.סְגִירוּת.ָא=emph | sgiru | n fs emph | of tzara'at
+וְ=.לִ=for.סְגִירוּת | sgiru | n | and for tzara'at
+סְגִיר | sgir | a | afflicted with tzara'at (מְצֹרָע)
+וּ=.סְגִיר.ָא=emph | sgir | n emph | and the one afflicted with tzara'at
+סְגִיר.ָא=emph | sgir | n emph | the one afflicted with tzara'at
+דִ=of.סְגִיר.ָא=emph | sgir | n emph | of the one afflicted with tzara'at
+וְ=.יִתֵּ~Gt.תֵי | aty | Gt impf 3ms | then he shall be brought | the passive ת merges
+מַכְתָּשׁ.ָא=emph | makhtash | n emph | the affliction
+מַכְתְּשׁ.ָא=emph | makhtash | n emph | the affliction
+וּ=.מַכְתָּשׁ.ָא=emph | makhtash | n emph | and the affliction
+בְּ=in.מַכְתָּשׁ.ָא=emph | makhtash | n emph | in the affliction
+כְּ=like.מַכְתָּשׁ.ָא=emph | makhtash | n emph | like an affliction
+מַכְתָּשׁ.ֵיהּ=his | makhtash | n+3ms | his affliction
+וְ=.שֵׂעָר | sear | n | and hair
+שֵׂעָר | sear | n | hair
+לְ=.שֵׂעָר | sear | n | the hair
+שְׂעַר | sear | n cs | the hair of
+וּ=.שְׂעָר.ָא=emph | sear | n emph | and the hair
+וּ=.שְׂעָר.ַהּ=its | sear | n+3fs | and its hair
+שַׂעֲר.ֵיהּ=his | sear | n+3ms | his hair
+אִתְ~Gt.הֲפִיךְ | hpk | Gt pf 3ms | has turned
+וְ=.יִתְ~Gt.הֲפִיךְ | hpk | Gt impf 3ms | and it turns
+הֲפָכ.ַת~she_p | hpk | G pf 3fs | it has turned
+לְ=to.מֶחֱוָר | hwr2 | !infinitive | white (lit. to whiteness)
+לְ=to.מֶחֱוַר | hwr2 | !infinitive | white
+חַוְּר.ָן~fp | hiwwar | a fp | white
+דְּ=after.חַוָּר.וּ~they_p | hwr | D pf 3mp | after they washed (lit. whitened)
+יִתְ~Dt.חַוַּר | hwr | Dt impf 3ms | it is washed
+עַמִּיק | amiq | a | deep
+וְ=.עַמִּיק | amiq | a | and deep
+עַמְי.ָא~fs | amy | G ptc fs | has faded (lit. is dim)
+עָמְי.ָא~fs | amy | G ptc fs | dim
+עָמְי.ָן~fp | amy | G ptc fp | dim
+מֶחֱזָ.הָא=its | hzy | !noun (infinitive form) + 3fs | its appearance
+וּ=.מֶחֱזָ.הָא=its | hzy | !noun (infinitive form) + 3fs | and its appearance
+מֶחֱזוֹ.הִי=its | hzy | !noun (infinitive form) + 3ms | its appearance
+וּ=.מֶחֱזוֹ.הִי=its | hzy | !noun (infinitive form) + 3ms | and its appearance
+וּ=.מֶחֱזֵי.הוֹן=their | hzy | !noun (infinitive form) + 3mp | and their appearance
+כְּ=like.מֶחֱזֵי | hzy | !noun (infinitive form), construct | like the appearance of
+וְ=.יֶ~he_f.חֱזִ.נֵּיהּ=him | hzy | G impf 3ms+3ms | and (the priest) shall see him
+יֶ~he_f.חֱזִ.נַּהּ=it | hzy | G impf 3ms+3fs | he sees it
+וְ=.יִתַּ~Gt.חֲזִי | hzy | Gt impf 3ms | and he shall be seen
+וְ=.יִתַּ~Gt.חֲזֵי | hzy | Gt impf 3ms | and it shall be shown
+תִּתְ~Gt.חֲזֵי | hzy | Gt impf 3fs | it appears
+וִ=and.י~he_f.סָאֵב | sav | D impf 3ms | and (the priest) shall declare impure
+וִ=and.י~he_f.סָאֵבִ.נֵּיהּ=him | sav | D impf 3ms+3ms | and he shall declare him impure
+וִ=and.י~he_f.סָאֵבִ.ינֵיהּ=him | sav | D impf 3ms+3ms | and he shall declare him impure
+יְ~he_f.סָאֵבִ.נֵּיהּ=him | sav | D impf 3ms+3ms | he shall declare him impure
+סָאֳב.ָא=emph | sav | a emph | impure
+מְ~ptcD.סָאֳב.ָא=emph | sav | Dp ptc emph | impure
+וְ=.יִ~they_f.סְאֲב.וּן~mp | sav | G impf 3mp | and they are impure
+לְ=.אִסְתָּ~passive (Ishtaf‘al).אָב.ָא~inf_end | sav | Gt inf | to become impure | the ת moves after the ס
+לְ=.סַאֲבוּת.ֵיהּ=it | sav | D inf+3ms | to declare it impure
+וְ=.יַ~C.סְגַּר | sgr | C impf 3ms | and he shall quarantine
+דְּ=that.יַ~C.סְגַּר | sgr | C impf 3ms | that (the priest) quarantined
+וְ=.יַ~C.סְגְּרִ.נֵּיהּ=him | sgr | C impf 3ms+3ms | and he shall quarantine him
+וְ=.יַ~C.סגְּרִ.נֵּיהּ=him | sgr | C impf 3ms+3ms | and he shall quarantine him
+יַ~C.סְגְּרִ.נֵיהּ=him | sgr | C impf 3ms+3ms | he shall (not) quarantine him
+וִ=and.י~he_f.דַכִּ.נֵּיהּ=him | dky | D impf 3ms+3ms | and he shall declare him pure
+וִ=and.י~he_f.דַכִּי | dky | D impf 3ms | and he shall declare pure
+וִ=and.י~he_f.דַכֵּי | dky | D impf 3ms | and he shall declare pure
+לְ=.מִ~inf.דַּכֵּי | dky | Dt inf | for the one being purified | the passive ת merges
+דְּ=who is.מִ~ptcGt.דַּכֵּי | dky | Dt ptc ms | who is being purified | the passive ת merges
+דְ=who is.מִ~ptcGt.דַּכֵּי | dky | Dt ptc ms | who is being purified
+דִ=who is.מְ~ptcGt.דַּכֵּי | dky | Dt ptc ms | who is being purified
+אוֹסָפ.ָא~inf_end | osafa | n | (with) spreading (doubles the verb: if it spreads further)
+אוֹ~C.סֵפ.ַת~she_p | ysf | C pf 3fs | it has spread
+וְ=.רשֶׁם | rishma | n cs | and a mark of (Hebrew: וּמִחְיַת)
+רשֶׁם | rishma | n cs | the mark of
+עַתִּיק.ָא=emph | attiq | a fs emph | chronic (lit. old)
+מִ~inf.סְגָּא | sgy | G inf | (with) spreading (doubles the verb: if it spreads widely)
+תִ~she_f.סְגֵּי | sgy | G impf 3fs | it spreads
+סְגִיא.ָה=emph | sgy | !participle, fem. sing. | spreading (lit. increasing)
+סָגְי.ָא~fs | sgy | G ptc fs | spreading
+חֲפ.ַת~she_p | hpy | G pf 3fs | it has covered
+יְ~he_f.תוּב | twv | G impf 3ms | it turns back
+וִ=and.י~he_f.תוּב | twv | G impf 3ms | and (the priest) shall return
+שִׁחֲנ.ָא=emph | shihna | n emph | a boil
+בְּ=in.שִׁחֲנ.ָא=emph | shihna | n emph | in the boil
+וְ=.יִתַּ~Dt.סֵּי | asy | Dt impf 3ms | and it is healed | the passive ת merges
+אִתַּ~Dt.סִּי | asy | Dt pf 3ms | it has healed | the passive ת merges
+סַמְק.ָא=emph | simmoq | a fs emph | reddish
+סַמְּק.ָא=emph | simmoq | a fs emph | reddish
+סַמּוֹק | simmoq | a | reddish
+סֻמָּק | summaq | a | red(dish)
+מַכִּיךְ | makkikh | a | lower
+וּ=.מַכִּיכ.ָא~fs | makkikh | a fs | and low
+בְּ=in.אַתְר.ָהָא=its | atar | n+3fs | in its place
+בִ=in the.דְקָן | diqna | n | in the beard
+דַּעְדָּק | daqdaq | a | thin
+נִתְק.ָא=emph | nitqa | n emph | a bald spot (Hebrew: נֶתֶק)
+וּ=.לְ=for.נִתְק.ָא=emph | nitqa | n emph | and for the bald spot
+אֻכָּם | ukkam | a | black
+וִ=and.י~he_f.גַלַּח | glh | D impf 3ms | and he shall shave
+יְ~he_f.גַלַּח | glh | D impf 3ms | he shall (not) shave
+יְ~he_f.גַלָּח | glh | D impf 3ms | he shall shave
+סָחֳרָנ.ֵי~cs_pl | shor | n mp cs | the surroundings of
+יְ~he_f.בַקֵּר | bqr | D impf 3ms | (the priest) need (not) seek
+צְמַח | tsmh | G pf 3ms | has grown
+בִּסְרְ.הוֹן=their | bsr | n+3mp | their flesh
+בְּ=in.בִשְׂר.ַהּ=her | bsr | n+3fs | in her flesh
+בִּשְׂר.ֵיהּ=his | bsr | n+3ms | his flesh
+בִשְׂר.ֵיהּ=his | bsr | n+3ms | his flesh
+מִ=from.בִּשְׂר.ֵיהּ=his | bsr | n+3ms | from his flesh
+בָּהֲק.ָא=emph | bahaqa | n emph | a (harmless) rash (Hebrew: בֹּהַק)
+יַ~he_f.תַּר | ntr3 | G impf 3ms | (his hair) falls out | the נ of נתר is absorbed
+קְרַח | qrh | a | bald (at the back)
+בְ=in.קָרָחוּת.ֵיהּ=his | qarhut | n fs+3ms | in his baldness (at the back)
+בְּ=in.קָרָחוּת.ֵיהּ=his | qarhut | n fs+3ms | in his baldness (at the back)
+גְּלוֹשׁ | glosh | a | bald in front
+בִ=in.גְלוֹשׁוּת.ֵיהּ=his | gloshut | n fs+3ms | in his baldness in front
+אֲפּ.וֹהִי=his | anpin | n mp+3ms | his face
+מְ~ptcD.בַזְּע.ִין~mp | bza | Dp ptc mp | torn
+פְרִיעַ | perua | a | loose (i.e. unshorn)
+שָׂפָם | safam | n | (his) upper lip
+כַּ=like.אֲבֵל.ָא=emph | avl | !participle, emph | like a mourner
+יִתְ~Dt.עַטָּף | tf | Dt impf 3ms | he shall wrap himself
+מוֹתְב.ֵיהּ=his | motav | n+3ms | his dwelling
+וּ=.לְבוּשׁ.ָא=emph | levush | n emph | and the garment
+לְבוּשׁ.ָא=emph | levush | n emph | the garment
+בִּ=in.לְבוּשׁ.ָא=emph | levush | n emph | in the garment
+עֲמַר | amar | n | wool
+וּ=.לְ=of.עַמְר.ָא=emph | amar | n emph | and of wool
+כִּתָּן | kittana | n | linen
+כִתָּנ.ָא=emph | kittana | n emph | linen
+לְ=of.כִתָּנ.ָא=emph | kittana | n emph | of linen
+בְ=in.כִתָּנ.ָא=emph | kittana | n emph | in linen
+שִׁתְי.ָא=emph | shitya | n emph | the warp
+בְ=in.שִׁתְי.ָא=emph | shitya | n emph | in the warp
+עַרְב.ָא=emph | arva | n emph | the woof
+עֲבִידַת | avidta | n fs cs | the work of
+מְשָׁךְ | mashkha | n | leather (lit. skin)
+דִּ=of.מְשָׁךְ | mashkha | n | of leather
+יָרוֹק | yeroq | a | green(ish)
+מַאן | mana | n cs | an article of
+מְ~ptcD.חַסְר.ָא~fs | hsr2 | D ptc fs | harmful (Hebrew: מַמְאֶרֶת)
+תּוֹ~you_f.קְדִ.נֵּיהּ=it | yqd | C impf 2ms+3ms | you shall burn it | the י of יקד becomes ו
+תוֹ~you_f.קְדִ.נֵּיהּ=it | yqd | C impf 2ms+3ms | you shall burn it | the י of יקד becomes ו
+תַּבְר.ָא=emph | tevira | n emph | a break (i.e. a fret, wearing away)
+בְּ=in.שְׁחִיקוּת.ֵיהּ=its | shhiqut | n fs+3ms | in its worn side
+בְ=in.חַדָּתוּת.ֵיהּ=its | hadatut | n fs+3ms | in its new side
+וְ=.יִצְ~Dt.טַבַּע | tsba | Dt impf 3ms | and it shall be washed (lit. dipped) | the ת becomes ט after the צ
+צִפְּר.ִין~pl | tsippar | n mp abs | birds
+צִפְּר.ָא=emph | tsippar | n emph | the bird
+צִפֲּר.ָא=emph | tsippar | n emph | the bird
+דְּ=of.צִפֲּר.ָא=emph | tsippar | n emph | of the bird
+וּ=.בְ=with.צִפֲּר.ָא=emph | tsippar | n emph | and with the bird
+דָּכְי.ָן~fp | dakhi | a fp | pure
+דְ=of.אַרְז.ָא=emph | arza | n emph | of cedar
+מַבּוּעַ | mabbua | n | spring (water)
+דִּ=that was.נְכִיס.ָא=emph | nks | Gp ptc emph | that was slaughtered
+דִ=that was.נְכִיס.ָא=emph | nks | Gp ptc emph | that was slaughtered
+וְ=.יַ~he_f.סְחֵי | shy | C impf 3ms | and he shall wash
+וְ=.יַ~they_f.סְח.וּן~mp | shy | C impf 3mp | and they shall wash
+דִּקְנ.ֵיהּ=his | diqna | n+3ms | his beard
+גְּבִינ.ֵי~cs_pl | gevina | n mp cs | the eyebrows of
+וְ=.אִמַּרְתּ.ָא=emph | imra | n fs emph | and a ewe lamb
+עֶסְרוֹנ.ִין~pl | isrona | n mp abs | tenths (of an ephah)
+וְ=.לֻגּ.ָא=emph | luga | n emph | and a log (of)
+לֻגּ.ָא=emph | luga | n emph | the log
+מִ=from.לֻּגּ.ָא=emph | luga | n emph | from the log
+וִ=and.י~he_f.קִים | qwm | C impf 3ms | and he shall place (lit. set up)
+וְ=.יָתְ.הוֹן=them | yat | part+3mp | and them
+מִסְכֵּן | mskn | !passive participle | poor
+מַ~ptcC.דְבְּק.ָא~fs | dbq | C ptc fs | (his means) reach (lit. reaching)
+דְּ=.פִיל | pyl | Gp ptc ms | mixed
+לְ=for.מִנְח.ָא=emph | minhta | n emph | for a meal offering
+יְ~he_f.רִיק | ryq | C impf 3ms | he shall pour
+אַחֲסְנְתְּ.כוֹן=your | ahsanta | n fs+2mp | your possession
+וִ=and.י~they_f.פַנּ.וּן~mp | pny3 | D impf 3mp | and they shall clear out
+בְּ=in.כָתְל.ֵי~cs_pl | kotla | n mp cs | in the walls of
+כָּתְל.ָא=emph | kotla | n emph | the wall
+פַּחֲת.ִין~pl | pahta | n mp abs | depressions (Hebrew: שְׁקַעֲרוּרֹת)
+וִ=and.י~they_f.שַׁלְּפ.וּן~mp | shlf | D impf 3mp | and they shall pull out
+דְּ=after.שַׁלִּיפ.וּ~they_p | shlf | D pf 3mp | after they pulled out
+וְ=.יִ~they_f.רְמ.וּן~mp | rmy | G impf 3mp | and they shall throw
+יְ~they_f.קַלְּפ.וּן~mp | qlf2 | D impf 3mp | they shall scrape off
+קַלִּיפ.וּ~they_p | qlf2 | D pf 3mp | they scraped off
+דְ=after.קַלִּיפ.וּ~they_p | qlf2 | D pf 3mp | after they scraped off
+מִ=from.גָּיו | go | prep | from inside
+וַ=.עֲפַר | afra | n | and earth (i.e. plaster)
+עֲפַר | afra | n | the earth (plaster) of
+וִ=and.י~he_f.שׁוּעַ | shwa | G impf 3ms | and he shall plaster
+דְּ=after.אִתְּ~Gt.שָׁע | shwa | Gt pf 3ms | after (the house) was plastered | the passive ת merges
+דְּ=after.אִתְּ~Gt.שַׁע | shwa | Gt pf 3ms | after (the house) was plastered | the passive ת merges
+וִ=and.י~he_f.תָרַע | tr | D impf 3ms | and he shall break down
+אַבְנ.וֹהִי=its | avna | n fp+3ms | its stones
+אָע.וֹהִי=its | a | n mp+3ms | its timber
+וִ=and.י~he_f.כַפַּר | kpr | D impf 3ms | and he shall atone
+דָּאִיב | dwv | G ptc ms | has a discharge
+וּ=.לִ=for.דְ=him who.דָאִיב | dwv | G ptc ms | and for him who has a discharge
+דָיְב.ָא~fs | dwv | G ptc fs | has a discharge
+יְ~he_f.דוּב | dwv | G impf 3ms | (her blood) flows
+תְ~she_f.דוּב | dwv | G impf 3fs | she has a discharge
+דּוֹב.ֵיהּ=his | dova | n+3ms | his discharge
+בְּ=in.דוֹב.ֵיהּ=his | dova | n+3ms | in his discharge
+מִ=from.דּוֹב.ֵיהּ=his | dova | n+3ms | from his discharge
+דוֹב.ַהּ=her | dova | n+3fs | her discharge
+מִ=from.דּוֹב.ַהּ=her | dova | n+3fs | from her discharge
+דּוֹב | dova | n cs | the discharge of
+מִ=from.דּוֹב | dova | n cs | from the discharge of
+דּוֹבָנ.ָא=emph | dova | n mp emph | the one with a discharge (lit. the discharges)
+דְּ=of.דוֹבְנ.ָא=emph | dova | n mp emph | of the one with a discharge
+רָר | rwr | G pf 3ms | runs
+חָתִים | htm | Gp ptc ms | is blocked (lit. sealed)
+מָנ.ָא=emph | mana | n emph | the vessel
+בּ=in.מִשְׁכְּב.ֵיהּ=his | mishkav | n+3ms | on his bed
+מִשְׁכַּב | mishkav | n cs | the bed of
+כְּ=like.מִשְׁכַּב | mishkav | n cs | like the bed of
+יֵ~he_f.רוֹק | rq2 | G impf 3ms | (he) spits
+מֶרְכְּב.ָא=emph | merkava | n emph | saddle
+יִ~he_f.רְכּוּב | rkv | G impf 3ms | (he) rides
+שְׁטַף | shtf | G pf 3ms | he (has not) rinsed
+יִתָּ~Gt.בַר | tvr | Gt impf 3ms | it shall be broken | the passive ת merges with the ת of תבר
+דְּ=of.אָע | a | n | of wood
+יִשְׁתַּ~passive (Ishtaf‘al).טַּף | shtf | Gt impf 3ms | it shall be rinsed | the ת moves after the ש and becomes ט
+וְ=.יִ~he_f.מְנֵי | mny | G impf 3ms | and he shall count
+וְ=.יִ~he_f.תְּנִ.נּוּן=them | yhb | G impf 3ms+3mp | and he shall give them | the future of יְהַב comes from נתן
+שִׁכְבַת | shikhva | n fs cs | an emission of (seed)
+תִ~she_f.שְׁכּוּב | shkv | G impf 3fs | she lies
+הִא | hu | pron 3fs | it (= הִיא)
+כְּ=like.יוֹמ.ֵיהּ=its | yom | n mp+3ms | like the days of (lit. its days)
+וְ=.תַ~ypl_f.פְרְשׁ.וּן~mp | prsh | C impf 2mp | and you shall separate
+מַשְׁכְּנ.ִי=My | mashkan | n+1cs | My Tabernacle
+וְ=.לִ=for.דְ=him who.דָאִיב | dwv | G ptc ms | and for him who has a discharge
+עֹמֶק | amqa | n | a (sunken) lesion (as in the Hebrew: שְׂאֵת)
+וּ=.בֵ.יהּ=it | be | prep+3ms | and in it
+12:4>מִ~inf.שְׁלַם | shlm | G inf | the completing of (עַד מִשְׁלַם = until the completion of)
+12:6>לִ=for.בְרָא | bnin | n ms emph | for a son
+13:3>וּ=and.מֶחֱזֵי | hezu | n cs | and the appearance of
+13:3>וֶ=and.יֶחֱזֵי | hzy | G impf 3ms | and (the priest) shall see
+13:6>וְ=and.יֶחֱזֵי | hzy | G impf 3ms | and (the priest) shall see
+13:30>דִ=of.קְנָא | diqna | n ms emph | of the beard
+13:38>בַּהֲרָן | bahara | n fpl | bright spots
+13:52>בְּ=in.עַמְרָא | amar | n ms emph | in wool
+14:7>וִ=and.ישַׁלַּח | shlh | D impf 3ms | and he shall send off (the bird)
+14:12>וִ=and.ירִים | rwm | C impf 3ms | and he shall lift (them) up
+14:14>וְ=and.יִתֵּן | yhb | G impf 3ms | and he shall put
+14:19>וְ=and.יַעְבֵּד | avad | G impf 3ms | and (the priest) shall offer (lit. make)
+14:21>וְ=and.לֵית | leit | neg | and (his means) do not (reach)
+14:35>וְ=and.יֵיתֵי | aty | G impf 3ms | and (the owner) shall come
+14:42>וְ=and.יַעֲלוּן | ill | C impf 3mp | and they shall put in (lit. bring in)
+14:43>וְ=and.יִסְגֵּי | sgy | G impf 3ms | and (the plague) spreads
+15:23>בְּ=in.מִקְרְבֵ.יהּ=his | qrb | G inf+3ms | when he touches (lit. in his coming near)
+15:25>דְּמַ.הּ=her | dam | n+3fs | her blood
+15:25>בְּ=in.לָא | la | neg | not in (the time of)
+15:28>וְ=and.תִמְנֵי | mny | G impf 3fs | and she shall count
+15:29>וְ=and.תַיְתִי | aty | C impf 3fs | and she shall bring

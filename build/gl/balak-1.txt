@@ -1,0 +1,248 @@
+# Balak, all in one batch (other aliyah files are stubs)
+בָּלָק | name | name | Balak
+צִפּוֹר | name | name | Tzippor
+מוֹאֲבָאָה | name | name | the Moavite (Moav)
+לְ=to.מוֹאֲבָאָה | name | name | to the Moavite(s)
+יְשֵׁיצוּן | shetsi | Sh impf 3mp | will finish off
+סַחֲרָנָ.נָא=us | sahran | n+1cp | (all) around us
+דִ=as.מְלַחִיךְ | lhk | D impf 3ms | as (the ox) licks up
+יְרוֹקָא | yeroq | n emph | the greenery
+וּ=and.בָלָק | name | name | and Balak
+לִ=to.פְתוֹר | name | name | to Petor
+מִ=from.לְּ=to.קִבְלִ.י=me | qbl | prep+1cs | opposite me
+אֵכּוּל | ykl | G impf 1cs | I will be able
+וַ=and.אֲתָרֵכִ.נֵּיהּ=him | trk | D impf 1cs+3ms | and I will drive him out
+תְבָרַךְ | brk | D impf 2ms | you bless
+תְלוֹט | lwt | G impf 2ms | you curse
+וְ=and.קִסְמ.ַיָּא=pl | qisma | n mp emph | and (the fees for) divination
+בָלָק | name | name | Balak
+בִּיתוּ | bwt | G impv mp | stay overnight
+לְ=to.בִלְעָם | name | name | to Bilam
+תֵזִל | azl | G impf 2ms | you shall go
+לְ=to.מִ~inf.שְׁבְּקִ.י=me | shbq | G inf+1cs | to let me
+לְ=to.מִ~inf.זַל | azl | G inf | to go
+סָרֵב | srv | G pf 3ms | (Bilam) refused
+לְ=to.מֵ~inf.תֵי | aty | G inf | to come
+וְ=and.יַקִּיר.ִין~mp | yaqqir | a mp | and more honored
+מִ=from.לְּ=to.מֵ~inf.תֵי | aty | G inf | from coming
+אֲיַקְּרִ.נָּךְ=you | yqr | D impf 1cs+2ms | I will honor you
+וּ=and.דְהָב | dahava | n | and gold
+אֱלָהִ.י=my | elah | n+1cs | my God
+אֲמַלֵּל | mll | D impf 1cs | I speak
+וְ=and.זָרִיז | zrz | D pf 3ms | and he saddled (lit. girded)
+אַתָּנֵ.יהּ=his | atana | n+3ms | his she-donkey
+לְ=as.שָׂטָן | satan | n | as an adversary
+רָכִיב | rkv | G ptc ms | riding
+אַתָּנָא | atana | n emph | the she-donkey
+שְׁלִיפָא | shlf | Gp ptc fs | drawn
+וּ=and.סְט.ַת~she_p | sty | G pf 3fs | and she turned aside
+לְ=to.אַסְטָיוּתַ.הּ=her | sty | C inf+3fs | to turn her aside
+בִּ=in.שְׁבִיל | shvila | n cs | in the path of
+דְּ=with.גָדֵרָא | gadera | n emph | with a fence
+וְ=and.גָדֵרָא | gadera | n emph | and a fence
+וְ=and.אִדְחֵקַ.ת~she_p | dhq | Gt pf 3fs | and she pressed herself
+וּ=and.דְחֵקַ.ת~she_p | dhq | G pf 3fs | and she pressed
+רִגְלָא | regel | n emph | the foot
+לְ=to.מִ~inf.מְחַ.הּ=her | mhy | G inf+3fs | to strike her
+לְ=to.מֶ~inf.עְבָּר | avr | G inf | to pass
+עָק | wq | G ptc ms | narrow (lit. distressing)
+לְ=to.מִ~inf.סְטֵי | sty | G inf | to turn aside
+וּ=and.רְבָעַ.ת~she_p | rva | G pf 3fs | and she lay down
+דְַ=of.אַתָּנָא | atana | n emph | of the she-donkey
+מְחִיתַ.נִּי=me | mhy | G pf 2ms+1cs | you have struck me
+לְ=to.אַתָּנָא | atana | n emph | to the she-donkey
+חַיִּכְ.תְּ~you_p | hyk | D pf 2fs | you have mocked
+אִלּוּפוֹן | ilu | conj | if only
+קְטַלְתִּ.יךְ=you | qtl | G pf 1cs+2fs | I would kill you
+אַתָּנָ.ךְ=your | atana | n+2ms | your she-donkey
+רְכַבְ.תְּ~you_p | rkv | G pf 2ms | you rode
+מִ=since.דְּ=.אִיתָ.ךְ=you | it | part+2ms | since you existed
+הֲ=?.מֵ~inf.ילַף | ylf | G inf abs | have I (ever) been accustomed
+אַלִּיפְנָא | ylf | D pf 1cs | I have been accustomed (lit. learned)
+מְחִיתָא | mhy | G pf 2ms | have you struck
+אֲתָּנָ.ךְ=your | atana | n+2ms | your she-donkey
+נְפָקִית | npq | G pf 1cs | I have come out
+לְ=as.מִסְטַן | satan | n | as an adversary
+לְ=to.מֵ~inf.זַל | azl | G inf | to go
+בְּ=on.אוּרְחָא | orah | n emph | on the road
+לְ=against.קִבְלִ.י=me | qbl | prep+1cs | against me
+וַ=and.חֲזַתְ.נִי=me | hzy | G pf 3fs+1cs | and (the donkey) saw me
+סְט.ַת~she_p | sty | G pf 3fs | she turned aside
+לָ=to.קֳדָמוּתִ.י=me | qadmuta | n+1cs | against me (lit. to meet me)
+אֵתוֹב | twv | G impf 1cs | I will return
+שְׁלָחִית | shlh | G pf 1cs | I sent
+אָתֵיתָא | aty | G pf 2ms | did you come
+הַ=?.בְּ=in.קוּשְׁטָא | qushta | n emph | indeed (lit. in truth)
+לְ=to.יַקְּרוּתָ.ךְ=you | yqr | D inf+2ms | to honor you
+לְ=to.בָלָק | name | name | to Balak
+אָתֵיתִי | aty | G pf 1cs | I have come
+הֲ=?.מֵ~inf.יכַל | ykl | G inf abs | (am I) able at all
+יָכִלְנָא | ykl | G ptc ms+1cs | am I able
+בְּ=in.פוּמִ.י=my | pum | n+1cs | in my mouth
+מָחוֹז.וֹהִי=his | mehoza | n mp+3ms | his towns (קִרְיַת מָחוֹזוֹהִי = the city of his towns)
+לְ=to.רָמַת | ramta | n cs | to the height(s) of
+דַּחַלְתֵּ.יהּ=his | dahalta | n+3ms | his idol (lit. object of fear)
+קְצַת | qetsat | n | a part (of)
+בְּנֵה | bny | G impv ms | build
+אִתְעַתַּד | td | Dt impv ms | stand ready (present yourself)
+דְ=that.יַחֲזִ.נַּנִי=me | hzy | C impf 3ms+1cs | that He shows me
+סַדָּרִית | sdr | D pf 1cs | I have arranged
+וְ=and.אַסֵּקִית | slq | C pf 1cs | and I have offered (lit. brought up)
+מַתְלֵ.יהּ=his | matla | n+3ms | his parable
+לוּט | lwt | G impv ms | curse
+אֲלוֹטֵ.יהּ=him | lwt | G impf 1cs+3ms | can I curse him
+לַטְיֵ.הּ=him | lwt | G pf 3ms+3ms | (God) has cursed him
+אֲתָרְכֵ.יהּ=him | trk | D impf 1cs+3ms | can I drive him out
+תָרְכֵ.יהּ=him | trk | D pf 3ms+3ms | (Hashem) has driven him out
+חֲזִיתֵ.יהּ=him | hzy | G pf 1cs+3ms | I see him
+סְכִיתֵ.יהּ=him | skh | G pf 1cs+3ms | I behold him
+וּ=and.בַ=among.עֲמָמַ.יָּא=pl | amma2 | n mp emph | and among the nations
+יִתְדָּנוּן | dyn | Gt impf 3mp | they will (not) be judged
+גְּמִירָא | gmr | n emph | (for) destruction
+יֵיכוֹל | ykl | G impf 3ms | can
+דַּעְדְּק.ַיָּא=pl | daqdaq | a mp emph | the young children (lit. small ones)
+דְּ=of.אָמִיר | amr | Gp pf 3ms | (of whom) it was said
+דְ=of.קַשִּׁיט.וֹהִי=his | qashshit | a mp+3ms | of His upright ones
+סוֹפִ.י=my | sof | n+1cs | my end
+כְּ=like.וָתְ.הוֹן=them | kwat | prep+3mp | like theirs
+סַנְאַ.י=my | sana | n mp+1cs | my enemies
+אֶטַּר | ntr | G impf 1cs | I take care
+אוֹחֳרַן | ohoran | a ms | another
+דְּ=from.תֵחֲזִ.נֵּיהּ=it | hzy | G impf 2ms+3ms | from where you will see it
+קְצָתֵ.יהּ=its | qetsat | n+3ms | (only) its edge (a part of it)
+וְ=and.כוּלֵּ.יהּ=it | kol | n+3ms | and all of it
+וּ=and.תְלוּטֵ.יהּ=it | lwt | G impf 2ms+3ms | and curse it
+סְכוּתָא | sekhuta | n emph | the lookout (Hebrew: צֹפִים)
+אִתְמְטֵי | mty | Gt impf 1cs | I will be met (by Hashem)
+בְּ=in.פוּמֵ.יהּ=his | pum | n+3ms | in his mouth
+אָצֵית | tsyt | C impv ms | listen
+צִפֹּר | name | name | Tzippor
+וּ=and.מְכַדְּב.ִין~mp | kdb | D ptc mp | and lie
+גָּזְר.ִין~mp | gzr | G ptc mp | decide (lit. decree)
+וּ=and.מִתְמַלְּכ.ִין~mp | mlk2 | Dt ptc mp | and reconsider (lit. take counsel)
+מִתְקַיָּם | qwm2 | Dt ptc ms | is fulfilled
+וַ=and.אֲבָרֵכִ.נֵּיהּ=him | brk | D impf 1cs+3ms | and I will bless him
+אִסְתַּכָּלִית | skl | Dt pf 1cs | I have looked
+פָּלְח.ֵי=pl | plh | G ptc mp cs | worshippers of
+גִּלּוּל.ִין=pl | gillula | n mp | idols
+לֵאוּת | laut | n cs | mischief of (lit. toil of)
+אֱלָהָ.הוֹן=their | elah | n+3mp | their God
+בְּ=as.סַעְדְּ.הוֹן=their | saad | n+3mp | is their help
+מַלְכְּ.הוֹן=their | malka | n+3mp | their King
+תּוּקְפָּא | tqof | n emph | strength
+נַחֲשׁ.ַיָּא=pl | nahasha2 | n mp emph | diviners (of omens)
+לִ=for.דְ=of.בֵית | beit | n cs | for the house of
+קְסָמ.ַיָּא=pl | qassama | n mp emph | soothsayers
+רְעַן | ry | G ptc mp | desire
+כְּ=like.לֵיתָא | leita | n emph | like a lion (lit. lioness)
+יִתְנַטָּל | ntl | Dt impf 3ms | (like a lion) it lifts itself up
+וְ=and.נִכְס.ֵי=pl | nikhsin | n mp cs | and the possessions of
+יֵירָת | yrt | G impf 3ms | it will inherit
+מֵ~inf.ילַט | lwt | G inf abs | (indeed) cursing
+תְלוּטִ.נּוּן=them | lwt | G impf 2ms+3mp | curse them
+בְּרָכָא | brk | D inf abs | (indeed) bless
+תְבָרֵכִ.נּוּן=them | brk | D impf 2ms+3mp | bless them
+אֲדַבְּרִ.נָּךְ=you | dbr | D impf 1cs+2ms | I will lead you
+דְּ=that.מִסְתַּכְּיָא | skh | Gt ptc fs | that looks out
+הֲלַךְ | hlk2 | G pf 3ms | he went
+נְחָשׁ.ַיָּא=pl | nahasha2 | n mp emph | (to meet) the diviners
+וּ=and.זְקֵף | zqf | G pf 3ms | and he lifted
+עֵנ.וֹהִי=his | eina | n fp+3ms | his eyes
+לְ=by.שִׁבְט.וֹהִי=his | shivta | n mp+3ms | by his tribes
+אֵמַר | amr | G pf 3ms | the saying of (lit. said)
+וּ=and.מִתְגְּלֵי | gly | Gt ptc ms | and (it is) revealed
+מֵישְׁרָ.יךְ=your | mashrita | n mp+2ms | your encampments
+כְּ=like.נַחֲל.ִין=pl | nahla | n mp | like streams
+כְּ=like.גִנַּת | ginta | n cs | like a garden of
+דִּ=that.נְצִיב | nsb | G pf 3ms | that (Hashem) planted
+כְּ=like.אַרְז.ִין=pl | arza | n mp | like cedars
+דִּ=that.נְצִיב.ִין~mp | nsb | Gp ptc mp | that are planted
+וְ=and.יִשְׁלוֹט | shlt | G impf 3ms | and he shall rule
+וְ=and.יִתְקוֹף | tqf | G impf 3ms | and (his kingdom) shall be stronger
+מֵ=than.אֲגַג | name | name | than Agag
+מַלְכֵּ.יהּ=his | malka | n+3ms | his king
+וְ=and.תִתְנְטֵל | ntl | Gt impf 3fs | and (his kingdom) shall be exalted
+תָּקְפָּא | tqof | n emph | strength
+נִכְס.ֵי=pl | nikhsin | n mp cs | the possessions of
+וּ=and.בְ=in.בִזַּת | bizta | n cs | and in the spoil of
+מַלְכֵּ.יהוֹן=their | malka | n mp+3mp | their kings
+יִתְפַּנְּקוּן | pnq | Dt impf 3mp | they will delight
+וְ=and.אַרְעַתְ.הוֹן=their | ara | n+3mp | and their land
+דִ=that.תְזַעְזְעִ.ינֵיהּ=him | zz | Q impf 3fs+3ms | that will shake him
+בְּרִיכָ.ךְ=you | brk | Dp ptc mp+2ms | those who bless you
+וְ=and.לִיטָ.יךְ=you | lwt | Gp ptc mp+2ms | and those who curse you
+דְ=of.בָלָק | name | name | of Balak
+בְּ=against.בִלְעָם | name | name | against Bilam
+וּ=and.שְׁקָפִ.נּוּן=them | shqf | G pf 3ms+3mp | and he struck them (together)
+קְרִיתָ.ךְ=you | qry | G pf 1cs+2ms | I called you
+לְ=to.אַתְרָ.ךְ=your | atar | n+2ms | to your place
+מְנָעָ.ךְ=you | mna | G pf 3ms+2ms | has held you back
+יְקָר | yqr | n | honor
+לְ=to.אִזְגַדָּ.יךְ=your | izgad | n mp+2ms | to your messengers
+שַׁלְּחַת | shlh | G pf 2ms | you sent
+אֲמַלְכִ.ינָךְ=you | mlk2 | C impf 1cs+2ms | I will advise you
+חֵזוּ | hezu | n | a vision
+אִית.וֹהִי=he | it | part+3ms | it (is not near)
+דְבָב.וֹהִי=his | dvavu | n+3ms | his enemies (בַּעֲלֵי דְבָבוֹהִי)
+יַצְלַח | tslh | C impf 3ms | shall prosper
+וְ=and.יֵחוּת | nht | G impf 3ms | and (one) shall descend
+וְ=and.יוֹבֵד | abd | C impf 3ms | and he shall destroy
+מְשֵׁזֵב | shyzv | Shp ptc ms | the survivor
+יֵיבָד | abd | G impf 3ms | shall perish
+שַׁלְמָאָה | name | name | the Shalmaite (Hebrew: הַקֵּינִי)
+בִ=in.כְרַךְ | krakha | n | in a walled city
+מְדוֹרָ.ךְ=your | medor | n+2ms | your dwelling
+לְ=for.שֵׁצָאָה | shetsi | Sh inf | for destruction
+יִשְׁבִּ.נָּךְ=you | shby | G impf 3ms+2ms | will take you captive
+דְּ=who.יֵחוֹן | hyy | G impf 3mp | who will be alive
+יַעֲבֵּד | avad | G impf 3ms | (God) does
+וְ=and.סִיעַן | siata | n fp | and bands (of troops)
+יִצְטָרְחַן | tsrh | Gt impf 3fp | will be equipped (assembled)
+מֵ=from.רוֹמָאֵי | name | name | from the Romans
+יֵיבְדוּן | abd | G impf 3mp | they will perish
+לְ=to.דִבְח.ֵי=pl | divha | n mp cs | to the sacrifices of
+וְ=and.אִתְחַבַּר | hbr | Dt pf 3ms | and (Yisrael) joined
+לְ=to.בַעֲלָא | name | name | to Baal
+פְעוֹר | name | name | Peor
+וְ=and.דוּן | dyn | G impv ms | and judge
+דְּ=who.חַיַּב | hayyav | a ms | who is guilty (of)
+לְ=to.דַיָּנ.ֵי=pl | dayyan | n mp cs | to the judges of
+קְטוּל.וּ~they_p | qtl | G impv mp | kill
+דְּ=who.אִתְחַבָּרוּ | hbr | Dt pf 3mp | who joined
+מִדְיָנֵיתָא | name | name | the Midianite woman
+בָּכָ.ן~mp | bky | G ptc mp | weeping
+רָמְחָא | romha | n emph | a spear
+לְ=into.קוּבָתָא | qubta | n emph | into the tent (chamber)
+# global fixes
+בִּלְעָם | name | name | Bilam
+בִלְעָם | name | name | Bilam
+וּ=and.בִלְעָם | name | name | and Bilam
+דְ=of.בִלְעָם | name | name | of Bilam
+מַדְבְּח.ִין=pl | madbha | n mp | altars
+דְּ=who.אַפֵּקִ.נּוּן=them | npq | C pf 3ms+3mp | who brought them out
+מַלֵּלִית | mll | D pf 1cs | I spoke
+# scoped
+22:3>וּ=and.דְחֵל | dhl | G pf 3ms | and (Moav) was afraid
+22:8>וְ=and.אָתֵב | twv | C impf 1cs | and I will bring back (word)
+22:15>לְ=to.מִ~inf.שְׁלַח | shlh | G inf | to send
+22:18>לְ=to.מֶ~inf.עְבַּר | avr | G inf | to transgress (lit. pass over)
+22:19>וְ=and.אִדַּע | yd | G impf 1cs | and I will know
+22:24>כַּרְמ.ַיָּא=pl | karma | n mp emph | the vineyards
+22:37>מִ~inf.שְׁלַח | shlh | G inf abs | (indeed) sending
+22:38>דִּ=that.ישַׁוִּי | shwy | D impf 3ms | that (God) puts
+23:11>מְבָרְכַ.ת~you_p | brk | D pf 2ms | you have blessed (them)
+23:14>וְ=and.דַבְּרֵ.יהּ=him | dbr | D pf 3ms+3ms | and he took him
+23:19>כְ=like.מִלֵּי | milla | n mp cs | like the words of
+23:19>וְ=and.עָבֵד | avad | G ptc ms | and does
+23:23>בִּ=in.רְבוּת | rebuta | n cs | in the greatness of
+23:23>כְּ=at.עִדַּן | iddan | n | at this time
+23:24>דְּ=until.יִקְטוֹל | qtl | G impf 3ms | until it kills
+24:17>וְ=and.יִקְטוֹל | qtl | G impf 3ms | and he shall kill
+24:1>לְ=to.בָרָכָא | brk | D inf | to bless
+24:1>כִּ=as.זְמַן | zman | n | as time (after time)
+24:1>בִּ=by.זְמַן | zman | n | by time (i.e. time after time)
+24:3>דְּ=who.שַׁפִּיר | shapir | adv | who sees clearly (lit. well)
+24:13>דִּ=what.ימַלֵּל | mll | D impf 3ms | what (Hashem) speaks
+24:14>דְ=what.תַעְבֵּד | avad | G impf 3fs | what (this people) will do
+24:14>דְ=what.יַעְבֵּד | avad | G impf 3ms | what (this people) will do
+25:4>וּ=and.קְטוֹל | qtl | G impv ms | and kill

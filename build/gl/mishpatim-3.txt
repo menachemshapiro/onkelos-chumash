@@ -1,0 +1,91 @@
+# Shemot 22:4–26
+יֹ~C.אכִיל | akhal | C impf 3ms | (a man) lets (his animals) eat (lit. feeds)
+כְרָם | karma | n | a vineyard
+בְּעִיר.ֵהּ=his | beir | n+3ms | his livestock
+חַקְל.ֵהּ=his | haqla | n+3ms | his field
+כַּרְמ.ֵהּ=his | karma | n+3ms | his vineyard
+תִ~she_f.תַּ~Gt.פַּק | npq | Gt impf 3fs | (fire) breaks out | the passive ת merges; the נ of נפק is absorbed
+וְ=.יַ~C.שְׁכַּח | shkh | C impf 3ms | and it finds (i.e. catches)
+כּוּב.ִין~pl | kuva | n mp abs | thorns
+גְדִישׁ.ִין~pl | gdish | n mp abs | stacks of sheaves
+קֳמָא | qamta | n | standing grain
+שַׁלָמ.ָא~inf_end | shlm | D inf | (with) paying (doubles the verb: he shall surely pay)
+דְ=who.אַ~C.דְלֵק | dlq | C pf 3ms | who kindled
+דְלֶקְתּ.ָא=emph | delequta | n fs emph | the fire
+וְ=.יִ~they_f.תְ~Dt.גַנְב.וּן~mp | gnv | Dt impf 3mp | and they are stolen
+גַנָב.ָא=emph | ganava | n emph | the thief
+וְ=.יִתְ~Dt.קָרֵב | qrb | Dt impf 3ms | then (the owner) shall come near
+אוֹ~C.שִׁיט | oshit | C pf 3ms | (if he did not) stretch out (his hand)
+דְ=of.חוֹב | hova | n | of guilt (i.e. a claim)
+תּוֹר | tor | n | an ox
+תוֹר | tor | n | an ox
+חֲמַר | hmara | n | a donkey
+כְּסוּ | kesuta | n | a garment
+אֲבֶדְתּ.ָא=emph | avedta | n fs emph | lost thing
+יְ~they_f.חַיְב.וּן~mp | hyb | D impf 3mp | (the judges) declare guilty
+לְ=to.מִ~inf.טָר | ntr | G inf | to guard | the נ of נטר is absorbed
+22:6> לְ=to.מִ~inf.טַר | ntr | G inf | to guard | the נ of נטר is absorbed
+אִתְּ~Gt.בַר | tvr | Gt pf 3ms | (it) was injured (lit. broken) | the passive ת merges with the ת of תבר
+אִתְּ~Gt.בָר.ָא~inf_end | tvr | Gt inf | (with) being torn (doubles the verb: it was surely torn)
+יִתְּ~Gt.בַר | tvr | Gt impf 3ms | it was torn (lit. broken) | the passive ת merges with the ת of תבר
+וְ=.יִתְּ~Gt.בַר | tvr | Gt impf 3ms | and it is injured (lit. broken) | the passive ת merges with the ת of תבר
+מָר.ֵהּ=its | mare | n+3ms | its owner
+לְ=to.מָר.וֹהִי=its | mare | n mp+3ms | to its owner
+אִתְ~Gt.גְנָב.ָא~inf_end | gnv | Gt inf | (with) being stolen (doubles the verb: it was surely stolen)
+יִתְ~Gt.גְנֵב | gnv | Gt impf 3ms | it is stolen
+יַ~C.יְתִי | aty | C impf 3ms | let him bring | the א of אתי becomes י
+סַהֲד.ִין~pl | sahid | n mp abs | witnesses
+יִ~he_f.שְׁאַל | shl | G impf 3ms | (a man) borrows (lit. asks)
+אֲגִיר.ָא=emph | agr | Gp ptc ms emph | hired
+בְּ=for.אַגְר.ֵהּ=its | agra | n+3ms | (it came) for its hire
+יְ~he_f.שַׁדֵל | shdl2 | D impf 3ms | (a man) seduces
+מְ~ptcD.אַרְס.ָא~fs | ars | Dp ptc fs | betrothed
+מִ~inf.צְבָּא | tsby | G inf | (with) wanting (doubles the verb: he utterly refuses)
+יִ~he_f.צְבֵּי | tsby | G impf 3ms | (her father) wants
+לְ=.מִ~inf.תְּנַ.הּ=her | yhb | G inf+3fs | to give her | the infinitive of יְהַב comes from נתן
+יִ~he_f.תְקוֹל | tql | G impf 3ms | he shall weigh out
+כְּ=like.מוֹהֲר.ֵי~cs_pl | mohar | n mp cs | like the bride-price of
+חָרָשׁ.ָא=emph | harash | n emph | a sorceress (lit. sorcerer)
+תָ~you_f.חֵי | hyy | C impf 2ms | you shall (not) let live
+לְ=to.טַעְוַת | taawa | n fs cs | to the idols of
+תוֹ~ypl_f.נ.וּן~mp | ynh | C impf 2mp | you shall (not) wrong | the י of ינה becomes ו
+תְ~ypl_f.עִיק.וּן~mp | wq | C impf 2mp | (nor) oppress
+הֱוֵי.תוּן~ypl_p | hwy | G pf 2mp | you were
+וְ=.יִתָּם | yatma | n | and an orphan
+תְ~ypl_f.עַנ.וּן~mp | any | D impf 2mp | you shall (not) afflict
+עַנָא.ָה~inf_end | any | D inf | (with) afflicting (doubles the verb: if you afflict him at all)
+יִ~he_f.קְבֵל | qbl3 | G impf 3ms | he cries out
+אֱ~I_f.קַבֵּל | qbl2 | D impf 1cs | I will accept (i.e. hear)
+קְבִלְתּ.ֵהּ=his | qvila | n fs+3ms | his outcry
+רוּגְז.ִי=My | rugza | n+1cs | My anger
+נְשֵׁ.יכוֹן=your | nashin | n fp+2mp | your wives
+אַרְמְל.ִין~pl | armla | n fp abs | widows
+יַתְמ.ִין~pl | yatma | n mp abs | orphans
+תּוֹ~you_f.זֵף | zwf | C impf 2ms | you lend | the י becomes ו
+לְ=to.עַנְי.ָא=emph | anya | n emph | to the poor man
+כְּרַשְׁי.ָא=emph | karsha | n emph | a creditor
+תְ~ypl_f.שַׁוּ.וֹן~mp | shwy | D impf 2mp | you shall (not) impose (lit. put)
+חִבּוּלְי.ָא=emph | hibbulya | n emph | interest
+תְּ~you_f.תִיבִ.נֵהּ=it | twv | C impf 2ms+3ms | you shall return it
+כְסוּת.ֵהּ=his | kesuta | n fs+3ms | his garment
+בִּ=by.לְחוֹד.ַהּ=it | lhod | adv+3fs | by itself (i.e. his only one)
+תוֹתְב.ֵהּ=his | totva | n+3ms | his covering
+לְ=for.מַשְׁכּ.ֵיהּ=his | mashkha | n+3ms | for his skin
+חַנָנ.ָא=emph | hannana | a emph | gracious
+22:4> בַּ=in (another's).חֲקַל | haqla | n | in another's field
+22:7> בְּ=on.מָא | ma | pron | on what
+22:10> בְּ=on.מָא | ma | pron | on what
+22:26> בְּ=in.מָא | ma | pron | in what
+22:9> דְ=who.חָזֵי | hzy | G ptc ms | who sees
+22:10> וִ=and.י~he_f.קַבֵּל | qbl2 | D impf 3ms | and (its owner) shall accept
+22:11> מֵ=from.עִמ.ֵהּ=him | im | prep+3ms | from (being with) him
+22:19> דְ=who.דַבַּח | dbh | G ptc ms | whoever sacrifices
+22:22> מִ~inf.קְבַל | qbl3 | G inf | (with) crying out (doubles the verb: he cries out to Me)
+22:23> וְ=.יִ~he_f.תְקֵף | tqf | G impf 3ms | and (My anger) will grow strong
+22:23> בְּ=with.חַרְבּ.ָא=emph | harba | n emph | with the sword
+22:24> בְּ=to.עַמ.ִי=My | amma2 | n+1cs | to My people
+22:22> וֶ=.אֱ~I_f.קַבֵּל | qbl2 | D impf 1cs | (then) I will accept (i.e. hear)
+22:26> וֶ=.אֱ~I_f.קַבֵּל | qbl2 | D impf 1cs | and I will accept (i.e. hear)
+22:15> וְ=.יִ~he_f.שְׁכּוּב | shkv | G impf 3ms | and lies
+22:18> דְ=who.יִ~he_f.שְׁכּוּב | shkv | G impf 3ms | whoever lies
+22:19> לִ=to.שְׁמ.ָא=emph | shum | n emph | to the name of

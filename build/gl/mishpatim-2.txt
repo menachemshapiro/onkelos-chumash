@@ -1,0 +1,89 @@
+# Shemot 21:20–22:3
+יִ~he_f.מְחֵי | mhy | G impf 3ms | (a man) strikes
+וְ=.יִ~they_f.מְח.וּן~mp | mhy | G impf 3mp | and they strike
+אַמְת.ֵהּ=his | amta | n+3ms | his maidservant
+דְ=of.אַמְת.ֵהּ=his | amta | n+3ms | of his maidservant
+בְּ=with.שָׁלְטָ.ן~pl | shlt | !noun, plural | with a rod (lit. with authority)
+אִתְ~Gt.דָנ.ָא~inf_end | dyn | Gt inf | (with) being judged (doubles the verb: he shall surely be judged)
+יִתְּ~Gt.דָן | dyn | Gt impf 3ms | he shall be judged | the passive ת merges with the ד
+כַסְפּ.ֵהּ=his | kaspa | n+3ms | his money (i.e. property)
+כַּסְפּ.ֵהּ=its | kaspa | n+3ms | its money
+מַעַדְי.ָא=emph | dy | !participle (Af‘el), fem. sing., emphatic | a pregnant (woman)
+וַלְדָ.הָא=her | walad | n+3fs | her child
+אִתְ~Gt.גְבָא.ָה~inf_end | gby | Gt inf | (with) being fined (doubles the verb: he shall surely be fined)
+יִתְ~Gt.גְבֵי | gby | Gt impf 3ms | he shall be fined
+יְ~he_f.שַׁוִי | shwy | D impf 3ms | (her husband) imposes (lit. puts)
+יְ~they_f.שַׁוּ.וּן~mp | shwy | D impf 3mp | they impose
+בַּעֲל.ַהּ=her | bal | n+3fs | the husband of (the woman)
+שִׁנּ.ָא=emph | shinna | n fs emph | a tooth
+שִׁנ.ָא=emph | shinna | n fs emph | a tooth
+שִׁנ.ֵהּ=his | shinna | n fs+3ms | his tooth
+רַגְל.ָא=emph | regel | n fs emph | a foot
+כְּוָא.ָה=emph | kewaa | n emph | a burn
+פִּדְע.ָא=emph | pida | n emph | a wound
+מַשְׁקוֹפ.ֵי~pl | mashqofa | n mp | a bruise
+וִ=and.י~he_f.חַבְּלִ.נַהּ=it | hbl | D impf 3ms+3fs | and destroys it
+יִ~he_f.פְטְרִ.נֵהּ=him | ptr | G impf 3ms+3ms | he shall send him away
+עֵינ.ֵהּ=his | eina | n+3ms | his eye
+יַ~C.פֵּל | npl | C impf 3ms | knocks out (lit. makes fall) | the נ of נפל is absorbed
+יַ~he_f.גַח | ngh | G impf 3ms | gores | the נ of נגח is absorbed
+יַ~he_f.גָח | ngh | G impf 3ms | gores | the נ of נגח is absorbed
+תּוֹר.ָא=emph | tor | n emph | an ox
+וְ=.תוֹר.ָא=emph | tor | n emph | and the ox
+דְ=of.תוֹר.ָא=emph | tor | n emph | of the ox
+תּוֹר | tor | n | an ox
+תוֹר | tor | n | an ox
+מִ=from.תּוֹר | tor | n | from an ox
+בִּסְר.ֵהּ=its | bsr | n+3ms | its flesh
+וּ=.מָר.ֵהּ=its | mare | n+3ms | and its owner
+מָר.ֵהּ=its | mare | n+3ms | its owner
+בְּ=against.מָר.ֵהּ=its | mare | n+3ms | (has been warned) its owner
+לְ=to.מָר.וֹהִי=its | mare | n mp+3ms | to its owner(s)
+נַגַח | ngh | G ptc ms | a gorer (lit. goring)
+מֵ=from.אִתְּמַלֵי | itmali | adv | from yesterday (i.e. in the past)
+וְ=.יִתַּ~Ct.סְהֵד | shd2 | Ct impf 3ms | and (it) has been warned (lit. testified) | the passive ת merges
+נַטְר.ֵהּ=it | ntr | G pf 3ms+3ms | (he did not) guard it
+נָטְר.ֵהּ=it | ntr | G pf 3ms+3ms | (its owner did not) guard it
+21:30> מָמוֹן | mamon | n | money (i.e. a ransom)
+פּוּרְקַן | purqan | n cs | the redemption of
+נַפְשׁ.ֵהּ=his | nafsha | n+3ms | his life (lit. soul)
+יִ~he_f.פְתַּח | ptH | G impf 3ms | (a man) opens
+גוֹב | guba | n | a pit
+יִ~he_f.כְרֶה | kry | G impf 3ms | (a man) digs
+יְ~he_f.כַסִ.נֵהּ=it | ksy | D impf 3ms+3ms | covers it
+יִ~he_f.גוֹף | ngh | !verb, Pe‘al, imperfect (future), 3rd masc. sing. | gores (lit. pushes) (Hebrew: יִגֹּף)
+וִ=and.י~they_f.זַבְּנ.וּן~mp | zvn | D impf 3mp | then they shall sell
+וִ=and.י~they_f.פַלְג.וּן~mp | plg | D impf 3mp | and divide
+יְ~they_f.פַלְג.וּן~mp | plg | D impf 3mp | they shall divide
+שַׁלָמ.ָא~inf_end | shlm | D inf | (with) paying (doubles the verb: he shall surely pay)
+יִ~he_f.גְנוּב | gnv | G impf 3ms | (a man) steals
+וְ=.יִ~he_f.כְּסִ.נֵהּ=it | nks | G impf 3ms+3ms | and slaughters it | the נ of נכס is absorbed
+יְ~he_f.זַבְּנִ.נֵהּ=it | zvn | D impf 3ms+3ms | or sells it
+חָלָף | halaf | prep | instead of
+בְּ=in.מַחְתַּרְתּ.ָא=emph | mahtarta | n fs emph | breaking in (lit. in the tunnel)
+גַנָב.ָא=emph | ganava | n emph | the thief
+וְ=.יִתְ~Gt.מְחֵי | mhy | Gt impf 3ms | and he is struck
+דָם | dam | n | blood(guilt)
+דְ=of.סָהֲד.ַיָא~emphp | sahid | n mp emph | of witnesses
+וְ=.יִזְ~Dt.דַבַּן | zvn | Dt impf 3ms | then he shall be sold | the ת becomes ד after the ז
+בִּ=for.גְנֻבְתּ.ֵהּ=his | genuvta | n fs+3ms | for his theft
+גְנֻבְתּ.ָא=emph | genuvta | n fs emph | the stolen (animal)
+אִשְׁתְּ~passive (Ishtaf‘al).כָח.ָא~inf_end | shkh | Gt inf | (with) being found (doubles the verb: it is surely found)
+חֲמַר | hmara | n | a donkey
+חַיִ.ין~mp | hay | a mp | alive
+21:22> וְ=.יִ~they_f.פְּק.וּן~mp | npq | G impf 3mp | and (her children) come out | the נ of נפק is absorbed
+21:22> וְ=.יִ~he_f.תֵּן | yhb | G impf 3ms | and he shall give | the future of יְהַב comes from נתן
+21:30> וְ=.יִ~he_f.תֵּן | yhb | G impf 3ms | then he shall give | the future of יְהַב comes from נתן
+21:23> וְ=.תִ~you_f.תֵּן | yhb | G impf 2ms | then you shall give | the future of יְהַב comes from נתן
+21:26> דְ=of.עַבְד.ֵהּ=his | eved | n+3ms | of his servant
+21:27> דְ=of.עַבְד.ֵהּ=his | eved | n+3ms | of his servant
+21:29> וְ=.יִ~he_f.קְטוֹל | qtl | G impf 3ms | and it kills
+21:31> כְּ=according to.דִינ.ָא=emph | dina | n emph | according to (this) law
+21:31> לְ=.בַת | bnat | n cs | a daughter of
+21:32> לְ=.עַבְד.ָא=emph | eved | n emph | a slave
+21:32> לְ=.אַמְת.ָא=emph | amta | n emph | a maidservant
+21:34> וּ=.מֵית.ָא=emph | mita | n emph | and the dead (animal)
+21:36> וּ=.מֵית.ָא=emph | mita | n emph | and the dead (animal)
+21:35> דְמֵי | dmey | n cs | the value of
+21:35> וּ=.מֵית.ָא=emph | mita | n emph | the dead (one)
+21:34> דְ=of.גֻבּ.ָא=emph | guba | n emph | of the pit

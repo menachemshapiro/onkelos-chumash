@@ -1,0 +1,28 @@
+# Shemot 13:1–13
+אַ~C.קְדֵשׁ | qdsh | C impv 2ms | sanctify!
+דְכִיר.ִין~mp | dkr | Gp ptc mp | (be) mindful of (lit. remembering)
+נְפַקְ.תּוּן~ypl_p | npq | G pf 2mp | you went out
+עַבְדוּת.ָא=emph | avduta | n emph | bondage
+יִתְ~Gt.אֲכֵל | akhal | Gt impf 3ms | shall (not) be eaten
+נָפְק.ִין~mp | npq | G ptc mp | are going out
+דְ=of.אַבִּיב.ָא=emph | avviv | n emph | of the ripening (Aviv) (i.e. spring)
+יָ~he_f.עֵלִ.נָךְ=you | ill | C impf 3ms+2ms | (Hashem) brings you in | Af‘el of עלל
+יִתְ~Gt.חֲזֵי | hzy | Gt impf 3ms | shall (not) be seen
+וּ=.תְ~you_f.חַוֵי | hwy2 | D impf 2ms | and you shall tell
+בְּ=when.מִ~inf.פְּק.ִי=I | npq | G inf+1cs | when I went out | the נ of נפק is absorbed
+וּ=.לְ=as.דָכְרָנ.ָא=emph | dukhrana | n emph | and as a remembrance
+אַ~C.פְּקָ.ךְ=you | npq | C pf 3ms+2ms | (Hashem) brought you out | the נ of נפק is absorbed
+וְ=.תִ~you_f.טַר | ntr | G impf 2ms | and you shall keep | the נ of נטר is absorbed
+לְ=at.זִמְנ.ֵהּ=its | zimna | n+3ms | at its time
+לִ=to.זְמָן | zman | n | to a time (מִזְמַן לִזְמָן = from year to year)
+וְ=.יִ~he_f.תְּנִ.נַהּ=it | yhb | G impf 3ms+3fs | and (He) gives it | the future of יְהַב comes from נתן
+וְ=.תַ~you_f.עְבַּר | avr | C impf 2ms | and you shall set apart (lit. pass over)
+דִכְר.ִין~pl | dekhar | n mp abs | (the) males
+תַּ~you_f.קְדֵשׁ | qdsh | C impf 2ms | you shall sanctify
+תִּ~you_f.פְרוֹק | prq | G impf 2ms | you shall redeem
+תִ~you_f.פְרוֹק | prq | G impf 2ms | you (do not) redeem
+וְ=.תִ~you_f.נְקְפ.ֵהּ=it | nqf2 | G impf 2ms+3ms | (then) you shall break its neck
+בִּ=among.בְנָ.יךְ=your | bar | n mp+2ms | among your sons
+בְּ=with.אִמְר.ָא=emph | imra | n emph | with a lamb
+וְ=.תִ~you_f.פְלַח | plh | G impf 2ms | and you shall perform (this service)
+13:3> בִּ=with.תְקוֹף | tqof | n cs | with the strength of (a hand)

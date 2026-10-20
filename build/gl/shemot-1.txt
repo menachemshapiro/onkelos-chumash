@@ -1,0 +1,57 @@
+# Shemot 1:1–17
+בֵּית.ֵהּ=his | beit | n+3ms | his household
+נַפְשׁ.ָן=pl | nafsha | n fp abs | souls (persons)
+נְפִישׁ.וּ~they_p | push | G pf 3mp | were fruitful (lit. increased)
+וְ=.אִתְ~Dt.יַלָד.וּ~they_p | yld | Dt pf 3mp | and (they) multiplied (lit. were born) (Hebrew: וַיִּשְׁרְצוּ)
+חַדְתּ.ָא=emph | hadat | a ms emph | a new
+גְזֵרַת | gezera | n fs cs | the decrees of (Hebrew: לֹא יָדַע אֶת יוֹסֵף, did not know Yosef)
+עַמּ.ֵהּ=his | amma2 | n+3ms | his people
+סָג.ָן~mp | sgy | G ptc mp | numerous (lit. multiplying)
+וְ=.תַקִיפ.ִין~mp | taqqif | a mp | and mighty
+תַּקְפ.ִין~mp | tqf | G ptc mp | grew strong
+נִ~we_f.תְ~Dt.חַכַּם | hkm2 | Dt impf 1cp | let us deal shrewdly
+יְ~he_f.עַרְעִ.נָנָא=us | ra | D impf 3ms+1cp | (war) befalls us
+קְרָב | qrava | n | war
+וְ=.יִ~they_f.תּ~Ct.וֹסְפ.וּן~mp | ysf | Ct impf 3mp | and they will join (lit. be added) | Ittaf‘al of יסף
+סַנְא.ָנָא=our | sana | n mp+1cp | our enemies
+וִ=.י~they_f.גִיח.וּן~mp | gwh | C impf 3mp | and (they) will wage (war)
+וְ=.יִ~they_f.סְק.וּן~mp | slq | G impf 3mp | and (they) will go up | the ל of סלק drops
+וּ=.מַנִיא.וּ~they_p | mny | D pf 3mp | and (they) appointed
+שִׁלְטוֹנ.ִין=pl | shultan | n mp abs | officers (lit. rulers)
+מַ~ptcC.בְאִישׁ.ִין~mp | bsh | C ptc mp | who do harm (Hebrew: מִסִּים, taskmasters)
+לְ=.עַנוֹא.ֵהוֹן=them | any | D inf+3mp | to afflict them
+פָּלְחָנְ.הוֹן=their | pulhana | n+3mp | their labor
+אוֹצָר.ָא=emph | otsar | n emph | storage (בֵית אוֹצָרָא = storehouses)
+פִּיתוֹם | name | name | Pitom
+רַעַמְסֵס | name | name | Ra‘amses
+דִ=as.מְ~ptcD.עַנַ.ן~mp | any | D ptc mp | (as much as) they afflicted
+אַ~C.פְלָח.וּ~they_p | plh | C pf 3mp | (they) made (them) work
+בְּ=with.קַשְׁיוּ | qashyu | n | harshly (lit. with hardness)
+וְ=.אַ~C.מְרָר.וּ~they_p | mrr | C pf 3mp | and (they) embittered
+חַיּ.ֵיהוֹן=their | hayyin | n mp+3mp | their lives
+פָּלְחָנ.ָא=emph | pulhana | n emph | labor
+קָשְׁי.ָא=emph | qshy | a ms emph | hard
+בְּ=with.טִינ.ָא=emph | tina | n emph | with clay
+וּ=.בְ=with.לִבְנ.ִין=pl | lvina | n fp abs | and with bricks
+חַיָת.ָא=emph | hayta | n fp emph | the midwives
+יְהוּדַיָתָא | name | name | the Hebrew women (lit. the Jewish women) (Hebrew: הָעִבְרִיֹּת)
+חָדָא | had | num | one (fem.)
+שִׁפְרָה | name | name | Shifrah
+פּוּעָה | name | name | Puah
+תֶּ~you (fem. pl.), future.הֶוְי.ָן~fp | hwy | G impf 2fp | you are (delivering)
+מוֹ~ptcC.לְד.ָן~fp | yld | C ptc fp | delivering (as midwives) | Af‘el of ילד: the י becomes ו
+וְ=.תֶ~you (fem. pl.), future.חְזְי.ָן~fp | hzy | G impf 2fp | and you see
+מַתְבְּר.ָא=emph | matbra | n emph | the birthstool (Hebrew: הָאָבְנָיִם)
+תִּ~you (fem. pl.), future.קְטְל.ַן~fp | qtl | G impf 2fp | you shall kill
+ו=.תְ~you (fem. pl.), future.קַיְמִ.נַהּ=her | qwm2 | D impf 2fp+3fs | let her live
+עֲבָד.ָא~they (fem.), past | avad | G pf 3fp | (they did not) do
+עִמְּ.הֶן=them (fem.) | im | prep+3fp | with them
+מְ~ptcD.קַיֵם | qwm2 | D ptc ms | (who did not) uphold
+וּ=.כְמָא | kma | conj | and as (much as)
+דְחִיל.ָא~they (fem.), past | dhl | G pf 3fp | (they) feared
+וּ=.דְחִיל.ָא~they (fem.), past | dhl | G pf 3fp | and (the midwives) feared
+וְ=.קַיָמ.ָא~they (fem.), past | qwm2 | D pf 3fp | and (they) let (the boys) live
+עַמ.ָא=emph | amma2 | n emph | the people
+לְ=.עַמ.ָא=emph | amma2 | n emph | to the people
+לְ=.עַמּ.ָא=emph | amma2 | n emph | to the people
+דְ=of.עַמ.ָא=emph | amma2 | n emph | of the people

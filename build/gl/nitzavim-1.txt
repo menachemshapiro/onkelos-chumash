@@ -1,0 +1,119 @@
+# Nitzavim, all in one batch
+כָּלְּ.כוֹן=you | kol | n+2mp | all of you
+סָבֵי.כוֹן=your | sava | n mp+2mp | your elders
+וְ=and.סָרְכֵי.כוֹן=your | sarkha | n mp+2mp | and your officers
+מַשְׁרִיתָ.יךְ=your | mashrita | n fp+2ms | your camps
+מִ=from.לָּקֵט | lqt | G ptc ms | from the gatherer of
+אָעָ.יךְ=your | a | n mp+2ms | your wood
+מַיָּ.יךְ=your | mayin | n mp+2ms | your water
+דַ=of.ייָ | name | name | of Hashem
+וּ=and.בְ=in.מוֹמָתֵ.יהּ=his | mumata | n+3ms | and into His oath
+בִּלְחוֹדֵ.יכוֹן=you | lhod | adv+2mp | you alone
+דִּ=how.יתֵבְנָא | ytv | G pf 1cp | how we dwelt
+שִׁקּוּצֵ.יהוֹן=their | shiqtsa | n mp+3mp | their abominations
+לְ=to.מֵ~inf.הַךְ | hlk | G inf | to go
+מְהַרְהַר | hrhr | D ptc ms | thinking (lit. musing upon)
+חֶטְא.ִין=pl | hta | n mp | sins
+זָדוֹן | zadon | n | willful sin
+בְּ=when.מִ~inf.שְׁמְעֵ.יהּ=he | shm | G inf+3ms | when he hears
+וִ=and.יחַשַּׁב | hshb | D impf 3ms | and he thinks
+בְּ=in.הַרְהוֹר | hrhr | n cs | in the musing of
+חֶטְאֵי | hta | n mp cs | the sins of
+זְדָנוּתָא | zadon | n emph | willful sin
+יֵיבֵי | avy | G impf 3ms | will (not) be willing
+וְ=and.חֶמְתֵ.יהּ=his | hemta | n+3ms | and His wrath
+וְ=and.יַפְרְשִׁ.נֵּיהּ=him | prsh | C impf 3ms+3ms | and He will separate him
+לְוָטֵי | lwt | n mp cs | the curses of
+מְחָתָא | mahata | n emph | the plague
+מַרְעָ.הָא=its | marea | n mp+3fs | its sicknesses
+אַמְרַע | mra | C pf 3ms | (He) has made sick
+גָּפְרֵתָא | gofrita | n emph | sulfur
+אַרְעַ.הּ=its | ara | n+3fs | its land
+כְּ=like.מַהְפֶּכְתָּא | hafekhta | n cs | like the overthrow of
+וּ=and.בְ=in.חֶמְתֵ.יהּ=his | hemta | n+3ms | and in His wrath
+בְּ=when.אַפָּקוּתֵ.יהּ=he | npq | C inf+3ms | when He brought (them) out
+יְדָעֻ.נּוּן=them | yd | G pf 3mp+3mp | they knew them
+אוֹטִיבָא | ytv2 | C pf 3ms | (did He) do good
+וְ=and.טַלְטְלִ.נּוּן=them | tltl | D pf 3ms+3mp | and He uprooted them
+וּ=and.בֶ=in.חֶמָה | hemta | n | and in wrath
+וּ=and.בְ=in.חֵמְתָא | hemta | n emph | and in wrath
+וְ=and.אַגְלִ.נּוּן=them | gly | C pf 3ms+3mp | and He exiled them
+וּ=and.דְ=those.מִ~ptc.גָּלְיָ.ן~fp | gly | Gp ptc fp | and those which are revealed
+אַגְלָ.ךְ=you | gly | C pf 3ms+2ms | He has exiled you
+שָׁבֵי | shivya | n cs | the captivity of
+גַלְוָתָ.ךְ=your | galuta | n+2ms | your exile
+וְ=and.יִכְנְשִׁ.נָּךְ=you | kns | G impf 3ms+2ms | and He will gather you
+יְבַדְּרִ.נָּךְ=you | bdr | D impf 3ms+2ms | (He) will scatter you
+יִכְנְשִׁ.נָּךְ=you | kns | G impf 3ms+2ms | He will gather you
+יְקָרְבִ.נָּךְ=you | qrb | D impf 3ms+2ms | He will bring you near
+דִּ=that.ירִיתוּ | yrt | G pf 3mp | that (they) inherited
+וְ=and.תֵרְתַ.הּ=it | yrt | G impf 2ms+3fs | and you will inherit it
+וְ=and.יוֹטֶב | ytv2 | C impf 3ms | and He will do you good
+רְדָפוּ.ךְ=you | rdf | G pf 3mp+2ms | they pursued you
+לְ=to.מֶ~inf.חֱדֵי | hdy | G inf | to rejoice
+חֲדִי | hdy | G pf 3ms | (He) rejoiced
+דַּ=of.ייָ | name | name | of Hashem
+מַפְרְשָׁא | prsh | Cp ptc fs | hidden (lit. separated)
+וְ=and.יַשְׁמְעִ.נָּנָא=us | shm | C impf 3ms+1cp | and make us hear
+וְ=and.נַעְבְּדִ.נַּהּ=it | avad | G impf 1cp+3fs | and we will do it
+יִפְנֵי | pny | G impf 3ms | (your heart) turns away
+וּ=and.לְ=to.אִתְקָרָבָא | qrb | Itpa inf | and to draw near
+וְ=and.אוֹרָכוּת | orka | n cs | and the length of
+# Vayeilech
+וּ=and.לְ=to.מֵ~inf.עָל | ill | G inf | and to come in
+וְ=and.אַלִּימוּ | lm | D impv mp | and be strong
+יַרְטֵשִׁ.נָּךְ=you | rtsh | C impf 3ms+2ms | (He will not) abandon you
+תְּקַף | tqf | G impv ms | be strong
+וְ=and.אַלִּים | lm | D impv ms | and be firm
+תַּחְסְנִ.נַּהּ=it | hsn | C impf 2ms+3fs | you will give it as a possession
+יַרְחֵקִ.נָּךְ=you | rhq | C impf 3ms+2ms | (He will not) distance Himself from you
+וִ=and.יהָבַ.הּ=it | yhb | G pf 3ms+3fs | and he gave it
+לְ=to.אִתְחֲזָאָה | hzy | Itpe inf | to appear
+וְ=and.תַשְׁמְעִ.נּוּן=them | shm | C impf 2ms+3mp | and make them hear
+שָׁכֵב | shkv | G ptc ms | lie (with your fathers)
+וְ=and.יִשְׁבְּקוּן | shbq | G impf 3mp | and they will forsake
+וְ=and.יַשְׁנוּן | shny | C impf 3mp | and they will change (break)
+רָגְזִ.י=my | rugza | n+1cs | My anger
+לְ=as.מִ~inf.בַּז | bzz | G inf | for plunder
+וְ=and.יִעָרְעַ.ן~fp | ra | G impf 3fp | and (evils) will befall
+עָרְעוּ.נִי=me | ra | G pf 3mp+1cs | have befallen me
+סַלָּקָא | slq | C inf | (surely) remove
+אֱסַלֵּק | slq | C impf 1cs | I will remove
+וְ=and.אַלְּפַ.הּ=it | lf | D impv ms+3fs | and teach it
+שַׁוְּיַ.הּ=it | shwy | D impv ms+3fs | put it
+בְּ=in.פֻמְ.הוֹן=their | pum | n+3mp | in their mouth
+אָעֵלִ.נּוּן=them | ill | C impf 1cs+3mp | I will bring them
+וְ=and.יִתְפְּנוּן | pny | Itpe impf 3mp | and they will turn
+וְ=and.יִפְלְחֻ.נּוּן=them | plh | G impf 3mp+3mp | and they will serve them
+וְ=and.יִרְגְּזוּן | rgz | C impf 3mp | and they will provoke
+יְעָרְעָ.ן~fp | ra | G impf 3fp | (evils) will befall
+יִצְרְ.הוֹן=their | yetsra | n+3mp | their inclination
+וְ=and.אַלֵּפִ.נַּהּ=it | lf | D impf 3ms+3fs | and he taught it
+לְ=to.מִ~inf.כְתַּב | ktv | G inf | to write
+סַרְבָנוּתָ.ךְ=your | sarvanut | n+2ms | your rebelliousness
+קְדָלָ.ךְ=your | qdal | n+2ms | your neck
+חַבָּלָא | hbl | D inf | (utterly) corrupt
+וּ=and.תְעָרַע | ra | G impf 3fs | and (evil) will befall
+יְדֵי.כוֹן=your | yad | n fp+2mp | your hands
+# overrides (scoped)
+29:14>דְּ=who.אִיתוֹ.הִי=he | it | part+3ms | who is (here)
+29:18>לְ=to.אוֹסָפָא | ysf | C inf | to add
+29:24>דִּ=because.שְׁבָקוּ | shbq | G pf 3mp | because they forsook
+29:27>וּ=and.בִ=in.תְקוֹף | tqof | n cs | and in great (lit. the strength of)
+29:28>וְ=and.לִ=to.בְנָ.נָא=our | bnin | n mp+1cp | and to our children
+30:17>וְ=and.תִטְעֵי | ty | G impf 2ms | and you go astray
+30:19>וּ=and.מוֹתָא | mota | n emph | and death
+31:2>לְ=to.מִ~inf.פַּק | npq | G inf | to go out
+31:6>דִּ=who.מְדַבַּר | dbr | D ptc ms | who leads
+31:8>דִּ=who.מְדַבַּר | dbr | D ptc ms | who leads
+31:9>דְּ=who.נָטְל.ִין~mp | ntl | G ptc mp | who carry
+31:12>דְּ=so.יִשְׁמְעוּן | shm | G impf 3mp | so that they hear
+31:14>וְ=and.אִתְעַתָּדוּ | td | Itpa impv mp | and present yourselves
+31:19>כְּתִיבוּ | ktv | G impv mp | write
+31:21>וְ=and.תָתֵב | twv | G impf 3fs | and (this song) will testify (lit. answer)
+31:24>דִּ=until.שְׁלִימוּ | shlm | G pf 3mp | until they were complete
+31:30>דִּ=until.שְׁלִימוּ | shlm | G pf 3mp | until they were complete
+31:27>דְּ=that.קַשְׁיָא | qshy | G ptc fs | that is stiff
+31:27>בְ=while.עַד | ad | prep | while (yet)
+31:28>וְ=and.אַסְהֵד | shd2 | C impf 1cs | and I will call to witness
+31:29>דְּ=what.בִישׁ | bish | a ms | what is evil

@@ -1,0 +1,40 @@
+# Vayishlach 32:4–13
+אִזְגַּדּ.ִין=pl | izgad | n mp abs | messengers
+אִזְגַּדּ.ַיָּא=emphp | izgad | n mp emph | the messengers
+תֵּ~ypl_f.ימְר.וּן~mp | amr | G impf 2mp | you shall say | the א of אמר becomes י
+דָּר.ִית~I_p | dwr | G pf 1cs | I have lived
+וְ=.אוֹ~C.חָר.ִית~I_p | hr | C pf 1cs | and I have stayed on | Af‘el of אחר: the א becomes ו
+וּ=.שְׁלָח.ִית~I_p | shlh | G pf 1cs | and I have sent
+לְ=.חַוָּא.ָה~inf_end | hwy2 | D inf | to tell
+אֲתֵי.נָא~we_p | aty | G pf 1cp | we came
+אָתֵי | aty | G ptc ms | is coming
+לְ=.קַדָּמוּת.ָךְ=you | qadmuta | n fs+2ms | to meet you
+וַ=.עֲקַת | qt | G pf 3ms | and it distressed (him)
+וּ=.פַלֵּיג | plg | D pf 3ms | and (he) divided
+מַשִּׁירְי.ָן=pl | mashrita | n fp abs | camps
+מַשִּׁרְי.ָן=pl | mashrita | n fp abs | camps
+יֵ~he_f.יתֵי | aty | G impf 3ms | (if Esav) comes | the א of אתי becomes י
+וְ=.יִ~he_f.מְחִ.נֵּיהּ=it | mhy | G impf 3ms+3ms | and strikes it
+וְ=.יִ~he_f.מְחֵ.נַהּ=it | mhy | G impf 3ms+3fs | and strikes it (a variant reading)
+דְ=that.תִ~she_f.שְׁתָּאַר | shar | Gt impf 3fs | that is left | the passive ת moves after the ש
+לְ=.שֵׁיזָב.ָא~inf_end | shyzv | Sh inf | to escape (lit. to be saved)
+לְ=.אַרְע.ָךְ=your | ara | n+2ms | to your land
+וּ=.לְ=.יַלָּדוּת.ָךְ=your | yalluta | n fs+2ms | and to your birthplace
+אוֹ~I_f.טֵיב | twv2 | C impf 1cs | I will do good | Af‘el of יטב: the י becomes ו
+זְעִיר.ָן~fp | zeir | a fp | too small (Hebrew: קָטֹנְתִּי, I am unworthy)
+זָכוּת.ַי=my | zakhu | n fp+1cs | my merits
+חִסְדּ.ִין=pl | hisda | n mp abs | the kindnesses
+טַבְו.ָן=pl | tuva | n fp abs | the good things (Hebrew: הָאֱמֶת, the truth)
+יְחִיד.ִי=my | yhidai | a ms+1cs | alone (lit. by myself) (Hebrew: בְמַקְלִי, with my staff)
+עֲבָר.ִית~I_p | avr | G pf 1cs | I crossed
+הַוֵי.תִי~I_p | hwy | G pf 1cs | I have become
+שֵׁזַבְ.נִי=me | shyzv | Sh impv ms+1cs | save me
+מִ=from.ידָא | yad | n emph | from the hand (of)
+דַחֵל | dhl | G ptc ms | afraid
+מִנּ.ֵיהּ=him | min | prep+3ms | of him
+וְ=.יִ~he_f.מְחִ.נַּנִי=me | mhy | G impf 3ms+1cs | and strike me
+אוֹ~C.טָב.ָא~inf_end | twv2 | C inf | (I will surely) do good | an infinitive before the verb strengthens it
+וֶ=.אֱ~I_f.שַׁוִּי | shwy | D impf 1cs | and I will make
+כְּ=like.חַלּ.ָא=emph | hala2 | n emph | like the sand
+מִ=because of.סַּגִּי | saggi | a | the great number (Hebrew: מֵרֹב)
+32:9> לְ=to.מַשְׁרִית.ָא=emph | mashrita | n fs emph | to the camp

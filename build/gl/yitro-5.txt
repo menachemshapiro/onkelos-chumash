@@ -1,0 +1,39 @@
+# Shemot 19:7–19
+נַ~we_f.עְבֵּד | avad | G impf 1cp | we will do
+בְּ=in.עֵיב.ָא=emph | eiva | n emph | in the thickness of
+דְ=that.יִ~he_f.שְׁמַע | shm | G impf 3ms | that (the people) may hear
+בְּ=when.מַלָלוּת.ִי=I | mll | D inf+1cs | when I speak
+יְ~they_f.הֵימְנ.וּן~mp | hymn | C impf 3mp | they will believe
+וּ=.תְ~you_f.זַמְנִ.נוּן=them | zmn | D impf 2ms+3mp | and prepare them
+וִ=and.י~they_f.חַוְר.וּן~mp | hwr | D impf 3mp | and let them whiten (i.e. wash)
+וְ=.חַוָר.וּ~they_p | hwr | D pf 3mp | and they whitened (i.e. washed)
+זְמִינ.ִין~mp | zmn | Gp ptc mp | ready
+יִתְ~Gt.גְלִי | gly | Gt impf 3ms | (Hashem) will reveal Himself
+וּ=.תְ~you_f.תַחֵם | thm | D impf 2ms | and set bounds for
+אִסְ~Dt.תַּמָר.וּ~cmd_pl | shmr | Dt impv 2mp | beware! | the ת moves after the ס
+מִ=from.לְ=.מִ~inf.סַק | slq | G inf | from going up | the ל of סלק is absorbed
+לְ=.מִ~inf.סַק | slq | G inf | to go up | the ל of סלק is absorbed
+בְּ=.סוֹפ.ֵהּ=its | sof | n+3ms | its edge (lit. end)
+אִתְ~Gt.רְגָמ.ָא~inf_end | rgm | Gt inf | (with) stoning (doubles the verb: he will surely be stoned)
+יִתְ~Gt.רְגֵם | rgm | Gt impf 3ms | he will be stoned
+אִשְׁתְּ~passive (Ishtaf‘al).דָא.ָה~inf_end | shdy | Gt inf | (with) casting (doubles the verb: he will surely be cast down) | the ת moves after the ש
+יִשְׁתְּ~passive (Ishtaf‘al).דִי | shdy | Gt impf 3ms | he will be cast down | the ת moves after the ש
+בְּ=when.מֵי~inf.גַד | ngd | G inf | when (the shofar) is drawn out (i.e. sounds long) | the נ of נגד drops out
+שׁוֹפָר.ָא=emph | shofar | n emph | the shofar
+מְרָשָׁ.ן~mp | rsh2 | Gp ptc mp | permitted
+הֱו.וֹ~cmd_pl | hwy | G impv 2mp | be!
+תִ~ypl_f.קְרְב.וּן~mp | qrb | G impf 2mp | you shall (not) come near
+לְ=near.צַד | tsad | prep | near (lit. to the side of)
+בְּ=when.מֶ~inf.הֱוֵי | hwy | G inf | when it was (morning)
+וּ=.בַרְק.ִין~pl | barqa | n mp abs | and lightnings
+דְ=of.סִינַי | name | name | of Sinai
+תָּנַן | tnn2 | G pf 3ms | smoked
+כֻּל.ֵהּ=it | kol | n+3ms | all of it
+תְּנָנ.ֵהּ=its | tnn | n+3ms | its smoke
+וְ=.תָקֵף | tqf | G ptc ms | and growing stronger
+מִתְ~ptcGt.עֲנֵי | any2 | Gt ptc ms | answered (lit. was being answered)
+בְ=with.קָל | qal | n | with a voice
+19:14> וְ=.זַמִין | zmn | D pf 3ms | and (he) prepared
+19:16> בְ=in.מַשְׁרִית.ָא=emph | mashrita | n fs emph | in the camp
+19:17> וְ=.אַ~C.פֵּיק | npq | C pf 3ms | and (Moshe) brought out | the נ of נפק is absorbed
+19:17> וְ=.אִתְ~Dt.עַתָּד.וּ~they_p | td | Dt pf 3mp | and they stood ready

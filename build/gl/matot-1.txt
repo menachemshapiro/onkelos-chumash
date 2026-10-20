@@ -1,0 +1,416 @@
+# Matot + Masei, all in one batch (other aliyah files are stubs)
+אֵסַר | esar | n | a binding (vow of abstinence; Hebrew: אִסָּר)
+יְבַטַּל | btl | D impf 3ms | he shall (not) annul (lit. make void)
+פִּתְגָּמֵ.יהּ=his | pitgam | n+3ms | his word
+מִ=from.פּוּמֵ.יהּ=his | pum | n+3ms | from his mouth
+תִדַּר | ndr | G impf 3fs | (a woman) vows
+וְ=and.תֵסַר | asr | G impf 3fs | and binds
+אֵיסַר | esar | n | a binding
+בְּ=in.רַבְיוּתָ.הָא=her | ravyut | n+3fs | in her youth
+נִדְרָ.הּ=her | nidra | n+3fs | her vow
+וְ=and.אֵסָרָ.הּ=her | esar | n+3fs | and her binding
+אֲסָרַת | asr | G pf 3fs | she bound
+וְ=and.יִשְׁתּוֹק | shtq | G impf 3ms | and (her father) is silent
+נִדְרָ.הָא=her | nidra | n mp+3fs | her vows
+אֵסָרֵי | esar | n mp | bindings
+וֶ=and.אֱסָרָ.הָא=her | esar | n mp+3fs | and her bindings
+תֶהֱוֵי | hwy | G impf 3fs | (if) she is (married)
+וְ=and.נִדְרָ.הָא=her | nidra | n mp+3fs | and her vows
+פֵּרוּשׁ | perush | n cs | the utterance of (lit. the expressing of)
+סִפְוָתָ.הָא=her | sifta | n fp+3fs | her lips
+נַפְשָׁ.הּ=her | nafsha | n+3fs | herself (lit. her soul)
+וּ=and.בַטַּל | btl | D pf 3ms | and he annulled
+יִשְׁתְּבֵיק | shbq | Gt impf 3ms | it will be forgiven
+וּ=and.מְתַרְכָא | trk | Dp ptc fs | and a divorced woman
+נְדָרַת | ndr | G pf 3fs | she vowed
+אֱסָרֵי | esar | n mp | bindings
+יְבַטֵּל | btl | D impf 3ms | he annuls
+אַפָּקוּת | npq | C inf cs | the utterance of (lit. bringing out of)
+לְ=for.נִדְרָ.הָא=her | nidra | n mp+3fs | for her vows
+וּ=and.לְ=for.אֵסַר | esar | n cs | and for the binding of
+בַּטֵּלִ.נּוּן=them | btl | D pf 3ms+3mp | he annulled them
+קִיּוּמַת | qiyyum | n cs | oath of (lit. establishing of)
+אֵסָר | esar | n | binding
+לְ=to.סַגָּפָא | sgf | D inf | to afflict
+יְקַיְּמִ.נּוּן=them | qwm2 | D impf 3ms+3mp | may uphold them
+יְבַטְּלִ.נּוּן=them | btl | D impf 3ms+3mp | may annul them
+מִ~inf.שְׁתַּק | shtq | G inf abs | (completely) silent
+יִשְׁתּוֹק | shtq | G impf 3ms | he is silent
+אֱסָרָ.הָא=her | esar | n mp+3fs | her bindings
+שָׁתֵק | shtq | G pf 3ms | he was silent
+דִ=that.שְׁמָע | shm | G pf 3ms | that he heard
+דִּ=that.שְׁמָע | shm | G pf 3ms | that he heard
+וִ=and.יקַבַּל | qbl | D impf 3ms | and he shall bear
+בְּ=in.רַביוּתָ.הָא=her | ravyut | n+3fs | in her youth
+אִתְפְּרַע | pra | Gt impv ms | exact retribution
+פֻּרְעֲנוּת | purenuta | n cs | the retribution of
+זְרִיזוּ | zrz | D impv mp | arm (lit. equip)
+וְ=and.אִתְבְּחָרוּ | bhr | Gt pf 3mp | and (they) were chosen
+מְזָרְז.ֵי=pl | zrz | Dp ptc mp cs | armed for (lit. equipped of)
+וַ=and.חֲצַצְרַת | hatsotsra | n fp cs | and the trumpets of
+וְ=and.אִתְחַיָּלוּ | heil | Dt pf 3mp | and they waged war (lit. mustered)
+מַלְכ.ֵי=pl | malka | n mp cs | the kings of
+קְטִילֵ.יהוֹן=their | qtl | Gp ptc mp+3mp | their slain
+אֱוִי | name | name | Evi
+רֶקֶם | name | name | Rekem
+רֶבַע | name | name | Reva
+בְּ=in.מוֹתְבָנֵ.יהוֹן=their | motav | n mp+3mp | in their dwellings
+סִגְדַתְ.הוֹן=their | sigda | n+3mp | their worship (בֵּית סִגְדַתְהוֹן = their temples)
+אוֹקִידוּ | yqd | C pf 3mp | they burned
+עֲדָאָה | adaa | n emph | the spoil
+דְּבַרְתָּא | divrta | n emph | the captives (lit. what was taken)
+לְ=to.מֵישְׁר.ַיָּא=pl | meishar | n mp emph | to the plains
+וּ=and.רְגֵיז | rgz | G pf 3ms | and (Moshe) was angry
+מָאֲוָתָא | mea | num fp emph | hundreds
+הֲ=?.קַיֵּמְתּוּן | qwm2 | D pf 2mp | have you kept alive
+דִּ=who.ידַעַת | yd | G pf 3fs | who has known
+יְדָעָא | yd | G pf 3fp | they have (not) known
+קַיְּימוּ | qwm2 | D impv mp | keep alive
+שְׁרוֹ | shry | G impv mp | encamp
+תַּדּוּן | ndy | C impf 2mp | you shall sprinkle
+וּ=and.שְׁבִי.כוֹן=your | shivya | n+2mp | and your captives
+דְּ=of.עָא | a | n | of wood
+פַּרְזְלָא | parzla | n emph | the iron
+אֲבָצָא | avatsa | n emph | the tin
+אֲבָרָא | avara | n emph | the lead
+דְּ=that.מִתַּעַל | ill | Itta ptc ms | that is put (lit. brought in)
+תַּעַבְרוּ.נֵּיהּ=it | avr | C impf 2mp+3ms | you shall pass it
+יִתַּדֵּי | ndy | Itta impf 3ms | it shall be sprinkled
+מִתַּעַל | ill | Itta ptc ms | is put (lit. brought in)
+תַּעַבְרֻ.נֵּיהּ=it | avr | C impf 2mp+3ms | you shall pass it
+וּ=and.תְחַוְּרוּן | hwr | D impf 2mp | and you shall whiten (wash)
+לְבוּשֵׁ.יכוֹן=your | levush | n mp+2mp | your garments
+חוּשְׁבַּן | hushban | n cs | the count of
+דַּבְרַת | divrta | n cs | the captives of
+שַׁבְיָא | shivya | n emph | the captives
+מְגִיח.ֵי=pl | gwh | C ptc mp cs | who wage (war)
+חֲמָר.ֵי=pl | hmara | n mp | donkeys
+מִ=from.פַּלְגּוּתְ.הוֹן=their | palguta | n+3mp | from their half
+דְּ=that.אִתַּחַד | ahd | Gt ptc ms | that is taken
+בִּזָּא | bizta | n emph | the spoil
+וַ=and.חֲמָר.ֵי=pl | hmara | n mp | and donkeys
+פַּלְגּוּתָא | palguta | n emph | the half
+וּ=and.נְסִיבְ.הוֹן=their | nsv | Gp ptc+3mp | and their portion (lit. what was taken of them)
+וְ=and.חָד | had | num | and one
+נַפְשׁ.ִין=pl | nafsha | n fp | persons
+פְּלַג | palga | n cs | the half of
+גַּבְר.ַיָּא=pl | gvar | n mp emph | the men
+אַלְפ.ֵי=pl | alaf | n mp cs | the thousands of
+שְׁגָא | shgy | G pf 3ms | is missing
+וְ=and.קָרֶבְנָא | qrb | D pf 1cp | and we have brought
+שִׁיר.ִין=pl | shera | n mp | bracelets
+קַדָּשׁ.ִין=pl | qaddasha | n mp | earrings
+וּ=and.מָחוֹךְ | mahokh | n | and a girdle (Hebrew: וְכוּמָז)
+נַפְשָׁתָ.נָא=our | nafsha | n fp+1cp | our souls
+אַפְרִישׁוּ | prsh | C pf 3mp | they set apart
+בָּזוּ | bzz | G pf 3mp | (they) took spoil
+וּ=and.מָאֲוָתָא | mea | num fp emph | and hundreds
+מַכְלֶלְתָּא | name | name | Makhlelta (Hebrew: עֲטָרוֹת)
+וְ=and.כוּמְרִין | name | name | and Kumrin (Hebrew: וְדִיבֹן)
+נִמְרִין | name | name | Nimrin
+חוּשְׁבָּנָא | name | name | Chushbena (Hebrew: וְחֶשְׁבּוֹן)
+דְבָבָא | name | name | Devava (בַּעֲלֵי דְבָבָא; Hebrew: וְאֶלְעָלֵה)
+וּ=and.בְעוֹן | name | name | and Beon
+תִּתְיְהִיב | yhb | Gt impf 3fs | let (this land) be given
+תְעַבְרִ.נָּנָא=us | avr | C impf 2ms+1cp | make us cross
+הַ=?.אֲחֵ.יכוֹן=your | ah | n mp+2mp | shall your brothers
+אֲבָהַתְ.כוֹן=your | av | n mp+2mp | your fathers
+גֵּיאָה | name | name | Gea (Hebrew: בַּרְנֵעַ)
+וְ=and.אוֹנִיאוּ | nwy | C pf 3mp | and they discouraged (lit. broke)
+קְנִזָּאָה | name | name | the Kenizzite
+וְ=and.טָרְדִ.נּוּן=them | trd | G pf 3ms+3mp | and He made them wander (lit. drove them)
+דְּ=until.סַף | swf | G pf 3ms | until (the generation) came to an end
+דַּ=that.עֲבִיד | avad | G pf 3ms | that did
+קַמְתּוּן | qwm | G pf 2mp | you have risen
+תַּלְמִיד.ֵי=pl | talmid | n mp cs | students of (i.e. followers of)
+לְ=to.אַחֲרוּתְ.הוֹן=them | ahr | C inf+3mp | to leave them (lit. to delay them)
+וּ=and.תְחַבְּלוּן | hbl | D impf 2mp | and you will destroy
+חַטְר.ִין=pl | hutra | n mp | enclosures (lit. staffs) for
+וְ=and.קִרְו.ִין=pl | qirya | n fp | and cities
+נִזְדָּרֵז | zrz | Dt impf 1cp | we will arm ourselves
+נְעֵלִ.נּוּן=them | ill | C impf 1cp+3mp | we bring them in
+בְּ=in.קִרְו.ִין=pl | qirya | n fp | in cities
+כְּרִיכ.ִין~mp | krakha | Gp ptc mp | walled
+לְ=to.בֵיתָ.נָא=our | beit | n+1cp | to our homes
+נַחְסִין | hsn | G impf 1cp | we will inherit
+אַחֲסַנְתָּ.נָא=our | ahsanta | n+1cp | our inheritance
+תִּזְדָּרְזוּן | zrz | Dt impf 2mp | you arm yourselves
+וְ=and.יַעֲבֵּר | avr | G impf 3ms | and (every armed man) shall pass
+דִּ=who.מְזָרֵז | zrz | Dp ptc ms | who is armed
+וְ=and.תִתְכְּבֵשׁ | kvsh | Gt impf 3fs | and (the land) is conquered
+חוֹבַתְ.כוֹן=your | hovta | n+2mp | your sin
+בְּנוּ | bny | G impv mp | build
+קִרְו.ִין=pl | qirya | n fp | cities
+גֵּיתָ.נָא=our | geita | n+1cp | our flocks
+דִ=who.מְזָרֵז | zrz | Dp ptc ms | who is armed
+דִּ=who.מְזָרַז | zrz | Dp ptc ms | who is armed
+מְזָרְז.ִין~mp | zrz | Dp ptc mp | armed
+נַחְנָא | anahna | pron | we
+לְ=to.קִרְוָ.הָא=its | qirya | n fp+3fs | to its cities
+בִּ=in.תְחוּמ.ִין=pl | tehum | n mp | in (their) borders
+דִּיבוֹן | name | name | Divon
+עֲטָרוֹת | name | name | Atarot
+עֲרֹעֵר | name | name | Aroer
+עַטְרוֹת | name | name | Atrot
+שׁוֹפָן | name | name | Shofan
+נִמְרָה | name | name | Nimrah
+כְּרִיכ.ָן~fp | krakha | Gp ptc fp | walled
+חֶשׁבּוֹן | name | name | Cheshbon
+אֶלְעָלֵא | name | name | Elale
+נְבוֹ | name | name | Nevo
+מְעוֹן | name | name | Meon
+מַקְּפַ.ן~fp | nqf | C ptc fp | surrounded (with)
+שִׂבְמָה | name | name | Sivmah
+וְ=and.כִבְשׁוּ.הָ=it | kvsh | G pf 3mp+3fs | and they conquered it
+וְ=and.יָאִיר | name | name | and Yair
+כַּפְרָנֵ.יהוֹן=their | kafrana | n mp+3mp | their villages
+כַּפְרָנֵי | kafrana | n mp cs | the villages of
+יָאִיר | name | name | Yair
+וְ=and.נֹבַח | name | name | and Novach
+קְנַת | name | name | Kenat
+נֹבַח | name | name | Novach
+מַפְּקָנֵ.יהוֹן=their | mafqanut | n mp+3mp | their goings out
+לְ=by.מַפְּקָנֵ.יהוֹן=their | mafqanut | n mp+3mp | by their goings out
+מֵ=from.רַעְמְסֵס | name | name | from Ra‘meses
+בְּ=in.סֻכֹּת | name | name | in Sukkot
+מִ=from.סֻּכֹּת | name | name | from Sukkot
+מֵ=from.אֵתָם | name | name | from Etam
+מִגְדֹּל | name | name | Migdol
+דְ=of.אֵתָם | name | name | of Etam
+בְּ=in.דָפְקָה | name | name | in Dofkah
+מִ=from.דָּפְקָה | name | name | from Dofkah
+בְּ=in.אָלוּשׁ | name | name | in Alush
+מֵ=from.אָלוּשׁ | name | name | from Alush
+מֵ=from.רְפִידִם | name | name | from Refidim
+בַּ=in.חֲצֵרֹת | name | name | in Chatzerot
+מֵ=from.חֲצֵרֹת | name | name | from Chatzerot
+בְּ=in.רִתְמָה | name | name | in Ritmah
+מֵ=from.רִתְמָה | name | name | from Ritmah
+בְּ=in.רִמֹּן | name | name | in Rimmon
+מֵ=from.רִמֹּן | name | name | from Rimmon
+בְּ=in.לִבְנָה | name | name | in Livnah
+מִ=from.לִּבְנָה | name | name | from Livnah
+בְּ=in.רִסָּה | name | name | in Rissah
+מֵ=from.רִסָּה | name | name | from Rissah
+בִּ=in.קְהֵלָתָה | name | name | in Kehelatah
+מִ=from.קְהֵלָתָה | name | name | from Kehelatah
+דְ=of.שָׁפֶר | name | name | of Shefer
+בַּ=in.חֲרָדָה | name | name | in Charadah
+מֵ=from.חֲרָדָה | name | name | from Charadah
+בְּ=in.מַקְהֵלוֹת | name | name | in Makhelot
+מִ=from.מַּקְהֵלוֹת | name | name | from Makhelot
+בְּ=in.תָחַת | name | name | in Tachat
+מִ=from.תָּחַת | name | name | from Tachat
+בְּ=in.מִתְקָה | name | name | in Mitkah
+מִ=from.מִּתְקָה | name | name | from Mitkah
+בְּ=in.חַשְׁמֹנָה | name | name | in Chashmonah
+מֵ=from.חַשְׁמֹנָה | name | name | from Chashmonah
+בְּ=in.מֹסֵרוֹת | name | name | in Moserot
+מִ=from.מֹּסֵרוֹת | name | name | from Moserot
+יַעֲקָן | name | name | Yaakan
+בְּ=in.חֹר | name | name | in Chor (Hagidgad)
+הַגִּדְגָּד | name | name | Hagidgad
+מֵ=from.חֹר | name | name | from Chor (Hagidgad)
+בְּ=in.יָטְבָתָה | name | name | in Yotvatah
+מִ=from.יָּטְבָתָה | name | name | from Yotvatah
+בְּ=in.עַבְרוֹנָה | name | name | in Avronah
+מֵ=from.עַבְרוֹנָה | name | name | from Avronah
+בְּ=in.עֶצְיוֹן | name | name | in Etzyon (Gever)
+גָּבֶר | name | name | Gever
+מֵ=from.עֶצְיוֹן | name | name | from Etzyon (Gever)
+בְּ=in.הוֹר | name | name | in Hor
+לְ=to.הוֹר | name | name | to Hor
+חֲמִשָּׁאָה | hamishai | num ms emph | the fifth
+בְּ=at.מֵיתֵ.י=pl | meta | n mp cs | at the coming of
+מֵ=from.הוֹר | name | name | from Hor
+בְּ=in.צַלְמוֹנָה | name | name | in Tzalmonah
+מִ=from.צַּלְמוֹנָה | name | name | from Tzalmonah
+בְּ=in.פוּנֹן | name | name | in Punon
+מִ=from.פּוּנֹן | name | name | from Punon
+בְּ=in.אֹבוֹת | name | name | in Ovot
+מֵ=from.אֹבוֹת | name | name | from Ovot
+בִּ=at.מְגִזַּת | magzta | n cs | at the crossings of
+מִ=from.מְּגִזָּתָא | magzta | n fp emph | from the crossings
+בְּ=in.דִיבוֹן | name | name | in Divon (Gad)
+בְּ=in.עַלְמוֹן | name | name | in Almon (Divlatayemah)
+דִּבְלָתָיְמָה | name | name | Divlatayemah
+מֵ=from.עַלְמוֹן | name | name | from Almon
+דִבְלָתָימָה | name | name | Divlatayemah
+יְשִׁימוֹת | name | name | Yeshimot
+וּ=and.תְתָרְכוּן | trk | D impf 2mp | and you shall drive out
+סִגְדַּתְ.הוֹן=their | sigda | n+3mp | their worship (בֵּית סִגְדַּתְהוֹן = their temples)
+צַלְמ.ֵי=pl | tselem | n mp cs | the images of
+מַתְּכַתְ.הוֹן=their | matkha | n+3mp | their molten (idols)
+תֵּבְדוּן | abd | C impf 2mp | you shall destroy
+בָּמַתְ.הוֹן=their | bamta | n fp+3mp | their high places
+תְּשֵׁצוּן | shetsi | Sh impf 2mp | you shall destroy
+לְ=by.זַרְעֲיַתְ.כוֹן=your | zaraya | n+2mp | by your families
+תַּזְעִירוּן | zr | C impf 2mp | you shall decrease
+לִ=to.דְ=whom.יִפּוֹק | npq | G impf 3ms | (to the one) for whom (the lot) comes out
+תַּחְסְנוּן | hsn | G impf 2mp | you shall inherit
+תְתָרְכוּן | trk | D impf 2mp | you drive out
+לְ=as.סִיעַ.ן=pl | siata | n fp | as bands (of troops)
+נָטְל.ַן~fp | ntl | G ptc fp | bearing
+זְיַן | zeina | n | weapons
+לָ=against.קִבְלֵ.יכוֹן=you | qbl | prep+2mp | against you
+וּ=and.לְ=as.מַשִּׁרְי.ַן=pl | mashrita | n fp | and as camps
+מַקְפַּנְ.כוֹן=you | nqf | C ptc fp+2mp | surrounding you
+וִ=and.יעִיקוּן | wq | C impf 3mp | and they shall harass
+חֲשָׁבִית | hshb2 | G pf 1cs | I thought (planned)
+עָלִ.ין~mp | ill | G ptc mp | entering
+לִ=by.תְחוּמָ.הָא=its | tehum | n mp+3fs | by its borders
+תְּחוּמ.ֵי=pl | tehum | n mp cs | the borders of
+לְ=to.מַסְקָנָא | masqana | n cs | to the ascent of
+דְ=of.עַקְרַבִּים | name | name | of Akrabbim
+לְ=to.צִן | name | name | to Tzin
+מַפְּקָנ.וֹהִי=its | mafqanut | n mp+3ms | its ends (lit. goings out)
+אַדָּר | name | name | Addar
+לְ=to.עַצְמוֹן | name | name | to Atzmon
+מֵ=from.עַצְמוֹן | name | name | from Atzmon
+תְּכַוְּנוּן | kwn | D impf 2mp | you shall mark out (lit. aim)
+לִ=to.צְדָד | name | name | to Tzedad
+לְ=to.זִפְרוֹן | name | name | to Zifron
+וּ=and.תְכַוְּנוּן | kwn | D impf 2mp | and you shall mark out
+לִ=to.שְׁפָם | name | name | to Shefam
+מִ=from.שְּׁפָם | name | name | from Shefam
+לְ=to.רִבְלָה | name | name | to Rivlah
+לָ=to.עָיִן | name | name | to Ayin
+וְ=and.יִמְטֵי | mty | G impf 3ms | and it shall reach
+יַם | yam | n cs | the sea of
+גִנֵסַר | name | name | Ginosar (Kinneret)
+תִתְחַסְנוּן | hsn | Dt impf 2mp | you shall take as inheritance
+לְ=to.תִשְׁעַת | tsha | num cs | to the nine
+שְׁמוּאֵל | name | name | Shemuel
+אֱלִידָד | name | name | Elidad
+כִּסְלוֹן | name | name | Kislon
+בֻּקִּי | name | name | Bukki
+יָגְלִי | name | name | Yogli
+חַנִּיאֵל | name | name | Channiel
+אֵפֹד | name | name | Efod
+שִׁפְטָן | name | name | Shiftan
+פַּרְנָךְ | name | name | Parnach
+פַּלְטִיאֵל | name | name | Paltiel
+עַזָּן | name | name | Azzan
+אֲחִיהוּד | name | name | Achihud
+שְׁלֹּמִי | name | name | Shelomi
+פְּדַהְאֵל | name | name | Pedahel
+אַחוּדַתְ.הוֹן=their | ahuda | n+3mp | their possession
+לְ=to.מִ~inf.תָּב | ytv | G inf | to dwell (in)
+וְ=and.רַוְחֵ.יהוֹן=their | rewah | n mp+3mp | and their open land
+וּ=and.לְ=for.קִנְיָנֵ.יהוֹן=their | qinyan | n mp+3mp | and for their possessions
+חֵיוַתְ.הוֹן=their | heiva | n+3mp | their animals
+וּ=and.רְוָח.ֵי=pl | rewah | n mp cs | and the open land of
+מִ=from.כּוֹתֵל | kotla | n cs | from the wall of
+וְ=and.תִמְשְׁחוּן | mshh2 | G impf 2mp | and you shall measure
+דְּרוֹמָא | darom | n emph | the south
+בִ=in.מְצִיעָא | mtsiut | n emph | in the middle
+רְוָח.ֵי=pl | rewah | n mp cs | the open land of
+שֵׁזָבוּתָא | shezavuta | n emph | refuge (lit. rescue)
+לְ=to.מֵ~inf.עֲרַק | rq | G inf | to flee
+קָטוֹלָא | qatol | n emph | the killer
+וַ=and.עֲלֵ.יהוֹן=them | al | prep+3mp | and in addition to them
+רְוָחֵ.יהֶן=their | rewah | n mp+3fp | their open land
+זְעִיר.ֵי=pl | zeir | a mp | few
+מִ=from.קִּרְו.וֹהִי=his | qirya | n fp+3ms | from his cities
+וּ=and.תְזַמְּנוּן | zmn | D impf 2mp | and you shall designate
+וְ=and.יֵעֲרוֹק | rq | G impf 3ms | and (the killer) shall flee
+לְ=for.שֵׁזָבָא | shyzv | Sh inf | for refuge
+מִ=from.גָּאֵל | gaal | n | from the avenger (redeemer)
+יֶהֶוְי.ָן~fp | hwy | G impf 3fp | shall be
+וּ=and.לְ=for.תוֹתָבָ.יָא=pl | totav | n mp emph | and for the residents
+לְ=to.מֵ~inf.עֲרוֹק | rq | G inf | to flee
+דְ=of.פַרְזְלָא | parzla | n emph | of iron
+מְחָ.הִי=him | mhy | G pf 3ms+3ms | he struck him
+וְ=and.קָטְלֵ.יהּ=him | qtl | G pf 3ms+3ms | and killed him
+דְּ=that.מִתְנָסְבָא | nsv | Gt ptc fs | that can be held (lit. taken)
+דְּ=that.מִתְנַסֵב | nsv | Gt ptc ms | that can be held
+יִתְקְטַל | qtl | Gt impf 3ms | shall be put to death
+גָּאֵל | gaal | n cs | the avenger of
+יִקְטְלִ.נֵּיהּ=him | qtl | G impf 3ms+3ms | shall kill him
+דְּחָ.הִי=him | dhy | G pf 3ms+3ms | he pushed him
+בְ=in.כַמְנָא | kamna | n emph | in ambush
+סָנֵי | sny | G ptc ms | hating
+תָבַע | tba | G ptc ms | seeking
+בִּישְׁתֵּ.יהּ=his | bisha | n+3ms | his harm
+וִ=and.ישֵׁזְבוּן | shyzv | Sh impf 3mp | and they shall rescue
+שֵׁזָבוּתֵ.יהּ=his | shezavuta | n+3ms | his refuge
+עֲרַק | rq | G pf 3ms | he fled
+יִתֵּב | ytv | G impf 3ms | he shall dwell
+יַסְהֵד | shd2 | C impf 3ms | shall testify
+לְ=to.מִ~inf.קְטָל | qtl | G inf | to put to death
+קָטוֹל | qatol | n | a killer
+תְחַיְּבוּן | hyb | D impf 2mp | you shall make guilty (lit. condemn)
+מְחַיַּב | hyb | D ptc ms | makes guilty
+דְּ=that.אִתָּשַׁד | shd2 | Itta pf 3ms | that was shed
+אַשְׁדֵּ.יהּ=him | shd2 | G ptc ms+3ms | (the one) who shed it
+תְסָאֲבוּן | say | D impf 2mp | you shall defile
+אֲבָהָתָא | av | n mp emph | the fathers
+אִתְפַּקַּד | pqd | Dt pf 3ms | was commanded
+בְּ=by.מֵמְרָא | meimra | n cs | by the Word of
+וְ=and.תִתּוֹסַף | ysf | Itta impf 3fs | and it will be added
+וּ=and.מֵ=from.עֲדַב | adva | n cs | and from the lot of
+אַחֲסַנְתָּא | ahsanta | n emph | the inheritance
+יִתִּמְנָע | mna | Gt impf 3ms | will be withheld
+יוֹבְלָא | yovla | n emph | the Jubilee
+תְהֶוְי.ַן~fp | hwy | G impf 3fp | (they) shall be
+אַחֲסַנְתְּ.הֶן=their | ahsanta | n+3fp | their inheritance
+מְמַלְּל.ִין~mp | mll | D ptc mp | speak
+לִ=to.דְ=whoever.תַקִּ.ין~mp | tqn | G ptc mp | to whoever is fitting
+תְּהֶוְי.ַן~fp | hwy | G impf 3fp | they shall be
+תַסְחַר | shr2 | G impf 3fs | shall turn (pass) from
+יִדַּבְּקוּן | dbq | Dt impf 3mp | shall cleave
+יָרְתַת | yrt | G ptc fs | inheriting
+יֵרְתוּן | yrt | G impf 3mp | shall inherit
+אוֹחֲרָנָא | ohoran | a ms emph | another
+יִדְּבְּקוּן | dbq | Dt impf 3mp | shall cleave
+תִרְצָה | name | name | Tirtzah
+וְ=and.נֹעָה | name | name | and Noah
+אַבוּ.הֶן=their | av | n+3fp | their father
+מְ=from.רַעְמְסֵס | name | name | from Ra‘meses
+# global fixes
+דְּ=what.יִפּוֹק | npq | G impf 3ms | that comes out
+לְ=to.מֵ~inf.עַל | ill | G inf | to enter
+מֵ=from.עִבְרָא | ivra | n emph | from across
+מַלְכְּוַת | malkhu | n cs | the kingdom of
+דְ=of.מַתְנָן | name | name | of Matnan (Hebrew: הַבָּשָׁן)
+דְּ=who.יִקְטוֹל | qtl | G impf 3ms | who kills
+# scoped
+30:3>לְ=to.מֵ~inf.סַר | asr | G inf | to bind
+30:7>מֶ~inf.הֱוָה | hwy | G inf abs | (indeed) be (married)
+30:13>בַּטָּלָא | btl | D inf abs | (indeed) annul
+31:16>בַּ=by.עֲצַת | etsa | n cs | by the counsel of
+31:27>וּ=and.תְפַלֵּג | plg | D impf 2ms | and you shall divide
+31:48>מְמַנַּ.ן~mp | mny | Dp ptc mp | (who were) appointed
+32:3>וּ=and.מַלְבֶּשְׁתָּא | name | name | and Malbeshta (Hebrew: וְנִמְרָה)
+32:3>וּ=and.בַעֲלֵי | name | name | and Baalei (Devava)
+32:3>וְ=and.כִימָא | name | name | and Kima (Hebrew: וּשְׂבָם)
+32:4>כָּשְׁרָא | kshr | a fs emph | fit (for)
+32:7>מִ=from.לְּ=to.מֶ~inf.עְבַּר | avr | G inf | from crossing
+32:14>לְ=to.אוֹסָפָא | ysf | C inf | to add
+32:15>וְ=and.יוֹסֵף | ysf | C impf 3ms | and He will again (leave them)
+32:17>מַבְעִ.ין~mp | baa | C ptc mp | hurrying (Hebrew: חֻשִׁים)
+32:19>וּ=and.לְהָלָא | lhalla | adv | and beyond
+32:21>דִּ=until.יתָרֵךְ | trk | D impf 3ms | until He drives out
+32:24>וּ=and.דְ=what.יִפּוֹק | npq | G impf 3ms | and what comes out
+33:4>מְקַבְּרִ.ין~mp | qvr | D ptc mp | burying
+33:27>בְּ=in.תָרַח | name | name | in Tarach
+33:28>מִ=from.תָּרַח | name | name | from Tarach
+33:54>לְ=to.סַגִּיא.ֵי=pl | saggi | a mp | to the many
+34:4>וְ=and.יַסְחַר | shr2 | G impf 3ms | and (the border) shall turn
+34:4>וִ=and.יעִבַר | avr | G impf 3ms | and it shall pass
+34:4>וְ=and.יִפּוֹק | npq | G impf 3ms | and it shall go out
+34:9>וְ=and.יִפּוֹק | npq | G impf 3ms | and it shall go out
+34:4>לַ=to.חֲצַר | name | name | to Chatzar (Addar)
+34:10>מֵ=from.חֲצַר | name | name | from Chatzar (Enan)
+34:6>מַעֲרְבָא | maarav | n emph | the west
+35:2>וְ=and.רֶוַח | rewah | n | and open land
+35:4>וּ=and.לְ=to.בָרָא | bara | n emph | and outward
+35:12>דְּ=until.יֵקוּם | qwm | G impf 3ms | until (the killer) stands
+35:16>בְּ=with.מָאן | mana | n cs | with an implement of
+35:20>בְּ=in.סַנְאָה | sana | n | in hatred
+35:21>מַחֲיָא | mhy | G ptc ms emph | the striker
+35:22>בְּ=without.לָא | la | neg | without (lit. in not)
+35:22>כְ=any.מַן | mana | n | any implement
+35:27>וְ=and.יִקְטוֹל | qtl | G impf 3ms | and kills
+35:33>מִתְכַּפֵּר | kpr | Dt ptc ms | can be atoned (for)
+36:3>וְ=and.תִתְמְנַע | mna | Gt impf 3fs | and (their inheritance) will be withheld

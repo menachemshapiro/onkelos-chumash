@@ -1,0 +1,51 @@
+# Vayetzei 29:1–17
+רִיגְל.וֹהִי=his | regel | n fp+3ms | his feet (a variant reading)
+עֶדְר.ִין=pl | edra | n mp abs | flocks
+דְּ=of.עָן | aan | n | of sheep
+רְבִיע.ִין~mp | rva | Gp ptc mp | lying
+מַ~ptcC.שְׁקָ.ן~mp | shqy | C ptc mp | (they) would water
+עֲדָר.ַיָּא=emphp | edra | n mp emph | the flocks
+פּוּמ.ָא=emph | pum | n emph | the mouth (of)
+מִ~ptc.תְ~Dt.כַּנְּשׁ.ִין~mp | kns | Dt ptc mp | (they) gather
+מְ~ptc.גַנְדְּר.ִין~mp | gndr | Q ptc mp | (they) would roll
+מְ~ptcC.תִיב.ִין~mp | twv | C ptc mp | (they) would put back
+לְ=.אַתְר.ַהּ=its | atar | n+3fs | in its place
+אַתּוּן | atun | pron 2mp | (are) you
+הַ~question marker.יְדַעְ.תּוּן~ypl_p | yd | G pf 2mp | do you know
+יְדַעְ.נָן~we_p | yd | G pf 1cp | we know
+הַ~question marker.שְׁלַם | shlam | n | is (he) well? (lit. is there peace)
+שְׁלַם | shlam | n | well (lit. peace)
+רָחֵל | name | name | Rachel
+בְּרַתּ.ֵיהּ=his | bnat | n fs+3ms | his daughter
+לְ=.מִ~inf.כְנַשׁ | kns | G inf | to gather
+אַ~C.שְׁק.וּ~cmd_pl | shqy | C impv mp | water
+וְ=.אִזִּיל.וּ~cmd_pl | azl | G impv mp | and go
+נִ~we_f.כּוּל | ykl | G impf 1cp | we can (not) | the י of יכל drops
+וִ=.י~they_f.גַנְדְּר.וּן~mp | gndr | Q impf 3mp | and they roll
+מְ~ptcD.מַלֵּל | mll2 | D ptc ms | speaking
+אָתַ.ת~she_p | aty | G pf 3fs | came
+לַ=.אֲבוּ.הָ=her | av | n+3fs | to her father (דִּי לַאֲבוּהָ = that belonged to her father)
+רָעִית.ָא~fs | rey | G ptc fs | a shepherdess (lit. tending)
+חֲזָא | hzy | G pf 3ms | saw
+וְ=.גַנְדַּר | gndr | Q pf 3ms | and (he) rolled
+וַ=.אֲ~C.רֵם | rwm | C pf 3ms | and (he) raised
+וּ=.בְכָא | bky | G pf 3ms | and (he) wept
+אֲחָה | ah | n cs | the brother of (בַר אֲחָה דְאָבוּהָ = her father’s nephew; Hebrew: אֲחִי אָבִיהָ, her father’s kinsman)
+דְ=of.אָבוּ.הָ=her | av | n+3fs | of her father
+לְ=to.אָבוּ.הָ=her | av | n+3fs | to her father
+שֵׁמַע | shema | n | the report (about)
+וְ=.גַפֵּף | gpf | D pf 3ms | and (he) embraced
+וְ=.נַשִּׁיק | nshq | D pf 3ms | and (he) kissed
+וְ=.אַ~C.עֲלֵ.יהּ=him | ill | C pf 3ms+3ms | and (he) brought him in
+וְ=.אִ~Dt.שְׁתָּעִי | shy2 | Dt pf 3ms | and (he) told | the passive ת moves after the ש (אִתְשָׁעִי → אִשְׁתָּעִי)
+קָרִיב.ִי=my | qariv | a ms+1cs | my relative (lit. my near one) (Hebrew: עַצְמִי, my bone)
+וּ=.בִשְׂר.ִי=my | bsr | n+1cs | and my flesh
+יְרַח | yarha | n cs | a month (of) (יְרַח יוֹמִין = a full month)
+הֲ~question marker.מִדְּ=because (lit. from that).אָח.ִי=my | ah | n+1cs | (is it) because (you are) my brother
+וְ=.תִ~you_f.פְלְחִ.נַּנִי=me | plh | G impf 2ms+1cs | and should you serve me
+מַגָּן | maggan | adv | for nothing
+יָאֲי.ָן~fp | yay | a fp | beautiful (Hebrew: רַכּוֹת, tender)
+בְ=.רֵיו.ָא=emph | reiva | n emph | in appearance
+וְ=.יָאֲי.ָא~fs | yay | a fs | and beautiful
+בְ=.חֶזְו.ָא=emph | hezu | n emph | in looks (lit. in sight)
+לֵאָה | name | name | Leah

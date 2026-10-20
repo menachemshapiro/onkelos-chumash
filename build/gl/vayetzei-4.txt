@@ -1,0 +1,39 @@
+# Vayetzei 30:14–27
+חֲצַד | hatsad | n cs | the harvest of
+חִטִּ.ין=pl | hitta | n fp abs | wheat
+יַבְרוּח.ִין=pl | yavruha | n mp abs | mandrakes (Hebrew: דּוּדָאִים)
+יַבְרוּחֵי | yavruha | n mp cs | the mandrakes of
+מִ=from.יַּבְרוּחֵי | yavruha | n mp cs | from the mandrakes of
+הָבִ.י~cmd_fs | hav | G impv fs | give
+הַ~question marker.זְעֵיר | zeir | a ms | is it a small thing
+דִּ=that.דְבַרְ.תְּ~you_p | dbr | G pf 2fs | that you have taken
+וְ=.תִ~you_f.סְּב.ִין~fem. sing. | nsv | G impf 2fs | and (would) you take | the נ of נסב is absorbed (the dot in ס)
+דִּ=of.בְר.ִיךְ=your | bar | n+2fs | of your son
+דִ=of.בְר.ִיךְ=your | bar | n+2fs | of your son
+יִ~he_f.שְׁכּוּב | shkv | G impf 3ms | he will lie
+מֵ~inf.יגַר | agr | G inf | (I have surely) hired | an infinitive before the verb strengthens it (מֵיגַר אֲגַרְתִּיךְ)
+אֲגַרְ.תִּ~I_p.יךְ=you | agr | G pf 1cs+2ms | I have hired you
+צְלוֹת.ַהּ=her | tslo | n fs+3fs | her prayer
+אַגְר.ִי=my | agra | n+1cs | my reward
+שִׁתִיתָאִי | shetitai | ord | sixth
+חֳלַק | hulaq | n cs | a portion (חֳלַק טַב = a good portion; Hebrew: זֵבֶד טוֹב)
+מְדוֹר.ֵיהּ=his | medor | n+3ms | his dwelling
+שִׁתָּא | shet6 | num | six
+בְּרַתּ.ָא=emph | bnat | n fs emph | a daughter
+דּוּכְרָנ.ָא=emph | dukhrana | n emph | the remembrance (of)
+כְּנַשׁ | kns | G pf 3ms | has gathered in (= taken away)
+חִסּוּד.ִי=my | hissud | n+1cs | my disgrace
+שַׁלְּחַ.נִי=me | shlh | D impv ms+1cs | send me away
+לְ=.אַתְר.ִי=my | atar | n+1cs | to my place
+נְשַׁ.י=my | nashin | n fp+1cs | my wives
+בְּנַ.י=my | bnin | n mp+1cs | my children
+יְדַעְ.תָּ~you_p | yd | G pf 2ms | you know
+פָּלְחָנ.ִי=my | pulhana | n+1cs | my service
+דִּ=that.פְלָחִ.תָּ~I_p.ךְ=you | plh | G pf 1cs+2ms | that I have served you
+נַסֵּי.תִי~I_p | nsy | D pf 1cs | I have tested (= I have seen by experience)
+וּ=.בָרְכַ.נִי=me | brk | D pf 3ms+1cs | and (Hashem) has blessed me
+וְ=.אֵ~I_f.זֵיל | azl | G impf 1cs | and I will go | the א of אזל becomes י
+יִשָּׂשׂכָר | name | name | Yissachar
+זְבֻלוּן | name | name | Zevulun
+דִּינָה | name | name | Dinah
+יוֹסֵף | name | name | Yosef

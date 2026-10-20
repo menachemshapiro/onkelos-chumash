@@ -1,0 +1,65 @@
+# Miketz 43:30–44:13
+אִתְ~passive.גּוֹלְל.וּ~they_p | gll | !verb, Itpolel (passive), past, 3rd masc. pl. | were stirred (Hebrew: נִכְמְרוּ)
+רַחֲמ.וֹהִי=his | rahmin | n mp+3ms | his compassion
+וּ=.בְעָא | bay | G pf 3ms | and (he) wanted (lit. sought)
+לְ=.מִ~inf.בְכֵּי | bky | G inf | to weep
+לְ=into.אִדְרוֹן | idron | n cs | into the chamber of
+מִשְׁכְּב.ָא=emph | mishkav | n emph | the bedroom (בֵּית מִשְׁכְּבָא)
+וְ=.אַ~C.סְחֵי | shy | C pf 3ms | and (he) washed
+וּ=.נְפָק | npq | G pf 3ms | and (he) came out
+וְ=.אִתְ~Dt.חַסִּין | hsn2 | Dt pf 3ms | and (he) restrained himself
+בִּ=.לְחוֹד.ֵיהוֹן=them | lhod | adv+3mp | by themselves
+עִבְרָאֵי | name | name | the Hebrews
+דָחֲל.ִין~mp | dhl | G ptc mp | worship (lit. fear)
+אָכְל.ִין~mp | akhal | G ptc mp | eat
+כְּ=according to.רַבְיוּת.ֵיהּ=his | ravyut | n fs+3ms | according to his seniority
+כִּ=according to.זְעֵרוּת.ֵיהּ=his | zeirut | n fs+3ms | according to his youth
+וּ=.תְמָה.וּ~they_p | tmh | G pf 3mp | and (they) wondered
+חֳלָק.ִין=pl | hulaq | n mp abs | portions
+חֲלָק.ָא=emph | hulaq | n emph | the portion
+מֵ=than.חֳלָקֵי | hulaq | n mp cs | than the portions of
+וּ=.רְוִיא.וּ~they_p | rwy | G pf 3mp | and (they) drank freely
+מְלֵי | mly | D impv ms | fill
+טוֹעֲנֵי | toan | n mp cs | the sacks of
+לְ=.מַ~inf.טְּלֵי | ntl | G inf | to carry | the נ of נטל is absorbed (the dot in ט)
+כְּסַף | kaspa | n cs | the money of
+קַלִּידִ.י=my | qallida | n+1cs | my goblet
+קַלִּיד.ָא=emph | qallida | n emph | the goblet
+תְּ~you_f.שַׁוֵּי | shwy | D impf 2ms | you shall put
+טוֹעֲנ.ָא=emph | toan | n emph | the sack
+זְבִינ.וֹהִי=his | zevin | n mp+3ms | his purchase (money)
+נְהָר | anhar | !verb, Pe‘al, past, 3rd masc. sing. | grew light
+אִתְ~Dt.פַּטָּר.וּ~they_p | ptr | Dt pf 3mp | were sent off
+אַ~C.רְחִיק.וּ~they_p | rhq | C pf 3mp | (they had not) gone far
+רְדַף | rdf | G impv ms | pursue
+וְ=.תַ~you_f.דְבְּקִ.נּוּן=them | dbq | C impf 2ms+3mp | and (when) you overtake them
+אַ~C.שְׁלֶמְ.תּוּן~ypl_p | shlm | C pf 2mp | have you repaid
+חֳלָף | halaf | prep | instead of
+טַבְת.ָא=emph | tav | a fs emph | good
+דְּ=from which.שָׁתֵי | shty | G ptc ms | drinks
+בָּדָק.ָא~inf_end | bdq | D inf | (he surely) examines | an infinitive before the verb strengthens it
+מְ~ptcD.בָדֵק | bdq | D ptc ms | examines (Hebrew: נַחֵשׁ יְנַחֵשׁ, practices divination)
+עֲבַדְ.תּוּן~ypl_p | avad | G pf 2mp | you have done
+וְ=.אַ~C.דְבֵּיקִ.נּוּן=them | dbq | C pf 3ms+3mp | and (he) overtook them
+יְ~he_f.מַלֵּל | mll2 | D impf 3ms | (does my master) speak
+חַס | hws | G pf 3ms | far be it (lit. has pity) (חַס לְ… = far be it from …)
+אֲ~C.תֵיבְ.נ~we_p.וֹהִי=it | twv | C pf 1cp+3ms | we brought it back
+נִ~we_f.גְנוּב | gnv | G impf 1cp | would we steal
+דִּ=of.דְהָב | dahava | n | of gold
+יִ~he_f.שְׁתְּכַח | shkh | Gt impf 3ms | (it) is found | the passive ת moves after the ש
+אִ~Gt.שְׁתְּכַח | shkh | Gt pf 3ms | was found; (44:16) has found | the passive ת moves after the ש
+כֶּן | ken | adv | so
+תְּ~ypl_f.הוֹ.ן~mp | hwy | G impf 2mp | you will be
+וְ=.אוֹ~C.חִיא.וּ~they_p | wy | C pf 3mp | and (they) hurried
+וּ=.נְחִית.וּ~they_p | nht | G pf 3mp | and (they) brought down
+וְ=.אַ~C.חִית.וּ~they_p | nht | C pf 3mp | and (they) brought down (a variant reading)
+וּ=.פְתָח.וּ~they_p | ptH | G pf 3mp | and (they) opened
+שָׁרִי | shry3 | D pf 3ms | (he) began
+וּ=.בְזָע.וּ~they_p | bza | G pf 3mp | and (they) tore
+לְבוּשׁ.ֵיהוֹן=their | levush | n mp+3mp | their clothes
+וּ=.סְגִי | sgy | G pf 3ms | and (Binyamin's portion) was greater
+מִ=from.לְּ=.מֶ~inf.עְבַּד | avad | G inf | from doing (חַס … מִלְּמֶעְבַּד = far be it from … to do)
+כְּ=as.מָה | ma | q | as much as
+בְּ=with.רַבּ.ָא=emph | rav | a ms emph | with the eldest
+וּ=.בִ=with.זְעֵיר.ָא=emph | zeir | a ms emph | and with the youngest
+דִ=of.זְעֵיר.ָא=emph | zeir | a ms emph | of the youngest

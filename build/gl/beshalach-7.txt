@@ -1,0 +1,42 @@
+# Shemot 17:1–16
+דְ=of.סִין | name | name | of Sin
+לְ=by.מַטְלָנ.ֵיהוֹן=their | matlan | n mp+3mp | by their journeys (i.e. stages)
+בִּ=at.רְפִידִים | name | name | at Refidim
+בִּ=at.רְפִידִם | name | name | at Refidim
+מְ~ptcD.נַס.וּן~mp | nsy | D ptc mp | (why) do you test
+וּ=.צְחִי | tshy | G pf 3ms | and (the people) thirsted
+וְ=.אִתְ~Dt.רַעַם | rm2 | Dt pf 3ms | and (the people) complained
+אַ~C.סֶקְ.תָּ~you_p.נָא=us | slq | C pf 2ms+1cp | have you brought us up | the ל of סלק is absorbed
+בְּעִיר.ַי=my | beir | n+1cs | my livestock
+בְּ=with.צָחוּת.ָא=emph | tsehuta | n fs emph | with thirst
+וְ=.יִ~they_f.רְגְמֻ.נָנִי=me | rgm | G impf 3mp+1cs | and they will stone me
+עִבַּר | avr | G impv 2ms | pass (on)!
+מָחֵי.תָא~you_p | mhy | G pf 2ms | you struck
+וְ=.תֵ~you_f.יזִל | azl | G impf 2ms | and go! (lit. and you will go) | the א of אזל becomes י
+בְּ=at.חוֹרֵב | name | name | at Chorev
+וְ=.תִ~you_f.מְחֵי | mhy | G impf 2ms | and you shall strike
+וְ=.יִ~he_f.שְׁתֵּי | shty | G impf 3ms | and (the people) will drink
+נִסֵית.ָא=emph | nisyuta | n fs emph | Testing (Massah)
+דְ=that.נַסִי.אוּ~they_p | nsy | D pf 3mp | that they tested
+הֲ~question marker.אִית | it | part | is there?
+שְׁכִינְתּ.ָא=emph | shekhinta | n fs emph | the Presence (Shechinah) of
+וַ=.אֲ~C.גַח | gwh | C pf 3ms | and (Amalek) waged (war)
+אֲ~C.גַח | gwh | C impv 2ms | wage (war)!
+לְ=.אַ~C.גָח.ָא~inf_end | gwh | C inf | to wage (war)
+לִ=to.יהוֹשֻׁעַ | name | name | to Yehoshua
+יְהוֹשֻׁעַ | name | name | Yehoshua
+בְּחַר | bhr | G impv 2ms | choose!
+רָמָת.ָא=emph | ramta | n fs emph | the hill
+וְ=.חוּר | name | name | and Chur
+מֵ~ptcC.רִים | rwm | C ptc ms | raised (lit. raising)
+וּ=.מִתְ~ptcGt.גַבְּר.ִין~mp | gvar | Dt ptc mp | (then) prevailed (lit. were growing strong)
+סַעְד.ָן~mp | sd | G ptc mp | supported
+וּ=.מִ=from.כָּא | ka | adv | and from here (מִכָּא חַד וּמִכָּא חַד = one on each side)
+פְּרִיס.ָן~fp | prs2 | Gp ptc fp | spread out
+מַ~ptcC.נַח | nwh | C ptc ms | lowered (lit. letting rest)
+וְ=.תַבַּר | tvr | D pf 3ms | and (Yehoshua) broke (i.e. weakened)
+בַּ=against.עֲמָלֵק | name | name | against Amalek
+בְ=on.טִנָר.ָא=emph | tinara | n emph | on the rock
+17:9> לְ=on.רֵישׁ | resh | n cs | on the top of
+17:10> לְ=to.רֵישׁ | resh | n cs | to the top of
+17:13> לְ=by.פִתְגָם | pitgam | n cs | by the word of (i.e. the edge of)

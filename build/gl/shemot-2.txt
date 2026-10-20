@@ -1,0 +1,44 @@
+# Shemot 1:18–2:10
+וְ=.קַיֵמְ.תּוּן~ypl_p | qwm2 | D pf 2mp | and you let live
+וַ=.אֲמָר.ָא~they (fem.), past | amr | G pf 3fp | and (the midwives) said
+מִצְרְיָת.ָא=emph | mitsrai | a fp emph | the Egyptian (women)
+חֲכִּימ.ָן~fp | hkm | a fp | skilled (lit. wise)
+לְוָתְ.הֶן=them (fem.) | lwat | prep+3fp | to them
+בָּתּ.ִין=pl | beit | n mp abs | houses
+דְ=that.יִ~he_f.תְ~Gt.יְלִיד | yld | Gt impf 3ms | that is born
+יְהוּדָאֵי | name | name | the Jews (Hebrew: הָעִבְרִים, the Hebrews)
+תִּ~ypl_f.רְמֻ.נֵהּ=him | rmy | G impf 2mp+3ms | you shall throw him
+תְּ~ypl_f.קַיְמ.וּן~mp | qwm2 | D impf 2mp | you shall let live
+וְ=.אַ~C.טְמַרְ.תֵּ~she_p.הּ=him | tmr | C pf 3fs+3ms | and (she) hid him
+יְכֵילַ.ת~she_p | ykl | G pf 3fs | she could (not)
+לְ=.אַ~C.טְמָרוּת.ֵהּ=him | tmr | C inf+3ms | to hide him
+תֵּבוּת.ָא=emph | tevuta | n fs emph | a basket (Hebrew: תֵּבַת)
+דְ=of.גוֹמֶא | goma | n | of papyrus
+וְ=.חַפָּתַ.הּ=it | hpy | D pf 3fs+3fs | and (she) coated it
+בְּ=with.חֵמָר.ָא=emph | heimar | n emph | with clay (Hebrew: בַחֵמָר)
+וּ=.בְ=with.זִפְתּ.ָא=emph | zifta | n emph | and with pitch
+וְ=.שַׁוִיא.ַת~she_p | shwy | D pf 3fs | and (she) placed
+וְ=.שַׁוִי.תַ~she_p.הּ=it | shwy | D pf 3fs+3fs | and (she) placed it
+יַעֲר.ָא=emph | yaara | n emph | the reeds
+וְ=.אִתְ~Dt.עַתָּדַ.ת~she_p | td | Dt pf 3fs | and (his sister) stationed herself
+אֲחָת.ֵהּ=his | ahata | n fs+3ms | his sister
+לְ=.מִ~inf.סְחֵי | shy | G inf | to bathe
+וְ=.עוּלֵימָתָ.הָא=her | ulemta | n fp+3fs | and her maidens
+מְ~ptcD.הַלְכ.ָן~fp | hlk | D ptc fp | walking
+וְ=.אוֹ~C.שֵׁטַ.ת~she_p | wsht | C pf 3fs | and (she) stretched out
+וּ=.נְסֵבְ.תַ~she_p.הּ=it | nsv | G pf 3fs+3fs | and (she) took it
+וּ=.פְתָחַ.ת~she_p | ptH | G pf 3fs | and (she) opened
+בָּכֵי | bky | G ptc ms | crying
+וְ=.חָסַ.ת~she_p | hws | G pf 3fs | and (she) had pity
+הַ~question marker.אֵ~I_f.יזִיל | azl | G impf 1cs | shall I go
+וְ=.אִ~I_f.קְרֵי | qry | G impf 1cs | and call
+וְ=.תוֹ~she_f.נִיק | ynq | C impf 3fs | and she will nurse | Af‘el of ינק: the י becomes ו
+אֵיזִיל.ִי~cmd_fs | azl | G impv fs | go
+אִמּ.ֵהּ=his | em | n+3ms | the mother of (lit. his mother)
+אוֹ~C.בִיל.ִי~cmd_fs | ybl | C impv fs | take (lit. carry)
+וְ=.אוֹ~C.נְקִי.הִי=him | ynq | C impv fs+3ms | and nurse him
+וְ=.אוֹ~C.נִקְ.תֵּ~she_p.הּ=him | ynq | C pf 3fs+3ms | and (she) nursed him
+וְ=.אַ~C.יְתִי.תֵ~she_p.הּ=him | aty | C pf 3fs+3ms | and (she) brought him
+משֶׁה | name | name | Moshe
+שְׁחַלְ.תֵּ~I_p.הּ=him | shhl | G pf 1cs+3ms | I drew him out
+1:20> וְ=.אוֹ~C.טֵיב | twv2 | C pf 3ms | and (Hashem) did good

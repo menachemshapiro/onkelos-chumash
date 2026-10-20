@@ -1,0 +1,41 @@
+# Shemot 22:27–23:5
+דַיָנ.ָא=emph | dayyan | n emph | a judge
+תְ~you_f.קִיל | qll2 | C impf 2ms | you shall (not) treat lightly (i.e. curse)
+תְ~you_f.לוּט | lwt | G impf 2ms | you shall (not) curse
+בִּכּוּר.ָךְ=your | bikkura | n+2ms | your first fruits
+וְ=.דִמְע.ָךְ=your | dima | n+2ms | and your (first) juice
+תְ~you_f.אַחֵר | ahr | D impf 2ms | you shall (not) delay
+דִ=of.בְנָ.יךְ=your | bar | n mp+2ms | of your sons
+תַּ~you_f.פְרֵשׁ | prsh | C impf 2ms | you shall set apart
+תְמִינָאָה | tmin | ord | the eighth
+תִּ~you_f.פְרְשִׁ.נֵהּ=it | prsh | C impf 2ms+3ms | you shall set it apart
+קַדִישׁ.ִין~pl | qaddish | a mp | holy
+תְּלִישׁ | tlsh | Gp ptc ms | torn
+חֵיוָ.א~emph | heiva | n fs | a (wild) beast
+תִּ~ypl_f.רְמ.וּן~mp | rmy | G impf 2mp | you shall throw
+דִ=of.שְׁקָר | shiqra | n | of falsehood (i.e. a false report)
+שְׁקָר | shiqra | n | false (lit. of falsehood)
+תִ~you_f.תְ~Gt.מְנַע | mna | Gt impf 2ms | you shall (not) hold back
+וְ=.תִ~you_f.תִּ~Gt.מְנַע | mna | Gt impf 2ms | and you would hold back
+מִ=from.לְ=.אַלָפ.ָא~inf_end | lf | D inf | from teaching (i.e. stating your view)
+סַגִיא.ֵי~cs_pl | saggi | a mp cs | the many (שְׁלַם דִּינָא = the completion of the judgment)
+מִסְכֵּינ.ָא=emph | miskena | n emph | a poor man
+מִסְכֵּינ.ָךְ=your | miskena | n+2ms | your poor man
+מִסְכְּנ.ֵי~cs_pl | miskena | n mp cs | the poor of
+תְ~you_f.רַחֵם | rhm | D impf 2ms | you shall (not) show favor
+בְּ=in.דִינ.ֵהּ=his | din2 | n+3ms | in his judgment (i.e. case)
+תִ~you_f.פְגַע | pga | G impf 2ms | you come upon
+חֲמָר.ֵהּ=his | hmara | n+3ms | his donkey
+דְ=that.טָעֵי | ty | G ptc ms | that is straying
+אָתָב.ָא~inf_end | twv | C inf | (with) returning (doubles the verb: you shall surely return it)
+רְבִיעַ | rva | Gp ptc ms | lying down
+וּ=.תְ~you_f.פָרֵק | prq | D impf 2ms | and you shall unload (with him)
+22:27> בְ=among.עַמָ.ךְ=your | amma2 | n+2ms | among your people
+22:29> לְ=with.תוֹר.ָךְ=your | tor | n mp+2ms | with your cattle
+22:29> לְ=with.עָנ.ָךְ=your | ana2 | n+2ms | with your flock
+23:4> דְ=of.סָנְא.ָךְ=your | sana | n+2ms | of your enemy
+23:5> דְ=of.סָנְא.ָךְ=your | sana | n+2ms | of your enemy
+23:5> מִ=from.לְ=.מִ~inf.שְׁבַּק | shbq | G inf | from leaving
+23:5> מִ~inf.שְׁבַּק | shbq | G inf | (with) leaving (doubles the verb: you shall surely leave)
+23:5> דִ=what is.בְ=in.לִבָּ.ךְ=your | lev | n+2ms | what is in your heart
+23:2> דִ=what is.בְ=in.עֵינ.ָךְ=your | eina | n+2ms | what is in your eyes (i.e. your opinion)

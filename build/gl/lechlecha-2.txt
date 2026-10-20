@@ -1,0 +1,38 @@
+# Lech Lecha 12:14–13:4
+שַׁפִּיר.ָא~fs | shapir | a fs abs | beautiful
+רַבְרְבֵי | rav | n mp cs | the nobles of (lit. great ones of)
+פַרְעֹה | name | name | Paroh (Pharaoh)
+פַּרְעֹה | name | name | Paroh (Pharaoh)
+לְ=to.פַרְעֹה | name | name | to Paroh
+וְ=.שַׁבָּח.וּ~they_p | shbh | D pf 3mp | and (they) praised
+וְ=.אִדַּ~Dt.בָּר.ַת~she_p | dbr | Dt pf 3fs | and (she) was taken | the passive ת is absorbed into the ד (the dot in דּ)
+אוֹ~C.טִיב | twv2 | C pf 3ms | (he) did good
+בְּדִיל.ַהּ=her | bdil | prep+3fs | for her sake
+עָאן | aan | n | sheep
+וְ=.תוֹר.ִין=pl | tor | n mp abs | and cattle
+וַ=.חֲמָר.ִין=pl | hmara | n mp abs | and donkeys
+וְ=.אַמְה.ָן=pl | amta | n fp abs | and maidservants
+וְ=.אַתְנ.ָן=pl | atana | n fp abs | and she-donkeys
+וְ=.גַמְל.ִין=pl | gamla | n mp abs | and camels
+מַכְתָּשׁ.ִין=pl | makhtash | n mp abs | plagues
+רַבְרְב.ִין~mp | rav | a mp abs | great
+בֵּית.ֵיהּ=his | beit | n+3ms | his household (lit. house)
+עֵיסַק | esaq | n cs | (on) account of
+מָה | ma | pron | what
+עֲבַדְ.תְּ~you_p | avad | G pf 2ms | have you done
+חַוֵּי.תָא~you_p | hwy2 | D pf 2ms | did you tell
+אֲמַרְ.תְּ~you_p | amr | G pf 2ms | did you say
+וּ=.דְבָר.ִית~I_p | dbr | G pf 1cs | and I took
+לְ=as.אִתּוּ | ittu | n | as a wife
+דְּבַר | dbr | G impv ms | take
+וְ=.אִי~cmd.זֵיל | azl | G impv ms | and go | the א of אזל becomes י
+גּוּבְר.ִין=pl | gvar | n mp abs | men
+וְ=.אַ~C.לְוִיא.וּ~they_p | lwy | C pf 3mp | and (they) escorted
+דִּיל.ֵיהּ=his | dil | part+3ms | (all) that was his
+וּ=.סְלִיק | slq | G pf 3ms | and (he) went up
+בְּ=in.כַסְפּ.ָא=emph | kaspa | n emph | in silver
+לְ=by.מַטְלָנ.וֹהִי=his | matlan | n mp+3ms | by his journeys
+מִ=.דָּרוֹמ.ָא=emph | darom | n emph | from the south
+אַתְר.ָא=emph | atar | n emph | the place
+פְרַס | prs | G pf 3ms | (he) had spread (his tent)
+עָי | name | name | Ai

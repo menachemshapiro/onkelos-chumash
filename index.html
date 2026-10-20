@@ -127,8 +127,41 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .rep-act button { font: inherit; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: 8px; padding: 7px 14px; cursor: pointer; }
 .rep-act .pri { background: var(--targum); border-color: var(--targum); color: var(--surface); font-weight: 600; }
 @media print { .vtools, .orig, .rep-pop { display: none !important; } }
+.tw { cursor: pointer; border-radius: 3px; }
+.tw:hover, .tw.on { background: var(--mark); box-shadow: 0 0 0 2px var(--mark); }
+.gl-pop { position: fixed; inset: auto 0 0 0; z-index: 45; display: flex; justify-content: center; padding: 0 12px calc(12px + env(safe-area-inset-bottom, 0px)); pointer-events: none; }
+.gl-pop[hidden] { display: none; }
+.gl-card { pointer-events: auto; background: var(--surface); color: var(--ink); border: 1px solid var(--rule); border-radius: 14px; width: min(520px, 100%); padding: 14px 16px 12px; box-shadow: 0 10px 30px rgba(0,0,0,.22); font-family: var(--f-ui); }
+.gl-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+.gl-word { font-family: var(--tg-font); font-size: 2rem; font-weight: 700; color: var(--targum); line-height: 1.2; }
+.gl-x { font: inherit; font-size: 1.3rem; line-height: 1; background: none; border: 0; color: var(--muted); cursor: pointer; padding: 2px 6px; }
+.gl-parts { display: flex; flex-wrap: wrap; gap: 5px; margin: 8px 0 4px; direction: rtl; align-items: stretch; }
+.gl-legend { font-size: .7rem; color: var(--muted); margin: 0 0 8px; direction: ltr; text-align: right; }
+.gl-chip { display: inline-flex; flex-direction: column; align-items: center; border: 1px solid var(--rule); border-radius: 8px; padding: 3px 7px; min-width: 2em; }
+.gl-chip b { font-family: var(--tg-font); font-size: 1.25rem; font-weight: 700; line-height: 1.3; }
+.gl-chip span { font-size: .7rem; line-height: 1.2; color: var(--muted); direction: ltr; text-align: center; max-width: 7.5em; }
+.gl-chip.stem { border-color: var(--targum); background: color-mix(in srgb, var(--targum) 9%, transparent); }
+.gl-chip.stem span { color: var(--targum); }
+.gl-chip.g { border-style: dashed; border-color: #c08a2c; }
+.gl-chip.g span { color: #9a6b17; }
+.gl-key { display: inline-block; width: .8em; height: .8em; border: 1px solid var(--rule); border-radius: 3px; margin: 0 3px 0 6px; vertical-align: -1px; }
+.gl-key.g { border: 1px dashed #c08a2c; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .gl-chip.g span { color: #e2b765; } }
+.gl-row { display: grid; grid-template-columns: 6.5em 1fr; gap: 2px 10px; font-size: .9rem; line-height: 1.45; direction: ltr; }
+.gl-row dt { color: var(--muted); }
+.gl-row dd { margin: 0; }
+.gl-row .heb { font-family: var(--tg-font); font-size: 1.15rem; font-weight: 600; }
+.gl-foot { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; font-size: .78rem; color: var(--muted); direction: ltr; }
+.gl-beta { display: block; font-size: .72rem; margin-top: 1px; }
+.gl-beta b { font-weight: 600; color: #9a6b17; letter-spacing: .04em; text-transform: uppercase; font-size: .68rem; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .gl-beta b { color: #e2b765; } }
+:root[data-theme="dark"] .gl-beta b { color: #e2b765; }
+.gl-foot button { font: inherit; color: var(--muted); background: none; border: 1px solid var(--rule); border-radius: 999px; padding: 2px 10px; cursor: pointer; }
+@media print { .gl-pop { display: none !important; } }
 .goto button { font: inherit; font-size: .8em; color: var(--targum); background: transparent; border: 0; padding: 2px 4px; cursor: pointer; }
 .tg small { font-size: .68em; color: var(--muted); font-weight: 400; }
+.tg .alt { font-family: var(--f-rashi); font-size: .8em; font-weight: 400; color: var(--muted); white-space: nowrap; }
+.tg .alt small { font-size: .85em; color: inherit; }
 .print-root { display: none; }
 .xp-scope { display: grid; gap: 7px; }
 .xp-opt { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
@@ -244,6 +277,7 @@ body.stacked .lbl { display: block; }
   </section>
 </div>
 
+<div class="gl-pop" id="gl" hidden><div class="gl-card" role="dialog" aria-label="Word" id="gl-card"></div></div>
 <div class="rep-pop" id="rep" hidden dir="ltr" lang="en"><div class="rep-card" role="dialog" aria-modal="true" aria-labelledby="rep-t">
   <div class="rep-h"><b id="rep-t">Report a problem</b><span id="rep-ref"></span></div>
   <div class="rep-parts" role="group" aria-label="What needs fixing">
@@ -262,7 +296,10 @@ const RASHI = [];
 
 const TROPE = /[\u0591-\u05AF\u05BD\u05C0]/g; // cantillation, meteg, paseq (niqqud kept)
 const NIQQUD = /[֑-ׇֽֿׁׂׅׄ]/g;
-const mk = s => s.replace(/<b>/g,"<mark>").replace(/<\/b>/g,"</mark>");
+// alternate readings printed in the Targum text — (נ"א …), (ס"א …), (לפרש"י …) — stay in the text, set apart in Rashi script
+const ALT_RE = /\((?:<small>\s*)?(נ"א|נ״א|נ"י|נ״י|ס"א|ס״א|לפרש"י|לפרש״י|גי' רמב"ן|גי׳ רמב״ן|בנ"י איננו|בנ״י איננו)\s*(?:<\/small>)?\s*([^()]*?)\s*\)/g;
+const altWrap = s => s.replace(ALT_RE, (m, lab, rd) => `<span class="alt" title="${/איננו/.test(lab) ? "not in other copies" : /רמב/.test(lab) ? "Ramban's reading" : /ס/.test(lab) ? "another version" : /לפרש/.test(lab) ? "Rashi's reading" : "another reading"}">(<small>${lab.replace(/"/g, "״").replace(/'/g, "׳")}</small> ${rd})</span>`);
+const mk = s => altWrap(s.replace(/<b>/g,"<mark>").replace(/<\/b>/g,"</mark>"));
 let showTrope = true, barReady = false;
 
 const META = {"bereishit": [1, 1, 6, 8], "noach": [6, 9, 11, 32], "lechlecha": [12, 1, 17, 27], "vayera": [18, 1, 22, 24], "chayeisarah": [23, 1, 25, 18], "toldot": [25, 19, 28, 9], "vayetzei": [28, 10, 32, 3], "vayishlach": [32, 4, 36, 43], "vayeshev": [37, 1, 40, 23], "miketz": [41, 1, 44, 17], "vayigash": [44, 18, 47, 27], "vayechi": [47, 28, 50, 26], "shemot": [1, 1, 6, 1], "vaera": [6, 2, 9, 35], "bo": [10, 1, 13, 16], "beshalach": [13, 17, 17, 16], "yitro": [18, 1, 20, 23], "mishpatim": [21, 1, 24, 18], "terumah": [25, 1, 27, 19], "tetzaveh": [27, 20, 30, 10], "kitisa": [30, 11, 34, 35], "vayakhel": [35, 1, 38, 20], "pekudei": [38, 21, 40, 38], "vayikra": [1, 1, 5, 26], "tzav": [6, 1, 8, 36], "shemini": [9, 1, 11, 47], "tazria": [12, 1, 13, 59], "metzora": [14, 1, 15, 33], "achareimot": [16, 1, 18, 30], "kedoshim": [19, 1, 20, 27], "emor": [21, 1, 24, 23], "behar": [25, 1, 26, 2], "bechukotai": [26, 3, 27, 34], "bamidbar": [1, 1, 4, 20], "naso": [4, 21, 7, 89], "behaalotecha": [8, 1, 12, 16], "shelach": [13, 1, 15, 41], "korach": [16, 1, 18, 32], "chukat": [19, 1, 22, 1], "balak": [22, 2, 25, 9], "pinchas": [25, 10, 30, 1], "matot": [30, 2, 32, 42], "masei": [33, 1, 36, 13], "devarim": [1, 1, 3, 22], "vaetchanan": [3, 23, 7, 11], "eikev": [7, 12, 11, 25], "reeh": [11, 26, 16, 17], "shoftim": [16, 18, 21, 9], "kiteitzei": [21, 10, 25, 19], "kitavo": [26, 1, 29, 8], "nitzavim": [29, 9, 30, 20], "vayeilech": [31, 1, 31, 30], "haazinu": [32, 1, 32, 52], "vezot": [33, 1, 34, 12]};  // first and last perek:pasuk of each parsha
@@ -369,13 +406,26 @@ let curPar = (() => {
   return PARSHIYOT[0].id;
 })();
 
+// ----- Targum glossary: tap a word for its root, prefixes/suffixes and meaning (g/<parsha>.json) -----
+const GLOSS_RANGES = {"bereishit": [[1, 1, 6, 8]], "noach": [[6, 9, 11, 32]], "lechlecha": [[12, 1, 17, 27]], "vayera": [[18, 1, 22, 24]], "chayeisarah": [[23, 1, 25, 18]], "toldot": [[25, 19, 28, 9]], "vayetzei": [[28, 10, 32, 3]], "vayishlach": [[32, 4, 36, 43]], "vayeshev": [[37, 1, 40, 23]], "miketz": [[41, 1, 44, 17]], "vayigash": [[44, 18, 47, 27]], "vayechi": [[47, 28, 50, 26]], "shemot": [[1, 1, 6, 1]], "vaera": [[6, 2, 9, 35]], "bo": [[10, 1, 13, 16]], "beshalach": [[13, 17, 17, 16]], "yitro": [[18, 1, 20, 23]], "mishpatim": [[21, 1, 24, 18]], "terumah": [[25, 1, 27, 19]], "tetzaveh": [[27, 20, 30, 10]], "kitisa": [[30, 11, 34, 35]], "vayakhel": [[35, 1, 38, 20]], "pekudei": [[38, 21, 40, 38]], "vayikra": [[1, 1, 5, 26]], "tzav": [[6, 1, 8, 36]], "shemini": [[9, 1, 11, 47]], "tazria": [[12, 1, 13, 59]], "metzora": [[14, 1, 15, 33]], "achareimot": [[16, 1, 18, 30]], "kedoshim": [[19, 1, 20, 27]], "emor": [[21, 1, 24, 23]], "behar": [[25, 1, 26, 2]], "bechukotai": [[26, 3, 27, 34]], "bamidbar": [[1, 1, 4, 20]], "naso": [[4, 21, 7, 89]], "behaalotecha": [[8, 1, 12, 16]], "shelach": [[13, 1, 15, 41]], "korach": [[16, 1, 18, 32]], "chukat": [[19, 1, 22, 1]], "balak": [[22, 2, 25, 9]], "pinchas": [[25, 10, 30, 1]], "matot": [[30, 2, 32, 42]], "masei": [[33, 1, 36, 13]], "devarim": [[1, 1, 3, 22]], "vaetchanan": [[3, 23, 7, 11]], "eikev": [[7, 12, 11, 25]], "reeh": [[11, 26, 16, 17]], "shoftim": [[16, 18, 21, 9]], "kiteitzei": [[21, 10, 25, 19]], "kitavo": [[26, 1, 29, 8]], "nitzavim": [[29, 9, 30, 20]], "vayeilech": [[31, 1, 31, 30]], "haazinu": [[32, 1, 32, 52]], "vezot": [[33, 1, 34, 12]]};
+function glossHas(v){ return (GLOSS_RANGES[v.pr] || []).some(([c1, v1, c2, v2]) => { const x = v.c * 1000 + v.v; return x >= c1 * 1000 + v1 && x <= c2 * 1000 + v2; }); }
+// a word may be partly highlighted (וּלְ<mark>מִימְנֵי</mark>): keep the whole word in one tappable span
+const twrap = html => html.split(/(<small>.*?<\/small>)/).map((h, k) => k % 2 ? h : twrap1(h)).join("");
+const twrap1 = html => html.replace(/[\u05d0-\u05ea](?:[\u0591-\u05c7\u05d0-\u05ea]|<\/?mark>)*/g, m => {
+  const lead = m.match(/^(?:<\/?mark>)*/)[0], trail = m.match(/(?:<\/?mark>)*$/)[0];
+  let core = m.slice(lead.length, m.length - trail.length), pre = "", post = "";
+  const o = (core.match(/<mark>/g) || []).length, c = (core.match(/<\/mark>/g) || []).length;
+  if (c > o) { pre = "</mark>"; core = "<mark>" + core; }
+  if (o > c) { core = core + "</mark>"; post = "<mark>"; }
+  return `${lead}${pre}<span class="tw" role="button" tabindex="0">${core}</span>${post}${trail}`;
+});
 function verseHTML(i, trope, par, tools){
   const v = VERSES[i], a = alOf(i, par);
   const rows = v.h.map((h,j) => {
     const heb = trope ? h : h.replace(TROPE,"").replace(/\s{2,}/g," ");
     return `<div class="clause">
       <div class="cell heb"><div class="lbl">מקרא</div>${j===0?`${a?`<span class="al-in">(${a})</span>`:''}<span class="vn">${v.n}:</span>`:''}${heb}${(v.p && j===v.h.length-1)?`<span class="pet">{${v.p}}</span>`:''}</div>
-      <div class="cell tg"><div class="lbl">תרגום</div>${mk(v.t[j]||"")}</div>
+      <div class="cell tg"><div class="lbl">תרגום</div>${tools && glossHas(v) ? twrap(mk(v.t[j]||"")) : mk(v.t[j]||"")}</div>
       <div class="cell en"><div class="lbl">ENGLISH</div>${mk(v.e[j]||"")}</div>
     </div>`;
   }).join("");
@@ -585,7 +635,53 @@ repSend.addEventListener("click", async () => {
   repMsg.classList.add("err"); repSend.disabled = false;
   repMsg.textContent = copied ? "Couldn't save here, so the report was copied. Paste it to Claude." : "Couldn't save here. Tell Claude: " + asText;
 });
+const GLOSS = {}, glPop = document.getElementById("gl"), glCard = document.getElementById("gl-card");
+const gnorm = w => w.normalize("NFD").replace(/[^\u05d0-\u05ea\u05b0-\u05bc\u05be-\u05c2\u05c4-\u05c7]/g, "");
+const rootFmt = r => r ? [...r].join("־") : "";
+function loadGloss(pr){ return GLOSS[pr] || (GLOSS[pr] = fetch("g/" + pr + ".json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => { const f = {}; for (const k in d.forms) f[gnorm(k)] = d.forms[k]; d.forms = f;
+    for (const cv in d.at || {}) { const a = {}; for (const k in d.at[cv]) a[gnorm(k)] = d.at[cv][k]; d.at[cv] = a; } return d; })
+  .catch(e => { delete GLOSS[pr]; throw e; })); }
+let glOn = null;
+function closeGloss(){ glPop.hidden = true; if (glOn) glOn.classList.remove("on"); glOn = null; }
+async function showGloss(span){
+  const sec = span.closest(".verse"), i = +sec.dataset.i, v = VERSES[i], word = span.textContent;
+  if (glOn) glOn.classList.remove("on"); glOn = span; span.classList.add("on");
+  const esc = t => String(t).replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+  glCard.innerHTML = `<div class="gl-top"><div class="gl-word" dir="rtl">${esc(word)}</div><button type="button" class="gl-x" aria-label="Close">×</button></div><p style="color:var(--muted);margin:6px 0">Loading…</p>`;
+  glPop.hidden = false;
+  let d; try { d = await loadGloss(v.pr); } catch (e) { glCard.querySelector("p").textContent = "Couldn't load the glossary. Check your connection."; return; }
+  if (glOn !== span) return;
+  const g = ((d.at || {})[v.c + ":" + v.v] || {})[gnorm(word)] || d.forms[gnorm(word)];
+  if (!g) { glCard.querySelector("p").textContent = "This word isn't in the glossary yet."; return; }
+  const L = d.lex[g.l] || {};
+  const chip = (t, m, cls) => `<div class="gl-chip ${cls || ""}"><b>${esc(t)}</b><span>${esc(m)}</span></div>`;
+  const short = g.sn && g.sn.length <= 22;
+  const stemLbl = (L.r ? "root " + rootFmt(L.r) : (L.p || "")) + (short ? " · " + g.sn : "");
+  const parts = [...g.pre.map(([t, m, k]) => chip(t, m, k)), chip(g.stem, stemLbl, "stem"), ...g.suf.map(([t, m, k]) => chip(t, m, k))].join("");
+  const hasG = [...g.pre, ...g.suf].some(x => x[2] === "g");
+  glCard.innerHTML = `<div class="gl-top"><div class="gl-word" dir="rtl">${esc(word)}</div><button type="button" class="gl-x" aria-label="Close">×</button></div>
+    <div class="gl-parts">${parts}</div>${hasG ? '<div class="gl-legend"><i class="gl-key w"></i>attached word<i class="gl-key g"></i>grammar marker</div>' : ""}
+    <dl class="gl-row">
+      <dt>Here</dt><dd><b>${esc(g.here)}</b></dd>
+      <dt>Form</dt><dd>${esc(g.f)}</dd>
+      ${g.sn && !short ? `<dt>Note</dt><dd>${esc(g.sn)}</dd>` : ""}
+      ${L.r ? `<dt>Root</dt><dd><span class="heb" dir="rtl">${esc(rootFmt(L.r))}</span></dd>` : ""}
+      ${L.h ? `<dt>Dictionary</dt><dd><span class="heb" dir="rtl">${esc(L.h)}</span> — ${esc(L.p || "")}: ${esc(L.g || "")}</dd>` : ""}
+    </dl>
+    <div class="gl-foot"><span>${esc(parOf(v.pr).en)} ${v.c}:${v.v}<span class="gl-beta"><b>Beta</b> · the glossary is new and will have mistakes</span></span><button type="button" class="gl-rep">Report a problem</button></div>`;
+}
+glCard.addEventListener("click", ev => {
+  if (ev.target.closest(".gl-x")) closeGloss();
+  else if (ev.target.closest(".gl-rep") && glOn) {
+    const sec = glOn.closest(".verse"), w = glOn.textContent; closeGloss();
+    openReport(+sec.dataset.i); repPop.querySelector('.rep-parts [data-p="targum"]').setAttribute("aria-pressed", "true"); repNote.value = `Glossary, word ${w}: `;
+  }
+});
+addEventListener("keydown", ev => { if (ev.key === "Escape" && !glPop.hidden) closeGloss(); });
+document.getElementById("text").addEventListener("keydown", ev => { if ((ev.key === "Enter" || ev.key === " ") && ev.target.classList.contains("tw")) { ev.preventDefault(); showGloss(ev.target); } });
 document.getElementById("text").addEventListener("click", ev => {
+  const tw = ev.target.closest(".tw"); if (tw) { if (tw === glOn) closeGloss(); else showGloss(tw); return; }
   const b = ev.target.closest(".vtools button"); if (!b) return;
   const sec = b.closest(".verse");
   if (b.classList.contains("vt-rep")) openReport(+sec.dataset.i);

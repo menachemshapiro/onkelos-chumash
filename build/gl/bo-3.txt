@@ -1,0 +1,21 @@
+# Shemot 10:24–11:3
+עָנְ.כוֹן=your | ana2 | n+2mp | your flocks
+וְ=.תוֹרְ.כוֹן=your | tor | n mp+2mp | and your cattle
+יֵ~he_f.זֵיל | azl | G impf 3ms | will go | the א of אזל becomes י
+תִּ~you_f.מְסַר | msr | G impf 2ms | you will hand over (i.e. provide)
+נִכְסַת | nikhsta | n fs cs | sacrifices (lit. slaughtered animals) of
+קֻדְשׁ.ִין~pl | qudsha | n mp abs | holy things (נִכְסַת קֻדְשִׁין = peace offerings)
+וְ=.נַ~we_f.עְבֵּד | avad | G impf 1cp | and we will offer (lit. make)
+בְּעִיר.ָנָא=our | beir | n+1cp | our livestock
+תִ~she_f.שְׁתָּ~passive (Itpe‘el).אַר | shar | Gt impf 3fs | will remain | the passive ת moves after the ש
+נִ~we_f.פְלַח | plh | G impf 1cp | we shall serve
+מֵי~inf.תָ.נָא=our | aty | G inf+1cp | our coming | the infinitive of אתי
+אָבָה | avy | G pf 3ms | (he) was (not) willing
+מַכְתַּשׁ | makhtash | n | plague, blow
+כְּ=when.שַׁלָחוּת.ֵהּ=he | shlh | D inf+3ms | when he sends (you) away
+תָּרָכ.ָא~inf_end | trk | D inf | (with) driving out (doubles the verb: he will surely drive you out)
+יְ~he_f.תָרֵךְ | trk | D impf 3ms | he will drive out
+וְ=.יִ~they_f.שְׁאַל.וּן~mp | shl | G impf 3mp | and let them ask (i.e. borrow)
+חַבְר.ֵהּ=his | havra | n+3ms | his fellow
+חַבֶרְתּ.ַהּ=her | havra | n fs+3fs | her fellow (woman)
+10:27> וְ=.אַ~C.תְקֵיף | tqf | C pf 3ms | and (Hashem) hardened (lit. strengthened)

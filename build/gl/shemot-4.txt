@@ -1,0 +1,55 @@
+# Shemot 3:1–15
+דְ=of.יִתְרוֹ | name | name | of Yitro
+חֲמ.וֹהִי=his | hama | n+3ms | his father-in-law
+לְ=to.חוֹרֵב | name | name | to Chorev
+בְּ=in.שַׁלְהוֹבִית | shalhovit | n fs cs | in a flame of
+אַסָנ.ָא=emph | asana | n emph | the thornbush (Hebrew: הַסְּנֶה)
+וַ=.אֲסָנ.ָא=emph | asana | n emph | and the thornbush
+בְּ=in.אֶשְָׁת.ָא=emph | eshta | n fs emph | in fire
+מִ~ptc.תְ~Gt.אָכִיל | akhal | Gt ptc ms | consumed (lit. being eaten)
+אִתְ~Gt.פְּנֵי | pny | Gt pf 3ms | turned aside; (3:3) let me turn aside
+חָזְוָנ.ָא=emph | hezu | n emph | sight, vision
+מִ~ptc.תּ~Ct.וֹקַד | yqd | Ct ptc ms | is burned
+תִ~you_f.קְרַב | qrb | G impf 2ms | (do not) come near
+הַלְכָא | halkha | adv | here
+שְׁרִי | shry2 | G impv ms | remove (lit. loosen)
+סֵינ.ָךְ=your | msana | n+2ms | your shoes
+רִגְל.ָךְ=your | regel | n fp+2ms | your feet
+קָאִים | qwm | G ptc ms | standing
+קַדִישׁ | qaddish | a ms | holy
+וּ=.כְבֵשִׁ.נּוּן=them | kvsh | G pf 3ms+3mp | and (Moshe) turned away (lit. pressed down) (his face)
+מִ~inf.גְלָא | gly | G inf | (it is surely) revealed | an infinitive before the verb strengthens it
+שִׁעְבּוּד | shibbud | n cs | the servitude of
+מַ~ptcC.פְלְח.ֵיהוֹן=them | plh | C ptc mp+3mp | their taskmasters (lit. those who make them work)
+קָדָמ.ַי=me | qodam | prep+1cs | before me
+כֵּיב.ֵיהוֹן=their | keiva | n mp+3mp | their pains
+וְ=.אִתְ~Gt.גְלֵי.תִי~I_p | gly | Gt pf 1cs | and I have revealed Myself
+לְ=.שֵׁזָבוּתְ.הוֹן=them | shyzv | Sh inf+3mp | to rescue them
+וּ=.לְ=.אַ~C.סָקוּתְ.הוֹן=them | slq | C inf+3mp | and to bring them up
+וּ=.פַתְי.ָא~fs | pte | a fs | and wide
+עָבְד.ָא~fs | avad | G ptc fs | producing (Hebrew: זָבַת, flowing)
+חֲלָב | halav | n | milk
+וּ=.דְבָשׁ | dvash | n | and honey
+קְבֵילַת | qvila | n fs cs | the outcry of
+עָלַ.ת~she_p | ill | G pf 3fs | has come
+דוֹחֲק.ָא=emph | dohaqa | n emph | the oppression
+דָחֲק.ִין~mp | dhq | G ptc mp | oppress
+אֵ~I_f.זִיל | azl | G impf 1cs | I should go
+שְׁלַחְ.תָּ~I_p.ךְ=you | shlh | G pf 1cs+2ms | I have sent you
+בְּ=when.אַ~C.פָּקוּת.ָךְ=you | npq | C inf+2ms | when you bring out
+תִּ~ypl_f.פְלְח.וּן~mp | plh | G impf 2mp | you will serve
+טוּר.ָא=emph | tura | n emph | the mountain
+דְ=of.אַבְהַתְ.כוֹן=your | av | n mp+2mp | of your fathers
+אֶהְיֶה | name | name | Ehyeh (Onkelos keeps the Hebrew name: “I will be”)
+אֲשֶׁר | name | name | asher (Hebrew, kept as is: “that”)
+לְ=for.עָלַם | alam | n | forever
+דָכְרָנ.ִי=my | dukhrana | n+1cs | my remembrance
+וְ=.אָתָא | aty | G pf 3ms | and (he) came
+בָּעֵר | bry_burn | G ptc ms | burning
+וְ=.דָר | dar | n | and generation (לְכָל דָר וְדָר = for all generations)
+לְבָתַר | batar | prep | after (lit. to after)
+וַ=.אֲ~I_f.שַׁלְחִ.נָּךְ=you | shlh | D impf 1cs+2ms | and I will send you
+וְ=.אֶ~I_f.חֱזֵי | hzy | G impf 1cs | and I will see
+כִּ=like.דְנַן | denan | pron | thus (lit. like this)
+מִ=from.לְ=.אִסְ~Dt.תַּכָּל.ָא~inf_end | skl | Dt inf | from looking
+בְּ=in.צֵית | tseit | prep | toward (lit. in the direction of)

@@ -1,0 +1,71 @@
+# Bereishit 4:23–5:24
+לִ=.נְשׁ.וֹהִי=his | itta | n fp+3ms | to his wives
+שִׁמְע.ַן~cmd_fp | shm | G impv fp | hear (you women)
+קָל.ִי=my | qal | n+1cs | my voice
+נְשֵׁי | itta | n fp cs | wives of
+אֲ~C.צֵית.ָא~cmd_fp | tsyt | C impv fp | listen | Af‘el command
+לְ=.מֵמְר.ִי=my | meimra | n+1cs | to my word
+קְטָל.ִית~I_p | qtl | G pf 1cs | I have killed
+דִּ=that.בְדִיל.ֵהּ=him | bdil | prep+3ms | that because of him
+סָבִיל | svl | G ptc ms | bear (lit. bearing)
+חוֹב.ִין=pl | hova | n mp abs | sins, guilt
+עוּלֵימ.ָא=emph | ulema | n emph | a young man
+חַבָּל.ִית~I_p | hbl | D pf 1cs | I have injured
+יִ~he_f.שְׁתֵּיצֵי | shetsi | Qt impf 3ms | will be destroyed | the passive ת moves after the ש
+זַרְע.ִי=my | zera | n+1cs | my offspring
+שַׁבְעָא | shava | num | seven
+וְ=.שַׁבְעָא | shava | num | and seven
+אִי~Gt.תְלִא.וּ~they_p | tly | Gt pf 3mp | were held over (lit. suspended)
+שַׁבְעִין | shavin | num | seventy
+עוֹד | od | adv | again
+וּ=.קְרַ.ת~she_p | qry | G pf 3fs | and (she) called
+שֵׁת | name | name | Shet (Seth)
+אַמָר.ַת~she_p | amr | G pf 3fs | she said
+יְהַב | yhb | G pf 3ms | (He) has given
+אוֹחֲרָן | ohoran | a ms | another
+חֲלַף | halaf | prep | in place of
+דִּ=that.קַטְל.ֵהּ=him | qtl | G pf 3ms+3ms | whom (Kayin) killed (lit. that killed him)
+קָיִן | name | name | Kayin
+וּ=.לְ=.שֵׁת | name | name | and to Shet
+אִתְ~Gt.יְלִיד | yld | Gt pf 3ms | was born
+אֱנוֹשׁ | name | name | Enosh
+בְּ=.יוֹמ.וֹהִי=his | yom | n mp+3ms | in his days
+חָל.וּ~they_p | hll | G pf 3mp | (they) profaned (Hebrew הוּחַל; Onkelos: they stopped praying properly) | CAL: ḥll, Pe‘al, “to become profane”
+מִ=from.לְּ=.צַלָּא.ָה~inf_end | tsly | D inf | (from) praying
+סְפַר | sfar | n cs | the book of
+בִּ=.דְמוּת | dmut | n fs cs | in the likeness of
+בְּרָא.נוּן=them | bra | G pf 3ms+3mp | (He) created them
+שְׁמָה.וֹן=their | shum | n mp+3mp | their name
+וַ=.חֲיָא | hyy | G pf 3ms | and (he) lived
+דַ=that.חֲיָא | hyy | G pf 3ms | that (he) lived
+מְאָה | meah | num | a hundred
+וּ=.תְלָת.ִין=pl | tlat | num | and thirty
+שְׁנ.ִין=pl | shna | n fp abs | years
+בִּ=.דְמוּת.ֵהּ=his | dmut | n fs+3ms | in his likeness
+דְּ=that.דָמֵי | dmy | G ptc ms | that resembled
+בָּתַר | batar | prep | after
+תַּמְנֵי | tmane | num | eight
+וּ=.בְנָ.ן=pl | bnat | n fp abs | and daughters
+תְּשַׁע | tsha | num | nine
+וּ=.מִית | mwt | G pf 3ms | and (he) died
+וַ=.חֲמֵשׁ | hmesh | num | and five
+וּ=.שְׁבַע | shava | num | and seven
+וְ=.תַרְתֵּי | tren | num f cs | and two
+עַשְׂרֵי | asar | num | -teen (תַּרְתֵּי עַשְׂרֵי = twelve)
+תִּשְׁע.ִין=pl | tsha | num | ninety
+קֵינָן | name | name | Keinan
+מַהֲלַלְאֵל | name | name | Mahalalel
+וְ=.אַרְבְּע.ִין=pl | arba | num | and forty
+וַ=.עֲשַׂר | asar | num | and ten
+שִׁתִּ.ין=pl | shitin | num | sixty
+וְ=.שִׁתִּ.ין=pl | shitin | num | and sixty
+יָרֶד | name | name | Yered
+יֶרֶד | name | name | Yered
+וְ=.תִשְׁע.ִין=pl | tsha | num | and ninety
+מְתוּשָׁלַח | name | name | Metushelach
+מְתוּשֶׁלַח | name | name | Metushelach
+וְ=.הַלִּיךְ | hlk | D pf 3ms | and (he) walked
+בְּ=.דַחַלְתּ.ָא=emph | dahalta | n fs emph | in the fear (of Hashem)
+תְּלַת | tlat | num | three
+וְ=.לַיְת.וֹהִי=he | leit | neg+3ms | and he was no more (lit. and there is not him)
+אֲ~C.מֵית | mwt | C pf 3ms | caused (him) to die | Af‘el of מות

@@ -1,0 +1,14 @@
+# Shemot 17:14–16
+כְּתָב | ktv | G impv 2ms | write!
+בְּ=in.סִפְר.ָא=emph | sfar | n emph | in the book
+מִמְחָא | mhy | G inf | (with) wiping out (doubles the verb: I will utterly wipe out)
+בִּ=with.שְׁבוּעָה | shevuah | n fs | with an oath
+אֲמִיר.ָא=emph | amira | n emph | (is) this statement (lit. the saying)
+דִ=whose.שְׁכִנְתּ.ֵהּ=His | shekhinta | n fs+3ms | whose Presence (is)
+כָּרְס.ֵהּ=His | kursya | n+3ms | His throne
+יְקָר.ֵהּ=His | yqr | n+3ms | His glory
+דְ=that.יִתָּ~Ct.גַח | gwh | Ct impf 3ms | that (war) will be waged | the passive ת merges
+בִּ=with.דְ=.בֵית | beit | n cs | with those of the house of
+לְ=.שֵׁצָיוּתְ.הוֹן=them | shetsi | Sh inf+3mp | to destroy them
+מִ=from.דָר.ֵי~cs_pl | dar | n mp cs | from the generations of
+17:16> דְחֵיל.ָא=emph | dhl | !passive participle, emphatic | the Awesome One (lit. feared)

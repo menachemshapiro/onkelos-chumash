@@ -1,0 +1,76 @@
+# Vayera 18:15–18:33
+וְ=.כַדִּיב.ַת~she_p | kdb | D pf 3fs | and (she) denied
+חַיֵּכִ.ית~I_p | hyk | G pf 1cs | I (did not) laugh
+חַיָּכְ.תְּ~you_p | hyk | G pf 2fs | you (fem.) laughed
+דְחֵיל.ָת~she_p | dhl | G pf 3fs | she was afraid
+בְּרָם | beram | adv | but
+וְ=.קָמ.וּ~they_p | qwm | G pf 3mp | and (they) rose
+וְ=.אִסְ~Gt.תְּכִיא.וּ~they_p | skh | Gt pf 3mp | and (they) looked out | the passive ת moves after the ס
+לְ=.אַ~C.לְווֹא.ֵיהוֹן=them | lwy | C inf+3mp | to escort them
+אֲמָר | amr | G pf 3ms | said
+הַ=?.מְ~ptcD.כַסֵּי | ksy | D ptc ms | (shall I) hide
+יֶ~he_f.הֱוֵי | hwy | G impf 3ms | will become
+18:18> מֵ~inf.הֲוָה | hwy | G inf | (will) surely (become) (lit. being)
+וְ=.יִ~they_f.תְ~Dt.בָּרְכ.וּן~mp | brk | Dt impf 3mp | and (they) will be blessed
+18:18> וְ=.תַקִּיף | taqqif | a ms | and mighty
+18:18> בְּ=.דִיל.ֵיהּ=him | bdil | prep+3ms | for his sake
+18:26> בְּ=.דִילְ.הוֹן=them | bdil | prep+3mp | for their sake
+עַמְמֵי | amma2 | n mp cs | the nations of
+גְלִי | gly | Gp ptc ms | (it is) revealed
+יְדַעְ.תִּ~I_p.נֵיהּ=him | yd | G pf 1cs+3ms | I have known him (a variant reading)
+יְ~he_f.פַקֵּד | pqd | D impf 3ms | he will command
+וְ=.יִ~they_f.טְּר.וּן~mp | ntr | G impf 3mp | and they will keep | the נ of נטר is absorbed (the dot in טּ)
+אָרְח.ָן=pl | orah | n fp abs | ways
+דְּ=that (are).תַקְּנ.ָן~fp | taqqin | a fp abs | that are proper
+צְדַקְתּ.ָא=emph | tsdaqa | n fs emph | righteousness
+דִּ=that.מַלֵּל | mll2 | D pf 3ms | what (He) spoke
+קְבֵלַת | qvila | n fs cs | the outcry of
+קְבִלְתּ.ְהוֹן=their | qvila | n fs+3mp | their outcry
+וְ=.חוֹבָת.ְהוֹן=their | hova | n fs+3mp | and their sin
+תְקִיפ.ַת~she_p | tqf | G pf 3fs | is (very) grave (lit. has grown strong)
+אִתְ~Gt.גְּלִי | gly | Gt impf 1cs | I will reveal Myself (Hebrew: אֵרְדָה, I will go down)
+וְ=.אֶ~I_f.דּוּן | dyn | G impf 1cs | and I will judge | the ד is doubled
+הֲכִי | hakhi | part | whether
+עֲבָד.וּ~they_p | avad | G pf 3mp | they have done
+אֶ~I_f.עְבֵּד | avad | G impf 1cs | I will do
+גְּמֵירָא | gmr | n emph | destruction
+גְּמֵרָא | gmr | n emph | destruction
+תָיְב.ִין~mp | twv | G ptc mp | repenting
+תָּיְב.ִין~mp | twv | G ptc mp | repenting
+אֶ~I_f.תְ~Gt.פְּרָע | pra | Gt impf 1cs | I will (not) punish
+וְ=.אִתְ~Gt.פְּנִיא.וּ~they_p | pny | Gt pf 3mp | and (they) turned
+וּ=.קְרֵב | qrb | G pf 3ms | and (he) approached
+הֲ=?.בִ=in.רְגַז | rugza | n | (will You) in anger
+תְּ~you_f.שֵׁיצֵי | shetsi | Q impf 2ms | destroy
+זַכָּא.ָה=emph | zakkai | a ms emph | the righteous
+זַכָּא.ִין~mp | zakkai | a mp abs | righteous (ones)
+חַיָּב.ָא=emph | hayyav | a ms emph | the wicked
+כְּ=like.חַיָּב.ָא=emph | hayyav | a ms emph | like the wicked
+מָאִים | maim | adv | perhaps
+אִית | it | part | there are
+תִ~you_f.שְׁבּוֹק | shbq | G impf 2ms | You (will not) forgive (= spare)
+וְ=.אֶ~I_f.שְׁבּוֹק | shbq | G impf 1cs | and I will forgive (= spare)
+בְ=in.גַוּ.ַהּ=it (fem.) | go | prep+3fs | in its midst
+קוּשְׁט.ָא=emph | qushta | n emph | true (lit. truth)
+דִּינ.ָךְ=your | din2 | n+2ms | Your judgment(s)
+18:25> מִ=from.לְּ=.מֶ~inf.עְבַּד | avad | G inf | (far) from doing
+לְ=.קַטָּל.ָא~inf_end | qtl | D inf | to kill
+דְּ=that.דָיִן | dyn | G ptc ms | Who judges
+הֲ=?.דַיַן | dyn | G ptc ms | (shall the) Judge (a variant reading)
+יַ~he_f.עְבֵּד | avad | G impf 3ms | will (not) do
+שָׁרֵי.תִי~I_p | shry | G pf 1cs | I have begun
+עָפָר | afra | n | dust (Hebrew word)
+וּ=.קְטָם | qitma | n | and ashes
+יַ~they_f.חְסְר.וּן~mp | hsr | G impf 3mp | (they) will be lacking
+הַ=?.תְ~you_f.חַבֵּל | hbl | D impf 2ms | will You destroy
+אֲ~I_f.חַבֵּל | hbl | D impf 1cs | I will (not) destroy
+יִ~they_f.שְׁתַּכְּח.וּן~mp | shkh | !verb, Itpa‘al, imperfect, 3rd masc. pl. | (they) will be found | the passive ת moves after the ש
+יִ~he_f.תְקֹף | tqf | G impf 3ms | (let it not) be strong (= let there be no anger)
+רוּגְז.ָא=emph | rugza | n emph | the anger
+18:30>רוּגְז.ָא=emph | rugza | n emph | the anger (a variant reading)
+וַ=.אֲ~I_f.מַלֵּל | mll2 | D impf 1cs | and I will speak
+וֶ=.אֱ~I_f.מַלֵּל | mll2 | D impf 1cs | and I will speak
+עֶשְׁר.ִין=pl | asar | num | twenty
+שֵׁצִי | shetsi | Q pf 3ms | (He) finished
+תָּב | twv | G pf 3ms | returned
+לְ=to.אַתְר.ֵיהּ=his | atar | n+3ms | to his place

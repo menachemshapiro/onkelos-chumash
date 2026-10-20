@@ -1,0 +1,114 @@
+# Lech Lecha 14:1–14:20
+אַמְרָפֶל | name | name | Amrafel
+מַלְכּ.ָא=emph | malka | n emph | the king (of)
+מַלְכּ.ַיָּא=emphp | malka | n mp emph | the kings
+מַלְכ.ִין=pl | malka | n mp abs | kings
+אַרְיוֹךְ | name | name | Aryokh
+אֶלָּסָר | name | name | Ellasar
+כְּדָרְלָעֹמֶר | name | name | Kedorlaomer
+כְדָרְלָעֹמֶר | name | name | Kedorlaomer
+כְּדָרְלָעוֹמֶר | name | name | Kedorlaomer
+תִדְעָל | name | name | Tidal
+דְ=of.עַמְמֵי | amma2 | n mp cs | of the nations (Hebrew: גּוֹיִם)
+דְ=of.עַמְמ.ִין=pl | amma2 | n mp abs | of nations (Hebrew: גּוֹיִם)
+סְדָר.וּ~they_p | sdr | G pf 3mp | (they) joined (battle; lit. arranged)
+וְ=.סַדָּר.וּ~they_p | sdr | D pf 3mp | and (they) joined (battle; lit. arranged)
+עֲבַד.וּ~they_p | avad | G pf 3mp | (they) made (a variant reading)
+קְרָב.ָא=emph | qrava | n emph | battle, war
+בֶּרַע | name | name | Bera
+סְדֹם | name | name | Sedom
+בִּרְשַׁע | name | name | Birsha
+שִׁנְאָב | name | name | Shinav
+שֶׁמְאֵבֶר | name | name | Shemever
+בֶלַע | name | name | Bela
+צֹעַר | name | name | Tzoar
+צוֹעַר | name | name | Tzoar
+אִתְ~Gt.כְּנָשׁ.וּ~they_p | kns | Gt pf 3mp | (they) gathered (lit. were gathered)
+חַקְל.ַיָּא=emphp | haqla | n mp emph | the fields (Hebrew: הַשִּׂדִּים)
+דְ=of.מִלְח.ָא=emph | milha | n emph | of salt
+תַּרְתֵּא | tren | num f | two (תַּרְתֵּא עַשְׂרֵי = twelve)
+פְּלָח.וּ~they_p | plh | G pf 3mp | (they) served
+מְרָד.וּ~they_p | mrd | G pf 3mp | (they) rebelled
+אֲתָא | aty | G pf 3ms | came
+וּ=.מְח.וֹ~they_p | mhy | G pf 3mp | and (they) struck
+וּ=.מְחוֹ.נוּן=them | mhy | G pf 3mp+3mp | and (they) struck them
+בְ=in.עַשְׁתְּרוֹת | name | name | in Ashterot
+קַרְנַיִם | name | name | Karnayim
+תַּקִּיפ.ַיָּא=emphp | taqqif | a mp emph | the mighty ones (Hebrew: הַזּוּזִים, the Zuzim)
+דִּ=that (were).בְ=in.הֶמְתָּא | name | name | that were in Hemta (Hebrew: בְּהָם)
+אֵימְתָנ.ֵי=pl | name | name | the Eimtanai (Hebrew: הָאֵימִים, the Emim)
+דִּ=that (were).בְ=in.שָׁוֵה | name | name | that were in Shaveh
+קִרְיָתָיִם | name | name | Kiryatayim
+חוֹרָא.ֵי=pl | name | name | the Chorim (Horites)
+בְ=in.טוּר.ְהוֹן=their | tura | n+3mp | in their mountain
+דְּ=of.שֵׂעִיר | name | name | of Seir
+פָּארָן | name | name | Paran
+דִּ=that.סְמִיךְ | smk | Gp ptc ms | that is next to
+מַדְבְּר.ָא=emph | madbra | n emph | the wilderness
+וַ=.אֲת.וּ~they_p | aty | G pf 3mp | and (they) came
+פִּלּוּג | pillug | n cs | the giving of (פִּלּוּג דִּינָא = Hebrew: עֵין מִשְׁפָּט)
+רְקָם | name | name | Rekam (Hebrew: קָדֵשׁ)
+חֲקַל | haqla | n cs | the field (= territory) of
+עֲמַלְקָאָה | name | name | the Amalekite(s)
+אֱמוֹרָאָה | name | name | the Emorite(s)
+דְּ=that.יָתֵיב | ytv | G ptc ms | who dwelt
+בְּ=in.עֵין | name | name | in Ein (עֵין גֶּדִי = Ein Gedi)
+גֶּדִי | name | name | Gedi (Hebrew: חַצְצֹן תָּמָר)
+אַרְבְּעָה | arba | num | four
+לָקֳבֵיל | qbl | prep | against
+חַמְשׁ.ָא=emph | hamsha | num | five
+בֵּיר.ִין=pl | bera | n fp abs | pits, wells (בֵּירִין בֵּירִין = full of pits)
+מַ~ptcC.סְקַ.ן~fp | slq | C ptc fp | bringing up | the ל of סלק is absorbed
+חֵימָר.ָא=emph | heimar | n emph | bitumen
+וַ=.עֲרָק.וּ~they_p | rq | G pf 3mp | and (they) fled
+עֲרָק.וּ~they_p | rq | G pf 3mp | (they) fled
+וּ=.נְפָל.וּ~they_p | npl | G pf 3mp | and (they) fell
+וּ=.דְ=those who.אִ~Gt.שְׁתָּאָר.וּ~they_p | shar | Gt pf 3mp | and those who remained | the passive ת moves after the ש
+וּ=.שְׁב.וֹ~they_p | shby | G pf 3mp | and (they) took captive
+קִנְיָנ.ָא=emph | qinyan | n emph | the possessions
+וְ=.קִנְיָנ.ָא=emph | qinyan | n emph | and the possessions
+קִנְיָנ.ֵיהּ=his | qinyan | n+3ms | his possessions
+דִּ=whose.קִנְיָנ.ֵיהּ=his | qinyan | n+3ms | whose possession (are)
+מֵיכָל.ְהוֹן=their | akhal | n+3mp | their food
+מְ~ptcD.שֵׁיזָב.ָא=emph | shyzv | !noun-like passive participle, Shaf‘el, emphatic | the one who escaped
+עִבְרָאָה | name | name | the Ivri (Hebrew)
+אֶשְׁכּוֹל | name | name | Eshkol
+עָנֵר | name | name | Aner
+אֱנָשֵׁי | enash | n mp cs | the men of
+קְיָמ.ֵיהּ=his | qyam | n+3ms | his covenant (= his allies)
+וּ=.שְׁמַע | shm | G pf 3ms | and (he) heard
+אִשְׁ~Gt.תְּבִי | shby | Gt pf 3ms | (he) was taken captive | the passive ת moves after the ש
+וְ=.זָרֵיז | zrz | D pf 3ms | and (he) armed
+עוּלֵמ.וֹהִי=his | ulema | n mp+3ms | his young men
+יְלִידֵי | yld | Gp ptc mp cs | born in (lit. the born of)
+עֲסַר | asar | num | -teen (תַּמְנֵי עֲסַר = eighteen)
+וּ=.רְדַף | rdf | G pf 3ms | and (he) pursued
+וּ=.רְדָפִ.נּוּן=them | rdf | G pf 3ms+3mp | and pursued them
+דָּן | name | name | Dan
+וְ=.אִתְ~Gt.פְּלֵג | plg | Gt pf 3ms | and (he) divided (his forces)
+עֲל.ֵיהוֹן=them | al | prep+3mp | against them
+וְ=.עַבְד.וֹהִי=his | eved | n mp+3ms | and his servants
+חוֹבָה | name | name | Chovah
+לְ=of.דַמָּשֶׂק | name | name | of Dammesek (Damascus)
+וַ=.אֲ~C.תֵב | twv | C pf 3ms | and (he) brought back
+אֲ~C.תֵיב | twv | C pf 3ms | (he) brought back
+וְ=.קִנְיָנ.ֵיהּ=his | qinyan | n+3ms | and his possessions
+נְשׁ.ַיָּא=emphp | itta | n fp emph | the women
+לְ=.קַדָּמוּת.ֵיהּ=him | qadmuta | n fs+3ms | to meet him
+דְּ=that.תָב | twv | G pf 3ms | (after) he returned
+מִ=from.לְּ=.מִ~inf.מְחֵי | mhy | G inf | from striking
+מַפְנָא | name | name | Mafna (Hebrew: שָׁוֵה)
+רֵיס.ָא=emph | resa | n emph | the field (בֵּית רֵיסָא דְמַלְכָּא = the king's field)
+מַלְכִּי | name | name | Malki (מַלְכִּי צֶדֶק = Malki-Tzedek)
+צֶדֶק | name | name | Tzedek (מַלְכִּי צֶדֶק = Malki-Tzedek)
+דִ=of.ירוּשְׁלֶם | name | name | of Yerushalem
+לְחֵם | lahma | n | bread
+וַ=.חֲמָר | hamra | n | and wine
+מְ~ptcD.שַׁמֵּשׁ | shmsh | D ptc ms | serving (as a priest)
+עִלָּאָה | illai | a emph | Most High
+וּ=.בָרְכ.ֵיהּ=him | brk | D pf 3ms+3ms | and (he) blessed him
+וַ=.אֲמָר | amr | G pf 3ms | and (he) said
+דִּ=that.מְסַר | msr | G pf 3ms | Who delivered
+סָנְא.ָךְ=your | sny | G ptc mp+2ms | your enemies
+עַסְר.ָא=emph | asra | n emph | a tenth
+מִ=.צִּפּוּנ.ָא=emph | tsippuna | n emph | (on the) north (of)

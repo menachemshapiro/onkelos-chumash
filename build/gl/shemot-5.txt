@@ -1,0 +1,74 @@
+# Shemot 3:16–4:17
+אִתְ~Gt.גְלֵי | gly | Gt pf 3ms | revealed Himself (appeared)
+דְכִירְ.נָא=I (am) | dkr | Gp ptc ms | I have remembered (lit. I am remembering)
+יַתְ.כוֹן=you | yat | part+2mp | you
+דְ=what.אִתְ~Gt.עֲבַד | avad | Gt pf 3ms | what has been done
+אַ~I_f.סֵיק | slq | C impf 1cs | I will bring up | the ל of סלק is absorbed
+אִתְ~Gt.קְרֵי | qry | Gt pf 3ms | has appeared (lit. was called) (Hebrew: נִקְרָה, happened upon)
+נֵ~we_f.זֵיל | azl | G impf 1cp | let us go | the א of אזל becomes י
+וּ=.נְ~we_f.דַבַּח | dbh | D impf 1cp | and let us sacrifice
+אֱלָהָ.נָא=our | elah | n+1cp | our God
+לְ=.מֵ~inf.יזָל | azl | G inf | to go
+דְ=because.חֵיל.ֵהּ=his | heil | n+3ms | because his strength (is great)
+מְחַת | mehata | n fs cs | the blow of
+גְבֻרְתּ.ִי=my | gvura | n fs+1cs | my might
+פְּרִשְׁוָת.ִי=my | prishuta | n fp+1cs | my wonders
+אַ~I_f.עְבֵּד | avad | G impf 1cs | I will do
+יְ~he_f.שַׁלַח | shlh | D impf 3ms | he will send (you) out
+יְ~he_f.שַּׁלַח | shlh | D impf 3ms | he will (not) send out
+רֵיקָנ.ִין~mp | reqan | a mp | empty-handed
+וְ=.תִ~she_f.שְׁאַל | shl | G impf 3fs | and (each woman) will ask
+מִ=from.שְׁבַבְתּ.ַהּ=her | shvavta | n fs+3fs | from her neighbor
+וּ=.מִ=from.קְרִיבַת | qariv | a fs cs | and from (the woman) who lives near
+וּ=.תְ~ypl_f.רוֹקִ.נוּן=them | ryq | D impf 2mp+3mp | and you will empty (Egypt)
+יְ~they_f.הֵמְנ.וּן~mp | hymn | C impf 3mp | they will believe
+יֵ~they_f.ימְר.וּן~mp | amr | G impf 3mp | they will say | the א of אמר becomes י
+חוּטְר.ָא=emph | hutra | n emph | a staff
+חֻטְר.ָא=emph | hutra | n emph | the staff
+רְמִי.הִי=it | rmy | G impv ms+3ms | throw it
+וּ=.רְמָ.הִי=it | rmy | G pf 3ms+3ms | and he threw it
+אוֹ~C.שִׁט | wsht | C impv ms | stretch out
+וְ=.אֵחוֹד | ahd | G impv ms | and grab
+בְּ=by.זַנְב.ֵהּ=its | zanva | n+3ms | by its tail
+עִטְפ.ָךְ=your | itfa | n+2ms | your bosom
+עִטְפ.ֵהּ=his | itfa | n+3ms | his bosom
+בְּ=into.עִטְפ.ָךְ=your | itfa | n+2ms | into your bosom
+בְּ=into.עִטְפ.ֵהּ=his | itfa | n+3ms | into his bosom
+וְ=.אַ~C.פְקַ.הּ=it | npq | C pf 3ms+3fs | and (he) took it out
+חַוְר.ָא~fs | hiwwar | a fs | white
+כְ=like.תַלְג.ָא=emph | talga | n emph | like snow
+תָבַ.ת~she_p | twv | G pf 3fs | it returned
+כְּ=like.בִשְׂר.ֵהּ=his | bsr | n+3ms | like (the rest of) his flesh
+בַתְרָאָה | batrai | a ms | the latter
+אָת.ַיָא=emphp | at | n fp emph | the signs
+וְ=.תֵ~you_f.שׁוֹד | shd | G impf 2ms | and pour
+דְ=of.מִלוּל | millul | n | of speech (= eloquent)
+מִ=from.תְּמַלִי | itmali | adv | from yesterday
+מִדְ=from.קָמוֹהִי | qamohi | adv | from the day before
+דְ=that.מַלֶלְ.תָּא~you_p | mll2 | D pf 2ms | that you spoke
+מַמְלָל | mamlal | n | speech
+וְ=.עַמִיק | ammiq | a ms | and heavy (lit. deep)
+אִלְמ.ָא=emph | ilem | a ms emph | the mute
+חֵרְשׁ.ָא=emph | hersh | a ms emph | the deaf
+פִקְח.ָא=emph | piqqeah | a ms emph | the seeing
+עַוִיר.ָא=emph | awwir | a ms emph | the blind
+פּוּמ.ָךְ=your | pum | n+2ms | your mouth
+פּוּמ.ֵהּ=his | pum | n+3ms | his mouth
+וְ=.אַ~I_f.לֵפִ.נָךְ=you | lf | D impf 1cs+2ms | and I will teach you
+תְ~you_f.מַלֵל | mll2 | D impf 2ms | you shall speak
+דְ=whom.תִ~you_f.שְׁלַח | shlh | G impf 2ms | whom you would send
+אַהֲרֹן | name | name | Aharon
+לֵוָאֵי | name | name | the Levite
+מַלָל.ָא~inf_end | mll2 | D inf | (he can surely) speak | an infinitive before the verb strengthens it
+וְ=.יֶ~he_f.חֱזִ.נָךְ=you | hzy | G impf 3ms+2ms | and he will see you
+וְ=.יֶ~he_f.חְדֵי | hdy | G impf 3ms | and he will rejoice
+עִמּ.ֵהּ=him | im | prep+3ms | with him
+וְ=.אַ~I_f.לֵיף | lf | D impf 1cs | and I will teach
+לְ=as.רָב | rav | n | as a master (Hebrew: לֵאלֹהִים)
+לְ=into.חִוֵי | hiwya | n | into a snake
+וְ=.תֵ~you_f.יתֵי | aty | G impf 2ms | and you will come
+וִ=.י~he_f.מַלֵל | mll2 | D impf 3ms | and he will speak
+דְ=of.אַבְהַתְ.הוֹן=their | av | n mp+3mp | of their fathers
+וִ=.י~they_f.קַבְּל.וּן~mp | qbl2 | D impf 3mp | and they will listen
+וְ=.אֶ~I_f.מְחֵי | mhy | G impf 1cs | and I will strike
+דִ=that are.בְ=in.נַהֲר.ָא=emph | nahar | n emph | that are in the river

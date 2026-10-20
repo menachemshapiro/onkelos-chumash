@@ -1,0 +1,62 @@
+# Miketz 41:15–38
+שִׁמְעֵי.ת~I_p | shm | G pf 1cs | I have heard
+שָׁמַע | shm | G ptc ms | you understand (lit. hear)
+לְ=.מִ~inf.פְשַׁר | pshr | G inf | to interpret
+חָכְמְת.ִי=my | hokhmta | n fs+1cs | my wisdom
+יִ~he_f.תּתַב | twv | Ct impf 3ms | will be restored (lit. brought back)
+חֲסִיכ.ָן~fp | hasikh | a fp | lean
+חֲסִיכָת.ָא=emph | hasikh | a fp emph | the lean (ones)
+חֲזֵ.תִי~I_p | hzy | G pf 1cs | I have seen
+כְוָתְ.הֵן=them (fem.) | kwat | prep+3fp | like them
+וּ=.בִישָׁת.ָא=emph | bish | a fp emph | and the bad (ones)
+קַדְמָיָת.ָא=emph | qadmai | a fp emph | the first
+וַ=.עֲלָ.א~they (fem.), past | ill | G pf 3fp | and (they) came (into)
+לִ=into.מְעֵי.הֶן=their (fem.) | mea | n mp+3fp | into their innards
+אִתְ~Gt.יְדַע | yd | Gt pf 3ms | it was (not) known
+יִ~he_f.תְ~Gt.יְדַע | yd | Gt impf 3ms | will (not) be known
+וּ=.מֶחֱזֵי.הֵן=their (fem.) | hezu | n+3fp | and their appearance
+וְ=.אִ~Gt.תְּעָר.ִית~I_p | r | Gt pf 1cs | and I awoke
+מָלְי.ָן~fp | malei | a fp | full
+נָצָן | natsan | a fp | withered (Hebrew: צְנֻמוֹת)
+טָבָת.ָא=emph | tav | a fp emph | the good (ones)
+עָתִיד | atid | a ms | is about (to do) (lit. ready)
+יְ~they_f.הֶוְי.ָן~fp | hwy | G impf 3fp | will be
+תְ~they (fem.), future.הֶוְי.ָן~fp | hwy | G impf 3fp | will be
+מַלֵּיל.ִית~I_p | mll2 | D pf 1cs | I have spoken
+אַ~C.חֲזֵי | hzy | C pf 3ms | He has shown
+אָתְי.ָן~fp | aty | G ptc fp | are coming
+סִבְע.ָא=emph | sova | n emph | plenty
+שַׂבְע.ָא=emph | sova | n emph | plenty (a variant reading)
+שׂוֹבְע.ָא=emph | sova | n emph | plenty
+שִׂבְע.ָא=emph | sova | n emph | plenty (a variant reading)
+וִ=.י~they_f.קוּמ.וּן~mp | qwm | G impf 3mp | and (seven years) will arise
+בַּתְר.ֵיהֶן=them (fem.) | batar | prep+3fp | after them
+וְ=.יִ~he_f.תִּ~Gt.נְשֵׁי | nshy | Gt impf 3ms | and (all the plenty) will be forgotten
+וִ=.י~he_f.שֵׁיצֵי | shetsi | Q impf 3ms | and (the famine) will destroy
+דְ | di | part | of
+41:30>דְ | di | part | of (part of a bracketed variant)
+41:36>דְ | di | part | of (part of a bracketed variant)
+קָדָם | qodam | prep | before (= because of)
+דְּ=because.אִ~Dt.תַּנֵּי.ת~she_p | tny | Dt pf 3fs | (the dream) was repeated | the passive ת merges with the ת of תני
+תַקֵּין | taqqin | a ms | established (lit. fit)
+לְ=.מֶ~inf.עְבְּד.ֵיהּ=it | avad | G inf+3ms | to do it
+יֶ~he_f.חֱזֵי | hzy | G impf 3ms | let (Paroh) look out (for)
+סוּכְלְתָן | sukhletan | a ms | discerning
+סָכְלְתָן | sukhletan | a ms | discerning
+וִ=.י~he_f.מַנֵּי | mny | D impf 3ms | and let him appoint
+מְהֵימְנ.ִין~mp | hymn | C ptc mp | trustworthy (men) (Hebrew: פְּקִדִים, officials)
+וִ=.י~he_f.זָרֵז | zrz | D impf 3ms | and let him prepare (Hebrew: וְחִמֵּשׁ)
+וְ=.יִ~they_f.כְנְשׁ.וּן~mp | kns | G impf 3mp | and let them gather
+שְׁנ.ַיָּא=emphp | shna | n fp emph | the years
+וְ=.יִ~they_f.צְבְּר.וּן~mp | tsbr | G impf 3mp | and let them store
+עִיבוּר.ָא=emph | ibbur | n emph | the grain
+עִבוּר.ָא=emph | ibbur | n emph | the grain
+בְּ=in.קִירְו.ַיָּא=emphp | qirya | n fp emph | in the cities
+גָנִיז | gnz | Gp ptc ms | stored away
+תִ~she_f.שְׁתֵּיצֵי | shetsi | Qt impf 3fs | (the people) will (not) be destroyed | the passive ת moves after the ש
+הֲ~question marker.נִ~we_f.שְׁכַּח | shkh | C impf 1cp | can we find
+רוּחַ | ruah | n fs cs | the spirit of
+נְבוּאָה | nevua | n | prophecy
+מְ~ptcD.חַוֵּי | hwy2 | D ptc ms | (who) could tell (lit. telling)
+בְּ=in.שֶׁבַע | shava | num | in the seven (years)
+וּ=.שְׁפַר | shpr | G pf 3ms | and (the matter) pleased

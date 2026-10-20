@@ -1,0 +1,148 @@
+# Shemot 14:26–15:26
+רְתִכּ.ֵיהוֹן=their | rtikha | n mp+3mp | their chariots
+רְתִכּ.ַיָא~emphp | rtikha | n mp emph | the chariots
+פָּרָשׁ.ֵיהוֹן=their | parasha | n mp+3mp | their horsemen
+פָּרָשׁ.ַיָא~emphp | parasha | n mp emph | the horsemen
+וּ=.בְ=with.פָרָשׁ.וֹהִי=his | parasha | n mp+3ms | and with his horsemen
+לְ=to.תָקְפּ.ֵהּ=its | tqof | n+3ms | to its strength (i.e. its full flow)
+עָרְק.ִין~mp | rq | G ptc mp | were fleeing
+לְ=toward.קַדָמוּת.ֵהּ=it | qadmuta | n+3ms | toward it (lit. to meet it)
+וְ=.שַׁנִיק | shnq | D pf 3ms | and (Hashem) drowned (Hebrew: וַיְנַעֵר, shook off)
+וַ=.חֲפ.וֹ~they_p | hpy | G pf 3mp | and (the waters) covered
+חֲפ.וֹ~they_p | hpy | G pf 3mp | covered
+חֲפָא | hpy | G pf 3ms | covered
+הַלִיכ.וּ~they_p | hlk | D pf 3mp | walked
+שׁוּר.ִין~pl | shura | n mp abs | walls
+מִ=from.יַמִינ.ֵהוֹן=their | yamina | n+3mp | on their right (lit. from their right)
+וּ=.מִ=from.סְמָאל.ֵהוֹן=their | smala | n+3mp | and on their left
+מַיְת.ִין~mp | mwt | G ptc mp | dead
+גְבוּרְתּ.ָא=emph | gvura | n fs emph | the might of
+וְ=.הֵמִינ.וּ~they_p | hymn | C pf 3mp | and they believed
+וּ=.בִ=in.נְבִיאוּת | nevua | n fs cs | and in the prophecy of
+עַבְד.ֵהּ=His | eved | n+3ms | His servant
+שַׁבַּח | shbh | D pf 3ms | sang praise
+תִּשְׁבַּחְתּ.ָא=emph | tushbahta | n fs emph | the song of praise
+וְ=.תֻשְׁבַּחְתּ.ִי=my | tushbahta | n fs+1cs | and my praise
+תֻּשְׁבְּח.ָן~fp | tushbahta | n fp abs | (in) praises
+נְ~we_f.שַׁבַּח | shbh | D impf 1cp | let us praise
+וְ=.נוֹ~we_f.דֵי | ydy | C impf 1cp | and let us give thanks | the י of ידי becomes ו
+אִתְ~Dt.גָאֵי | gay | Dt pf 3ms | He showed majesty (lit. was exalted)
+גֵוְתָנ.ַיָא~emphp | gevtan | n mp emph | the proud
+וְ=.גֵאוּת.ָא=emph | geuta | n fs emph | and majesty
+דִיל.ֵהּ=His | dil | part+3ms | is His
+וְ=.רָכְב.ֵהּ=its | rkv | G ptc ms+3ms | and its rider
+רְמָא | rmy | G pf 3ms | (He) cast
+לְ=as.פָרָק | prq | G inf | a redeemer (lit. to redeem)
+אֱלָה.ַי=my | elah | n+1cs | my God
+וְ=.אֶ~I_f.בְנֵי | bny | G impf 1cs | and I will build
+וְ=.אֶ~I_f.פְלַח | plh | G impf 1cs | and I will serve
+15:3> מָרֵי | mare | n cs | the Master of
+נִצְחָן | nitshan | n fp | victories (of)
+קְרָב.ַיָא~emphp | qrava | n mp emph | the wars
+שְׁדִי | shdy | G pf 3ms | (He) cast
+גִבָּר.וֹהִי=his | gibbar | n mp+3ms | his mighty men
+אִטְ~Gt.בָּע.וּ~they_p | tva | Gt pf 3mp | were sunk | the passive ת becomes ט after the ט
+תְּהוֹמ.ַיָא~emphp | tehom | n mp emph | the deeps
+תְהוֹמ.ִין~pl | tehom | n mp abs | the deeps
+לְ=into.עוּמְק.ַיָא~emphp | umqa | n mp emph | into the depths
+יַמִינ.ָךְ=Your | yamina | n+2ms | Your right hand
+אַדִיר.ָא=emph | addir | a emph | glorious
+אַדִיר | addir | a | glorious
+תְּבָר.ַת~she_p | tvr | G pf 3fs | (it) shatters (lit. shattered)
+סָנְא.ָה=emph | sana | n emph | the enemy
+תָקְפּ.ָךְ=Your | tqof | n+2ms | Your strength
+בְ=with.תָקְפּ.ָךְ=Your | tqof | n+2ms | with Your strength
+תְּבַרְ.תָּ~you_p.נוּן=them | tvr | G pf 2ms+3mp | You shattered them
+לִ=those.דְ=who.קָמ.וּ~they_p | qwm | G pf 3mp | those who rose up
+שַׁלַחְ.תָּ~you_p | shlh | D pf 2ms | You sent forth
+שֵׁיצִי.תִ~you_p.ינוּן=them | shetsi | Sh pf 2ms+3mp | You consumed them
+כְּ=as.נוּר.ָא=emph | nura | n emph | as fire (consumes)
+לְ=.קַשׁ.ָא=emph | qasha | n emph | the stubble
+חַכִּימ.וּ~they_p | hkm | !verb, Pa‘el, past, 3rd masc. pl. | (the waters) became wise (Hebrew: נֶעֶרְמוּ, heaped up — also read as “cunning”)
+אֲזָל.ַיָא~emphp | azl | G ptc mp emph | the flowing (waters) (lit. the going ones)
+קָפ.וּ~they_p | qfy | G pf 3mp | congealed
+אֶ~I_f.רְדוֹף | rdf | G impf 1cs | I will pursue
+אַ~I_f.דְבֵּק | dbq | C impf 1cs | I will overtake
+אֲ~I_f.פַלֵג | plg | D impf 1cs | I will divide
+בִּזְת.ָא=emph | bizta | n fs emph | the spoil
+תִּ~she_f.שְׂבַּע | sva | G impf 3fs | (my soul) will be satisfied
+אֶ~I_f.שְׁלוֹף | shlf | G impf 1cs | I will draw
+חַרְבּ.ִי=my | harba | n+1cs | my sword
+תְּ~she_f.שֵׁיצִי.נוּן=them | shetsi | Sh impf 3fs+3mp | (my hand) will destroy them
+אִשְׁתְּ~passive (Ishtaf‘al).קָע.וּ~they_p | shqa | Sht pf 3mp | they sank | the ת moves after the ש
+כַּ=like.אֲבָר.ָא=emph | avara | n emph | like lead
+בְּ=in.מַיִן | mayin | n abs | in waters
+תַּקִיפ.ִין~pl | tqf | a mp | mighty
+תַּקִיפ.ֵי~cs_pl | tqf | a mp cs | the mighty ones of
+בְּ=in.קוּדְשׁ.ָא=emph | qudsha | n emph | in holiness
+דְחֵל | dhl | a | awesome (lit. feared)
+פָּרִישָׁ.ן~fp | prishuta | n fp abs | wonders
+אֲ~C.רֵמְ.תָּ~you_p | rwm | C pf 2ms | You raised
+בְּלָעָתְ.נוּן=them | bla | G pf 3fs+3mp | (the earth) swallowed them
+דַבַּרְ.הִי=it | dbr | D pf 2ms+3ms | You led it (lit. led him) — the people
+בְ=in.טַבְוָת.ָךְ=Your | tavuta | n fs+2ms | in Your kindness
+דִ=that.פְרָקְ.תָּ~you_p | prq | G pf 2ms | that You redeemed
+פְרַקְ.תָּא~you_p | prq | G pf 2ms | You redeemed
+סוֹבַרְ.הִי=it | svr | D pf 2ms+3ms | You carried it
+לְ=to.דִיר.ָא=emph | dira | n emph | to the abode of
+דְ=of.קֻדְשׁ.ָךְ=Your | qudsha | n+2ms | of Your holiness
+וְ=.זָע.וּ~they_p | zwa | G pf 3mp | and (they) trembled
+אַחֲדָתְ.נוּן=them | ahd | G pf 3fs+3mp | (fear) seized them
+אֲחַדָתְ.נוּן=them | ahd | G pf 3fs+3mp | (trembling) seized them
+לְ=.דַ=those who.הַו.וֹ~they_p | hwy | G pf 3mp | those who were (dwelling)
+יָתְב.ִין~mp | ytv | G ptc mp | dwelling
+בִּ=in.פְלָשֶׁת | name | name | in Peleshet (Philistia)
+רְתֵית.ָא=emph | retita | n fs emph | trembling
+אִתְ~Gt.בָּר.וּ~they_p | tvr | Gt pf 3mp | were broken (i.e. melted away) | the passive ת merges with the ת of תבר
+תַּ~she_f.פֵּיל | npl | G impf 3fs | (terror) will fall | the נ of נפל is absorbed
+אֵימְת.ָא=emph | eima | n fs emph | dread
+יִ~they_f.שְׁתְּק.וּן~mp | shtq | G impf 3mp | they will be silent
+אַרְנוֹנ.ָא=emph | name | name | the Arnon
+תָּ~you_f.עֵלִ.נוּן=them | ill | C impf 2ms+3mp | You will bring them in | Af‘el of עלל
+וְ=.תַ~you_f.שְׁרִי.נוּן=them | shry | C impf 2ms+3mp | and You will settle them
+דְ=of.אַחְסַנְתּ.ָךְ=Your | ahsanta | n fs+2ms | of Your inheritance
+שְׁכִנְתּ.ָךְ=Your | shekhinta | n fs+2ms | Your Presence
+אַ~C.תְקֵנְ.תָּא~you_p | tqn | C pf 2ms | You have prepared
+אַ~C.תְקְנ.וֹהִי=it | tqn | C pf 3mp+3ms | (Your hands) have established it
+יְדָ.יךְ=Your | yad | n fp+2ms | Your hands
+וּ=.לְ=to.עָלְמ.ֵי~cs_pl | alma | n mp cs | and to the eternity of (lit. worlds of)
+עָלְמ.ַיָא~emphp | alma | n mp emph | the eternities (i.e. forever and ever)
+מִרְיָם | name | name | Miriam
+נְבִיאֲת.ָא=emph | neviata | n fs emph | the prophetess
+תֻּפּ.ָא=emph | tuppa | n emph | the drum
+בַּתְרָ.הָא=her | batar | prep+3fs | after her
+בְּ=with.תֻפּ.ִין~pl | tuppa | n mp abs | with drums
+וּ=.בְ=with.חִנְג.ִין~pl | hinga | n mp abs | and with dances
+וּ=.מְ~ptcD.עַנְ.יָא~fs | any2 | D ptc fs | and (Miriam) responded (in song)
+לָ.הֶן=them | le | prep+3fp | to them (fem.)
+שַׁבָּח.וּ~cmd_pl | shbh | D impv 2mp | praise!
+וְ=.אוֹד.וּ~cmd_pl | ydy | C impv 2mp | and give thanks!
+וְ=.אַ~C.טֵל | ntl2 | C pf 3ms | and (Moshe) led (Israel) on | the נ of נטל is absorbed
+אַ~C.שְׁכָּח.וּ~they_p | shkh | C pf 3mp | (they) found
+לְ=to.מָרָה | name | name | to Marah
+מִ=from.מָרָה | name | name | from Marah
+מָרָה | name | name | Marah
+מְרִיר.ִין~pl | merir | a mp | bitter
+וְ=.אִתְ~Dt.רָעָמ.וּ~they_p | rm2 | Dt pf 3mp | and (the people) complained
+נִ~we_f.שְׁתֵּי | shty | G impf 1cp | shall we drink
+וְ=.אַלְפ.ֵהּ=him | lf | D pf 3ms+3ms | and (Hashem) showed him (lit. taught him)
+וּ=.בַסִימ.וּ~they_p | bsm | G pf 3mp | and (the waters) became sweet
+נַסְי.ֵהּ=him | nsy | D pf 3ms+3ms | (there) He tested him (i.e. the people)
+קַבָּל.ָא~inf_end | qbl2 | D inf | (with) accepting (doubles the verb: if you will truly listen)
+וְ=.תַ~you_f.צֵית | tsyt | C impf 2ms | and you will listen | the ת merges with the צ
+לִ=to.פִקוּד.וֹהִי=His | piqqud | n mp+3ms | to His commandments
+קְיָמ.וֹהִי=His | qyam | n mp+3ms | His statutes
+מַרְע.ִין~pl | marea | n mp abs | (all the) sicknesses
+אֲ~I_f.שַׁוֵי | shwy | D impf 1cs | I will (not) put
+אַסָ.ךְ=you | asy | D ptc ms+2ms | your healer (lit. healing you)
+מִ=from.יַּמִינ.ֵהוֹן=their | yamina | n+3mp | on their right
+15:7> וּ=.בִ=in.סְגֵי | sgi | n cs | and in the abundance of
+15:16> בִּ=by.סְגֵי | sgi | n cs | by the abundance of
+15:16> דְ=until.יֵ~he_f.עִבַּר | avr | G impf 3ms | (until) (Your people) passes over
+15:17> מְ~ptcD.תַקֵן | tqn | Dp ptc ms | prepared
+15:25> וְ=.דִין | din2 | n | and a law (lit. judgment)
+15:5> כְּ=like.אַבְנ.ָא=emph | avna | n emph | like a stone
+15:16> כְּ=like.אַבְנ.ָא=emph | avna | n emph | like a stone
+15:19> בִּ=with.רְתִכּ.וֹהִי=his | rtikha | n mp+3ms | with his chariots
+14:17> בִּ=with.רְתִכּ.וֹהִי=his | rtikha | n mp+3ms | with his chariots
+14:18> בִּ=with.רְתִכּ.וֹהִי=his | rtikha | n mp+3ms | with his chariots

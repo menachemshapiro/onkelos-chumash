@@ -1,0 +1,22 @@
+# Shemot 6:2–13
+שַׁדָּי | shaddai | name | Shaddai
+הוֹ~C.דָעִ.ית~I_p | yd | C pf 1cs | I (did not) make known | Af‘el of ידע: the י becomes ו
+דְּ=in which.אִתּ~Ct.וֹתָב.וּ~they_p | ytv | Ct pf 3mp | (they) sojourned (lit. were settled) | the י of יתב becomes ו
+דְחוֹק | dohaqa | n cs | the oppression of
+פָּלְחַן | pulhana | n cs | the labor of
+וֶ=.אֱ~I_f.שֵׁיזֵב | shyzv | Sh impf 1cs | and I will rescue
+וְ=.אֶ~I_f.פְרוֹק | prq | G impf 1cs | and I will redeem
+בִּ=with.דְרָע.ָא=emph | dra | n emph | with an arm
+מְרָמ.ָא=emph | rwm | !passive participle (Pa‘el), emphatic | uplifted
+וּ=.בְ=with.דִינ.ִין~pl | din2 | n mp abs | and with judgments
+וֶ=.אֱ~I_f.קָרֵיב | qrb | D impf 1cs | and I will bring (you) near
+וְ=.תִ~ypl_f.דְּע.וּן~mp | yd | G impf 2mp | and you shall know
+אֱלָה.ָכוֹן=your | elah | n+2mp | your God
+יְרֻתּ.ָא=emph | yerutta | n emph | (as) an inheritance
+מִ=from.מַּעְיַק | wq | !noun from Af‘el of עוק, construct | from the distress of (spirit)
+יְ~he_f.קַבֵּל | qbl2 | D impf 3ms | will (Pharaoh) listen to (lit. accept)
+לְ=.אַ~C.פָּק.ָא~inf_end | npq | C inf | to bring out | the נ of נפק is absorbed
+מַ~ptcC.פְלְח.ִין~mp | plh | C ptc mp | enslave (lit. make work)
+לֶ=for.אֱלָהּ | elah | n | as (lit. for) a God
+6:6> וְ=.אַ~C.פֵּיק | npq | C impf 1cs | and I will bring out | the נ of נפק is absorbed
+6:7> דְּ=Who.אַ~C.פֵּיק | npq | C ptc ms | Who brings out | the נ of נפק is absorbed

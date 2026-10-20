@@ -1,0 +1,247 @@
+# Terumah (batch for the whole parsha): Shemot 25:1–27:19
+וְ=.יַ~they_f.פְרְשׁ.וּן~mp | prsh | C impf 3mp | and let them set apart
+אַפְרָשׁוּת.ָא=emph | prsh | !noun (from Af‘el of פרש), emphatic | the offering (lit. what is set apart) (תְּרוּמָה)
+אַפְרָשׁוּת.ִי=My | prsh | !noun (from Af‘el of פרש) + 1cs | My offering
+דְּ=whose.יִתְ~Gt.רְעֵ.יהּ=him | ry2 | Gt pf 3ms+3ms | whose (heart) moves him (lit. is pleased with it)
+תִכְל.ָא=emph | tikhla | n emph | blue wool
+וְ=.תִכְל.ָא=emph | tikhla | n emph | and blue wool
+דְּ=of.תִכְל.ָא=emph | tikhla | n emph | of blue wool
+וְ=.אַרְגְּוָנ.ָא=emph | argevana | n emph | and purple wool
+וְ=.אַגְּוָנ.ָא=emph | argevana | n emph | and purple wool (spelled without ר)
+וּ=.בוּץ | buts | n | and fine linen
+דְ=of.דִכְר.ֵי~cs_pl | dikhra | n mp cs | of rams
+מְ~ptcD.סַמְּק.ֵי~cs_pl | smq | Dp ptc mp | dyed red
+סַסְגּוֹנ.ָא=emph | sasgona | n emph | tachash (Hebrew: תְּחָשִׁים)
+דְ=of.סַסְגּוֹנ.ָא=emph | sasgona | n emph | of tachash
+שִׁטִּ.ין~pl | shitta | n mp | acacia
+לְ=for.אַנְהָרוּת.ָא=emph | anharuta | n fs emph | for lighting
+בּוּסְמ.ַיָּא~emphp | busma | n mp emph | spices
+דִ=of.רְבוּת.ָא=emph | rebuta | n fs emph | of anointing (מִשְׁחָא דִרְבוּתָא = the anointing oil)
+וְ=.לִ=for.קְטֹרֶת | qetoret | n fs cs | and for the incense of
+אַבְנ.ֵי~cs_pl | avna | n fp cs | stones of
+אַשְׁלָמוּת.ָא=emph | ashlamuta | n fs emph | setting (i.e. for setting)
+לְ=.שַׁקָּע.ָא~inf_end | shqa2 | D inf | to set (in place)
+בְ=in.אֵפוֹד.ָא=emph | efoda | n emph | in the ephod
+וּ=.בְ=in.חוּשְׁנ.ָא=emph | hushna | n emph | and in the breastplate
+מָנ.וֹהִי=its | mana | n mp+3ms | its vessels
+אֲרוֹנ.ָא=emph | arona | n emph | the Ark
+דַּ=of.אֲרוֹנ.ָא=emph | arona | n emph | of the Ark
+בַּ=in.אֲרוֹנ.ָא=emph | arona | n emph | in the Ark
+וּ=.בַ=in.אֲרוֹנ.ָא=emph | arona | n emph | and in the Ark
+וּ=.פַלְג.ָא=emph | palga | n emph | and a half
+אֻרְכּ.ֵיהּ=its | orka | n+3ms | its length
+אֻרְכּ.ַהּ=its | orka | n+3fs | its length
+אֻרְכּ.ָא=emph | orka | n emph | the length
+פְּתָי.ֵהּ=its | ptay | n+3ms | its width
+פְתָי.ֵהּ=its | ptay | n+3ms | its width
+רוּמ.ֵיהּ=its | rum | n+3ms | its height
+וְ=.רוּמ.ָא=emph | rum | n emph | and the height
+וְ=.תֶ~you_f.חֱפֵי | hpy | G impf 2ms | and you shall overlay (lit. cover)
+וְ=.תַ~you_f.חֲפֵי | hpy | D impf 2ms | and you shall overlay
+וְ=.תַ~you_f.חֲפֵּי | hpy | D impf 2ms | and you shall overlay
+וְ=.תַ~you_f.חְפֵּי | hpy | D impf 2ms | and you shall overlay
+תַּ~you_f.חְפֵּי | hpy | D impf 2ms | you shall overlay
+תַּ~you_f.חֲפִ.נֵּיהּ=it | hpy | D impf 2ms+3ms | you shall overlay it
+מְ~ptcD.חַפְּי.ָן~fp | hpy | Dp ptc fp | overlaid
+זֵיר | zeira | n | a rim (lit. crown)
+וְ=.תַ~you_f.תִּיךְ | ntk | C impf 2ms | and you shall cast | the נ of נתך is absorbed
+עִזְק.ָן~fp | izqta | n fp abs | rings
+עִזְקָת.ָא=emph | izqta | n fp emph | the rings
+בְּ=in.עִזְקָת.ָא=emph | izqta | n fp emph | in the rings
+עִזְקָתְ.הוֹן=their | izqta | n fp+3mp | their rings
+זִוְיָת.ֵיהּ=its | zawita | n fp+3ms | its corners
+זִוְיָת.ָא=emph | zawita | n fp emph | the corners
+לְ=at.זָוְיַת | zawita | n fs cs | at the corner(s) of
+זָוְי.ָן~fp | zawita | n fp abs | corners
+סִטְר.ֵיהּ=its | sitra | n+3ms | its side
+סִטְר.ֵי~cs_pl | sitra | n mp cs | the sides of
+סִטְר.וֹהִי=its | sitra | n mp+3ms | its sides
+מִ=from.סִּטְר.ָא=emph | sitra | n emph | on the side (lit. from the side)
+מִ=on.סִּטְר.ָהָא=its | sitra | n mp+3fs | from its sides
+מִ=on.סִּטְר.ַהּ=its | sitra | n+3fs | on its side
+בְּ=on.סִטְר.ָא=emph | sitra | n emph | on the side
+וְ=.לִ=for.סְטַר | sitra | n cs | and for the side of
+סְטַר | sitra | n cs | the side of
+אֲרִיח.ֵי~cs_pl | ariha | n mp cs | poles of
+אֲרִיח.ַיָּא~emphp | ariha | n mp emph | the poles
+לַ=for.אֲרִיח.ַיָּא~emphp | ariha | n mp emph | for the poles
+אֲרִיח.וֹהִי=its | ariha | n mp+3ms | its poles
+יְ~they_f.עִדּ.וּן~mp | dy_pass | G impf 3mp | they shall (not) be removed (lit. pass)
+סַהֲדוּת.ָא=emph | sahadu | n fs emph | the Testimony
+כַּפֻּרְתּ.ָא=emph | kapporta | n fs emph | the cover
+כַפֻּרְתּ.ָא=emph | kapporta | n fs emph | the cover
+כְּרוּב.ִין~pl | kruv | n mp abs | cherubim
+נְגִיד | ngd | Gp ptc ms | beaten (lit. drawn) work
+נְגִיד.ָא=emph | ngd | Gp ptc fs emph | beaten work
+גַּדְפ.ֵיהוֹן=their | gadfa | n mp+3mp | their wings
+בְּ=with.גַדְפ.ֵיהוֹן=their | gadfa | n mp+3mp | with their wings
+לְ=.עֵלָּא | illa | adv | upward
+מְ~ptcD.טַלּ.ִין~mp | tll | D ptc mp | overshadowing
+וֶ=.אֱ~I_f.זַמֵּן | zmn | D impf 1cs | and I will appoint (lit. prepare)
+אֲ~I_f.פַקֵּד | pqd | D impf 1cs | I will command
+פָּתוֹר.ָא=emph | patora | n emph | the table
+וּ=.פָתוֹר.ָא=emph | patora | n emph | and the table
+גְּדַנְפ.ָא=emph | gedanfa | n emph | a frame
+לִ=for.גְדַנְפ.ֵיהּ=its | gedanfa | n+3ms | for its frame
+פֻּשְׁכּ.ָא=emph | pushka | n emph | a handbreadth
+מָגִיס.וֹהִי=its | magis | n mp+3ms | its dishes
+וּ=.בָזִכּ.וֹהִי=its | bazikh | n mp+3ms | and its spoons
+וְ=.קַסְוָת.ֵיהּ=its | qasva | n fp+3ms | and its jars
+וּ=.מְכִילָת.ֵיהּ=its | mekhilta | n fp+3ms | and its bowls
+דִּ=with which.יִתְ~Dt.נַסַּךְ | nsk | Dt impf 3ms | (with which) it is poured
+תְּדִיר.ָא=emph | tedira | adv | continually
+מְנַרְתּ.ָא=emph | menarta | n fs emph | the menorah
+וּ=.בִ=on.מְנַרְתּ.ָא=emph | menarta | n fs emph | and on the menorah
+תִּתְ~Gt.עֲבֵד | avad | Gt impf 3fs | shall be made
+שִׁדּ.ַהּ=its | shida | n+3fs | its base
+וּ=.קְנ.ַהּ=its | qanya | n+3fs | and its stem
+קְנ.ִין~pl | qanya | n mp abs | branches
+וּ=.קְנ.ֵיהוֹן=their | qanya | n mp+3mp | and their branches
+כַּלִּיד.ָהָא=its | kallida | n mp+3fs | its cups
+כַלִּיד.ִין~pl | kallida | n mp abs | cups
+חֵזוּר.ָהָא=its | hezura | n mp+3fs | its knobs
+חֵזוּר | hezura | n | a knob
+וְ=.חֵזוּר | hezura | n | and a knob
+חֵזוּר.ֵיהוֹן=their | hezura | n mp+3mp | their knobs
+וְ=.שׁוֹשַׁנּ.ָהָא=its | shoshanna | n fp+3fs | and its flowers
+וְ=.שׁוֹשַׁן | shoshanna | n | and a flower
+וְ=.שׁוֹשָׁן | shoshanna | n | and a flower
+מְ~ptcD.צַיְר.ִין~mp | tsyr | Dp ptc mp | decorated (Hebrew: מְשֻׁקָּדִים, shaped like almonds)
+צַיָּר | tsyr | !noun (Pa‘el pattern) | embroiderer
+בּוֹצִינ.ָהָא=its | butsina | n mp+3fs | its lamps
+וְ=.תַ~you_f.דְלֵק | dlq | C impf 2ms | and you shall kindle
+מְ~ptcC.נַהֲר.ִין~mp | anhar | C ptc mp | giving light
+וְ=.צִבְיָת.ָהָא=its | tsevita | n fp+3fs | and its tongs
+וּ=.מַחְתְּיָת.ָהָא=its | mahta | n fp+3fs | and its fire pans
+וּ=.מַחְתְּיָת.ֵיהּ=its | mahta | n fp+3ms | and its fire pans
+כִּכְּר.ָא=emph | kakkra | n emph | a talent
+מָנ.ַיָּא~emphp | mana | n mp emph | the vessels
+מָאנ.ֵי~cs_pl | mana | n mp cs | the vessels of
+וַ=.עֲבֵיד | avad | G impv 2ms | and make!
+כִּ=according to.דְמוּתְ.הוֹן=their | dmut | n fs+3mp | according to their likeness
+מִתְ~ptcGt.חֲזִי | hzy | Gt ptc ms | are being shown
+אִתְ~Gt.חֲזֵי.תָא~you_p | hzy | Gt pf 2ms | you were shown
+יְרִיע.ָן~fp | yeria | n fp abs | curtains
+יְרִיעֲת.ָא=emph | yeria | n fs emph | the curtain
+דִּ=of.ירִיעֲת.ָא=emph | yeria | n fs emph | of the curtain
+דִ=of.ירִיעֲת.ָא=emph | yeria | n fs emph | of the curtain
+בִּ=on.ירִיעֲת.ָא=emph | yeria | n fs emph | on the curtain
+בִּ=of.ירִיעַת | yeria | n fs cs | of the curtain of
+שְׁזִיר | shzr | a | twisted
+צוּרַת | tsurta | n fs cs | a design of
+אֳמָן | uman | n | a craftsman (עוֹבַד אֳמָן = an artisan's work)
+עַשְׂרִין | asrin | num | twenty
+עַסְרִין | asrin | num | twenty
+וּ=.פוּתְי.ָא=emph | ptay | n emph | and the width
+פּוּתְי.ָא=emph | ptay | n emph | the width
+יְ~they_f.הֶוְי.ַן~fp | hwy | G impf 3fp | shall be
+מְ~ptcD.לַפְּפ.ָן~fp | lpp | Dp ptc fp | joined
+וּ=.תְ~you_f.לָפֵף | lpp | D impf 2ms | and you shall join
+עֲנוּב.ִין~pl | anuva | n mp abs | loops
+עֲנוּב.ַיָּא~emphp | anuva | n mp emph | the loops
+בַּ=with.עֲנוּב.ַיָּא~emphp | anuva | n mp emph | with the loops
+שִׂפְת.ָא=emph | sifta | n fs emph | the edge (of)
+בְּ=at.שִׂפְת.ָא=emph | sifta | n fs emph | at the edge
+לוֹפ.ֵי~cs_pl | lofa | n mp cs | the joinings of (i.e. the end where they meet)
+מְ~ptcD.כַוְּנ.ָן~fp | kwn | Dp ptc fp | opposite (lit. aligned)
+מְ~ptcD.כַוְּנ.ִין~mp | kwn | Dp ptc mp | matching (lit. aligned)
+פּוּרְפ.ִין~pl | purpa | n mp abs | clasps
+פּוּרְפ.ַיָּא~emphp | purpa | n mp emph | the clasps
+בְּ=with.פוּרְפ.ַיָּא~emphp | purpa | n mp emph | with the clasps
+לִ=for.פְרָס.ָא=emph | perasa | n emph | for a covering (lit. spreading)
+פְּרָס.ָא=emph | perasa | n emph | a screen
+וְ=.תֵ~you_f.יעוּף | wf | G impf 2ms | and you shall fold over
+שְׁתִיתֵית.ָא=emph | shetitai | ord fs emph | the sixth
+וְ=.סִרְח.ָא=emph | srh2 | !noun, emphatic | and the overhang (lit. what hangs over)
+דְּ=that is.יַתִּיר.ָא=emph | yattir | a emph | that is extra
+בִּ=in.דְ=what is.יַתִּיר.ָא=emph | yattir | a emph | in what is extra
+תִּ~she_f.סְרַח | srh2 | G impf 3fs | shall hang over
+סְרִיחַ | srh2 | Gp ptc ms | shall hang down (lit. hanging)
+אֲחֹרֵי | ahor | n cs | the back of
+לְ=.כַסָּיוּת.ֵיהּ=it | ksy | D inf+3ms | to cover it
+דַּפּ.ַיָּא~emphp | dappa | n mp emph | the boards
+דַפּ.ַיָּא~emphp | dappa | n mp emph | the boards
+דְ=of.דַפּ.ָא=emph | dappa | n emph | of the board
+דְּ=of.דַפּ.ָא=emph | dappa | n emph | of a board
+לְ=for.דַפּ.ָא=emph | dappa | n emph | for a board
+דַּפּ.ָא=emph | dappa | n emph | the board
+דַּפּ.ֵי~cs_pl | dappa | n mp cs | the boards of
+לְ=for.דַפּ.ֵי~cs_pl | dappa | n mp cs | for the boards of
+דַּפּ.ִין~pl | dappa | n mp abs | boards
+דַפּ.ִין~pl | dappa | n mp abs | boards
+צִיר.ִין~pl | tsira | n mp abs | tenons
+צִיר.וֹהִי=its | tsira | n mp+3ms | its tenons
+מְ~ptcD.שַׁלְּב.ִין~mp | shlb | Dp ptc mp | joined (lit. interlocked)
+עֵבַר | ivra | n cs | the side of
+לְ=on.עִבְר.ָא=emph | ivra | n emph | on the side
+וּ=.לְ=on.עִבְר.ָא=emph | ivra | n emph | and on the side
+סַמְכ.ִין~pl | samkha | n mp abs | sockets
+סַמְכ.ֵי~cs_pl | samkha | n mp cs | the sockets of
+סַמְכ.ֵיהוֹן=their | samkha | n mp+3mp | their sockets
+וְ=.סַמְכ.ֵיהוֹן=their | samkha | n mp+3mp | and their sockets
+צִפּוּנ.ָא=emph | tsippuna | n emph | the north
+בְּ=at.סוֹפ.ֵיהוֹן=their | sof | n+3mp | at their ends (i.e. bottoms)
+לְ=at.סוֹפ.ֵיהוֹן=their | sof | n+3mp | at their ends
+עַבְּר.ֵי~cs_pl | abbara | n mp cs | bars of
+עַבְּר.ִין~pl | abbara | n mp abs | bars
+וְ=.עַבְּר.ָא=emph | abbara | n emph | and the bar
+לְ=for.עַבְר.ַיָּא~emphp | abbara | n mp emph | for the bars
+עַבְּר.ַיָּא~emphp | abbara | n mp emph | the bars
+מְצִיעָאָה | metsiai | a | middle
+סְיָפ.ֵי~cs_pl | sayafa | n mp cs | the ends of
+וּ=.תְ~you_f.קִים | qwm | C impf 2ms | and you shall set up
+כְּ=according to.הִלְכְּת.ֵיהּ=its | hilkheta | n fs+3ms | according to its plan (lit. custom)
+פָּרֻכְתּ.ָא=emph | parokhta | n fs emph | the dividing curtain
+לְ=.פָרֻכְתּ.ָא=emph | parokhta | n fs emph | the dividing curtain
+תִּכְל.ָא=emph | tikhla | n emph | blue wool
+עַמּוּד.ֵי~cs_pl | amuda | n mp cs | pillars of
+עַמּוּד.ַיָּא~emphp | amuda | n mp emph | the pillars
+עַמּוּד.ֵיהוֹן=their | amuda | n mp+3mp | their pillars
+וְ=.עַמּוּד.וֹהִי=its | amuda | n mp+3ms | and its pillars
+וָו.ֵיהוֹן=their | waw | n mp+3mp | their hooks
+וָו.ֵי~cs_pl | waw | n mp cs | the hooks of
+קֹדֶשׁ | qudsha | n cs | the holy (as in the Hebrew: קֹדֶשׁ)
+בְּ=in.קֹדֶשׁ | qudsha | n cs | in the holy (place) of
+קוּדְשׁ.ַיָּא~emphp | qudsha | n mp emph | the holies (קֹדֶשׁ קוּדְשַׁיָּא = the Holy of Holies)
+צִדּ.ָא=emph | tsad | n emph | the side
+מְרַבַּע | rba2 | a | square
+קַרְנ.וֹהִי=its | qarna | n mp+3ms | its horns
+פְּסַכְתְּרָוָת.ֵיהּ=its | pasakhter | n fp+3ms | its pots
+לְ=.מִ~inf.סְפֵי | sfy | G inf | to clear away (ashes)
+קִטְמ.ֵיהּ=its | qitma | n+3ms | its ashes
+וּ=.מַגְרוֹפְיָת.ֵיהּ=its | magrofita | n fp+3ms | and its shovels
+וּ=.מִזְרְקָת.ֵיהּ=its | mizraqa | n fp+3ms | and its basins
+וְ=.צִנּוּרְיָת.ֵיהּ=its | tsinnurita | n fp+3ms | and its forks
+סְרָד.ָא=emph | serada | n emph | a grating
+סְרָד.ִין~pl | serada | n mp abs | hangings (lit. nettings)
+מְצַדְתּ.ָא=emph | metsadta | n fs emph | network
+סוֹבָב.ֵי~cs_pl | sovev | n mp cs | the ledge of
+וְ=.יָ~he_f.עֵל | ill | C impf 3ms | and (the poles) shall be inserted (lit. one shall bring in) | Af‘el of עלל
+בְּ=when.מִ~inf.טַּל | ntl | G inf | when carrying | the נ of נטל is absorbed
+חֲלִיל | halil | a | hollow
+דָּרַת | darta | n fs cs | the courtyard of
+לְ=for.דָרְתּ.ָא=emph | darta | n fs emph | for the courtyard
+דְ=of.דַרְתּ.ָא=emph | darta | n fs emph | of the courtyard
+דַּרְתּ.ָא=emph | darta | n fs emph | the courtyard
+דַרְתּ.ָא=emph | darta | n fs emph | the courtyard
+וְ=.כִבּוּשׁ.ֵיהוֹן=their | kibbush | n mp+3mp | and their bands
+מְ~ptcD.כַבְּשׁ.ִין~mp | kvsh | Dp ptc mp | banded
+מַדִּינְח.ָא=emph | madinha | n emph | the east
+פָּלְחָנ.ֵיהּ=its | pulhana | n+3ms | its service
+סִכּ.וֹהִי=its | sikka | n mp+3ms | its pegs
+סִכּ.ֵי~cs_pl | sikka | n mp cs | the pegs of
+נָטְל.ִין~mp | ntl | G ptc mp | carrying
+מַ~ptcC.חֲזֵי | hzy | C ptc ms | (I am) showing
+דְּמוּת | dmut | n fs cs | the likeness of
+וְ=.אַמְּת.ָא=emph | amma | n fs emph | and a cubit
+וּ=.מִ=from.בָּר.ָא=emph | bara | adv | and outside
+25:11> מִ=from.גָּו | go | prep | inside (lit. from within)
+26:35> מִ=from.בָּר.ָא=emph | bara | adv | outside
+בְּ=in.עִזְקְת.ָא=emph | izqta | n fp emph | in the rings
+לְ=to.עִזְקְת.ָא=emph | izqta | n fp emph | to the ring
+וּ=.כְרוּב.ָא=emph | kruv | n emph | and (one) cherub
+מַ~ptcC.עְבַּר | avr | C ptc ms | passing through (lit. made to pass)
+26:13> בְּ=in.אֻרְכּ.ָא=emph | orka | n emph | in the length
+27:6> לְ=for.מַדְבְּח.ָא=emph | madbha | n emph | for the altar
+26:36> לִ=for.תְרַע | tara | n cs | for the entrance of
+27:16> וְ=.לִ=for.תְרַע | tara | n cs | and for the gate of

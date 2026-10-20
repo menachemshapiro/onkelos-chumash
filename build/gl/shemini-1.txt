@@ -1,0 +1,188 @@
+# Shemini (batch for the whole parsha): Vayikra 9:1–11:47
+עֶגַל | egla | n cs | a calf (as in the Hebrew)
+וְ=.עֵגָל | egla | n | and a calf
+וּ=.דְכָר | dekhar | n | and a ram (lit. a male)
+קְרַב | qrb | G impv 2ms | come near!
+חַטָּאתָ.ךְ=your | hattata | n fs+2ms | your sin offering
+חַטָּאתְ.הוֹן=their | hattata | n fs+3mp | their sin offering
+דְ=of.חַטָּת.ָא=emph | hattata | n fs emph | of the sin offering
+עֲלָתָ.ךְ=your | alawan | n fs+2ms | your burnt offering
+עֲלָתְ.הוֹן=their | alawan | n fs+3mp | their burnt offering
+וְ=.כַפַּר | kpr | D impv 2ms | and atone!
+וְ=.כַפֵּר | kpr | D pf 3ms | and he atoned
+וּ=.טְבַל | tvl | G pf 3ms | and he dipped
+כָּלְיְת.ָא=emph | kolya | n fp emph | the kidneys
+וְ=.כָלְיְת.ָא=emph | kolya | n fp emph | and the kidneys
+אַסֵּק | slq | C pf 3ms | he burned (lit. brought up) | the ל of סלק is absorbed
+דְּ=Who.אַסֵּק | slq | C ptc ms | Who brought up | the ל of סלק is absorbed
+מַשְׁכּ.ָא=emph | mashkha | n emph | the hide
+וְ=.אַמְטִי.אוּ~they_p | mty | C pf 3mp | and they handed (lit. brought)
+אַמְטִי.אוּ~they_p | mty | C pf 3mp | they handed
+וּ=.זְרָקֵ.יהּ=it | zrq | G pf 3ms+3ms | and he sprinkled it
+לְ=by.אֵבָרָ.הָא=its | evra | n mp+3fs | by its pieces
+צְפִיר.ָא=emph | tsfir | n emph | the goat
+וְ=.נָכְסֵ.יהּ=it | nks | G pf 3ms+3ms | and he slaughtered it
+וְ=.עָבְדַ.הּ=it | avad | G pf 3ms+3fs | and he offered it (lit. made it)
+וְ=.חָפֵי | hpy | G ptc ms | and that which covers
+חֶדְוָת.ָא=emph | hadya | n fp emph | the breasts
+אֲרֵם | rwm | C pf 3ms | (Aharon) raised
+וּ=.בָרֵכִ.נּוּן=them | brk | D pf 3ms+3mp | and he blessed them
+אַפֵּי.הוֹן=their | anpin | n mp+3mp | their faces
+מַחְתִּית.ֵיהּ=his | mahta | n fs+3ms | his fire pan
+קְטוֹרֶת | qetoret | n | incense
+נוּכְרֵית.ָא=emph | nukhrai | a fs emph | strange (i.e. unauthorized)
+בְּ=through.קָרִיב.ַי=Me | qariv | a mp+1cs | through those near to Me
+אִתְ~Dt.קַדַּשׁ | qdsh | Dt impf 1cs | I will be sanctified
+אִתְ~Dt.יַקָּר | yqr2 | Dt impf 1cs | I will be honored
+וּ=.לְ=to.אֶלְצָפָן | name | name | and to Eltzafan
+אַח | ah | n cs | the brother of
+טוּל.וּ~cmd_pl | ntl | G impv 2mp | carry! | the נ of נטל drops out
+וּ=.נְטָלֻ.נּוּן=them | ntl | G pf 3mp+3mp | and they carried them
+בְּ=in.כִתֻּנּ.ֵיהוֹן=their | kittuna | n mp+3mp | in their tunics
+רֵישׁ.ֵיכוֹן=your | resh | n+2mp | your heads
+תְ~ypl_f.רַבּ.וּן~mp | rby | D impf 2mp | you shall (not) let grow
+פֵּרוּעַ | perua | a | loose (i.e. long hair)
+וּ=.לְבוּשׁ.ֵיכוֹן=your | levush | n mp+2mp | and your garments
+תְ~ypl_f.בַזְּע.וּן~mp | bza | D impf 2mp | you shall (not) tear
+וַ=.אֲחֵ.יכוֹן=your | ah | n mp+2mp | and your brothers
+יִ~they_f.בְכּ.וּן~mp | bky | G impf 3mp | they shall weep
+יְקִדְתּ.ָא=emph | yoqadta | n fs emph | the burning
+וּ=.מְ~ptcD.רַוֵּי | rwy | D ptc ms | and intoxicant (lit. what makes drunk)
+תִ~you_f.שְׁתֵּי | shty | G impf 2ms | you shall (not) drink
+בְּ=when.מֵעַלְ.כוֹן=you | ill | G inf+2mp | when you come in
+חֻלּ.ָא=emph | hulla | n emph | the profane (i.e. ordinary)
+דְּ=who.אִשְׁתָּ~passive (Itpe‘el).אֲר.וּ~they_p | shar | Gt pf 3mp | who were left | the ת moves after the ש
+דְ=that.אִשְׁתָּ~passive (Itpe‘el).אָר.ַת~she_p | shar | Gt pf 3fs | that is left | the ת moves after the ש
+וְ=.אִכְל.וּהָ=it | akhal | G impv 2mp+3fs | and eat it!
+חֳלָק.ָךְ=your | hulaq | n+2ms | your portion
+אִתְ~Gt.יְהִב.וּ~they_p | yhb | Gt pf 3mp | have been given
+קֻרְבָּנ.ֵי~cs_pl | qurbana | n mp cs | the offerings of
+תָּבְעֵי | bay | G pf 3ms | (Moshe) sought (lit. asked)
+אִתּוֹ~Ct.קָד | yqd | Ct pf 3ms | it had been burned | the passive ת merges; the י becomes ו
+אֲכַלְ.תּוּן~ypl_p | akhal | G pf 2mp | you ate
+וְ=.יָתַ.הּ=it | yat | part+3fs | and it
+לְ=.סַלָּח.ָא~inf_end | slh | D inf | to atone (lit. forgive)
+עַלֵ.יהוֹן=them | al | prep+3mp | for them
+אִתָּ~Ct.עַל | ill | Ct pf 3ms | it was (not) brought in | the passive ת merges
+קֻדְשׁ.ָא=emph | qudsha | n emph | the holy (place)
+בְּ=in.קֻדְשׁ.ָא=emph | qudsha | n emph | in the holy (place)
+גַּוָּאָה | gawwaa | a | inner
+וַ=.עֲרָע.ָא~fs | ra | G pf 3fs | and (troubles) have befallen
+עָקָ.ן~fp | aqta | n fp abs | troubles
+וְ=.אִלּוּפוֹן | ilu | conj | and if (only)
+הֲ~question marker.תַקֵּן | taqqin | a | would it be proper?
+סְדִיק.ָן~fp | sdq | Gp ptc fp | split
+סְדִיק.ָא=emph | sdq | Gp ptc emph | split
+סְדִיק | sdq | Gp ptc ms | split
+פַּרְסָת.ָא=emph | parsa | n fs emph | the hoof
+פַרְסָת.ָא=emph | parsa | n fs emph | the hoof
+וּ=.פַרְסָת.ָא=emph | parsa | n fs emph | and the hoof
+פַּרְסָת.ֵיהּ=its | parsa | n fs+3ms | its hoof
+וּ=.מַ~ptcC.טִּלְפ.ָן~fp | tlf | C ptc fp | and cloven
+וּ=.מַ~ptcC.טִּילְפ.ָן~fp | tlf | C ptc fp | and cloven
+מַ~ptcC.טִּלְפ.ָא=emph | tlf | C ptc emph | cloven
+טִלְפ.ִין~pl | tilfa | n mp abs | hooves (i.e. into two hoofs)
+וְ=.טִלְפ.ִין~pl | tilfa | n mp abs | and hooves
+מַ~ptcC.סְּק.ָא~fs | slq | C ptc fs | that brings up (chews)
+מִ=from.מַּ~ptcC.סְּק.ֵי~cs_pl | slq | C ptc mp cs | from those that bring up (chew)
+מַ~ptcC.סִּיק | slq | C ptc ms | brings up (chews)
+פִשְׁר.ָא=emph | pishra | n emph | the cud
+פִּשְׁר.ָא=emph | pishra | n emph | the cud
+וּ=.פִשְׁר.ָא=emph | pishra | n emph | and the cud
+טַפְז.ָא=emph | tafza | n emph | the hyrax
+אַרְנְב.ָא=emph | arneva | n emph | the hare
+חֲזִיר.ָא=emph | hazira | n emph | the pig
+מִ=from.בִּסְרְ.הוֹן=their | bsr | n+3mp | of their flesh
+וּ=.בִ=.נְבִלְתְּ.הוֹן=their | nevela | n fs+3mp | and their carcasses
+נְבִלְתְּ.הוֹן=their | nevela | n fs+3mp | their carcasses
+בִּ=.נְבִלְתְּ.הוֹן=their | nevela | n fs+3mp | their carcasses
+מִ=from.נְּבִלְתְּ.הוֹן=their | nevela | n fs+3mp | from their carcasses
+בִּ=.נְבִלְתּ.ַהּ=its | nevela | n fs+3fs | its carcass
+מִ=from.נְּבִלְתּ.ַהּ=its | nevela | n fs+3fs | from its carcass
+נְבִלְתּ.ַהּ=its | nevela | n fs+3fs | its carcass
+מְ~ptcD.סַאֲב.ִין~mp | sav | Dp ptc mp | impure
+דִּ=that are.מְ~ptcD.סַאֲב.ִין~mp | sav | Dp ptc mp | that are impure
+וּ=.מְ~ptcD.סַאֲב.ִין~mp | sav | Dp ptc mp | and impure
+צִיצ.ִין~pl | tsits | n mp abs | fins
+וּ=.בְ=in.נַחֲל.ַיָּא~emphp | nahla | n mp emph | and in the streams
+תְּ~ypl_f.שַׁקְּצ.וּן~mp | shqts | D impf 2mp | you shall detest
+תַּ~ypl_f.שַׁקְּצ.וּן~mp | shqts | D impf 2mp | you shall detest
+תְ~ypl_f.שַׁקְּצ.וּ~mp | shqts | D impf 2mp | you shall (not) make (yourselves) abominable
+יִתְ~Gt.אַכְל.וּן~mp | akhal | Gt impf 3mp | they shall (not) be eaten
+דְּ=that.מִתְ~ptcGt.אַכְל.ָא~fs | akhal | Gt ptc fs | that may be eaten
+מִתְ~ptcGt.אַכְל.ָא~fs | akhal | Gt ptc fs | that may (not) be eaten
+נִשְׁר.ָא=emph | nishra | n emph | the eagle (Hebrew: נֶשֶׁר)
+וְ=.עַר | ar | n | and the ar (Hebrew: פֶּרֶס)
+וְ=.עַזְי.ָא=emph | azya | n emph | and the azya (Hebrew: עָזְנִיָּה)
+וְ=.דַיְת.ָא=emph | dayta | n emph | and the kite (Hebrew: דָּאָה)
+וְ=.טָרָפִית.ָא=emph | tarafita | n emph | and the bird of prey (Hebrew: אַיָּה)
+עוּרְב.ָא=emph | orva | n emph | raven
+לִ=after.זְנ.ֵיהּ=its | zan | n+3ms | after its kind
+נַעֲמִית.ָא=emph | naamita | n emph | (daughter of) the ostrich
+שַׁחְפּ.ָא=emph | shahfa | n emph | the shachaf (Hebrew: שַׁחַף)
+וְ=.נָצ.ָא=emph | natsa | n emph | and the hawk (Hebrew: נֵץ)
+וְ=.קַרְי.ָא=emph | qadya | n emph | and the kos (Hebrew: כּוֹס) | CAL reads וְקַדְיָא (ד, not ר)
+וְ=.שָׁלֵינוּנ.ָא=emph | shleinuna | n emph | and the pelican or heron (Hebrew: שָׁלָךְ)
+וְ=.קִפּוֹפ.ָא=emph | qippofa | n emph | and the owl (Hebrew: יַנְשׁוּף)
+וּ=.בַוְת.ָא=emph | bavta | n emph | and the tinshemet (an unclean bird)
+וְ=.קָאת.ָא=emph | qata | n emph | and the ka'at (Hebrew: קָאָת)
+וִ=.ירַקְרֵק.ָא=emph | yarqreqa | n emph | and the racham (Hebrew: רָחָם)
+וְ=.חַוָּרִית.ָא=emph | havvarita | n emph | and the chasidah (lit. white bird; Hebrew: חֲסִידָה)
+וְ=.אִבּוּ | ibbu | n | and the anafah (Hebrew: אֲנָפָה)
+וְ=.נַגַּר | naggar | n cs | and the hoopoe (נַגַּר טוּרָא; Hebrew: דּוּכִיפַת)
+וַ=.עֲטַלֵּפ.ָא=emph | atalefa | n emph | and the bat
+קַרְצוּל.ִין~pl | qartsul | n mp abs | jointed legs
+לְ=.קַפָּצ.ָא~inf_end | qfts | D inf | to leap
+רָשׁוּנ.ָא=emph | rashuna | n emph | the sol'am locust (Hebrew: סָלְעָם)
+חַרְגּוֹל.ָא=emph | hargola | n emph | the chargol (cricket?)
+חֲגָב.ָא=emph | hagava | n emph | the chagav (grasshopper)
+רַגְל.ִין~pl | regel | n fp abs | feet
+תִּסְתָּ~passive (Ishtaf‘al).אָב.וּן~mp | sav | Gt impf 2mp | you will become impure | the ת moves after the ס
+תִסְתַּ~passive (Ishtaf‘al).אֲב.וּן~mp | sav | Gt impf 2mp | you shall (not) make yourselves impure | the ת moves after the ס
+וְ=.תִסְתַּ~passive (Ishtaf‘al).אֲב.וּן~mp | sav | Gt impf 2mp | and (not) become impure | the ת moves after the ס
+תְ~ypl_f.סַאֲב.וּן~mp | sav | D impf 2mp | you shall (not) defile
+דְּ=who.יִ~he_f.טוֹל | ntl | G impf 3ms | whoever carries | the נ of נטל is absorbed
+וּ=.דְ=who.יִ~he_f.טּוֹל | ntl | G impf 3ms | and whoever carries | the נ of נטל is absorbed
+יְ~he_f.צַבַּע | tsva | D impf 3ms | he shall wash (his clothes)
+דִּ=that.מְ~ptcD.הַלְכ.ָא~fs | hlk | D ptc fs | that walks
+חֻלְד.ָא=emph | hulda | n emph | the choled (weasel?)
+וְ=.עַכְבָּר.ָא=emph | akhbera | n emph | and the mouse
+וְ=.צָב.ָא=emph | tsava | n emph | and the tzav (a lizard)
+וְ=.יָל.ָא=emph | yala | n emph | and the anakah (a lizard)
+וְ=.כֹח.ָא=emph | koha | n emph | and the ko'ach (a lizard)
+וְ=.חֻלְטֵית.ָא=emph | hulteita | n emph | and the leta'ah (a lizard)
+וְ=.חֻמְט.ָא=emph | humta | n emph | and the chomet (a lizard)
+וְ=.אָשׁוּת.ָא=emph | ashuta | n emph | and the mole (Hebrew: תִּנְשָׁמֶת)
+בְּ=in.מוֹתְ.הוֹן=their | mota | n+3mp | in their death
+יִ~he_f.פֵּל | npl | G impf 3ms | falls | the נ of נפל is absorbed
+שָׂק | saqa | n | sack(cloth)
+וְ=.יִ~he_f.דְכֵּי | dky | G impf 3ms | and it becomes pure
+מֵיכְל.ָא=emph | meikhla | n emph | food
+מַשְׁקֵה | mashqe | n | drink
+יִשְׁתֵּ~passive (Ishtaf‘al).תֵי | shty | Gt impf 3ms | (that) may be drunk | the ת moves after the ש
+וְ=.כִירַיִם | kirayim | n | and a stove
+יִתָּ~Gt.רְע.וּן~mp | tr | Gt impf 3mp | they shall be broken down | the passive ת merges with the ת of תרע
+מַעְיָן | mayan | n | a spring
+זֵרוּעַ | zrua | n cs | seed of (lit. sowing)
+יִזְדְּ~Gt.רָע | zra | Gt impf 3ms | (that) is sown | the passive ת becomes ד after the ז
+יִתְ~Dt.יַהֲב.וּן~mp | yhb | Dt impf 3mp | (water) is put
+מְע.וֹהִי=its | mea | n mp+3ms | its belly
+סְגִיאוּת | sgiut | n cs | the multitude of
+תֵ~ypl_f.יכְלֻ.נּוּן=them | akhal | G impf 2mp+3mp | you shall (not) eat them | the א of אכל becomes י
+וְ=.תִתְ~Dt.קַדְּשׁ.וּן~mp | qdsh | Dt impf 2mp | and you shall sanctify yourselves
+דִּ=of.רְחֵשׁ.ָא=emph | rihsha | n emph | of the creeping (creature)
+וּ=.מִ=from.מַּ~ptcC.סְדִּיק.ֵי~cs_pl | sdq | C ptc mp cs | and from those that have split
+9:17> וּ=.מְלָא | mly | G pf 3ms | and he filled
+10:3> וּ=.שְׁתִיק | shtq | G pf 3ms | and (Aharon) was silent
+10:16> מִ~inf.תְבַּע | bay | G inf | (with) seeking (doubles the verb: Moshe sought thoroughly)
+10:18> דְּמ.ַהּ=its | dam | n+3fs | its blood
+וְ=.קַלְפ.ִין~pl | qalfa | n mp abs | and scales
+11:16> וְ=.צִיצ.ָא=emph | tsitsa2 | n emph | and the tsitsa (Hebrew: תַּחְמָס)
+11:16> וְ=.צִפַּר | tsippar | n cs | and the bird of (i.e. the shachaf bird)
+11:3> בִּ=among.בְעִיר.ָא=emph | beir | n emph | among the animals
+10:15> לִ=as.קְיַם | qyam | n cs | as a statute of (lit. covenant)
+10:11> וּ=.לְ=.אַלָּפ.ָא~inf_end | lf | D inf | and to teach
+11:24> דְּ=whoever.יִ~he_f.קְרַב | qrb | G impf 3ms | whoever touches (lit. comes near)
+11:36> וּ=.דְ=whoever.יִ~he_f.קְרַב | qrb | G impf 3ms | and whoever touches
+11:40> וּ=.דְ=whoever.יֵ~he_f.כוּל | akhal | G impf 3ms | and whoever eats | the א of אכל becomes י
+מָדֵין | madein | adv | why?

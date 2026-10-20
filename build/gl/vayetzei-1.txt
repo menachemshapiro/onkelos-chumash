@@ -1,0 +1,37 @@
+# Vayetzei 28:10–22
+וַ=.עֲרַע | ra | G pf 3ms | and (he) came upon (Hebrew: וַיִּפְגַּע)
+וּ=.בָת | bwt | G pf 3ms | and (he) spent the night
+מֵ=from.אַבְנֵי | avna | n fp cs | from the stones of
+אִסָּד.וֹהִי=his | isada | n mp+3ms | at his head (lit. his headrests) (Hebrew: מְרַאֲשֹׁתָיו)
+וּ=.שְׁכִיב | shkv | G pf 3ms | and (he) lay down
+וַ=.חֲלַם | hlm | G pf 3ms | and (he) dreamt
+סֻלְמ.ָא=emph | sulma | n emph | a ladder
+נָעִיץ | nayts | Gp ptc ms | set (in the ground)
+סָלְק.ִין~mp | slq | G ptc mp | going up
+וְ=.נָחֲת.ִין~mp | nht | G ptc mp | and coming down
+מְ~ptcD.עַתַּד | td | D ptc ms | stood (lit. stationed) (Hebrew: נִצָּב)
+וְ=.תִ~you_f.תְקֵף | tqf | G impf 2ms | and you will grow strong (Hebrew: וּפָרַצְתָּ, you will spread out)
+לְ=.מַעַרְב.ָא=emph | maarav | n emph | to the west
+וְ=.אֶ~I_f.טְּרִ.נָּךְ=you | ntr | G impf 1cs+2ms | and I will guard you | the נ of נטר is absorbed (the dot in ט)
+וַ=.אֲ~I_f.תֵיבִ.נָּךְ=you | twv | C impf 1cs+2ms | and I will bring you back | Af‘el of תוב
+אֶ~I_f.שְׁבְּקִ.נָּךְ=you | shbq | G impf 1cs+2ms | I will (not) leave you
+דְּ=what.מַלֵּל.ִית~I_p | mll2 | D pf 1cs | what I have spoken
+מִ=from.שִּׁנְתּ.ֵיהּ=his | shinta | n fs+3ms | from his sleep
+הֲוֵי.תִי~I_p | hwy | G pf 1cs | I was
+יְדָע | yd | G ptc ms | knowing (הֲוֵיתִי יְדָע = I knew)
+דְּחִילוּ | dhilu | n fs | how awesome (lit. the awe of)
+הֶדְיוֹט | hedyot | a ms | ordinary (Hebrew: אֵין זֶה כִּי, this is none other than)
+קֳבֵל | qbl | prep | corresponding to, opposite
+אַבְנ.ָא=emph | avna | n fs emph | the stone
+וַ=.אֲ~C.רִיק | ryq | C pf 3ms | and (he) poured
+מִשְׁח.ָא=emph | mishha | n emph | oil
+רֵישׁ.ַהּ=its | resh | n+3fs | its top (lit. its head)
+לוּז | name | name | Luz
+בְּ=.סַעְד.ִי=my | saad | n+1cs | in my support (= with me)
+וְ=.יִ~he_f.טְּרִ.נַּנִי=me | ntr | G impf 3ms+1cs | and (He) will guard me | the נ of נטר is absorbed (the dot in ט)
+וּ=.כְסוּ | kesuta | n | and clothing
+לְ=.מִ~inf.לְבָּשׁ | lbsh | G inf | to wear
+בִּ=.שְׁלַם | shlam | n | in peace
+שַׁוֵּי.תִי~I_p | shwy | D pf 1cs | I have set up
+אֵ~I_f.הֵי | hwy | G impf 1cs | I will be
+אַ~I_f.פְרְשִׁ.נֵּיהּ=it | prsh | C impf 1cs+3ms | I will set it apart (Hebrew: עַשֵּׂר אֲעַשְּׂרֶנּוּ)

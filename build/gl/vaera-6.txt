@@ -1,0 +1,50 @@
+# Shemot 8:19–9:16
+פוּרְקָן | purqan | n | a redemption (i.e. a distinction)
+דַּבָּח.וּ~cmd_pl | dbh | D impv 2mp | sacrifice!
+תַקֵּן | taqqin | a ms | proper (lit. fit)
+נָסְבִ.ין~mp | nsv | G ptc mp | (we) take
+לְ=.דַבָּח.ָא~inf_end | dbh | D inf | to sacrifice
+חָזָ.ן~mp | hzy | G ptc mp | see (lit. seeing)
+לְ=.מִ~inf.רְגְּמ.ָנָא=us | rgm | G inf+1cp | to stone us
+נֵ~we_f.יזִיל | azl | G impf 1cp | let us go | the א of אזל becomes י
+וְ=.תִ~ypl_f.דְבְּח.וּן~mp | dbh | G impf 2mp | and you shall sacrifice
+אַ~C.רְחָק.ָא~inf_end | rhq | C inf | (going) far (doubles the verb: “you shall not go very far”)
+תְ~ypl_f.רַחֲק.וּן~mp | rhq | D impf 2mp | you shall (not) go far
+מְחָר | mehar | adv | tomorrow
+מְחַר | mehar | adv | tomorrow
+לְ=.שַׁקָּר.ָא~inf_end | shqr | D inf | to deal falsely
+וְ=.יַקַּר | yqr2 | D pf 3ms | and (Pharaoh) made heavy
+מַ~ptcC.תְקֵף | tqf | C ptc ms | (you are) holding on (to them)
+הָוְ.יָא~fs | hwy | G ptc fs | is (lit. is being)
+בַּ=on.חֲמָר.ֵי~cs_pl | hmara | n mp | on the donkeys
+חָפְנ.ֵיכוֹן=your | hofna | n mp+2mp | your handfuls
+פִּיח.ָא=emph | piha | n emph | the soot
+וְ=.יִ~he_f.זְרְקִ.נֵּיהּ=it | zrq | G impf 3ms+3ms | and let (Moshe) throw it
+לְ=into.אַבְק.ָא=emph | avqa | n emph | into dust
+לְ=into.שִׁיחֲנ.ָא=emph | shihna | n emph | into boils
+שִׁיחֲנ.ָא=emph | shihna | n emph | the boils
+אֲבַעְבֻּע.ִין~pl | avavua | n mp abs | (breaking out in) blisters
+וּ=.זְרַק | zrq | G pf 3ms | and (Moshe) threw
+לְ=.מֵי~inf.קָם | qwm | G inf | to stand
+מִין | min | prep | from
+מְחָת.ַי=My | mehata | n fp+1cs | My blows (plagues)
+דְּ=that.אֶ~I_f.שְׁלַח | shlh | G impf 1cs | that I (could) send
+מַחַת | mehata | n fs cs | the blow of
+קַיֵּמִ.תָּךְ~I_p+you | qwm2 | D pf 1cs+2ms | I have kept you alive (lit. established you)
+לְ=.אַחֲזָיוּתָ.ךְ=you | hzy | C inf+2ms | to show you
+מִשְׁ~ptc.תָּעַ.ן~mp | shy2 | Sht ptc mp | (that they) tell | the passive ת moves after the ש
+גְּבוּרַת | gvura | n fs cs | the might of
+דִּ=that is.בְ=in.חַקְל.ָא=emph | haqla | n emph | that is in the field
+דְ=that.בַתְר.וֹהִי=it | batar | prep+3ms | (on the day) after it
+לְ=.צֵית | tseit | prep | toward
+מֵ=from.עִמָּ.ךְ=you | im | prep+2ms | from you (lit. from with you)
+דִּ=.כְוָתִ.י=Me | kwat | prep+1cs | like Me
+9:3> בִּ=on.בְעִיר.ָךְ=your | beir | n+2ms | on your livestock
+9:3> בְּ=on.גַמְל.ֵי~cs_pl | gamla | n mp | on the camels
+9:3> בְּ=on.תוֹר.ֵי~cs_pl | tor | n mp | on the cattle
+9:3> וּ=.בְ=on.עָנ.ָא=emph | ana2 | n fs emph | and on the sheep
+9:11> בְּ=on.חָרָשׁ.ַיָּא~emphp | harash | n mp emph | on the sorcerers
+9:14> וּ=.בְ=on.עַבְדָּ.יךְ=your | eved | n mp+2ms | and on your servants
+8:17> וּ=.בְ=on.עַבְדָּ.יךְ=your | eved | n mp+2ms | and on your servants
+8:17> דִּ=that.אִנּוּן | inun | pron 3mp | that they (are on)
+9:7> וְ=.אִתְ~Dt.יַקַּר | yqr2 | Dt pf 3ms | and (Pharaoh's heart) was heavy (i.e. stubborn)

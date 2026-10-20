@@ -1,0 +1,72 @@
+# Vayera 21:5–21:21
+חֶדְו.ָא=emph | hedwa | n emph | joy
+דִּ=that.שְׁמַע | shm | G pf 3ms | who hears
+יֶ~he_f.חֱדֵּי | hdy | G impf 3ms | will rejoice
+מָאן | man2 | pron | who
+מְהֵימָן | hymn | !verb, Af‘el, passive participle, masc. sing. | (is so) faithful (lit. trustworthy)
+דְּ=that.תוֹ~she_f.נִיק | ynq | C impf 3fs | (that) will nurse | Af‘el: the י of ינק shows as וֹ
+יְלֵיד.ִית~I_p | yld | G pf 1cs | I have borne
+וּ=.רְבָא | rby2 | G pf 3ms | and (he) grew
+רַבְי.ָא=emph | ravya | n emph | the child, the boy
+דְ=of.רַבְי.ָא=emph | ravya | n emph | of the child
+דְּ=of.רַבְי.ָא=emph | ravya | n emph | of the child
+וְ=.אִתְ~Gt.חֲסִיל | hsl | Gt pf 3ms | and (he) was weaned
+דְּ=that.אִתְ~Gt.חֲסִיל | hsl | Gt pf 3ms | that (Yitzchak) was weaned
+מְ~ptcD.חָיִיךְ | hyk | D ptc ms | jesting (= mocking)
+תָּרֵךְ | trk | D impv ms | drive out
+וְ=.יַת | yat | part | and (marks the object)
+בְּר.ַהּ=her | bar | n+3fs | her son
+בְּר.ִי=my | bar | n+1cs | my son
+בְרִ.י=my | bar | n+1cs | my son
+יֵ~he_f.רַת | yrt | G impf 3ms | will (not) inherit
+וּ=.בְאֵישׁ | bsh | G pf 3ms | and (it) was bad (= displeasing)
+יַ~he_f.בְאֵשׁ | bsh | !verb, imperfect, 3rd masc. sing. | (let it not) be displeasing
+אַמְת.ָךְ=your | amta | n fs+2ms | your maidservant
+קַבֵּל | qbl2 | D impv ms | accept (= listen to)
+יִ~they_f.תְ~Gt.קְר.וּן~mp | qry | Gt impf 3mp | (they) will be called
+אֲ~I_f.שַׁוִּ.נֵּיהּ=him | shwy | D impf 1cs+3ms | I will make him
+לַחֲמ.ָא=emph | lahma | n emph | bread
+וְ=.רָקְבּ.ָא=emph | raqba | n emph | and a water-skin
+רָקְבּ.ָא=emph | raqba | n emph | the water-skin
+שַׁוִּי | shwy | D pf 3ms | (he) put
+כַּתְפּ.ַהּ=her | katef | n fs+3fs | her shoulder
+וְ=.שַׁלְח.ַהּ=her | shlh | D pf 3ms+3fs | and (he) sent her away
+וַ=.אֲזָל.ַת~she_p | azl | G pf 3fs | and (she) went
+וַ=.אֲזַלּ.ַת~she_p | azl | G pf 3fs | and (she) went
+וְ=.תָע.ַת~she_p | ty | G pf 3fs | and (she) wandered
+בְּ=in.מַדְבֵּר | madbra | n cs | in the wilderness of (a variant reading)
+בְּאֵר | name | name | Be'er (בְּאֵר שָׁבַע = Be'er Sheva)
+שָׁבַע | name | name | Sheva (בְּאֵר שָׁבַע = Be'er Sheva)
+וּ=.שְׁלִימ.וּ~they_p | shlm | G pf 3mp | and (the water) was used up
+וּ=.רְמַ.ת~she_p | rmy | G pf 3fs | and (she) cast
+אִילָנ.ַיָּא=emphp | ilan | n mp emph | the trees (here: the bushes)
+וִ=.יתִיב.ַת~she_p | ytv | G pf 3fs | and (she) sat
+מִ=from.קֳּבֵל | qbl | prep | opposite, at a distance
+אַ~C.רְחֵיק.ַת~she_p | rhq | C pf 3fs | going away (lit. she went far)
+אַ~C.רְחִיק | rhq | C pf 3ms | going away (a variant reading)
+כְּ=about.מֵ~inf.יגַר | gry | G inf | about (a bowshot; lit. as the shooting of)
+אֲמֶר.ֶת~she_p | amr | G pf 3fs | she said
+אֶ~I_f.חֱזֵי | hzy | G impf 1cs | I will (not) see
+בְּ=.מוֹת.ָא=emph | mota | n emph | the death
+וַ=.אֲ~C.רִימ.ַת~she_p | rwm | C pf 3fs | and (she) raised | Af‘el of רום
+קָל.ַהּ=her | qal | n+3fs | her voice
+קָל.ֵיהּ=his | qal | n+3ms | the voice of (lit. his voice)
+וּ=.בְכָ.ת~she_p | bky | G pf 3fs | and (she) wept
+וּ=.שְׁמִיעַ | shm | Gp pf 3ms | and (it) was heard
+שְׁמִיעַ | shm | Gp pf 3ms | (it) has been heard
+תִ~you_f.דְחֲל.ִי~fs | dhl | G impf 2fs | do (not) fear
+קוּמ.ִי~cmd_fs | qwm | G impv fs | get up
+טוּל.ִי~cmd_fs | ntl | G impv fs | lift | the נ of נטל drops
+וְ=.אַ~C.תְקִיפ.ִי~cmd_fs | tqf | C impv fs | and hold (lit. strengthen)
+יְד.ֵךְ=your (fem.) | yad | n fs+2fs | your hand
+וּ=.גְלָא | gly | G pf 3ms | and (Hashem) opened (lit. uncovered)
+עֵינָ.הַהּ=her | eina | n fp+3fs | her eyes
+בֵּיר.ָא=emph | bera | n fs emph | a well
+וּ=.מְלַ.ת~she_p | mly | G pf 3fs | and (she) filled
+וְ=.אַ~C.שְׁקִיא.ַת~she_p | shqy | C pf 3fs | and (she) gave to drink
+בְּ=in.סַעֲד.ֵיהּ=his | saad | n+3ms | with (lit. in the support of)
+בְּ=in.סַעֲד.ָךְ=your | saad | n+2ms | (is) with you (lit. in your support)
+רָבֵי | rabbay | n cs | a shooter of (רָבֵי קַשְׁתָּא = an archer)
+וּ=.נְסִיב.ַת~she_p | nsv | G pf 3fs | and (she) took
+אִמּ.ֵיהּ=his | em | n+3ms | his mother
+דְ=of.מִצְרָיִם | name | name | of Mitzrayim

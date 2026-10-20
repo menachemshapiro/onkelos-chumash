@@ -1,0 +1,57 @@
+# Shemot 23:26–24:14
+מְ~ptcD.תַכְּל.ָא~fs | tkl | D ptc fs | one who miscarries (lit. bereaving)
+אֵימְת.ִי=My | eima | n fs+1cs | My terror
+וְ=.אִי~I_f.תְבַּר | tvr | G impf 1cs | and I will shatter
+23:27> נ | ednote | note | note in the printed text: “נ״א = another version (reads)
+23:27> א | ednote | note | …וֶאֱשַׁגֵשׁ, and I will throw into confusion”
+וֶ=.אֱ~I_f.שַׁגֵשׁ | shgsh | Sh impf 1cs | and I will throw into confusion (variant reading)
+לַ=.אֲ~C.גָח.ָא~inf_end | gwh | C inf | to wage (war)
+וְ=.אֶ~I_f.מְסַר | msr | G impf 1cs | and I will hand over
+אֶ~I_f.מְסַר | msr | G impf 1cs | I will hand over
+מְ~ptcD.חַזְר.ֵי~cs_pl | hzr | D ptc mp cs | turning (their) back (lit. turners of the neck)
+קְדָל | qdal | n | the back of the neck
+עֲרָעִית.ָא=emph | arita2 | n fs emph | the hornet(s)
+וּ=.תְ~she_f.תָרֵךְ | trk | D impf 3fs | and it will drive out
+אֱ~I_f.תָרֵכִ.נוּן=them | trk | D impf 1cs+3mp | I will drive them out
+וּ=.תְ~you_f.תָרֵכִ.נוּן=them | trk | D impf 2ms+3mp | and you shall drive them out
+צַדְי.ָא=emph | tsadya | a fs emph | desolate
+וְ=.תִ~she_f.סְגֵי | sgy | G impf 3fs | and (the wild beasts) multiply
+דְ=that.תִ~you_f.סְגֵי | sgy | G impf 2ms | (until) you multiply
+וְ=.תַ~you_f.חְסֵן | hsn | C impf 2ms | and take possession of
+תִ~you_f.גְזַר | gzr | G impf 2ms | you shall (not) make (a covenant)
+וְ=.תִ~ypl_f.סְגְד.וּן~mp | sgd | G impf 2mp | and you shall bow down
+וְ=.יִתְ~Dt.קְרֵב | qrb | Dt impf 3ms | and (Moshe) shall come near
+יִתְ~Dt.קְרֵב | qrb | Dt impf 3ms | let him come near
+יִתְ~Dt.קָרְב.וּן~mp | qrb | Dt impf 3mp | they shall (not) come near
+וּ=.כְתַב | ktv | G pf 3ms | and (Moshe) wrote
+וְ=.תַרְתָּא | tren | num | and two (fem.) (תַּרְתָּא עֶשְׂרֵי = twelve)
+קָמ.ָן~fp | qama | n fp abs | pillars
+בּוּכְר.ֵי~cs_pl | bukhra | n mp cs | the firstborn of
+פַּלְגוּת | palga | n fs cs | half of
+וּ=.פַלְגוּת | palga | n fs cs | and half of
+בְּ=in.מִזְרְק.ַיָא~emphp | mizraqa | n mp emph | in the basins
+זְרַק | zrq | G pf 3ms | (he) sprinkled
+סִפְר.ָא=emph | sfar | n emph | the book of
+לְ=.כַפָּר.ָא~inf_end | kpr | D inf | to atone
+יְקַר | yqr | n cs | the glory of
+כָּרְס.ָא=emph | kursya | n emph | the throne of
+אֶבֶן | avna | n cs | stone (as in the Hebrew)
+וּ=.כְ=like.מֶ~inf.חֱזֵי | hzy | G inf | and like the appearance of (lit. the seeing of)
+לְ=for.בָרִירוּ | beriru | n | for clearness
+נִזְק.ָא=emph | nizqa | n emph | harm
+חָדָ.ן~mp | hdy | G ptc mp | rejoicing
+בְּ=in.קָרְבָּנ.ֵיהוֹן=their | qurbana | n mp+3mp | in their offerings
+דְ=that.אִתְ~Dt.קַבָּל.וּ~they_p | qbl2 | Dt pf 3mp | that were accepted
+וְ=.שָׁתָ.ן~mp | shty | G ptc mp | and drinking
+לוּח.ֵי~cs_pl | luha | n mp cs | the tablets of
+וְ=.תַפְקֶדְתּ.ָא=emph | tafqedta | n fs emph | and the commandment
+לְ=.אַלוּפ.ֵיהוֹן=them | lf | D inf+3mp | to teach them
+מְשֻׁמְשָׁנ.ֵהּ=his | shmsh | !noun (Pa‘el form) + 3ms | his attendant
+וּ=.לְ=to.סָב.ַיָא~emphp | sava | n mp emph | and to the elders
+דִ=that.נְ~we_f.תוּב | twv | G impf 1cp | (until) we return
+24:5> וְ=.קָרִיב.וּ~they_p | qrb | D pf 3mp | and (they) offered
+24:7> דִ=of.קְיָמ.ָא=emph | qyam | n emph | of the covenant
+24:8> דִ=that.גְזַר | gzr | G pf 3ms | that (Hashem) made (lit. cut)
+24:11> כְּ=as.אִלוּ | ilu | conj | as if
+24:12> דִ=that.כְתָבִ.ית~I_p | ktv | G pf 1cs | that I have written
+24:14> דְ=who.אִית | it | part | who has (lit. there is to him)

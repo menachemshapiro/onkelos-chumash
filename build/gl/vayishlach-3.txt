@@ -1,0 +1,20 @@
+# Vayishlach 32:31–33:5
+פְּנִיאֵל | name | name | Peniel
+פְּנוּאֵל | name | name | Penuel
+אַפּ.ִין=pl | anpin | n mp abs | face (אַפִּין בְּאַפִּין = face to face)
+וְ=.אִ~Gt.שְׁתְּזָבַ.ת~she_p | shyzv | Sht pf 3fs | and (my soul) was saved | the passive ת moves after the ש
+עֲבַר | avr | G pf 3ms | (he) passed
+וּ=.דְנַח | dnh | G pf 3ms | and (the sun) shone
+מַ~ptcC.טְלַע | tla | C ptc ms | limping
+יֵ~they_f.כְל.וּן~mp | akhal | G impf 3mp | (they) eat | the א of אכל drops
+גִּיד.ָא=emph | gida | n emph | the sinew
+דְ=of.נַשְׁי.ָא=emph | nashya | n emph | of the displaced (sciatic nerve) (Hebrew: הַנָּשֶׁה)
+בְּנֵי.הֶן=their (fem.) | bnin | n mp+3fp | their children
+קַדְמָא.ִין~mp | qadmai | a mp | first
+וּ=.בְנָ.הָא=her | bnin | n mp+3fs | and her children
+בַּתְרָא.ִין~mp | batrai | a mp | after (them)
+מִ~inf.קְרְב.ֵיהּ=his | qrb | G inf+3ms | until he came near (lit. his coming near)
+וְ=.גַפְּפ.ֵיהּ=him | gpf | D pf 3ms+3ms | and (he) embraced him
+צַוְאר.ֵיהּ=his | tsawwar | n+3ms | his neck
+וְ=.נַשְּׁק.ֵיהּ=him | nshq | D pf 3ms+3ms | and (he) kissed him
+וּ=.בְכ.וֹ~they_p | bky | G pf 3mp | and they wept

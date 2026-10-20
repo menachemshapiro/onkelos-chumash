@@ -1,0 +1,8 @@
+# Miketz 44:14–17
+עוֹבָד.ָא=emph | ovada | n emph | deed
+יְדַעְ.תּוּן~ypl_p | yd | G pf 2mp | did you (not) know
+כְוָת.ִי=me | kwat | prep+1cs | like me
+נֵּ~we_f.ימַר | amr | G impf 1cp | can we say | the א of אמר becomes י
+נְּ~we_f.מַלֵּל | mll2 | D impf 1cp | can we speak
+נִּ~we_f.זְכֵּי | zky | G impf 1cp | can we clear ourselves
+סְק.וֹ~cmd_pl | slq | G impv mp | go up | the ל of סלק drops

@@ -1,0 +1,59 @@
+# Shemot 12:29–51
+בְּ=at.פַלְגוּת | palga | n fs cs | at the half of (the night)
+קְטַל | qtl | G pf 3ms | killed
+דְ=of.שִׁבְי.ָא=emph | shivya | n emph | of the captive
+מֵת.ָא=emph | mita | n emph | a dead person
+דִ=that.הֲוֵ.תוּן~ypl_p | hwy | G pf 2mp | (as) you were (saying)
+עַנְ.כוֹן=your | ana2 | n+2mp | your flocks
+תּוֹרְ.כוֹן=your | tor | n mp+2mp | your cattle
+מַלֵלְ.תֻּן~ypl_p | mll | D pf 2mp | you have spoken
+וּ=.תְקֵיפ.ַת~she_p | tqf | G pf 3fs | and (Egypt) pressed hard (lit. was strong)
+לְ=.אוֹחָא.ָה~inf_end | wy | C inf | to hurry
+מָיְת.ִין~mp | mwt | G ptc mp | (we) are dying
+לַיְשׁ.ֵיהוֹן=their | laysha | n+3mp | their dough
+לַיְשׁ.ָא=emph | laysha | n emph | the dough
+חֲמָע | hamira | !verb, Pe‘al, past, 3rd masc. sing. | (it had not) leavened
+אַצְוָתְ.הוֹן=their | ashwata | n fp+3mp | their kneading troughs
+בִּ=in.לְבָשׁ.ֵהוֹן=their | levush | n mp+3mp | in their garments
+כַּתְפ.ֵיהוֹן=their | katef | n mp+3mp | their shoulders
+וְ=.אַ~C.שֵׁלִי.נוּן=them | shl | C pf 3mp+3mp | and (they) lent them (lit. let them ask)
+וְ=.רוֹקִי.נוּ~they_p | rqn | C pf 3mp | and they emptied (out)
+מֵ=from.רַעְמְסֵס | name | name | from Ra‘meses
+מֵאָה | meah | num | hundred
+אַלְפ.ִין~pl | alaf | num | thousands
+רִגְלָא.ִין~pl | raglai | n mp abs | foot soldiers (Hebrew: רַגְלִי)
+נוּכְרָא.ִין~pl | nukhrai | n mp abs | strangers (Hebrew: עֵרֶב רַב, a mixed multitude)
+סְלִיק.וּ~they_p | slq | G pf 3mp | went up
+וַ=.אֲפ.וֹ~they_p | afy | G pf 3mp | and (they) baked
+פַּטִיר.ָן~fp | patir | a fp | unleavened
+אִתָּ~Ct.רָכ.וּ~they_p | trk | Dt pf 3mp | they were driven out | the passive ת merges with the ת of תרך
+וּ=.מוֹתַב | motav | n cs | and the dwelling of
+יְתִיב.וּ~they_p | ytv | G pf 3mp | (they) dwelt
+חֵיל.ַיָא~emphp | heil | n mp emph | the hosts of
+לֵיל | lelya | n cs | a night of
+לְ=.אַפָּקוּתְ.הוֹן=them | npq | C inf+3mp | to bring them out
+12:42> נְטִיר | ntr | Gp ptc ms | watched, kept
+נְטִיר.ִין~mp | ntr | Gp ptc mp | to be kept (i.e. a night of watching)
+גְזֵירַת | gezera | n fs cs | the statute of
+דְ=who.יִשְׁתַּ~passive (Ishtaf‘al).מַד | ishtamad | Sht impf 3ms | who becomes an apostate | the ת moves after the ש
+יֵ~he_f.כוּל | akhal | G impf 3ms | shall (not) eat | the א of אכל becomes י
+וְ=.תִ~you_f.גְזַר | gzr | G impf 2ms | and you shall circumcise
+תּוֹתָב.ָא=emph | totav | n emph | a resident (Hebrew: תּוֹשָׁב)
+וַ=.אֲגִיר.ָא=emph | agr | n emph | and a hired worker
+בַּ=in.חֲבוּר.ָא=emph | havura | n emph | in (one) group
+יִתְ~Gt.אָכֵל | akhal | Gt impf 3ms | it shall be eaten
+תַ~you_f.פֵּיק | npq | C impf 2ms | you shall (not) take out | the נ of נפק is absorbed
+תִ~ypl_f.תְבְּר.וּן~mp | tvr | G impf 2mp | you shall (not) break
+יַ~they_f.עְבְּד.וּן~mp | avad | G impf 3mp | shall perform (lit. make)
+יִ~he_f.תְ~Dt.גַיַר | gyr | Dt impf 3ms | (if a convert) converts
+דְ=who.יִ~they_f.תְ~Dt.גַיְר.וּן~mp | gyr | Dt impf 3mp | who convert
+גִיוֹר.ָא=emph | giyora | n emph | a convert
+וּ=.לְ=.גִיוֹר.ָא=emph | giyora | n emph | and for the convert
+יִ~he_f.קְרַב | qrb | G impf 3ms | he may come near
+לְ=.מֶ~inf.עְבְּד.ֵהּ=it | avad | G inf+3ms | to perform it (lit. to make it)
+כְּ=like.יַצִיב.ָא=emph | yatsiv | n emph | like a native
+לְ=for.יַצִיב.ָא=emph | yatsiv | n emph | for the native
+עַרְל.ָא=emph | arel | a emph | an uncircumcised (man)
+כְּ=about.שִׁתְּ | shet6 | num | about six
+12:48> וּ=.בְכֵן | bekhen | adv | and then
+12:48> וְ=.יַ~he_f.עְבֵּד | avad | G impf 3ms | and (he) will perform (lit. make)

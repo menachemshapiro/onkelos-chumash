@@ -1,0 +1,11 @@
+# Lech Lecha 17:24–17:27
+דְ=of.עָרְלְת.ֵיהּ=his | orla | n fs+3ms | of his foreskin
+אִתְ~Gt.גְּזַר | gzr | Gt pf 3ms | was circumcised
+אִתְ~Gt.גְּזָר.וּ~they_p | gzr | Gt pf 3mp | were circumcised
+גְּזָר.וּ~they_p | gzr | G pf 3mp | were circumcised (a variant reading; lit. circumcised)
+# neutral meanings for very common forms (were written for Bereishit 1)
+יְ~he_f.הֵי | hwy | G impf 3ms | will be; let there be
+יְ~he_f.הִי | hwy | G impf 3ms | will be; let there be
+יְ~he_f.הֵא | hwy | G impf 3ms | will be
+יְ~they_f.הוֹ.ן~mp | hwy | G impf 3mp | (they) will be; let there be
+וִ=.י~they_f.הוֹ.ן~mp | hwy | G impf 3mp | and (they) will be

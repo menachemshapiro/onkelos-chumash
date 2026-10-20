@@ -1,0 +1,28 @@
+# Vayechi 47:28–48:9
+חַיּ.וֹהִי=his | hayyin | n mp+3ms | of his life
+לִ=to.מְמַת | mwt | G inf | to die
+תִּ~you_f.קְבְּרִ.נַּנִי=me | qvr | G impf 2ms+1cs | bury me
+וְ=.אִ~I_f.שְׁכּוּב | shkv | G impf 1cs | and (when) I lie down
+וְ=.תִ~you_f.טְּלִ.נַּנִי=me | ntl | G impf 2ms+1cs | and carry me | the נ of נטל is absorbed (the dot in ט)
+בִּ=in.קְבֻרְתְּ.הוֹן=their | qvura | n fs+3mp | in their burial place
+קַיַּם | qwm2 | D impv ms | swear (lit. confirm)
+עַרְס.ָא=emph | arsa | n emph | the bed
+שְׁכִיב | shkv | G ptc ms | lying (ill)
+מְרָע | mra | G ptc ms | sick
+וְ=.אַ~C.תְקַף | tqf | C pf 3ms | and (Yisrael) strengthened himself
+מַ~ptcC.פֵּישׁ | push | C ptc ms | making (you) fruitful | the נ of נפש is absorbed (the dot in פ)
+וְ=.אַ~I_f.סְגִּ.נָּךְ=you | sgy | C impf 1cs+2ms | and I will multiply you
+עֲלָם | alma | n cs | eternal (lit. of eternity)
+מֵיתִ.י=I came | meta | n+1cs | my coming (עַד מֵיתִי = before I came)
+אֶפְרַיִם | name | name | Efrayim
+תוֹ~you_f.לִיד | yld | C impf 2ms | you will father | Af‘el of ילד: the י becomes ו
+דִּיל.ָךְ=your | dil | part+2ms | yours
+אֲחוּ.הוֹן=their | ah | n mp+3mp | of their brothers
+מִ=from.פַּדָּן | name | name | from Paddan
+מֵיתַ.ת~she_p | mwt | G pf 3fs | (Rachel) died
+כְּ=about.רוּבָא | ruvta | n | about a stretch (of land) (Hebrew: כִּבְרַת)
+וּ=.קְבָרִ.תַּ~I_p.הּ=her | qvr | G pf 1cs+3fs | and I buried her
+מַן | man | q | who (are)
+קָרֵבִ.נּוּן=them | qrb | D impv ms+3mp | bring them near
+וְ=.אֵ~I_f.בָרֵכִ.נּוּן=them | brk | D impf 1cs+3mp | and I will bless them
+בְּ=when.מֵיתִ.י=I came | meta | n+1cs | when I came (lit. in my coming)

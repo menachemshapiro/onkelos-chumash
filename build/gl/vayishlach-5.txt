@@ -1,0 +1,126 @@
+# Vayishlach 34:1–35:11
+חִיוָאָה | name | name | the Chivite
+וְ=.עַנְיַ.הּ=her | any | D pf 3ms+3fs | and (he) violated her (lit. afflicted her)
+אִתְ~Gt.רְעִיא.ַת~she_p | ry2 | Gt pf 3fs | (his soul) desired (lit. was pleased with)
+אִתְ~Gt.רְעִי | ry2 | Gt pf 3ms | he desired
+נַפְשׁ.ֵיהּ=his | nafsha | n fs+3ms | his soul
+סָאֵיב | say | D pf 3ms | (he) had defiled
+סָאֵב | say | D pf 3ms | (he) had defiled
+סָאִיב.וּ~they_p | say | D pf 3mp | (they) had defiled
+מֵיתֵי.הוֹן=their | meta | n+3mp | their coming (back) (עַד מֵיתֵיהוֹן = until they came)
+שְׁמָע.וּ~they_p | shm | G pf 3mp | they heard
+וְ=.אִתְ~Gt.נְסִיס.וּ~they_p | nss | Gt pf 3mp | and (the men) were grieved
+קְלָנ.ָא=emph | qlana | n emph | a disgrace (Hebrew: נְבָלָה)
+לְ=.מִ~inf.שְׁכַּב | shkv | G inf | to lie
+בִּ=.בְרַתְּ.כוֹן=your | bnat | n fs+2mp | (with) your daughter
+וְ=.תִ~ypl_f.תְ~Dt.חַתְּנ.וּן~mp | htn | Dt impf 2mp | and intermarry
+בָּ.נָא=us | be | prep+1cp | with us
+בְּנָת.ֵיכוֹן=your | bnat | n fp+2mp | your daughters
+תִּ~ypl_f.תְּנ.וּן~mp | yhb | G impf 2mp | you will give | the future of יְהַב is built from נתן
+בְּנָת.ָנָא=our | bnat | n fp+1cp | our daughters
+תִּ~ypl_f.סְּב.וּן~mp | nsv | G impf 2mp | you will take | the נ of נסב is absorbed (the dot in ס)
+תֵּ~ypl_f.תְב.וּן~mp | ytv | G impf 2mp | you will dwell | the י of יתב drops
+קֳדָמ.ֵיכוֹן=you | qodam | prep+2mp | before you
+תִּיב.וּ~cmd_pl | ytv | G impv mp | dwell
+וְ=.עִבִיד.וּ~cmd_pl | avad | G impv mp | and do (business)
+סְחוֹרְת.ָא=emph | sehorta | n fs emph | trade
+וְ=.אַ~C.חֲסִינ.וּ~cmd_pl | hsn | C impv mp | and acquire property
+וּ=.לְ=.אַח.ָהָא=her | ah | n mp+3fs | and to her brothers
+אַ~C.סְגּ.וֹ~cmd_pl | sgy | C impv mp | increase (ask much)
+מוֹהֲר.ִין=pl | mohar | n mp abs | bride-price
+וַ=.אֲ~C.תִיב.וּ~they_p | twv | C pf 3mp | and (they) answered
+בְּ=with.חָכְמָת.ָא=emph | hokhmta | n fs emph | with cleverness (lit. wisdom) (Hebrew: בְּמִרְמָה, with deceit)
+מַלִּיל.וּ~they_p | mll2 | D pf 3mp | (they) spoke
+אֲחָתְ.הוֹן=their | ahata | n fs+3mp | their sister
+עָרְלְת.ָא=emph | orla | n fs emph | a foreskin (= uncircumcised)
+חִסּוּד.ָא=emph | hissud | n emph | a disgrace
+נִ~we_f.תְ~Gt.פֵּס | pys | Gt impf 1cp | we will agree
+יִ~they_f.תָּ~Gt.פְס.וּן~mp | pys | Gt impf 3mp | (they) will agree
+תֶּ~ypl_f.הֱו.וֹן~mp | hwy | G impf 2mp | you will be
+כְּוָתָ.נָא=us | kwat | prep+1cp | like us
+נִ~we_f.סַּב | nsv | G impf 1cp | we will take | the נ of נסב is absorbed (the dot in ס)
+וְ=.נִ~we_f.תּוּב | ytv | G impf 1cp | and we will dwell | the י of יתב drops (the dot in ת)
+וְ=.נֵ~we_f.הֵי | hwy | G impf 1cp | and we will become
+תְ~ypl_f.קַבְּל.וּן~mp | qbl2 | D impf 2mp | you (do not) listen
+לְ=.מִ~inf.גְזָר | gzr | G inf | to be circumcised (lit. to circumcise)
+וּ=.נְ~we_f.דַבֵּר | dbr | D impf 1cp | then we will take
+בְּרַתּ.ָנָא=our | bnat | n fs+1cp | our daughter
+וְ=.נֵ~we_f.זֵיל | azl | G impf 1cp | and we will go | the א of אזל becomes י
+וּ=.שְׁפָר.וּ~they_p | shpr | G pf 3mp | and (their words) pleased
+אוֹ~C.חַר | hr | C pf 3ms | (he did not) delay | Af‘el of אחר: the א becomes ו
+יַקִּיר | yaqqir | a ms | honored
+קַרְתְּ.הוֹן=their | qarta | n fs+3mp | their city
+שָׁלְמ.ִין~mp | shlim | a mp | peaceable (lit. whole)
+וִ=.י~they_f.תִיב.וּן~mp | ytv | G impf 3mp | and let them dwell
+וְ=.יַ~they_f.עְבְּד.וּן~mp | avad | G impf 3mp | and do (business)
+פְתָיוּת | ptayut | n fs cs | the breadth of (פְתָיוּת יְדִין = spacious)
+בְּנָת.ֵיהוֹן=their | bnat | n fp+3mp | their daughters
+נִ~we_f.תֵּן | yhb | G impf 1cp | we will give | the future of יְהַב is built from נתן
+גְּזִיר.ִין~mp | gzr | Gp ptc mp | circumcised
+גֵּית.ֵיהוֹן=their | geita | n mp+3mp | their livestock
+בְּעִירְ.הוֹן=their | beir | n+3mp | their cattle
+נָפְקֵי | npq | G ptc mp | those going out (of)
+כֵּאב.ֵיהוֹן=their | keiva | n+3mp | their pain
+אֲחֵי | ah | n mp cs | the brothers of
+חַרְבּ.ֵיהּ=his | harba | n fs+3ms | his sword
+דְּ=that.יָתְבוּן | ytv | !verb, Pe‘al, participle, masc. pl. | that were dwelling
+לְ=in.רָחֲצָן | rahtsan | n | in security (Hebrew: בֶּטַח)
+קְטָל.וּ~they_p | qtl | G pf 3mp | (they) killed
+לְ=by.פִתְגַּם | pitgam | n cs | by the word (= the edge) of (לְפִתְגַּם דְּחָרֶב = by the sword)
+דְּ=of.חָרֶב | harba | n | of the sword
+דְבָר.וּ~they_p | dbr | G pf 3mp | (they) took
+לְ=.חַלָּצ.ָא~inf_end | hlts | D inf | to strip
+קָטִיל.ַיָּא=emphp | qtl | Gp ptc mp | the slain
+בְּז.וֹ~they_p | bzz | G pf 3mp | (they) plundered
+עָנְ.הוֹן=their | ana2 | n+3mp | their sheep
+תּוֹרְ.הוֹן=their | tor | n+3mp | their cattle
+חֲמָר.ֵיהוֹן=their | hmara | n mp+3mp | their donkeys
+נִכְס.ֵיהוֹן=their | nikhsin | n mp+3mp | their wealth
+טַפְלְ.הוֹן=their | tafla | n+3mp | their small children
+נְשֵׁי.הוֹן=their | nashin | n fp+3mp | their wives
+שְׁב.וֹ~they_p | shby | G pf 3mp | (they) took captive
+עֲכַרְ.תּוּן~ypl_p | akr | G pf 2mp | you have troubled
+עַם | amma2 | n | a people
+דְּ=of.מִנְיַן | minyan | n | (few) in number
+וְ=.יִ~they_f.מְחִ.נּוּנִי=me | mhy | G impf 3mp+1cs | and they will strike me
+וְ=.אֶ~I_f.שְׁתֵּצֵי | shetsi | Qt impf 1cs | and I will be destroyed | the passive ת moves after the ש
+הַ~question marker.כְ=like.נָפְקַת | npq | G ptc fs | as (with) a harlot (lit. one who goes out) (Hebrew: הַכְזוֹנָה)
+יִ~he_f.תְ~Gt.עֲבֵד | avad | Gt impf 3ms | should (one) act (lit. should it be done)
+סַק | slq | G impv ms | go up | the ל of סלק drops
+בְּ=when.מֵ~inf.עִרְק.ָךְ=your | rq | G inf+2ms | when you fled
+בְּ=when.מֵ~inf.עִרְק.ֵיהּ=his | rq | G inf+3ms | when he fled
+אַ~C.עְד.וּ~cmd_pl | dy_rm | C impv mp | remove
+טַעֲוַת | taawa | n fp cs | the idols of
+וְ=.אִ~Dt.דַּכּ.וּ~cmd_pl | dky | Dt impv mp | and purify yourselves | the passive ת merges into the ד (the dot in ד)
+וְ=.שַׁנּ.וּ~cmd_pl | shny | D impv mp | and change
+כְּסוּתְ.כוֹן=your | kesuta | n fs+2mp | your clothes
+וְ=.נֵ~we_f.קוֹם | qwm | G impf 1cp | and let us arise
+וְ=.נִ~we_f.סַּק | slq | G impf 1cp | and go up | the ל of סלק is absorbed (the dot in ס)
+דְ=of.עַקְת.ִי=my | aqta | n fs+1cs | of my distress
+מֵימְר.ֵיהּ=his | meimra | n+3ms | His Word (Memra)
+אֲזָל.ִית~I_p | azl | G pf 1cs | I went
+וִ=.יהָב.וּ~they_p | yhb | G pf 3mp | and (they) gave
+קָדָשׁ.ַיָּא=emphp | qdasha | n mp emph | the earrings
+בְ=in.אוּדְנ.ֵיהוֹן=their | udna | n fp+3mp | in their ears
+וְ=.טַמַּר | tmr | D pf 3ms | and (Yaakov) hid
+בָּטְמ.ָא=emph | butma | n emph | the terebinth (Hebrew: הָאֵלָה)
+סַחֲרָנ.ֵיהוֹן=them | shor | prep+3mp | around them
+רְדָפ.וּ~they_p | rdf | G pf 3mp | (they did not) pursue
+דְּבוֹרָה | name | name | Devorah
+מֵנִקְתּ.ָא=emph | meneqta | n fs emph | the nurse
+וְ=.אִתְ~Gt.קְבָרַ.ת~she_p | qvr | Gt pf 3fs | and (she) was buried
+בְּ=at.שִׁפּוֹלֵי | shippul | n mp cs | at the foot of
+בָּכִית.ָא=emph | bakhita | n fs emph | weeping (מֵישַׁר בָּכִיתָא = the Plain of Weeping)
+בְּ=when.מֵיתוֹ.הִי=his | meta | n+3ms | when he came (lit. in his coming)
+פּוּשׁ | push | G impv ms | be fruitful (lit. increase)
+וְ=.כִנְשַׁת | kenishta | n fs cs | and an assembly of
+וְ=.שָׁתִיק | shtq | G ptc ms | and (Yaakov) kept silent
+וְ=.קַבִּיל.וּ~they_p | qbl2 | D pf 3mp | and (they) listened
+וּ=.גְזָר.וּ~they_p | gzr | G pf 3mp | and (they) circumcised
+וְ=.עִבֵד | avad | G impv ms | and make
+וּ=.סְגֵי | sgy | G impv ms | and multiply
+דְּ=who.קַבֵּל | qbl2 | D pf 3ms | who accepted
+וְ=.הָב.וּ~cmd_pl | hav | G impv mp | and give
+וְ=.יִ~they_f.תְ~Dt.כַּנְּשׁ.וּן~mp | kns | Dt impf 3mp | and they will gather (against me)
+וּ=.מַלִּיל | mll2 | D pf 3ms | and (he) spoke
+וּ=.מַלִיל | mll2 | D pf 3ms | and (he) spoke

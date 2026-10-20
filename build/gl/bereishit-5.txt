@@ -1,0 +1,30 @@
+# Bereishit 4:19–4:22
+לֶמֶךְ | name | name | Lamekh
+תַּרְתֵּין | tren | num f | two
+נְשִׁ.ין=pl | itta | n fp abs | wives (sing. אִתְּתָא)
+עָדָה | name | name | Adah
+תִּנְיֵת.ָא=emph | tinyan | ord fs emph | the second
+צִלָּה | name | name | Tzillah
+יָבָל | name | name | Yaval
+רַבּ.ְהוֹן=their | rav | n+3mp | their master, the chief of them
+דְּ=that.יָתְב.ֵי~cs_pl | ytv | G ptc mp cs | who dwell in
+מַשְׁכְּנ.ִין=pl | mashkan | n mp abs | tents
+וּ=.מָרֵי | mare | n mp cs | and owners of
+בְעִיר | beir | n abs | cattle
+יוּבָל | name | name | Yuval
+דִּ=that.מְ~ptcD.נַגֵּן | ngn | D ptc ms | who plays
+פּוּם | pum | n cs | the mouth of (עַל פּוּם = on, by)
+נִבְל.ָא=emph | nivla | n emph | the harp
+יָדְע.ֵי~cs_pl | yd | G ptc mp cs | who know
+זְמַר | zmar | n cs | the playing of (lit. song of)
+כִּנּוֹר.ָא=emph | kinnora | n emph | the lyre
+וְ=.אַבּוּב.ָא=emph | abbuva | n emph | and the flute
+יְלֵיד.ַת~she_p | yld | G pf 3fs | bore
+תּוּבַל | name | name | Tuval (Tuval-Kayin)
+דְ=of.תוּבַל | name | name | of Tuval (Tuval-Kayin)
+דְּ=that.יָדְע.ֵי~cs_pl | yd | G ptc mp cs | who know
+עִיבִידַת | avidta | n fs cs | the work of
+נְחָשׁ.ָא=emph | nhasha | n emph | copper
+וּ=.פַרְזְל.ָא=emph | parzla | n emph | and iron
+וַ=.אֲחָת.ֵהּ=his | ahata | n fs+3ms | and the sister
+נַעֲמָה | name | name | Naamah

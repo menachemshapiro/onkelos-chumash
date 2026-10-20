@@ -1,0 +1,106 @@
+# Toldot 26:30–27:27
+וְ=.אַ~C.קְדִּימ.וּ~they_p | qdm2 | C pf 3mp | and (they) rose early
+וְ=.קַיִּימ.וּ~they_p | qwm2 | D pf 3mp | and (they) swore
+וְ=.שַׁלָּחִ.נּוּן=them | shlh | D pf 3ms+3mp | and (he) sent them off
+וְ=.חַוִּיא.וּ~they_p | hwy2 | D pf 3mp | and (they) told
+אַ~C.שְׁכַּחְ.נָא~we_p | shkh | C pf 1cp | we have found
+שִׁבְעָה | name | name | Shivah
+בֵּארָא | bera | n fs emph | Be'er (lit. the well of)
+26:33> דְ=of.שֶׁבַע | name | name | Sheva (בֵּארָא דְשֶׁבַע = Be'er Sheva)
+שֶׁבַע | name | name | Sheva (a variant reading)
+יְהוּדִית | name | name | Yehudit
+בְּאֵרִי | name | name | Be'eri
+בָּשְׂמָת | name | name | Basmat
+אֵילוֹן | name | name | Eilon
+וַ=.הֲוָא.ָה~they_p | hwy | G pf 3fp | and (they) were
+הֲוָא.ָה~they_p | hwy | G pf 3fp | (they) were
+מְ~ptcD.סָרְב.ָן~fp | srv | D ptc fp | rebellious (against)
+וּ=.מְ~ptcC.רַגְּז.ָן~fp | rgz | !verb, participle, fem. pl. | and provoking
+וְ=.כָהַיָּ.א~they_p | khy | G pf 3fp | and (they) grew dim
+מִ=from.לְּ=.מֵ~inf.חֱזֵי | hzy | G inf | from seeing
+זֵינ.ָךְ=your | zeina | n+2ms | your weapons
+סַיְפ.ָךְ=your | saifa | n+2ms | your sword
+וְ=.קַשְׁתּ.ָךְ=your | qashta | n fs+2ms | and your bow
+וְ=.צוּד | tswd | G impv ms | and hunt
+צֵיד.ָא=emph | tseida | n emph | game
+מִ=from.צֵּיד.ָא=emph | tseida | n emph | from the game
+מִ=from.צֵּיד.ִי=my | tseida | n+1cs | from my game
+וְ=.עִבֵיד | avad | G impv ms | and make
+תַבְשִׁיל.ִין=pl | tavshil | n mp abs | delicacies (lit. cooked dishes)
+תַּבְשִׁיל.ִין=pl | tavshil | n mp abs | delicacies (lit. cooked dishes)
+תַּבְשִׁיל.ַיָּא=emphp | tavshil | n mp emph | the delicacies
+דְ=that.רְחֵימִ.ית~I_p | rhm | G pf 1cs | that I love
+רְחֵם | rhm | G pf 3ms | (he) loves
+דִּ=that.רְחֵם | rhm | G pf 3ms | that (he) loved
+וְ=.אָ~C.עֵל | ill | C impv ms | and bring
+וְ=.תָ~you_f.עֵל | ill | C impf 2ms | and you shall bring
+27:10>וְ=.תָ~you_f.עֵל | ill | C impf 2ms | and you shall bring (a variant reading)
+תְ~she_f.בָרֵכִ.נָּךְ=you | brk | D impf 3fs+2ms | (my soul) will bless you
+תְ~she_f.בָרְכִ.נָּךְ=you | brk | D impf 3fs+2ms | (my soul) will bless you
+תְ~she_f.בָרֲכִ.נַּנִי=me | brk | D impf 3fs+1cs | (your soul) will bless me
+תְ~she_f.בָרְכִ.נַּנִי=me | brk | D impf 3fs+1cs | (your soul) will bless me
+דִּ=that.יְ~he_f.בָרְכִ.נָּךְ=you | brk | D impf 3ms+2ms | that he will bless you
+לְ=.מֵ~inf.יצַד | tswd | G inf | to hunt
+לְ=.אַ~C.יְתָא.ָה~inf_end | aty | C inf | to bring
+אֲחוּ.ךְ=your | ah | n+2ms | your brother
+27:6> מְ~ptcD.מַלֵּל | mll2 | D ptc ms | speaking
+אֱ~C.תִי | aty | C impv ms | bring
+מוֹת.ִי=my | mota | n+1cs | my death
+מוֹת.ֵיהּ=his | mota | n+3ms | his death
+מְ~ptcD.פַקֵּד | pqd | D ptc ms | commanding
+אִ~cmd.זֵּיל | azl | G impv ms | go | the א of אזל is absorbed (the dot in זּ)
+וְ=.אִ~cmd.זֵּיל | azl | G impv ms | and go
+גַּדְיֵי | gadya | n mp cs | kids of
+עִזּ.ִין=pl | iza | n fp abs | goats
+עִזֵּי | iza | n fp cs | (of) the goats
+טָבָ.ן~fp | tav | a fp | good
+וְ=.תַ~you_f.יְתֵי | aty | C impf 2ms | and you shall bring
+שַׂעֲרָן | saaran | a ms | hairy
+שְׁעִיעַ | shea | a ms | smooth
+יְ~he_f.מֻשִּׁ.נַּנִי=me | mshsh | D impf 3ms+1cs | (my father) will feel me
+וֶ=.אֱ~I_f.מֻשִּׁ.נָּךְ=you | mshsh | D impf 1cs+2ms | and I will feel you
+וּ=.מָשְׁי.ֵהּ=him | mshsh | G pf 3ms+3ms | and (he) felt him
+וְ=.אֵ~I_f.הֵי | hwy | G impf 1cs | and I will be
+כְּ=like.מִתְלָעָב | tlv | Q ptc ms | like one who mocks
+לְוָט.ִין=pl | levat | n mp abs | curses
+לְוָט.ַיָּא=emphp | levat | n mp emph | the curses
+בִרְכ.ָן=pl | birkta | n fp abs | blessings
+אִתְ~Dt.אַמַּר | amr | Dt pf 3ms | it was said
+יֵ~they_f.ית.וּן~mp | aty | G impf 3mp | (they) will come
+וַ=.עֲבָד.ַת~she_p | avad | G pf 3fs | and (she) made
+עֲבָד.ַת~she_p | avad | G pf 3fs | (she) had made
+לְבוּשֵׁי | levush | n mp cs | the garments of
+דָּכְיָת.ָא~fp | dakhyata | a fp emph | the choice (lit. clean)
+וְ=.אַ~C.לְבִּישׁ.ַת~she_p | lbsh | C pf 3fs | and (she) dressed
+אַ~C.לְבִּישׁ.ַת~she_p | lbsh | C pf 3fs | (she) put (on)
+מַשְׁכֵי | meshakh | n mp cs | the skins of
+יְד.וֹהִי=his | yad | n fp+3ms | his hands
+שְׁעִיעוּת | sheiuta | n fs cs | the smooth part of
+צַוְר.ֵיהּ=his | tsawwar | n+3ms | his neck
+צַוְר.ָךְ=your | tsawwar | n+2ms | your neck
+בִּ=into.ידָא | yad | n fs | into the hand
+בּוּכְר.ָךְ=your | bukhra | n+2ms | your firstborn
+מַלֵּילְ.תָּא~you_p | mll2 | D pf 2ms | you said
+אִסְ~Dt.תַּחַר | shr | Dt impv ms | sit up | the passive ת moves after the ס
+אוֹ~C.חֵי.תָא~you_p | wy | C pf 2ms | you were quick
+אֱלָה.ָךְ=your | elah | n+2ms | your God
+הַ=?.אַתְּ | att | pron 2ms | (are) you
+קָל.ָא=emph | qal | n emph | the voice
+וִ=.ידַ.יָּא=emphp | yad | n fp emph | but the hands
+אִשְׁתְּ~passive causative (Ishtaf‘al).מוֹדְע.ֵיהּ=him | shmd | Sht pf 3ms+3ms | he recognized him | Ishtaf‘al of ידע: ש־ת in front, the י becomes ו (מוֹדַע)
+שְׂעִיר.ָן~fp | saaran | a fp | hairy
+שַׂעֲרַנְי.ָן~fp | saaran | a fp | hairy (a variant reading)
+וּ=.בָרֲכ.ֵיהּ=him | brk | D pf 3ms+3ms | and (he) blessed him
+בָרֲכ.ֵיהּ=it | brk | D pf 3ms+3ms | (Hashem) has blessed it
+קָרֵיב | qrb | D impv ms | bring near (= serve)
+27:25> וְ=.קָרֵיב | qrb | D pf 3ms | and (he) brought near
+וּ=.נְשַׁק | nshq | G impv / pf | and kiss; and (he) kissed
+וְ=.שַׁק | nshq | G impv ms | and kiss (a variant reading)
+וַ=.אֲ~C.רַח | rh | C pf 3ms | and (he) smelled
+רֵיח.ָא=emph | reiha | n emph | the fragrance
+כְּ=like.רֵיח.ָא=emph | reiha | n emph | like the fragrance
+דִ=of.לְבוּשׁ.וֹהִי=his | levush | n mp+3ms | of his garments
+חֲזֵי | hzy | G impv ms | see
+27:27>חֲזֵי | hzy | G impv ms | see (a variant reading)
+27:25> וְ=.אָ~C.עֵל | ill | C pf 3ms | and (he) brought (a variant reading)
+וֶ=.אֱ~cmd.כוּל | akhal | G impv ms | and eat

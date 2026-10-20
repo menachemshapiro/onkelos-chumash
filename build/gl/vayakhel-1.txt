@@ -1,0 +1,183 @@
+# Vayakhel and Pekudei (batch for both parshiyot): Shemot 35:1–40:38
+וְ=.אַ~C.כְנֵשׁ | kns | C pf 3ms | and (Moshe) assembled
+שַׁבּ.ָא=emph | shabbta | n emph | a Sabbath (of rest)
+תְ~ypl_f.בַעֲר.וּן~mp | bry_burn | D impf 2mp | you shall (not) kindle
+סָב.וּ~cmd_pl | nsv | G impv 2mp | take! | the נ of נסב drops out
+דְּ=whose.יִתְ~Gt.רְעֵי | ry2 | Gt pf 3ms | whose (heart) desires (lit. is pleased)
+דְּ=whose.אִתְ~Gt.רְעֵי | ry2 | Gt pf 3ms | whose (heart) moved him (lit. was pleased)
+יַ~he_f.יְתֵי | aty | C impf 3ms | let him bring | the א of אתי becomes י
+רְבוּת.ָא=emph | rebuta | n fs emph | anointing
+רְבוּתְ.הוֹן=their | rebuta | n fs+3mp | their anointing
+רְבוּת | rebuta | n fs cs | anointing
+וְ=.יַ~they_f.עַבְד.וּן~mp | avad | G impf 3mp | and let them make
+יַ~they_f.עַבְד.וּן~mp | avad | G impf 3mp | let (them not) do
+פְּרָס.ֵיהּ=its | perasa | n+3ms | its covering (lit. spread)
+חוֹפָא.ֵיהּ=its | hofaa | n+3ms | its cover
+פּוּרְפ.וֹהִי=its | purpa | n mp+3ms | its clasps
+דַּפּ.וֹהִי=its | dappa | n mp+3ms | its boards
+עַבְר.וֹהִי=its | abbara | n mp+3ms | its bars
+עַבְּר.וֹהִי=its | abbara | n mp+3ms | its bars
+עַבְּר.ָא=emph | abbara | n emph | the bar
+לְ=.אַ~C.עְבָּר.ָא~inf_end | avr | C inf | to pass through
+עַמּוּד.וֹהִי=its | amuda | n mp+3ms | its pillars
+עַמּוּד.ָהָא=its | amuda | n mp+3fs | its pillars
+סַמְכ.וֹהִי=its | samkha | n mp+3ms | its sockets
+סַמְּכ.וֹהִי=its | samkha | n mp+3ms | its sockets
+וְ=.סַמְּכ.וֹהִי=its | samkha | n mp+3ms | and its sockets
+סַמְכ.ָהָא=its | samkha | n mp+3fs | its sockets
+סַמְּכ.ָהָא=its | samkha | n mp+3fs | its sockets
+וְ=.סַמְכ.ַיָּא~emphp | samkha | n mp emph | and the sockets
+לְ=for.סַמְכ.ָא=emph | samkha | n emph | for a socket
+דְ=of.אַנְהוֹרֵי | anharuta | !noun, construct | of the lighting
+דְ=of.אַנְהָרוּת.ָא=emph | anharuta | n fs emph | of the lighting
+סְרָד.ֵי~cs_pl | serada | n mp cs | the hangings of
+אַטּוּנ.ֵיהוֹן=their | atuna | n mp+3mp | their cords
+אֲטוּנ.וֹהִי=its | atuna | n mp+3ms | its cords
+אַשְׁלֵמ.ַת~she_p | shlm | C pf 3fs | (whose spirit) moved him (lit. completed)
+לַ=for.עֲבִידַת | avidta | n fs cs | for the work of
+עִבִידַת | avidta | n fs cs | the work of
+לְ=for.עִבִידַת | avidta | n fs cs | for the work of
+מֵ=from.עִבִדְתּ.ֵיהּ=his | avidta | n fs+3ms | from his work
+פֻּלְחָנ.ֵיהּ=its | pulhana | n+3ms | its service
+פֻּלְחָנ.ָא=emph | pulhana | n emph | the service
+וּ=.מַיְת.ַן~mp | aty | C ptc mp | and (they) brought | the א of אתי becomes י
+מַיְת.ַן~mp | aty | C ptc mp | (they) were bringing | the א of אתי becomes י
+וְ=.שִׁבְכ.ִין~pl | shivkha | n mp abs | and bracelets
+וּ=.מָחוּךְ | mahokh | n | and girdles (Hebrew: וְכוּמָז)
+אֲרָמוּת | aramuta | n fs cs | an uplifted offering of
+וּ=.נְחַשׁ | nhasha | n cs | and copper
+חַכִּימ.ַת~fs | hkm | a fs | wise (woman)
+חַכִּימ.ַיָּא~emphp | hkm | a mp emph | the wise (men)
+מְ~ptcD.עַזְּל.ָא~fs | zl | D ptc fs | spinning (lit. who spun)
+עָזֵל | zl | G ptc ms | spun
+עַזְּל.ַן~fp | zl | D ptc fp | spun
+לִבְּ.הֶן=their | lev | n+3fp | their heart
+בְּ=with.חָכְמ.ָא=emph | hokhmta | n emph | with wisdom
+חָכְמ.ָא=emph | hokhmta | n emph | wisdom
+מֵ=.עַזְי.ָא=emph | iza | n fp emph | the goats' (hair)
+דִּ=of.מְ=.עַזּ.ֵי~cs_pl | iza | n fp cs | of the goats' (hair)
+נְדַבְתּ.ָא=emph | nedavta | n fs emph | a freewill offering
+דְּ=.רַבִּי | rby | D pf 3ms | (Hashem) has appointed (lit. raised up)
+בְּ=with.סוּכְלְתָנוּ | sukhletan | n | with understanding
+וְ=.סוּכְלְתָנוּת.ָא=emph | sukhletan | n emph | and understanding
+וּ=.בְ=in.אוּמָנוּת | umanu | n | and in craftsmanship
+אַשְׁלֵם | shlm | C pf 3ms | He filled (lit. completed)
+חַכִּימוּת | hakhimut | n | wisdom
+נַגָּר | naggaruta | !noun (agent) | a carpenter
+עָבְד.ֵי~cs_pl | avad | G ptc mp cs | doers of
+וּ=.מַלְפ.ֵי~cs_pl | lf | D ptc mp cs | and devisers of
+לְ=for.עִבִידַת | avidta | n fs cs | for the work of
+מַ~ptcC.סְגּ.ַן~mp | sgy | C ptc mp | are bringing much (lit. increasing)
+מִסַּת | missat | n | (more than) enough for
+וְ=.אַ~C.עֲבַר.וּ~they_p | avr | C pf 3mp | and they proclaimed (lit. made pass)
+כָרוֹז.ָא=emph | karoza | n emph | a proclamation
+לְ=for.אַפְרָשׁוּת | prsh | !noun (from Af‘el of פרש), construct | for the offering of
+וִ=and.יתָרָת | yattir | a fp | and more (than enough)
+אָמָּן | uman | n | a craftsman
+יְרִיעָת.ָא=emph | yeria | n fp emph | the curtains
+וְ=.לָפֵף | lpp | D pf 3ms | and he joined
+לָפֵף | lpp | D pf 3ms | he joined
+לְ=.לַפָּפ.ָא~inf_end | lpp | D inf | to join
+סִפְת.ָא=emph | sifta | n fs emph | the edge
+בְּ=at.סִפְת.ָא=emph | sifta | n fs emph | at the edge
+יָתְ.הֶן=them | yat | part+3fp | them (fem.)
+לְ=for.חַד | had | num | for one
+וַ=.חֲפָ.נוּן=them | hpy | G pf 3ms+3mp | and he overlaid them
+וְ=.אַ~C.תִּיךְ | ntk | C pf 3ms | and he cast | the נ of נתך is absorbed
+לְ=.אַתָּכ.ָא~inf_end | ntk | C inf | for casting | the נ of נתך is absorbed
+רֵישׁ.ֵיהוֹן=their | resh | n mp+3mp | their tops
+פּוּשְׁכ.ָא=emph | pushka | n emph | a handbreadth
+בָּזִיכ.וֹהִי=its | bazikh | n mp+3ms | its spoons
+מְכִילָת.ֵיהּ=its | mekhilta | n fp+3ms | its bowls
+קַשְׂוָת.ָא=emph | qasva | n fp emph | the jars
+שִׁיד.ַהּ=its | shida | n+3fs | its base
+וְ=.צִבְיְת.ָהָא=its | tsevita | n fp+3fs | and its tongs
+וּ=.מַחִתְּיְת.ָהָא=its | mahta | n fp+3fs | and its fire pans
+פְּסַכְתֵּרָוָת.ָא=emph | pasakhter | n fp emph | the pots
+מַגְרוֹפְיָת.ָא=emph | magrofita | n fp emph | the shovels
+מִזְרְקָת.ָא=emph | mizraqa | n fp emph | the basins
+צִנּוּרְיָת.ָא=emph | tsinnurita | n fp emph | the forks
+מַחְתְּיָת.ָא=emph | mahta | n fp emph | the fire pans
+סוֹבָב.ֵיהּ=its | sovev | n+3ms | its ledge
+פַּלְג.ֵיהּ=its | palga | n+3ms | its half (i.e. middle)
+סִטְרָת.ָא=emph | sitra | n fp emph | the sides (i.e. corners)
+לוּח.ִין~pl | luha | n mp abs | boards (i.e. hollow, of boards)
+בְּ=with.מֶחְזְי.ַן~fp | mehzita | n fp | with the mirrors of
+וְ=.חִפּוּי | hippui | n cs | and the overlay of
+סִכּ.ַיָּא~emphp | sikka | n mp emph | the pegs
+וְ=.סִכּ.ָהָא=its | sikka | n mp+3fs | and its pegs
+מִנְיָנ.ֵי~cs_pl | minyan | n mp cs | the accounts of
+אִתְ~Gt.מְנֵי | mny | Gt pf 3ms | (which) was counted
+כִּכְּר.ִין~pl | kakkra | n mp abs | talents
+כִכְּר.ִין~pl | kakkra | n mp abs | talents
+אַלְפ.ָא=emph | alaf | num | (the) thousand
+וָו.ִין~pl | waw | n mp abs | hooks
+וְ=.כַבֵּשׁ | kvsh | D pf 3ms | and he banded
+וְ=.רַדִּידוּ | raddid | n | and beaten plates
+טַסּ.ֵי~cs_pl | tasa | n mp cs | plates of
+וְ=.קַצִּיצוּ | qtsts | !noun, abstract | and (he) cut (them) (lit. cutting)
+חוּט.ִין~pl | huta | n mp abs | threads
+כַּתְפ.ָן~fp | katef | n fp abs | shoulder pieces
+יִתְ~Dt.לָפֵף | lpp | Dt impf 3ms | it shall be joined
+גְּלִיפ.ָן~fp | glf | Gp ptc fp | engraved
+סִדְר.ֵי~cs_pl | sidra | n mp cs | rows of
+סִדְר.ֵיהּ=its | sidra | n+3ms | its arrangement
+שַׁבְזֵיז | shavziz | n | sapphire
+וְ=.סַבְהֲלוֹם | sivhalom | n | and diamond
+קַנְכֵּרֵי | qankhirei | n | jacinth
+וּ=.פַנְטְרֵי | panterei | n | and onyx
+יְהָב.וּ~they_p | yhb | G pf 3mp | they put (lit. gave)
+וִ=and.יהָבֻ.נּוּן~they_p+them | yhb | G pf 3mp+3mp | and they put them
+כַּתְפ.ֵי~cs_pl | katef | n mp cs | the shoulder pieces of
+וְ=.יַ~they_f.חֲד.וּן~mp | ahd | G impf 3mp | and they bound (lit. held fast) | the א of אחד drops out
+מְ=from.עִזְקָת.ֵיהּ=its | izqta | n fp+3ms | from its rings
+לְ=.מֵ~inf.הֶוֵי | hwy | G inf | to be
+שִׁפּוֹל.ֵי~cs_pl | shippula | n mp cs | the hem of
+זַגּ.ַיָּא~emphp | zagga | n mp emph | the bells
+רִמּוֹנ.ַיָּא~emphp | rimmona | n mp emph | the pomegranates
+שְׁבַח | shbh | !noun, construct | the splendor of (i.e. splendid)
+כּוֹבָע.ַיָּא~emphp | kovaa | n mp emph | the caps
+מִכְנְס.ֵי~cs_pl | mikhnas | n mp cs | the breeches of
+הֶמְיָנ.ָא=emph | hemyana | n emph | the belt
+וּ=.כְתָב.וּ~they_p | ktv | G pf 3mp | and they wrote
+תְכֶלְתּ.ָא=emph | tikhla | n emph | blue wool
+בּוֹצִינ.ֵי~cs_pl | butsina | n mp cs | the lamps of
+תְּ~you_f.קִים | qwm | C impf 2ms | you shall set up
+וְ=.תַ~you_f.טֵּל | tll | D impf 2ms | and you shall screen (lit. overshadow)
+וִ=and.י~he_f.שַׁמֵּשׁ | shmsh | D impf 3ms | that he may minister
+רַבֵּי.תָא~you_p | rby | D pf 2ms | you anointed
+לְ=for.כַהֲנוּת | kehunta | n fs cs | for a priesthood of
+אִתָּ~Ct.קַם | qwm | Ct pf 3ms | (the Mishkan) was set up | the passive ת merges
+סִדּוּר | siddur | n cs | an arrangement of
+וְ=.אַ~C.דְלֵק | dlq | C pf 3ms | and he kindled
+וְ=.אַ~C.קְטַר | qtr2 | C pf 3ms | and he burned (incense)
+וְ=.אַ~C.סֵּק | slq | C pf 3ms | and he offered (lit. brought up) | the ל of סלק is absorbed
+מִנְחָת.ָא=emph | minhta | n fs emph | the meal offering
+אִתְ~Gt.מְלִי | mly | Gt pf 3ms | was filled
+וּ=.בְ=when.אִסְ~Dt.תַּלָּקוּת | slq2 | Dt inf | and when (the cloud) lifted | the ת moves after the ס
+דְּ=that.אִסְ~Dt.תַּלָּקוּת.ֵיהּ=it | slq2 | Dt inf+3ms | of its lifting | the ת moves after the ס
+יִ~he_f.סְ~Dt.תַּלַּק | slq2 | Dt impf 3ms | (if it did not) lift | the ת moves after the ס
+מַטְּלָנ.ֵיהוֹן=their | matlan | n mp+3mp | their journeys
+35:8> לִ=for.מְשַׁח | mishha | n cs | for the oil of
+35:28> וּ=.לְ=for.מִשְׁח.ָא=emph | mishha | n emph | and for the oil
+35:24> דַּ=who.אֲ~C.רֵים | rwm | C pf 3ms | who raised (an offering)
+35:35> וּ=.מַחֵי | mhy | !participle, masc. sing. | and weaver (lit. striker)
+36:6> וּ=.פְסַק | psq | G pf 3ms | and (the people) stopped
+36:6> מִ=from.לְּ=.אַ~C.יְתָא.ָה~inf_end | aty | C inf | from bringing | the א of אתי becomes י
+36:4> דְּ=who.עָבְד.ִין~mp | avad | G ptc mp | who were doing
+38:11> וּ=.לְ=on.רוּחַ | ruah | n fs cs | and on the side of (lit. wind, direction)
+38:5> לִ=for.סְרָד.ָא=emph | serada | n emph | for the grating
+38:4> לְ=for.מַדְבְּח.ָא=emph | madbha | n emph | for the altar
+38:24> דְ=that.אִתְ~Gt.עֲבֵד | avad | Gt pf 3ms | that was used (lit. made)
+38:26> מִ=from.בַּר | bar | n cs | from the age of (lit. son of)
+38:26> דְּ=who.עָבַר | avr | G ptc ms | who passed over (i.e. was counted)
+38:26> לְ=for.שֵׁית | shet6 | num | for six (hundred thousand)
+38:28> וְ=.חִפָּא | hpy | D pf 3ms | and he overlaid
+39:7> כִּתְפ.ָא=emph | katef | n fs emph | the shoulder (pieces)
+39:10> וְ=.אַ~C.שְׁלִימ.וּ~they_p | shlm | C pf 3mp | and they set (lit. filled)
+40:5> לִ=for.קְטֹרֶת | qetoret | n | for incense
+40:35> לְ=.מֵ~inf.עַל | ill | G inf | to enter
+40:22> מִ=from.בָּר.ָא=emph | bara | adv | outside
+40:31> וִ=and.י~they_f.קַדְּשׁ.וּן~mp | qdsh | D impf 3mp | and they washed (lit. sanctified)
+40:33> וּ=.לְ=.מַדְבְּח.ָא=emph | madbha | n emph | and the altar
+40:20> לַ=into.אֲרוֹנ.ָא=emph | arona | n emph | into the Ark

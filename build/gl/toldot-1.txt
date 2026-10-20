@@ -1,0 +1,74 @@
+# Toldot 25:19–26:5
+לְ=.מָה | ma | adv | why (לְמָה דְנָן = why is this)
+וּ=.לְ=.מָה | ma | adv | and why
+נְסֵיב | nsv | G pf 3ms | (he) married (lit. took)
+אֲרַמָּאָה | aramai | name | the Aramean
+מִ=from.פַּדַּן | name | name | from Paddan (Aram)
+צְלוֹת.ֵיהּ=his | tslo | n fs+3ms | his prayer
+וְ=.דַחֲק.ִין~mp | dhq | G ptc mp | and (they) were pushing
+בְּנ.ַיָּא=emphp | bnin | n mp emph | the children
+בִּ=in.מְע.ָהָא=her | mea | n mp+3fs | within her (lit. in her innards)
+בִּ=in.מְע.ַיְכִי=your (fem.) | mea | n mp+2fs | within you
+מִ=from.מֵּע.ַיְכִי=your (fem.) | mea | n mp+2fs | from within you
+לְ=.מִ~inf.תְבַּע | tba | G inf | to seek
+אוּלְפַן | ulpan | n | instruction
+אוּלְפָנ.ָא=emph | ulpan | n emph | study (בֵּית אוּלְפָנָא = house of study)
+מַלְכְּו.ָן=pl | malkhu | n fp abs | kingdoms
+וּ=.מַלְכוּ | malkhu | n fs | and (one) kingdom
+מִ=than.מַּלְכוּ | malkhu | n fs | than (the other) kingdom
+יִ~they_f.תְ~Gt.פָּרְשׁ.ָן~fp | prsh | Gt impf 3fp | will separate
+יִ~he_f.תְקַף | tqf | G impf 3ms | will be stronger
+יִ~he_f.שְׁתַּעְבִּיד | shabed | !verb, Ishtaf‘al, imperfect, 3rd masc. sing. | will serve (lit. be subjugated) | the passive ת moves after the ש
+לִ=to.זְעִיר.ָא=emph | zeir | a ms emph | the younger (lit. the small)
+יוֹמ.ָהָא=her | yom | n mp+3fs | her days
+לְ=.מֵ~inf.ילָד | yld | G inf | to give birth
+תְיוּמ.ִין=pl | teyom | n mp abs | twins
+קַדְמָאָה | qadmai | ord | the first
+סִמּוֹק | simmoq | a ms | red
+סִמּוֹק.ָא=emph | simmoq | a ms emph | (the) red
+כֻּלּ.ֵיהּ=him | kol | n+3ms | all of him
+כִּ=like.גְלִים | gelima | n cs | like a cloak of
+כִּכְלָן | gelima | n | (a variant reading)
+דִּ=of.שְׂעָר | sear | n | of hair
+עֵשָׂו | name | name | Esav
+יַעֲקֹב | name | name | Yaakov
+אֲחִיד.ָא~fs | ahd | Gp ptc fs | holding (lit. held)
+בְּ=onto.עִקְב.ָא=emph | aqva | n emph | onto the heel
+וּ=.רְבִיּ.וּ~they_p | rby2 | G pf 3mp | and (they) grew up
+נַחְשִׁירְכָן | nahshirkhan | n | a hunter
+נָפֵק | npq | G ptc ms | going out
+וּ=.רְחֵם | rhm | G pf 3ms | and (he) loved
+רְחֵימ.ַת~she_p | rhm | G pf 3fs | loved
+מִ=from.צֵּיד.ֵיהּ=his | tseida | n+3ms | from his game
+אָכִיל | akhal | G ptc ms | eating
+וּ=.בַשִּׁיל | bshl | D pf 3ms | and (he) cooked
+תַּבְשִׁיל.ָא=emph | tavshil | n emph | a stew
+וְ=.תַבְשִׁיל | tavshil | n cs | and a stew of
+מְ~ptcD.שַׁלְּהֵי | shlhy | Q ptc ms | exhausted
+אֱדוֹם | name | name | Edom
+זַבִּין | zvn | D impv ms | sell
+וְ=.זַבִּין | zvn | D pf 3ms | and (he) sold
+כְּ=as.יוֹם | yom | n | as (this) day
+דִּלְהֵן | dilhen | adv | (as of) now
+בְּכֵרוּת.ָךְ=your | bekhoruta | n fs+2ms | your birthright
+בְּכֵרוּת.ָא=emph | bekhoruta | n fs emph | the birthright
+בְּכֵרוּת.ֵיהּ=his | bekhoruta | n fs+3ms | his birthright
+לִ=.מְ~inf.מָת | mwt | G inf | to die
+וְ=.קַיִּים | qwm2 | D pf 3ms | and (he) swore
+דִּ=of.טְלוֹפְח.ִין=pl | talofha | n mp abs | of lentils
+וַ=.אֲכַל | akhal | G pf 3ms | and (he) ate
+וְ=.שָׁט | shwt | G pf 3ms | and (Esav) despised
+תֵ~you_f.חוֹת | nht | G impf 2ms | go (not) down | the נ of נחת drops
+שְׁרֵי | shry | G impv ms | dwell
+אֵ~I_f.ימַר | amr | G impf 1cs | I will say | the א of אמר becomes י
+דּוּר | dwr | G impv ms | sojourn
+בְ=in.סַעְדּ.ָךְ=your | saad | n+2ms | with you (lit. in your support)
+בְּ=in.סַעְדּ.ָךְ=your | saad | n+2ms | with you (lit. in your support)
+וְ=.אֵ~I_f.בָרֵכִ.נָּךְ=you | brk | D impf 1cs+2ms | and I will bless you
+אַרְעָת.ָא=emph | ara | n fp emph | lands
+קְיָמ.ָא=emph | qyam | n emph | the oath, covenant
+קְיָמ.ַי=my | qyam | n mp+1cs | My statutes
+וּ=.נְטַר | ntr | G pf 3ms | and (he) kept
+מַטְּרַת | mattara | n fs cs | the charge of
+פִּקּוֹד.ַי=my | piqqud | n mp+1cs | My commandments
+וְ=.אוֹרָיָת.ָי=my | oraita | n fp+1cs | and My teachings

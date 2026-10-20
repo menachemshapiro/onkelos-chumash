@@ -1,0 +1,33 @@
+# Chayei Sarah 25:1–25:11
+קְטוּרָה | name | name | Keturah
+זִמְרָן | name | name | Zimran
+יָקְשָׁן | name | name | Yokshan
+מְדָן | name | name | Medan
+מִדְיָן | name | name | Midyan
+יִשְׁבָּק | name | name | Yishbak
+שׁוּחַ | name | name | Shuach
+לְ=into.מַשִּׁירְי.ָן=pl | mashrita | n fp abs | (they became) camps (Hebrew: אַשּׁוּרִם, Ashurim)
+וְ=.לִ=into.שְׁכוּנ.ִין=pl | shkhuna | n mp abs | and settlements (Hebrew: לְטוּשִׁם, Letushim)
+וּ=.לְ=into.נַגְו.ָן=pl | nagwa | n fp abs | and islands (Hebrew: לְאֻמִּים, Leumim)
+עֵיפָה | name | name | Eifah
+עֵפֶר | name | name | Efer
+אֲבִידָע | name | name | Avida
+אֶלְדָּעָה | name | name | Eldaah
+לְחֵינָת.ָא=emph | lhena | n fs emph | the concubines
+מַתְּנ.ָן=pl | mattna | n fp abs | gifts
+וְ=.שַׁלְּחִ.נּוּן=them | shlh | D pf 3ms+3mp | and (he) sent them away
+בְּ=while.עוֹד | od | adv | while still
+קַיָּם | qayyam | a ms | alive
+קִידוּמ.ָא=emph | qiduma | n emph | eastward
+וְ=.חָמֵשׁ | hmesh | num | and five
+וְ=.אִתְ~Gt.נְגִיד | ngd | Gt pf 3ms | and (he) expired
+וּ=.שְׂבַע | sva | a ms | and satisfied (with)
+וְ=.אִתְ~Gt.כְּנִישׁ | kns | Gt pf 3ms | and (he) was gathered
+לְ=to.עַמּ.ֵיהּ=his | amma2 | n+3ms | to his people
+וּ=.קְבַר.וּ~they_p | qvr | G pf 3mp | and (they) buried
+צֹחַר | name | name | Tzochar
+זְבַן | zvn | G pf 3ms | (he) bought
+אִתְ~Gt.קְבַר | qvr | Gt pf 3ms | was buried
+דְּ=that.מִית | mwt | G pf 3ms | (after) that (Avraham) died
+וּ=.בָרֵךְ | brk | D pf 3ms | and (Hashem) blessed
+אִתְ~Gt.חֲזֵי | hzy | Gt pf 3ms | appeared (lit. was seen)

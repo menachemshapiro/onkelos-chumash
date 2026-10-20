@@ -1,0 +1,27 @@
+# Shemot 23:20–25
+לְ=.מִ~inf.טְר.ָךְ=you | ntr | G inf+2ms | to guard you | the נ of נטר is absorbed
+וּ=.לְ=.אָעֳלוּתָ.ךְ=you | ill | C inf+2ms | and to bring you in
+דִ=that.אַ~C.תְקֵנִ.ית~I_p | tqn | C pf 1cs | that I have prepared
+לְ=to.מֵימְר.ֵהּ=his | meimra | n+3ms | to his word
+מֵימְר.ֵהּ=his | meimra | n+3ms | his word
+תְ~you_f.סָרֵב | srv | D impf 2ms | (do not) defy
+23:21> לְ=to.קִבְל.ֵהּ=him | qbl | prep+3ms | against him
+לְ=.חוֹב.ֵיכוֹן=your | hova | n mp+2mp | your sins
+דֶ=that.אֱ~I_f.מַלֵל | mll | D impf 1cs | that I speak
+וְ=.אֶ~I_f.סְנֵי | sny | G impf 1cs | then I will hate (i.e. be an enemy to)
+וְ=.אָ~C.עִיק | wq | C impf 1cs | and I will distress
+לְ=.דִ=those who.מְ~ptcC.עִיק.ִין~mp | wq | C ptc mp | those who distress
+מַלְאָכ.ִי=My | malakh | n+1cs | My angel
+וּ=.פְרִיזָאֵי | name | name | and the Perizzites
+וֶ=.אֱ~I_f.שֵׁצִ.נוּן=them | shetsi | Sh impf 1cs+3mp | and I will destroy them
+תִ~you_f.סְגוּד | sgd | G impf 2ms | you shall (not) bow down
+לְ=to.טַעֲוָתְ.הוֹן=their | taawa | n fp+3mp | to their idols
+וּ=.לְ=to.טַעֲוָתְ.הוֹן=their | taawa | n fp+3mp | and to their idols
+טַעֲוָתְ.הוֹן=their | taawa | n fp+3mp | their idols
+פַגָר.ָא~inf_end | pgr | D inf | (with) destroying (doubles the verb: you shall utterly destroy them)
+תְּ~you_f.פַגְרִ.נוּן=them | pgr | D impf 2ms+3mp | you shall destroy them
+וְ=.תַבָּר.ָא~inf_end | tvr | D inf | and (with) shattering (doubles the verb)
+תְ~you_f.תַבַּר | tvr | D impf 2ms | you shall shatter
+קָמָתְ.הוֹן=their | qama | n fp+3mp | their pillars
+מֵיכְל.ָךְ=your | meikhla | n+2ms | your food
+מִשְׁתְּי.ָךְ=your | mishte | n+2ms | your drink

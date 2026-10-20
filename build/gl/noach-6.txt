@@ -1,0 +1,165 @@
+# Noach 9:18–10:32
+אֲבוּ.הִי=his | av | n+3ms | his father (אֲבוּהִי דִכְנַעַן = the father of Kenaan)
+אֲבוּ.הוֹן=their | av | n+3mp | their father
+דַ=of.אֲבוּ.הוֹן=their | av | n+3mp | of their father
+כְּנָעַן | name | name | Kenaan (Canaan)
+כְנַעַן | name | name | Kenaan (Canaan)
+כְּנַעֲנָא.ֵי=pl | name | name | the Canaanites
+אִתְ~Dt.בַּדָּר.וּ~they_p | bdr | Dt pf 3mp | spread out (lit. were scattered)
+וְ=.שָׁרֵי | shry | G pf 3ms | and (he) began
+שָׁרֵי | shry | G pf 3ms | (he) began
+כַּרְמ.ָא=emph | karma | n emph | a vineyard
+וּ=.שְׁתִי | shty | G pf 3ms | and (he) drank
+חַמְר.ָא=emph | hamra | n emph | the wine
+מֵ=.חַמְר.ֵיהּ=his | hamra | n+3ms | from his wine
+וּ=.רְוִי | rwy | G pf 3ms | and became drunk
+וְ=.אִתְ~Gt.גְּלִי | gly | Gt pf 3ms | and (he) was uncovered
+מַשְׁכְּנ.ֵיהּ=his | mashkan | n+3ms | his tent
+בְּ=in.מַשְׁכְּנ.ֵיהּ=his | mashkan | n+3ms | in his tent
+עֶרְיְת.ָא=emph | erya | n fs emph | the nakedness
+וְ=.חַוִּי | hwy2 | D pf 3ms | and (he) told
+בְּ=in.שׁוּק.ָא=emph | shuqa | n emph | in the street (Hebrew: בַּחוּץ, outside)
+וּ=.נְסֵיב | nsv | G pf 3ms | and (he) took
+כְּסוּת.ָא=emph | kesuta | n fs emph | the garment
+וְ=.שַׁוִּי.וּ~they_p | shwy | D pf 3mp | and (they) put
+כְּתַף | katef | n fs cs | the shoulder of
+וַ=.אֲזָל.וּ~they_p | azl | G pf 3mp | and (they) went
+מְ~ptcD.חַזְּר.ִין~mp | hzr | D ptc mp | backward (lit. turning around)
+וַ=.חֲפִיא.וּ~they_p | hpy | G pf 3mp | and (they) covered
+וְ=.אַפֵּי.הוֹן=their | anpin | n mp+3mp | and their faces
+חֲז.וֹ~they_p | hzy | G pf 3mp | (they) saw
+וְ=.אִתְּ~Gt.עַר | r | Gt pf 3ms | and (he) woke up | Itpe‘el of עור; the ת is doubled
+ל.ֵיהּ=him | le | prep+3ms | to him
+בְּר.ֵיהּ=his | bar | n+3ms | his son
+זְעֵיר.ָא=emph | zeir | a ms emph | the youngest (lit. the small)
+עֶבֶד | eved | n abs | a slave
+עַבְד.ִין=pl | eved | n mp abs | slaves (עֶבֶד פָּלַח עַבְדִין = a slave of slaves)
+עַבְדּ.ָא=emph | eved | n emph | a slave
+בְּרִיךְ | brk | Gp ptc ms | blessed
+אֱלָה.ֵהּ=his | elah | n+3ms | the God of
+יַ~he_f.פְתֵּי | ypt | C impf 3ms | (may Hashem) enlarge
+וְ=.יַ~he_f.שְׁרֵי | shry | C impf 3ms | and may He cause to dwell
+שְׁכִינְתּ.ֵיהּ=his | shekhinta | n fs+3ms | His Presence
+יֶפֶת | name | name | Yefet
+גּוֹמֶר | name | name | Gomer
+מָגוֹג | name | name | Magog
+מָדַי | name | name | Madai
+יָוָן | name | name | Yavan
+תוּבָל | name | name | Tuval
+מֶשֶׁךְ | name | name | Meshekh
+תִירָס | name | name | Tiras
+אַשְׁכְּנַז | name | name | Ashkenaz
+רִיפַת | name | name | Rifat
+תוֹגַרְמָה | name | name | Togarmah
+אֶלִישָׁה | name | name | Elishah
+תַרְשִׁישׁ | name | name | Tarshish
+כִּתִּים | name | name | Kittim
+דֹדָנִים | name | name | Dodanim
+אִתַּ~Ct.פְרָשׁ.וּ~they_p | prsh | Ct pf 3mp | were separated (spread out)
+נַגְוַת | nagwa | n fp cs | the islands of
+עַמְמ.ַיָּא=emphp | amma2 | n mp emph | the nations
+בְּ=.אַרְע.ֲהוֹן=their | ara | n+3mp | in their lands
+בְּ=.אַרְעָת.ְהוֹן=their | ara | n fp+3mp | in their lands
+לְ=.אַרְעָת.ְהוֹן=their | ara | n fp+3mp | by their lands
+לְ=by.לִישָׁנ.ֵיהּ=his | lishan | n+3ms | by its language
+לְ=by.לִישָׁנ.ְהוֹן=their | lishan | n+3mp | by their languages
+בְּ=in.עַמְמ.ֵיהוֹן=their | amma2 | n mp+3mp | in their nations
+כּוּשׁ | name | name | Kush
+מִצְרַיִם | name | name | Mitzrayim (Egypt)
+פוּט | name | name | Put
+כְנָעַן | name | name | Kenaan (Canaan)
+סְבָא | name | name | Seva
+חֲוִילָה | name | name | Chavilah
+סַבְתָּה | name | name | Savtah
+רַעְמָה | name | name | Raamah
+סַבְתְּכָא | name | name | Savtekha
+שְׁבָא | name | name | Sheva
+דְדָן | name | name | Dedan
+נִמְרֹד | name | name | Nimrod
+לְ=.מֵ~inf.הֲוֵי | hwy | G inf | to be
+גִבַּר | gibbar | n cs | a mighty man
+גִּבַּר | gibbar | n cs | a mighty man
+תַּקִּיף | taqqif | a ms | strong, mighty
+יִ~he_f.תְ~Gt.אֲמַר | amr | Gt impf 3ms | it is said
+רֵישׁ | resh | n cs | the beginning of (lit. the head of)
+מַלְכוּת.ֵיהּ=his | malkhu | n fs+3ms | his kingdom
+בָּבֶל | name | name | Bavel (Babylon)
+אֶרֶךְ | name | name | Erekh
+אַכַּד | name | name | Akkad
+כַלְנֵה | name | name | Kalneh
+עֵיצָה | etsa | n | counsel (a variant reading)
+נְפַק | npq | G pf 3ms | went out
+אֲתוּרָאָה | name | name | Ashur (lit. the Assyrian)
+נִינְוֵה | name | name | Nineveh
+רְחֹבֹת | name | name | Rechovot
+רְחוֹבֵי | rehov | n mp cs | the streets of
+10:11>רְחוֹבֵי | rehov | n mp cs | the streets of (a variant reading)
+כָּלַח | name | name | Kalach
+רֶסֶן | name | name | Resen
+רַבְּת.ָא=emph | rabba | a fs emph | the great
+מִצְרָא.ֵי=pl | name | name | the Egyptians (Hebrew: מִצְרַיִם)
+לוּדָא.ֵי=pl | name | name | the Ludim
+עֲנָמָא.ֵי=pl | name | name | the Anamim
+לְהָבָא.ֵי=pl | name | name | the Lehavim
+נַפְתּוּחָא.ֵי=pl | name | name | the Naftuchim
+פַּתְרוּסָא.ֵי=pl | name | name | the Patrusim
+כַּסְלוּחָא.ֵי=pl | name | name | the Kasluchim
+פְּלִשְׁתָּא.ֵי=pl | name | name | the Philistines (Pelishtim)
+קַפּוּטְקָא.ֵי=pl | name | name | the Kaputkai (Hebrew: כַּפְתֹּרִים, Kaftorim)
+צִידוֹן | name | name | Tzidon (Sidon)
+בָּכְר.ֵיהּ=his | bukhra | n+3ms | his firstborn
+חֵת | name | name | Chet (Heth)
+יְבוּסָא.ֵי=pl | name | name | the Yevusim (Jebusites)
+אֱמוֹרָא.ֵי=pl | name | name | the Emorim (Amorites)
+גִּרְגָּשָׁא.ֵי=pl | name | name | the Girgashim
+חִוָּא.ֵי=pl | name | name | the Chivim (Hivites)
+עַרְקָא.ֵי=pl | name | name | the Arkim
+אַנְתּוֹסָא.ֵי=pl | name | name | the Antosai (Hebrew: סִינִי, the Sinites)
+אַרְוָדָא.ֵי=pl | name | name | the Arvadim
+צְמָרָא.ֵי=pl | name | name | the Tzemarim
+חֲמָתָא.ֵי=pl | name | name | the Chamatim
+זַרְעֲיַת | zaraya | n fp cs | the families of
+תְּחוּם | tehum | n cs | the border of
+מָטֵי | mty | G ptc ms | reaching
+לִ=to.גְרָר | name | name | to Gerar
+עַזָּה | name | name | Azzah (Gaza)
+לִ=to.סְדוֹם | name | name | to Sedom
+עֲמוֹרָה | name | name | Amorah (Gomorrah)
+אַדְמָה | name | name | Admah
+צְבוֹיִם | name | name | Tzevoyim
+לָשַׁע | name | name | Lasha
+עֵבֶר | name | name | Ever
+אֲחוּ.הִי=his | ah | n+3ms | the brother of (lit. his brother)
+עֵילָם | name | name | Eilam
+אַשּׁוּר | name | name | Ashur
+אַרְפַּכְשַׁד | name | name | Arpakhshad
+לוּד | name | name | Lud
+אֲרָם | name | name | Aram
+עוּץ | name | name | Utz
+חוּל | name | name | Chul
+גֶתֶר | name | name | Geter
+מַשׁ | name | name | Mash
+שָׁלַח | name | name | Shelach
+וְ=.שֶׁלַח | name | name | and Shelach
+חַד | had | num | one
+פֶּלֶג | name | name | Peleg
+אִתְ~Gt.פְּלִיג.ַת~she_p | plg | Gt pf 3fs | was divided
+יָקְטָן | name | name | Yoktan
+אַלְמוֹדָד | name | name | Almodad
+שָׁלֶף | name | name | Shalef
+חֲצַרְמָוֶת | name | name | Chatzarmavet
+יָרַח | name | name | Yerach
+הֲדוֹרָם | name | name | Hadoram
+אוּזָל | name | name | Uzal
+דִּקְלָה | name | name | Diklah
+עוֹבָל | name | name | Oval
+אֲבִימָאֵל | name | name | Avimael
+אוֹפִר | name | name | Ofir
+יוֹבָב | name | name | Yovav
+מוֹתְבָנ.ְהוֹן=their | motav | n+3mp | their dwelling place
+מִ=.מֵּשָׁא | name | name | from Mesha
+10:30> לִ=to.סְפַר | sfar2 | n cs | to the edge of
+טוּר | tura | n cs | the mountain of
+מָדִינְח.ָא=emph | madinha | n emph | the east
+לְ=by.תוּלְדָת.ְהוֹן=their | toldot | n fp+3mp | by their generations
+9:27> בְּ=in.מַשְׁכְּנ.ֵיהּ=his | mashkan | n+3ms | in the tent of (Shem; lit. in his tent)

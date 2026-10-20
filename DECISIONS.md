@@ -136,3 +136,14 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 | PDF | Saved as a real .pdf file, built in the page (works on phones, where printing is blocked). Each page is a picture of the text, so it looks exactly like the page but the text can't be selected or searched; for selectable text, export Word or HTML. If the PDF can't be built, it falls back to a print-ready HTML file. |
 | HTML | Fonts are embedded, so the file looks the same offline. |
 | All | The viewer asks you to confirm each save before the file downloads. |
+
+## Targum glossary (beta)
+
+- **What it covers.** Every word of the Targum in all 54 parshiyot can be tapped. The card shows the word split into its parts (prefixes, the word itself, endings), the root, the grammatical form, what the word means in this pasuk, and the dictionary entry.
+- **Beta.** The glossary was written word by word with Claude and checked by script, not by a scholar. It will have mistakes. The card says so, and its **Report a problem** button sends a note about that word.
+- **Meaning "here".** Each word has a meaning that fits most places it appears. Where a word means something else in a particular pasuk, that pasuk has its own entry. Some fixed phrases are handled as phrases: זִמְנָא after מַשְׁכַּן reads "(the Tent of) Meeting", not "time".
+- **Words with ו ד ל ב כ מ in front.** If such a word was not written out, it is built from the plain word plus the prefix. This is not done when the letter is really part of the word (a preposition never attaches to a finished verb), which avoided errors like "from -teen" for מַעְשַׂר.
+- **Notes that belong to one pasuk.** A note explaining an idiom ("עַד לָא = not yet") or giving the Hebrew word Onkelos translates ("Hebrew: אָסוֹן") is shown only in a pasuk that actually contains those words. A name supplied as the subject of a verb ("(Hashem) commanded") is shown only where the English of that pasuk has that name.
+- **Alternate readings** (נ"א, נ"י and similar) stay in the Targum text, in parentheses and a smaller font, and can be tapped like any other word.
+- **Outside help.** For a small number of hard words (71 lookups in all), the meaning was checked against the Comprehensive Aramaic Lexicon (cal.huc.edu). Every lookup is logged in `build/cal-log.json`.
+- **Cleanup pass.** After all five books were done, every gloss in the Torah was compared with the English of its pasuk. About 2,270 glosses were corrected where a meaning written for one pasuk had been reused where it did not fit.

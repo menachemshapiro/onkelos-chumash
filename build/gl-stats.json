@@ -1,0 +1,9011 @@
+[
+{
+"aliyah": "bereishit-1",
+"parsha": "bereishit",
+"name": "ראשון",
+"from": [
+1,
+1
+],
+"to": [
+2,
+3
+],
+"words": 480,
+"forms": 199,
+"forms_repeat": 0,
+"forms_new": 199,
+"roots": 86,
+"roots_new": 86,
+"roots_repeat": 0,
+"cal": 0
+},
+{
+"aliyah": "bereishit-2",
+"parsha": "bereishit",
+"name": "שני",
+"from": [
+2,
+4
+],
+"to": [
+2,
+19
+],
+"words": 232,
+"forms": 149,
+"forms_repeat": 35,
+"forms_new": 114,
+"roots": 69,
+"roots_new": 36,
+"roots_repeat": 33,
+"cal": 8
+},
+{
+"aliyah": "bereishit-3",
+"parsha": "bereishit",
+"name": "שלישי",
+"from": [
+2,
+20
+],
+"to": [
+3,
+21
+],
+"words": 381,
+"forms": 255,
+"forms_repeat": 59,
+"forms_new": 196,
+"roots": 107,
+"roots_new": 55,
+"roots_repeat": 52,
+"cal": 4
+},
+{
+"aliyah": "bereishit-4",
+"parsha": "bereishit",
+"name": "רביעי",
+"from": [
+3,
+22
+],
+"to": [
+4,
+18
+],
+"words": 309,
+"forms": 215,
+"forms_repeat": 53,
+"forms_new": 162,
+"roots": 84,
+"roots_new": 30,
+"roots_repeat": 54,
+"cal": 4
+},
+{
+"aliyah": "bereishit-5",
+"parsha": "bereishit",
+"name": "חמישי",
+"from": [
+4,
+19
+],
+"to": [
+4,
+22
+],
+"words": 54,
+"forms": 46,
+"forms_repeat": 15,
+"forms_new": 31,
+"roots": 25,
+"roots_new": 8,
+"roots_repeat": 17,
+"cal": 0
+},
+{
+"aliyah": "bereishit-6",
+"parsha": "bereishit",
+"name": "שישי",
+"from": [
+4,
+23
+],
+"to": [
+5,
+24
+],
+"words": 326,
+"forms": 125,
+"forms_repeat": 43,
+"forms_new": 82,
+"roots": 54,
+"roots_new": 15,
+"roots_repeat": 39,
+"cal": 3
+},
+{
+"aliyah": "bereishit-7",
+"parsha": "bereishit",
+"name": "שביעי",
+"from": [
+5,
+25
+],
+"to": [
+6,
+4
+],
+"words": 165,
+"forms": 100,
+"forms_repeat": 53,
+"forms_new": 47,
+"roots": 49,
+"roots_new": 5,
+"roots_repeat": 44,
+"cal": 0
+},
+{
+"aliyah": "bereishit-8",
+"parsha": "bereishit",
+"name": "מפטיר",
+"from": [
+6,
+5
+],
+"to": [
+6,
+8
+],
+"words": 56,
+"forms": 44,
+"forms_repeat": 21,
+"forms_new": 23,
+"roots": 27,
+"roots_new": 6,
+"roots_repeat": 21,
+"cal": 0
+},
+{
+"aliyah": "noach-1",
+"parsha": "noach",
+"name": "ראשון",
+"from": [
+6,
+9
+],
+"to": [
+6,
+22
+],
+"words": 191,
+"forms": 144,
+"forms_repeat": 57,
+"forms_new": 87,
+"roots": 62,
+"roots_new": 14,
+"roots_repeat": 48,
+"cal": 0
+},
+{
+"aliyah": "noach-2",
+"parsha": "noach",
+"name": "שני",
+"from": [
+7,
+1
+],
+"to": [
+7,
+16
+],
+"words": 231,
+"forms": 139,
+"forms_repeat": 74,
+"forms_new": 65,
+"roots": 60,
+"roots_new": 5,
+"roots_repeat": 55,
+"cal": 0
+},
+{
+"aliyah": "noach-3",
+"parsha": "noach",
+"name": "שלישי",
+"from": [
+7,
+17
+],
+"to": [
+8,
+14
+],
+"words": 296,
+"forms": 165,
+"forms_repeat": 71,
+"forms_new": 94,
+"roots": 82,
+"roots_new": 14,
+"roots_repeat": 68,
+"cal": 2
+},
+{
+"aliyah": "noach-4",
+"parsha": "noach",
+"name": "רביעי",
+"from": [
+8,
+15
+],
+"to": [
+9,
+7
+],
+"words": 212,
+"forms": 145,
+"forms_repeat": 77,
+"forms_new": 68,
+"roots": 66,
+"roots_new": 13,
+"roots_repeat": 53,
+"cal": 1
+},
+{
+"aliyah": "noach-5",
+"parsha": "noach",
+"name": "חמישי",
+"from": [
+9,
+8
+],
+"to": [
+9,
+17
+],
+"words": 144,
+"forms": 76,
+"forms_repeat": 39,
+"forms_new": 37,
+"roots": 26,
+"roots_new": 1,
+"roots_repeat": 25,
+"cal": 0
+},
+{
+"aliyah": "noach-6",
+"parsha": "noach",
+"name": "שישי",
+"from": [
+9,
+18
+],
+"to": [
+10,
+32
+],
+"words": 415,
+"forms": 265,
+"forms_repeat": 72,
+"forms_new": 193,
+"roots": 76,
+"roots_new": 21,
+"roots_repeat": 55,
+"cal": 0
+},
+{
+"aliyah": "noach-7",
+"parsha": "noach",
+"name": "שביעי",
+"from": [
+11,
+1
+],
+"to": [
+11,
+28
+],
+"words": 327,
+"forms": 151,
+"forms_repeat": 73,
+"forms_new": 78,
+"roots": 60,
+"roots_new": 11,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "noach-8",
+"parsha": "noach",
+"name": "מפטיר",
+"from": [
+11,
+29
+],
+"to": [
+11,
+32
+],
+"words": 63,
+"forms": 51,
+"forms_repeat": 31,
+"forms_new": 20,
+"roots": 22,
+"roots_new": 1,
+"roots_repeat": 21,
+"cal": 0
+},
+{
+"aliyah": "lechlecha-1",
+"parsha": "lechlecha",
+"name": "ראשון",
+"from": [
+12,
+1
+],
+"to": [
+12,
+13
+],
+"words": 177,
+"forms": 137,
+"forms_repeat": 53,
+"forms_new": 84,
+"roots": 58,
+"roots_new": 6,
+"roots_repeat": 52,
+"cal": 1
+},
+{
+"aliyah": "lechlecha-2",
+"parsha": "lechlecha",
+"name": "שני",
+"from": [
+12,
+14
+],
+"to": [
+13,
+4
+],
+"words": 134,
+"forms": 107,
+"forms_repeat": 64,
+"forms_new": 43,
+"roots": 44,
+"roots_new": 10,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "lechlecha-3",
+"parsha": "lechlecha",
+"name": "שלישי",
+"from": [
+13,
+5
+],
+"to": [
+13,
+18
+],
+"words": 204,
+"forms": 147,
+"forms_repeat": 70,
+"forms_new": 77,
+"roots": 56,
+"roots_new": 7,
+"roots_repeat": 49,
+"cal": 1
+},
+{
+"aliyah": "lechlecha-4",
+"parsha": "lechlecha",
+"name": "רביעי",
+"from": [
+14,
+1
+],
+"to": [
+14,
+20
+],
+"words": 291,
+"forms": 199,
+"forms_repeat": 61,
+"forms_new": 138,
+"roots": 78,
+"roots_new": 12,
+"roots_repeat": 66,
+"cal": 0
+},
+{
+"aliyah": "lechlecha-5",
+"parsha": "lechlecha",
+"name": "חמישי",
+"from": [
+14,
+21
+],
+"to": [
+15,
+6
+],
+"words": 143,
+"forms": 114,
+"forms_repeat": 59,
+"forms_new": 55,
+"roots": 48,
+"roots_new": 8,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "lechlecha-6",
+"parsha": "lechlecha",
+"name": "שישי",
+"from": [
+15,
+7
+],
+"to": [
+17,
+6
+],
+"words": 482,
+"forms": 315,
+"forms_repeat": 138,
+"forms_new": 177,
+"roots": 102,
+"roots_new": 10,
+"roots_repeat": 92,
+"cal": 0
+},
+{
+"aliyah": "lechlecha-7",
+"parsha": "lechlecha",
+"name": "שביעי",
+"from": [
+17,
+7
+],
+"to": [
+17,
+23
+],
+"words": 261,
+"forms": 166,
+"forms_repeat": 96,
+"forms_new": 70,
+"roots": 60,
+"roots_new": 4,
+"roots_repeat": 56,
+"cal": 0
+},
+{
+"aliyah": "lechlecha-8",
+"parsha": "lechlecha",
+"name": "מפטיר",
+"from": [
+17,
+24
+],
+"to": [
+17,
+27
+],
+"words": 41,
+"forms": 31,
+"forms_repeat": 25,
+"forms_new": 6,
+"roots": 16,
+"roots_new": 0,
+"roots_repeat": 16,
+"cal": 0
+},
+{
+"aliyah": "vayera-1",
+"parsha": "vayera",
+"name": "ראשון",
+"from": [
+18,
+1
+],
+"to": [
+18,
+14
+],
+"words": 185,
+"forms": 144,
+"forms_repeat": 69,
+"forms_new": 75,
+"roots": 70,
+"roots_new": 16,
+"roots_repeat": 54,
+"cal": 0
+},
+{
+"aliyah": "vayera-2",
+"parsha": "vayera",
+"name": "שני",
+"from": [
+18,
+15
+],
+"to": [
+18,
+33
+],
+"words": 283,
+"forms": 165,
+"forms_repeat": 83,
+"forms_new": 82,
+"roots": 67,
+"roots_new": 6,
+"roots_repeat": 61,
+"cal": 0
+},
+{
+"aliyah": "vayera-3",
+"parsha": "vayera",
+"name": "שלישי",
+"from": [
+19,
+1
+],
+"to": [
+19,
+20
+],
+"words": 330,
+"forms": 245,
+"forms_repeat": 110,
+"forms_new": 135,
+"roots": 99,
+"roots_new": 16,
+"roots_repeat": 83,
+"cal": 0
+},
+{
+"aliyah": "vayera-4",
+"parsha": "vayera",
+"name": "רביעי",
+"from": [
+19,
+21
+],
+"to": [
+21,
+4
+],
+"words": 600,
+"forms": 359,
+"forms_repeat": 187,
+"forms_new": 172,
+"roots": 115,
+"roots_new": 8,
+"roots_repeat": 107,
+"cal": 0
+},
+{
+"aliyah": "vayera-5",
+"parsha": "vayera",
+"name": "חמישי",
+"from": [
+21,
+5
+],
+"to": [
+21,
+21
+],
+"words": 237,
+"forms": 155,
+"forms_repeat": 78,
+"forms_new": 77,
+"roots": 72,
+"roots_new": 5,
+"roots_repeat": 67,
+"cal": 0
+},
+{
+"aliyah": "vayera-6",
+"parsha": "vayera",
+"name": "שישי",
+"from": [
+21,
+22
+],
+"to": [
+21,
+34
+],
+"words": 160,
+"forms": 112,
+"forms_repeat": 73,
+"forms_new": 39,
+"roots": 46,
+"roots_new": 4,
+"roots_repeat": 42,
+"cal": 0
+},
+{
+"aliyah": "vayera-7",
+"parsha": "vayera",
+"name": "שביעי",
+"from": [
+22,
+1
+],
+"to": [
+22,
+19
+],
+"words": 321,
+"forms": 173,
+"forms_repeat": 99,
+"forms_new": 74,
+"roots": 75,
+"roots_new": 7,
+"roots_repeat": 68,
+"cal": 0
+},
+{
+"aliyah": "vayera-8",
+"parsha": "vayera",
+"name": "מפטיר",
+"from": [
+22,
+20
+],
+"to": [
+22,
+24
+],
+"words": 60,
+"forms": 44,
+"forms_repeat": 24,
+"forms_new": 20,
+"roots": 11,
+"roots_new": 0,
+"roots_repeat": 11,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-1",
+"parsha": "chayeisarah",
+"name": "ראשון",
+"from": [
+23,
+1
+],
+"to": [
+23,
+16
+],
+"words": 231,
+"forms": 139,
+"forms_repeat": 70,
+"forms_new": 69,
+"roots": 54,
+"roots_new": 3,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-2",
+"parsha": "chayeisarah",
+"name": "שני",
+"from": [
+23,
+17
+],
+"to": [
+24,
+9
+],
+"words": 194,
+"forms": 137,
+"forms_repeat": 93,
+"forms_new": 44,
+"roots": 54,
+"roots_new": 4,
+"roots_repeat": 50,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-3",
+"parsha": "chayeisarah",
+"name": "שלישי",
+"from": [
+24,
+10
+],
+"to": [
+24,
+26
+],
+"words": 228,
+"forms": 181,
+"forms_repeat": 92,
+"forms_new": 89,
+"roots": 76,
+"roots_new": 11,
+"roots_repeat": 65,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-4",
+"parsha": "chayeisarah",
+"name": "רביעי",
+"from": [
+24,
+27
+],
+"to": [
+24,
+52
+],
+"words": 389,
+"forms": 262,
+"forms_repeat": 157,
+"forms_new": 105,
+"roots": 97,
+"roots_new": 3,
+"roots_repeat": 94,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-5",
+"parsha": "chayeisarah",
+"name": "חמישי",
+"from": [
+24,
+53
+],
+"to": [
+24,
+67
+],
+"words": 190,
+"forms": 147,
+"forms_repeat": 76,
+"forms_new": 71,
+"roots": 69,
+"roots_new": 4,
+"roots_repeat": 65,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-6",
+"parsha": "chayeisarah",
+"name": "שישי",
+"from": [
+25,
+1
+],
+"to": [
+25,
+11
+],
+"words": 131,
+"forms": 104,
+"forms_repeat": 65,
+"forms_new": 39,
+"roots": 41,
+"roots_new": 1,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-7",
+"parsha": "chayeisarah",
+"name": "שביעי",
+"from": [
+25,
+12
+],
+"to": [
+25,
+15
+],
+"words": 32,
+"forms": 30,
+"forms_repeat": 12,
+"forms_new": 18,
+"roots": 6,
+"roots_new": 0,
+"roots_repeat": 6,
+"cal": 0
+},
+{
+"aliyah": "chayeisarah-8",
+"parsha": "chayeisarah",
+"name": "מפטיר",
+"from": [
+25,
+16
+],
+"to": [
+25,
+18
+],
+"words": 39,
+"forms": 35,
+"forms_repeat": 26,
+"forms_new": 9,
+"roots": 22,
+"roots_new": 2,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "toldot-1",
+"parsha": "toldot",
+"name": "ראשון",
+"from": [
+25,
+19
+],
+"to": [
+26,
+5
+],
+"words": 286,
+"forms": 202,
+"forms_repeat": 118,
+"forms_new": 84,
+"roots": 81,
+"roots_new": 9,
+"roots_repeat": 72,
+"cal": 0
+},
+{
+"aliyah": "toldot-2",
+"parsha": "toldot",
+"name": "שני",
+"from": [
+26,
+6
+],
+"to": [
+26,
+12
+],
+"words": 107,
+"forms": 82,
+"forms_repeat": 56,
+"forms_new": 26,
+"roots": 40,
+"roots_new": 2,
+"roots_repeat": 38,
+"cal": 0
+},
+{
+"aliyah": "toldot-3",
+"parsha": "toldot",
+"name": "שלישי",
+"from": [
+26,
+13
+],
+"to": [
+26,
+22
+],
+"words": 132,
+"forms": 96,
+"forms_repeat": 54,
+"forms_new": 42,
+"roots": 39,
+"roots_new": 2,
+"roots_repeat": 37,
+"cal": 0
+},
+{
+"aliyah": "toldot-4",
+"parsha": "toldot",
+"name": "רביעי",
+"from": [
+26,
+23
+],
+"to": [
+26,
+29
+],
+"words": 101,
+"forms": 92,
+"forms_repeat": 67,
+"forms_new": 25,
+"roots": 36,
+"roots_new": 1,
+"roots_repeat": 35,
+"cal": 0
+},
+{
+"aliyah": "toldot-5",
+"parsha": "toldot",
+"name": "חמישי",
+"from": [
+26,
+30
+],
+"to": [
+27,
+27
+],
+"words": 429,
+"forms": 260,
+"forms_repeat": 145,
+"forms_new": 115,
+"roots": 86,
+"roots_new": 12,
+"roots_repeat": 74,
+"cal": 0
+},
+{
+"aliyah": "toldot-6",
+"parsha": "toldot",
+"name": "שישי",
+"from": [
+27,
+28
+],
+"to": [
+28,
+4
+],
+"words": 371,
+"forms": 244,
+"forms_repeat": 146,
+"forms_new": 98,
+"roots": 88,
+"roots_new": 10,
+"roots_repeat": 78,
+"cal": 0
+},
+{
+"aliyah": "toldot-7",
+"parsha": "toldot",
+"name": "שביעי",
+"from": [
+28,
+5
+],
+"to": [
+28,
+6
+],
+"words": 43,
+"forms": 36,
+"forms_repeat": 32,
+"forms_new": 4,
+"roots": 12,
+"roots_new": 0,
+"roots_repeat": 12,
+"cal": 0
+},
+{
+"aliyah": "toldot-8",
+"parsha": "toldot",
+"name": "מפטיר",
+"from": [
+28,
+7
+],
+"to": [
+28,
+9
+],
+"words": 35,
+"forms": 31,
+"forms_repeat": 28,
+"forms_new": 3,
+"roots": 12,
+"roots_new": 0,
+"roots_repeat": 12,
+"cal": 0
+},
+{
+"aliyah": "vayetzei-1",
+"parsha": "vayetzei",
+"name": "ראשון",
+"from": [
+28,
+10
+],
+"to": [
+28,
+22
+],
+"words": 212,
+"forms": 157,
+"forms_repeat": 109,
+"forms_new": 48,
+"roots": 74,
+"roots_new": 3,
+"roots_repeat": 71,
+"cal": 0
+},
+{
+"aliyah": "vayetzei-2",
+"parsha": "vayetzei",
+"name": "שני",
+"from": [
+29,
+1
+],
+"to": [
+29,
+17
+],
+"words": 236,
+"forms": 155,
+"forms_repeat": 95,
+"forms_new": 60,
+"roots": 64,
+"roots_new": 4,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "vayetzei-3",
+"parsha": "vayetzei",
+"name": "שלישי",
+"from": [
+29,
+18
+],
+"to": [
+30,
+13
+],
+"words": 394,
+"forms": 197,
+"forms_repeat": 120,
+"forms_new": 77,
+"roots": 65,
+"roots_new": 4,
+"roots_repeat": 61,
+"cal": 1
+},
+{
+"aliyah": "vayetzei-4",
+"parsha": "vayetzei",
+"name": "רביעי",
+"from": [
+30,
+14
+],
+"to": [
+30,
+27
+],
+"words": 189,
+"forms": 132,
+"forms_repeat": 83,
+"forms_new": 49,
+"roots": 53,
+"roots_new": 1,
+"roots_repeat": 52,
+"cal": 0
+},
+{
+"aliyah": "vayetzei-5",
+"parsha": "vayetzei",
+"name": "חמישי",
+"from": [
+30,
+28
+],
+"to": [
+31,
+16
+],
+"words": 463,
+"forms": 288,
+"forms_repeat": 149,
+"forms_new": 139,
+"roots": 107,
+"roots_new": 13,
+"roots_repeat": 94,
+"cal": 1
+},
+{
+"aliyah": "vayetzei-6",
+"parsha": "vayetzei",
+"name": "שישי",
+"from": [
+31,
+17
+],
+"to": [
+31,
+42
+],
+"words": 396,
+"forms": 266,
+"forms_repeat": 152,
+"forms_new": 114,
+"roots": 112,
+"roots_new": 10,
+"roots_repeat": 102,
+"cal": 0
+},
+{
+"aliyah": "vayetzei-7",
+"parsha": "vayetzei",
+"name": "שביעי",
+"from": [
+31,
+43
+],
+"to": [
+31,
+54
+],
+"words": 169,
+"forms": 110,
+"forms_repeat": 71,
+"forms_new": 39,
+"roots": 42,
+"roots_new": 3,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "vayetzei-8",
+"parsha": "vayetzei",
+"name": "מפטיר",
+"from": [
+32,
+1
+],
+"to": [
+32,
+3
+],
+"words": 33,
+"forms": 32,
+"forms_repeat": 23,
+"forms_new": 9,
+"roots": 17,
+"roots_new": 0,
+"roots_repeat": 17,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-1",
+"parsha": "vayishlach",
+"name": "ראשון",
+"from": [
+32,
+4
+],
+"to": [
+32,
+13
+],
+"words": 157,
+"forms": 130,
+"forms_repeat": 81,
+"forms_new": 49,
+"roots": 55,
+"roots_new": 0,
+"roots_repeat": 55,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-2",
+"parsha": "vayishlach",
+"name": "שני",
+"from": [
+32,
+14
+],
+"to": [
+32,
+30
+],
+"words": 224,
+"forms": 163,
+"forms_repeat": 101,
+"forms_new": 62,
+"roots": 64,
+"roots_new": 2,
+"roots_repeat": 62,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-3",
+"parsha": "vayishlach",
+"name": "שלישי",
+"from": [
+32,
+31
+],
+"to": [
+33,
+5
+],
+"words": 125,
+"forms": 90,
+"forms_repeat": 66,
+"forms_new": 24,
+"roots": 46,
+"roots_new": 2,
+"roots_repeat": 44,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-4",
+"parsha": "vayishlach",
+"name": "רביעי",
+"from": [
+33,
+6
+],
+"to": [
+33,
+20
+],
+"words": 194,
+"forms": 148,
+"forms_repeat": 98,
+"forms_new": 50,
+"roots": 64,
+"roots_new": 0,
+"roots_repeat": 64,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-5",
+"parsha": "vayishlach",
+"name": "חמישי",
+"from": [
+34,
+1
+],
+"to": [
+35,
+11
+],
+"words": 610,
+"forms": 376,
+"forms_repeat": 207,
+"forms_new": 169,
+"roots": 127,
+"roots_new": 15,
+"roots_repeat": 112,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-6",
+"parsha": "vayishlach",
+"name": "שישי",
+"from": [
+35,
+12
+],
+"to": [
+36,
+19
+],
+"words": 465,
+"forms": 252,
+"forms_repeat": 169,
+"forms_new": 83,
+"roots": 71,
+"roots_new": 3,
+"roots_repeat": 68,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-7",
+"parsha": "vayishlach",
+"name": "שביעי",
+"from": [
+36,
+20
+],
+"to": [
+36,
+39
+],
+"words": 194,
+"forms": 112,
+"forms_repeat": 45,
+"forms_new": 67,
+"roots": 26,
+"roots_new": 1,
+"roots_repeat": 25,
+"cal": 0
+},
+{
+"aliyah": "vayishlach-8",
+"parsha": "vayishlach",
+"name": "מפטיר",
+"from": [
+36,
+40
+],
+"to": [
+36,
+43
+],
+"words": 39,
+"forms": 27,
+"forms_repeat": 14,
+"forms_new": 13,
+"roots": 8,
+"roots_new": 0,
+"roots_repeat": 8,
+"cal": 0
+},
+{
+"aliyah": "vayeshev-1",
+"parsha": "vayeshev",
+"name": "ראשון",
+"from": [
+37,
+1
+],
+"to": [
+37,
+11
+],
+"words": 172,
+"forms": 124,
+"forms_repeat": 82,
+"forms_new": 42,
+"roots": 52,
+"roots_new": 6,
+"roots_repeat": 46,
+"cal": 0
+},
+{
+"aliyah": "vayeshev-2",
+"parsha": "vayeshev",
+"name": "שני",
+"from": [
+37,
+12
+],
+"to": [
+37,
+22
+],
+"words": 141,
+"forms": 115,
+"forms_repeat": 68,
+"forms_new": 47,
+"roots": 43,
+"roots_new": 1,
+"roots_repeat": 42,
+"cal": 0
+},
+{
+"aliyah": "vayeshev-3",
+"parsha": "vayeshev",
+"name": "שלישי",
+"from": [
+37,
+23
+],
+"to": [
+37,
+36
+],
+"words": 192,
+"forms": 146,
+"forms_repeat": 74,
+"forms_new": 72,
+"roots": 67,
+"roots_new": 7,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "vayeshev-4",
+"parsha": "vayeshev",
+"name": "רביעי",
+"from": [
+38,
+1
+],
+"to": [
+38,
+30
+],
+"words": 414,
+"forms": 258,
+"forms_repeat": 147,
+"forms_new": 111,
+"roots": 83,
+"roots_new": 10,
+"roots_repeat": 73,
+"cal": 0
+},
+{
+"aliyah": "vayeshev-5",
+"parsha": "vayeshev",
+"name": "חמישי",
+"from": [
+39,
+1
+],
+"to": [
+39,
+6
+],
+"words": 103,
+"forms": 72,
+"forms_repeat": 48,
+"forms_new": 24,
+"roots": 29,
+"roots_new": 0,
+"roots_repeat": 29,
+"cal": 0
+},
+{
+"aliyah": "vayeshev-6",
+"parsha": "vayeshev",
+"name": "שישי",
+"from": [
+39,
+7
+],
+"to": [
+39,
+23
+],
+"words": 252,
+"forms": 160,
+"forms_repeat": 116,
+"forms_new": 44,
+"roots": 55,
+"roots_new": 2,
+"roots_repeat": 53,
+"cal": 0
+},
+{
+"aliyah": "vayeshev-7",
+"parsha": "vayeshev",
+"name": "שביעי",
+"from": [
+40,
+1
+],
+"to": [
+40,
+19
+],
+"words": 273,
+"forms": 177,
+"forms_repeat": 106,
+"forms_new": 71,
+"roots": 65,
+"roots_new": 9,
+"roots_repeat": 56,
+"cal": 1
+},
+{
+"aliyah": "vayeshev-8",
+"parsha": "vayeshev",
+"name": "מפטיר",
+"from": [
+40,
+20
+],
+"to": [
+40,
+23
+],
+"words": 50,
+"forms": 34,
+"forms_repeat": 28,
+"forms_new": 6,
+"roots": 19,
+"roots_new": 0,
+"roots_repeat": 19,
+"cal": 0
+},
+{
+"aliyah": "miketz-1",
+"parsha": "miketz",
+"name": "ראשון",
+"from": [
+41,
+1
+],
+"to": [
+41,
+14
+],
+"words": 187,
+"forms": 124,
+"forms_repeat": 67,
+"forms_new": 57,
+"roots": 67,
+"roots_new": 5,
+"roots_repeat": 62,
+"cal": 0
+},
+{
+"aliyah": "miketz-2",
+"parsha": "miketz",
+"name": "שני",
+"from": [
+41,
+15
+],
+"to": [
+41,
+38
+],
+"words": 324,
+"forms": 192,
+"forms_repeat": 115,
+"forms_new": 77,
+"roots": 75,
+"roots_new": 3,
+"roots_repeat": 72,
+"cal": 0
+},
+{
+"aliyah": "miketz-3",
+"parsha": "miketz",
+"name": "שלישי",
+"from": [
+41,
+39
+],
+"to": [
+41,
+52
+],
+"words": 230,
+"forms": 148,
+"forms_repeat": 99,
+"forms_new": 49,
+"roots": 72,
+"roots_new": 5,
+"roots_repeat": 67,
+"cal": 0
+},
+{
+"aliyah": "miketz-4",
+"parsha": "miketz",
+"name": "רביעי",
+"from": [
+41,
+53
+],
+"to": [
+42,
+18
+],
+"words": 315,
+"forms": 188,
+"forms_repeat": 128,
+"forms_new": 60,
+"roots": 63,
+"roots_new": 3,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "miketz-5",
+"parsha": "miketz",
+"name": "חמישי",
+"from": [
+42,
+19
+],
+"to": [
+43,
+15
+],
+"words": 548,
+"forms": 342,
+"forms_repeat": 205,
+"forms_new": 137,
+"roots": 110,
+"roots_new": 8,
+"roots_repeat": 102,
+"cal": 0
+},
+{
+"aliyah": "miketz-6",
+"parsha": "miketz",
+"name": "שישי",
+"from": [
+43,
+16
+],
+"to": [
+43,
+29
+],
+"words": 210,
+"forms": 147,
+"forms_repeat": 105,
+"forms_new": 42,
+"roots": 61,
+"roots_new": 1,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "miketz-7",
+"parsha": "miketz",
+"name": "שביעי",
+"from": [
+43,
+30
+],
+"to": [
+44,
+13
+],
+"words": 242,
+"forms": 192,
+"forms_repeat": 114,
+"forms_new": 78,
+"roots": 78,
+"roots_new": 2,
+"roots_repeat": 76,
+"cal": 0
+},
+{
+"aliyah": "miketz-8",
+"parsha": "miketz",
+"name": "מפטיר",
+"from": [
+44,
+14
+],
+"to": [
+44,
+17
+],
+"words": 73,
+"forms": 59,
+"forms_repeat": 46,
+"forms_new": 13,
+"roots": 21,
+"roots_new": 0,
+"roots_repeat": 21,
+"cal": 0
+},
+{
+"aliyah": "vayigash-1",
+"parsha": "vayigash",
+"name": "ראשון",
+"from": [
+44,
+18
+],
+"to": [
+44,
+30
+],
+"words": 164,
+"forms": 122,
+"forms_repeat": 94,
+"forms_new": 28,
+"roots": 49,
+"roots_new": 1,
+"roots_repeat": 48,
+"cal": 0
+},
+{
+"aliyah": "vayigash-2",
+"parsha": "vayigash",
+"name": "שני",
+"from": [
+44,
+31
+],
+"to": [
+45,
+7
+],
+"words": 164,
+"forms": 120,
+"forms_repeat": 91,
+"forms_new": 29,
+"roots": 53,
+"roots_new": 1,
+"roots_repeat": 52,
+"cal": 0
+},
+{
+"aliyah": "vayigash-3",
+"parsha": "vayigash",
+"name": "שלישי",
+"from": [
+45,
+8
+],
+"to": [
+45,
+18
+],
+"words": 162,
+"forms": 134,
+"forms_repeat": 96,
+"forms_new": 38,
+"roots": 52,
+"roots_new": 1,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "vayigash-4",
+"parsha": "vayigash",
+"name": "רביעי",
+"from": [
+45,
+19
+],
+"to": [
+45,
+27
+],
+"words": 133,
+"forms": 106,
+"forms_repeat": 75,
+"forms_new": 31,
+"roots": 49,
+"roots_new": 1,
+"roots_repeat": 48,
+"cal": 0
+},
+{
+"aliyah": "vayigash-5",
+"parsha": "vayigash",
+"name": "חמישי",
+"from": [
+45,
+28
+],
+"to": [
+46,
+27
+],
+"words": 320,
+"forms": 223,
+"forms_repeat": 137,
+"forms_new": 86,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "vayigash-6",
+"parsha": "vayigash",
+"name": "שישי",
+"from": [
+46,
+28
+],
+"to": [
+47,
+10
+],
+"words": 262,
+"forms": 158,
+"forms_repeat": 109,
+"forms_new": 49,
+"roots": 57,
+"roots_new": 1,
+"roots_repeat": 56,
+"cal": 0
+},
+{
+"aliyah": "vayigash-7",
+"parsha": "vayigash",
+"name": "שביעי",
+"from": [
+47,
+11
+],
+"to": [
+47,
+24
+],
+"words": 265,
+"forms": 167,
+"forms_repeat": 106,
+"forms_new": 61,
+"roots": 63,
+"roots_new": 2,
+"roots_repeat": 61,
+"cal": 0
+},
+{
+"aliyah": "vayigash-8",
+"parsha": "vayigash",
+"name": "מפטיר",
+"from": [
+47,
+25
+],
+"to": [
+47,
+27
+],
+"words": 43,
+"forms": 38,
+"forms_repeat": 31,
+"forms_new": 7,
+"roots": 21,
+"roots_new": 0,
+"roots_repeat": 21,
+"cal": 0
+},
+{
+"aliyah": "vayechi-1",
+"parsha": "vayechi",
+"name": "ראשון",
+"from": [
+47,
+28
+],
+"to": [
+48,
+9
+],
+"words": 199,
+"forms": 155,
+"forms_repeat": 121,
+"forms_new": 34,
+"roots": 57,
+"roots_new": 2,
+"roots_repeat": 55,
+"cal": 0
+},
+{
+"aliyah": "vayechi-2",
+"parsha": "vayechi",
+"name": "שני",
+"from": [
+48,
+10
+],
+"to": [
+48,
+16
+],
+"words": 116,
+"forms": 84,
+"forms_repeat": 58,
+"forms_new": 26,
+"roots": 43,
+"roots_new": 1,
+"roots_repeat": 42,
+"cal": 0
+},
+{
+"aliyah": "vayechi-3",
+"parsha": "vayechi",
+"name": "שלישי",
+"from": [
+48,
+17
+],
+"to": [
+48,
+22
+],
+"words": 104,
+"forms": 88,
+"forms_repeat": 62,
+"forms_new": 26,
+"roots": 36,
+"roots_new": 1,
+"roots_repeat": 35,
+"cal": 0
+},
+{
+"aliyah": "vayechi-4",
+"parsha": "vayechi",
+"name": "רביעי",
+"from": [
+49,
+1
+],
+"to": [
+49,
+18
+],
+"words": 297,
+"forms": 248,
+"forms_repeat": 102,
+"forms_new": 146,
+"roots": 128,
+"roots_new": 8,
+"roots_repeat": 120,
+"cal": 0
+},
+{
+"aliyah": "vayechi-5",
+"parsha": "vayechi",
+"name": "חמישי",
+"from": [
+49,
+19
+],
+"to": [
+49,
+26
+],
+"words": 136,
+"forms": 124,
+"forms_repeat": 69,
+"forms_new": 55,
+"roots": 68,
+"roots_new": 5,
+"roots_repeat": 63,
+"cal": 0
+},
+{
+"aliyah": "vayechi-6",
+"parsha": "vayechi",
+"name": "שישי",
+"from": [
+49,
+27
+],
+"to": [
+50,
+20
+],
+"words": 410,
+"forms": 268,
+"forms_repeat": 190,
+"forms_new": 78,
+"roots": 95,
+"roots_new": 2,
+"roots_repeat": 93,
+"cal": 0
+},
+{
+"aliyah": "vayechi-7",
+"parsha": "vayechi",
+"name": "שביעי",
+"from": [
+50,
+21
+],
+"to": [
+50,
+22
+],
+"words": 25,
+"forms": 24,
+"forms_repeat": 20,
+"forms_new": 4,
+"roots": 13,
+"roots_new": 0,
+"roots_repeat": 13,
+"cal": 0
+},
+{
+"aliyah": "vayechi-8",
+"parsha": "vayechi",
+"name": "מפטיר",
+"from": [
+50,
+23
+],
+"to": [
+50,
+26
+],
+"words": 58,
+"forms": 47,
+"forms_repeat": 34,
+"forms_new": 13,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "shemot-1",
+"parsha": "shemot",
+"name": "ראשון",
+"from": [
+1,
+1
+],
+"to": [
+1,
+17
+],
+"words": 185,
+"forms": 155,
+"forms_repeat": 89,
+"forms_new": 66,
+"roots": 59,
+"roots_new": 3,
+"roots_repeat": 56,
+"cal": 0
+},
+{
+"aliyah": "shemot-2",
+"parsha": "shemot",
+"name": "שני",
+"from": [
+1,
+18
+],
+"to": [
+2,
+10
+],
+"words": 205,
+"forms": 144,
+"forms_repeat": 89,
+"forms_new": 55,
+"roots": 66,
+"roots_new": 3,
+"roots_repeat": 63,
+"cal": 0
+},
+{
+"aliyah": "shemot-3",
+"parsha": "shemot",
+"name": "שלישי",
+"from": [
+2,
+11
+],
+"to": [
+2,
+25
+],
+"words": 210,
+"forms": 155,
+"forms_repeat": 95,
+"forms_new": 60,
+"roots": 70,
+"roots_new": 4,
+"roots_repeat": 66,
+"cal": 0
+},
+{
+"aliyah": "shemot-4",
+"parsha": "shemot",
+"name": "רביעי",
+"from": [
+3,
+1
+],
+"to": [
+3,
+15
+],
+"words": 276,
+"forms": 171,
+"forms_repeat": 97,
+"forms_new": 74,
+"roots": 63,
+"roots_new": 1,
+"roots_repeat": 62,
+"cal": 0
+},
+{
+"aliyah": "shemot-5",
+"parsha": "shemot",
+"name": "חמישי",
+"from": [
+3,
+16
+],
+"to": [
+4,
+17
+],
+"words": 385,
+"forms": 256,
+"forms_repeat": 143,
+"forms_new": 113,
+"roots": 96,
+"roots_new": 6,
+"roots_repeat": 90,
+"cal": 0
+},
+{
+"aliyah": "shemot-6",
+"parsha": "shemot",
+"name": "שישי",
+"from": [
+4,
+18
+],
+"to": [
+4,
+31
+],
+"words": 216,
+"forms": 149,
+"forms_repeat": 103,
+"forms_new": 46,
+"roots": 66,
+"roots_new": 1,
+"roots_repeat": 65,
+"cal": 0
+},
+{
+"aliyah": "shemot-7",
+"parsha": "shemot",
+"name": "שביעי",
+"from": [
+5,
+1
+],
+"to": [
+5,
+21
+],
+"words": 306,
+"forms": 195,
+"forms_repeat": 116,
+"forms_new": 79,
+"roots": 64,
+"roots_new": 3,
+"roots_repeat": 61,
+"cal": 0
+},
+{
+"aliyah": "shemot-8",
+"parsha": "shemot",
+"name": "מפטיר",
+"from": [
+5,
+22
+],
+"to": [
+6,
+1
+],
+"words": 42,
+"forms": 37,
+"forms_repeat": 21,
+"forms_new": 16,
+"roots": 17,
+"roots_new": 0,
+"roots_repeat": 17,
+"cal": 0
+},
+{
+"aliyah": "vaera-1",
+"parsha": "vaera",
+"name": "ראשון",
+"from": [
+6,
+2
+],
+"to": [
+6,
+13
+],
+"words": 173,
+"forms": 106,
+"forms_repeat": 77,
+"forms_new": 29,
+"roots": 35,
+"roots_new": 0,
+"roots_repeat": 35,
+"cal": 0
+},
+{
+"aliyah": "vaera-2",
+"parsha": "vaera",
+"name": "שני",
+"from": [
+6,
+14
+],
+"to": [
+6,
+28
+],
+"words": 183,
+"forms": 112,
+"forms_repeat": 71,
+"forms_new": 41,
+"roots": 26,
+"roots_new": 0,
+"roots_repeat": 26,
+"cal": 0
+},
+{
+"aliyah": "vaera-3",
+"parsha": "vaera",
+"name": "שלישי",
+"from": [
+6,
+29
+],
+"to": [
+7,
+7
+],
+"words": 127,
+"forms": 83,
+"forms_repeat": 68,
+"forms_new": 15,
+"roots": 35,
+"roots_new": 0,
+"roots_repeat": 35,
+"cal": 0
+},
+{
+"aliyah": "vaera-4",
+"parsha": "vaera",
+"name": "רביעי",
+"from": [
+7,
+8
+],
+"to": [
+8,
+6
+],
+"words": 418,
+"forms": 229,
+"forms_repeat": 140,
+"forms_new": 89,
+"roots": 81,
+"roots_new": 3,
+"roots_repeat": 78,
+"cal": 0
+},
+{
+"aliyah": "vaera-5",
+"parsha": "vaera",
+"name": "חמישי",
+"from": [
+8,
+7
+],
+"to": [
+8,
+18
+],
+"words": 194,
+"forms": 126,
+"forms_repeat": 97,
+"forms_new": 29,
+"roots": 52,
+"roots_new": 1,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "vaera-6",
+"parsha": "vaera",
+"name": "שישי",
+"from": [
+8,
+19
+],
+"to": [
+9,
+16
+],
+"words": 410,
+"forms": 241,
+"forms_repeat": 184,
+"forms_new": 57,
+"roots": 81,
+"roots_new": 6,
+"roots_repeat": 75,
+"cal": 0
+},
+{
+"aliyah": "vaera-7",
+"parsha": "vaera",
+"name": "שביעי",
+"from": [
+9,
+17
+],
+"to": [
+9,
+32
+],
+"words": 255,
+"forms": 163,
+"forms_repeat": 111,
+"forms_new": 52,
+"roots": 63,
+"roots_new": 3,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "vaera-8",
+"parsha": "vaera",
+"name": "מפטיר",
+"from": [
+9,
+33
+],
+"to": [
+9,
+35
+],
+"words": 48,
+"forms": 45,
+"forms_repeat": 33,
+"forms_new": 12,
+"roots": 24,
+"roots_new": 0,
+"roots_repeat": 24,
+"cal": 0
+},
+{
+"aliyah": "bo-1",
+"parsha": "bo",
+"name": "ראשון",
+"from": [
+10,
+1
+],
+"to": [
+10,
+11
+],
+"words": 221,
+"forms": 146,
+"forms_repeat": 101,
+"forms_new": 45,
+"roots": 62,
+"roots_new": 2,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "bo-2",
+"parsha": "bo",
+"name": "שני",
+"from": [
+10,
+12
+],
+"to": [
+10,
+23
+],
+"words": 212,
+"forms": 126,
+"forms_repeat": 96,
+"forms_new": 30,
+"roots": 60,
+"roots_new": 0,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "bo-3",
+"parsha": "bo",
+"name": "שלישי",
+"from": [
+10,
+24
+],
+"to": [
+11,
+3
+],
+"words": 144,
+"forms": 107,
+"forms_repeat": 73,
+"forms_new": 34,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "bo-4",
+"parsha": "bo",
+"name": "רביעי",
+"from": [
+11,
+4
+],
+"to": [
+12,
+20
+],
+"words": 432,
+"forms": 274,
+"forms_repeat": 154,
+"forms_new": 120,
+"roots": 116,
+"roots_new": 10,
+"roots_repeat": 106,
+"cal": 0
+},
+{
+"aliyah": "bo-5",
+"parsha": "bo",
+"name": "חמישי",
+"from": [
+12,
+21
+],
+"to": [
+12,
+28
+],
+"words": 128,
+"forms": 96,
+"forms_repeat": 69,
+"forms_new": 27,
+"roots": 50,
+"roots_new": 2,
+"roots_repeat": 48,
+"cal": 0
+},
+{
+"aliyah": "bo-6",
+"parsha": "bo",
+"name": "שישי",
+"from": [
+12,
+29
+],
+"to": [
+12,
+51
+],
+"words": 319,
+"forms": 210,
+"forms_repeat": 144,
+"forms_new": 66,
+"roots": 96,
+"roots_new": 2,
+"roots_repeat": 94,
+"cal": 0
+},
+{
+"aliyah": "bo-7",
+"parsha": "bo",
+"name": "שביעי",
+"from": [
+13,
+1
+],
+"to": [
+13,
+13
+],
+"words": 179,
+"forms": 122,
+"forms_repeat": 86,
+"forms_new": 36,
+"roots": 49,
+"roots_new": 0,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "bo-8",
+"parsha": "bo",
+"name": "מפטיר",
+"from": [
+13,
+14
+],
+"to": [
+13,
+16
+],
+"words": 60,
+"forms": 47,
+"forms_repeat": 39,
+"forms_new": 8,
+"roots": 27,
+"roots_new": 1,
+"roots_repeat": 26,
+"cal": 0
+},
+{
+"aliyah": "beshalach-1",
+"parsha": "beshalach",
+"name": "ראשון",
+"from": [
+13,
+17
+],
+"to": [
+14,
+8
+],
+"words": 203,
+"forms": 141,
+"forms_repeat": 92,
+"forms_new": 49,
+"roots": 57,
+"roots_new": 2,
+"roots_repeat": 55,
+"cal": 0
+},
+{
+"aliyah": "beshalach-2",
+"parsha": "beshalach",
+"name": "שני",
+"from": [
+14,
+9
+],
+"to": [
+14,
+14
+],
+"words": 107,
+"forms": 87,
+"forms_repeat": 65,
+"forms_new": 22,
+"roots": 38,
+"roots_new": 0,
+"roots_repeat": 38,
+"cal": 0
+},
+{
+"aliyah": "beshalach-3",
+"parsha": "beshalach",
+"name": "שלישי",
+"from": [
+14,
+15
+],
+"to": [
+14,
+25
+],
+"words": 167,
+"forms": 113,
+"forms_repeat": 80,
+"forms_new": 33,
+"roots": 50,
+"roots_new": 2,
+"roots_repeat": 48,
+"cal": 0
+},
+{
+"aliyah": "beshalach-4",
+"parsha": "beshalach",
+"name": "רביעי",
+"from": [
+14,
+26
+],
+"to": [
+15,
+26
+],
+"words": 449,
+"forms": 317,
+"forms_repeat": 150,
+"forms_new": 167,
+"roots": 142,
+"roots_new": 14,
+"roots_repeat": 128,
+"cal": 0
+},
+{
+"aliyah": "beshalach-5",
+"parsha": "beshalach",
+"name": "חמישי",
+"from": [
+15,
+27
+],
+"to": [
+16,
+10
+],
+"words": 206,
+"forms": 132,
+"forms_repeat": 94,
+"forms_new": 38,
+"roots": 54,
+"roots_new": 2,
+"roots_repeat": 52,
+"cal": 0
+},
+{
+"aliyah": "beshalach-6",
+"parsha": "beshalach",
+"name": "שישי",
+"from": [
+16,
+11
+],
+"to": [
+16,
+36
+],
+"words": 382,
+"forms": 224,
+"forms_repeat": 139,
+"forms_new": 85,
+"roots": 99,
+"roots_new": 5,
+"roots_repeat": 94,
+"cal": 0
+},
+{
+"aliyah": "beshalach-7",
+"parsha": "beshalach",
+"name": "שביעי",
+"from": [
+17,
+1
+],
+"to": [
+17,
+13
+],
+"words": 223,
+"forms": 162,
+"forms_repeat": 107,
+"forms_new": 55,
+"roots": 59,
+"roots_new": 1,
+"roots_repeat": 58,
+"cal": 0
+},
+{
+"aliyah": "beshalach-8",
+"parsha": "beshalach",
+"name": "מפטיר",
+"from": [
+17,
+14
+],
+"to": [
+17,
+16
+],
+"words": 49,
+"forms": 41,
+"forms_repeat": 25,
+"forms_new": 16,
+"roots": 25,
+"roots_new": 0,
+"roots_repeat": 25,
+"cal": 0
+},
+{
+"aliyah": "yitro-1",
+"parsha": "yitro",
+"name": "ראשון",
+"from": [
+18,
+1
+],
+"to": [
+18,
+12
+],
+"words": 188,
+"forms": 124,
+"forms_repeat": 99,
+"forms_new": 25,
+"roots": 60,
+"roots_new": 0,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "yitro-2",
+"parsha": "yitro",
+"name": "שני",
+"from": [
+18,
+13
+],
+"to": [
+18,
+23
+],
+"words": 199,
+"forms": 131,
+"forms_repeat": 90,
+"forms_new": 41,
+"roots": 50,
+"roots_new": 1,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "yitro-3",
+"parsha": "yitro",
+"name": "שלישי",
+"from": [
+18,
+24
+],
+"to": [
+18,
+27
+],
+"words": 50,
+"forms": 41,
+"forms_repeat": 32,
+"forms_new": 9,
+"roots": 24,
+"roots_new": 0,
+"roots_repeat": 24,
+"cal": 0
+},
+{
+"aliyah": "yitro-4",
+"parsha": "yitro",
+"name": "רביעי",
+"from": [
+19,
+1
+],
+"to": [
+19,
+6
+],
+"words": 89,
+"forms": 77,
+"forms_repeat": 59,
+"forms_new": 18,
+"roots": 34,
+"roots_new": 2,
+"roots_repeat": 32,
+"cal": 0
+},
+{
+"aliyah": "yitro-5",
+"parsha": "yitro",
+"name": "חמישי",
+"from": [
+19,
+7
+],
+"to": [
+19,
+19
+],
+"words": 207,
+"forms": 140,
+"forms_repeat": 89,
+"forms_new": 51,
+"roots": 60,
+"roots_new": 4,
+"roots_repeat": 56,
+"cal": 0
+},
+{
+"aliyah": "yitro-6",
+"parsha": "yitro",
+"name": "שישי",
+"from": [
+19,
+20
+],
+"to": [
+20,
+14
+],
+"words": 270,
+"forms": 176,
+"forms_repeat": 103,
+"forms_new": 73,
+"roots": 84,
+"roots_new": 4,
+"roots_repeat": 80,
+"cal": 0
+},
+{
+"aliyah": "yitro-7",
+"parsha": "yitro",
+"name": "שביעי",
+"from": [
+20,
+15
+],
+"to": [
+20,
+18
+],
+"words": 63,
+"forms": 54,
+"forms_repeat": 42,
+"forms_new": 12,
+"roots": 25,
+"roots_new": 0,
+"roots_repeat": 25,
+"cal": 0
+},
+{
+"aliyah": "yitro-8",
+"parsha": "yitro",
+"name": "מפטיר",
+"from": [
+20,
+19
+],
+"to": [
+20,
+23
+],
+"words": 75,
+"forms": 64,
+"forms_repeat": 42,
+"forms_new": 22,
+"roots": 33,
+"roots_new": 2,
+"roots_repeat": 31,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-1",
+"parsha": "mishpatim",
+"name": "ראשון",
+"from": [
+21,
+1
+],
+"to": [
+21,
+19
+],
+"words": 216,
+"forms": 158,
+"forms_repeat": 84,
+"forms_new": 74,
+"roots": 77,
+"roots_new": 7,
+"roots_repeat": 70,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-2",
+"parsha": "mishpatim",
+"name": "שני",
+"from": [
+21,
+20
+],
+"to": [
+22,
+3
+],
+"words": 303,
+"forms": 170,
+"forms_repeat": 87,
+"forms_new": 83,
+"roots": 73,
+"roots_new": 4,
+"roots_repeat": 69,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-3",
+"parsha": "mishpatim",
+"name": "שלישי",
+"from": [
+22,
+4
+],
+"to": [
+22,
+26
+],
+"words": 298,
+"forms": 189,
+"forms_repeat": 98,
+"forms_new": 91,
+"roots": 90,
+"roots_new": 7,
+"roots_repeat": 83,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-4",
+"parsha": "mishpatim",
+"name": "רביעי",
+"from": [
+22,
+27
+],
+"to": [
+23,
+5
+],
+"words": 103,
+"forms": 86,
+"forms_repeat": 43,
+"forms_new": 43,
+"roots": 54,
+"roots_new": 3,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-5",
+"parsha": "mishpatim",
+"name": "חמישי",
+"from": [
+23,
+6
+],
+"to": [
+23,
+19
+],
+"words": 176,
+"forms": 140,
+"forms_repeat": 80,
+"forms_new": 60,
+"roots": 86,
+"roots_new": 7,
+"roots_repeat": 79,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-6",
+"parsha": "mishpatim",
+"name": "שישי",
+"from": [
+23,
+20
+],
+"to": [
+23,
+25
+],
+"words": 79,
+"forms": 69,
+"forms_repeat": 38,
+"forms_new": 31,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-7",
+"parsha": "mishpatim",
+"name": "שביעי",
+"from": [
+23,
+26
+],
+"to": [
+24,
+14
+],
+"words": 322,
+"forms": 215,
+"forms_repeat": 142,
+"forms_new": 73,
+"roots": 101,
+"roots_new": 1,
+"roots_repeat": 100,
+"cal": 0
+},
+{
+"aliyah": "mishpatim-8",
+"parsha": "mishpatim",
+"name": "מפטיר",
+"from": [
+24,
+15
+],
+"to": [
+24,
+18
+],
+"words": 47,
+"forms": 37,
+"forms_repeat": 33,
+"forms_new": 4,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "terumah-1",
+"parsha": "terumah",
+"name": "ראשון",
+"from": [
+25,
+1
+],
+"to": [
+25,
+16
+],
+"words": 152,
+"forms": 117,
+"forms_repeat": 60,
+"forms_new": 57,
+"roots": 60,
+"roots_new": 4,
+"roots_repeat": 56,
+"cal": 0
+},
+{
+"aliyah": "terumah-2",
+"parsha": "terumah",
+"name": "שני",
+"from": [
+25,
+17
+],
+"to": [
+25,
+40
+],
+"words": 295,
+"forms": 158,
+"forms_repeat": 88,
+"forms_new": 70,
+"roots": 64,
+"roots_new": 6,
+"roots_repeat": 58,
+"cal": 0
+},
+{
+"aliyah": "terumah-3",
+"parsha": "terumah",
+"name": "שלישי",
+"from": [
+26,
+1
+],
+"to": [
+26,
+14
+],
+"words": 205,
+"forms": 97,
+"forms_repeat": 51,
+"forms_new": 46,
+"roots": 48,
+"roots_new": 5,
+"roots_repeat": 43,
+"cal": 0
+},
+{
+"aliyah": "terumah-4",
+"parsha": "terumah",
+"name": "רביעי",
+"from": [
+26,
+15
+],
+"to": [
+26,
+30
+],
+"words": 177,
+"forms": 96,
+"forms_repeat": 48,
+"forms_new": 48,
+"roots": 45,
+"roots_new": 2,
+"roots_repeat": 43,
+"cal": 0
+},
+{
+"aliyah": "terumah-5",
+"parsha": "terumah",
+"name": "חמישי",
+"from": [
+26,
+31
+],
+"to": [
+26,
+37
+],
+"words": 101,
+"forms": 67,
+"forms_repeat": 47,
+"forms_new": 20,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "terumah-6",
+"parsha": "terumah",
+"name": "שישי",
+"from": [
+27,
+1
+],
+"to": [
+27,
+8
+],
+"words": 98,
+"forms": 70,
+"forms_repeat": 51,
+"forms_new": 19,
+"roots": 40,
+"roots_new": 5,
+"roots_repeat": 35,
+"cal": 0
+},
+{
+"aliyah": "terumah-7",
+"parsha": "terumah",
+"name": "שביעי",
+"from": [
+27,
+9
+],
+"to": [
+27,
+16
+],
+"words": 94,
+"forms": 55,
+"forms_repeat": 37,
+"forms_new": 18,
+"roots": 31,
+"roots_new": 0,
+"roots_repeat": 31,
+"cal": 0
+},
+{
+"aliyah": "terumah-8",
+"parsha": "terumah",
+"name": "מפטיר",
+"from": [
+27,
+17
+],
+"to": [
+27,
+19
+],
+"words": 36,
+"forms": 29,
+"forms_repeat": 21,
+"forms_new": 8,
+"roots": 19,
+"roots_new": 1,
+"roots_repeat": 18,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-1",
+"parsha": "tetzaveh",
+"name": "ראשון",
+"from": [
+27,
+20
+],
+"to": [
+28,
+12
+],
+"words": 213,
+"forms": 142,
+"forms_repeat": 88,
+"forms_new": 54,
+"roots": 63,
+"roots_new": 2,
+"roots_repeat": 61,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-2",
+"parsha": "tetzaveh",
+"name": "שני",
+"from": [
+28,
+13
+],
+"to": [
+28,
+30
+],
+"words": 241,
+"forms": 141,
+"forms_repeat": 89,
+"forms_new": 52,
+"roots": 60,
+"roots_new": 1,
+"roots_repeat": 59,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-3",
+"parsha": "tetzaveh",
+"name": "שלישי",
+"from": [
+28,
+31
+],
+"to": [
+28,
+43
+],
+"words": 186,
+"forms": 132,
+"forms_repeat": 84,
+"forms_new": 48,
+"roots": 62,
+"roots_new": 4,
+"roots_repeat": 58,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-4",
+"parsha": "tetzaveh",
+"name": "רביעי",
+"from": [
+29,
+1
+],
+"to": [
+29,
+18
+],
+"words": 235,
+"forms": 138,
+"forms_repeat": 75,
+"forms_new": 63,
+"roots": 67,
+"roots_new": 4,
+"roots_repeat": 63,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-5",
+"parsha": "tetzaveh",
+"name": "חמישי",
+"from": [
+29,
+19
+],
+"to": [
+29,
+37
+],
+"words": 311,
+"forms": 176,
+"forms_repeat": 110,
+"forms_new": 66,
+"roots": 71,
+"roots_new": 0,
+"roots_repeat": 71,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-6",
+"parsha": "tetzaveh",
+"name": "שישי",
+"from": [
+29,
+38
+],
+"to": [
+29,
+46
+],
+"words": 110,
+"forms": 81,
+"forms_repeat": 60,
+"forms_new": 21,
+"roots": 39,
+"roots_new": 1,
+"roots_repeat": 38,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-7",
+"parsha": "tetzaveh",
+"name": "שביעי",
+"from": [
+30,
+1
+],
+"to": [
+30,
+7
+],
+"words": 96,
+"forms": 68,
+"forms_repeat": 55,
+"forms_new": 13,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "tetzaveh-8",
+"parsha": "tetzaveh",
+"name": "מפטיר",
+"from": [
+30,
+8
+],
+"to": [
+30,
+10
+],
+"words": 44,
+"forms": 35,
+"forms_repeat": 26,
+"forms_new": 9,
+"roots": 19,
+"roots_new": 0,
+"roots_repeat": 19,
+"cal": 0
+},
+{
+"aliyah": "kitisa-1",
+"parsha": "kitisa",
+"name": "ראשון",
+"from": [
+30,
+11
+],
+"to": [
+31,
+17
+],
+"words": 572,
+"forms": 305,
+"forms_repeat": 206,
+"forms_new": 99,
+"roots": 105,
+"roots_new": 5,
+"roots_repeat": 100,
+"cal": 0
+},
+{
+"aliyah": "kitisa-2",
+"parsha": "kitisa",
+"name": "שני",
+"from": [
+31,
+18
+],
+"to": [
+33,
+11
+],
+"words": 765,
+"forms": 436,
+"forms_repeat": 285,
+"forms_new": 151,
+"roots": 143,
+"roots_new": 4,
+"roots_repeat": 139,
+"cal": 0
+},
+{
+"aliyah": "kitisa-3",
+"parsha": "kitisa",
+"name": "שלישי",
+"from": [
+33,
+12
+],
+"to": [
+33,
+16
+],
+"words": 90,
+"forms": 70,
+"forms_repeat": 46,
+"forms_new": 24,
+"roots": 23,
+"roots_new": 0,
+"roots_repeat": 23,
+"cal": 0
+},
+{
+"aliyah": "kitisa-4",
+"parsha": "kitisa",
+"name": "רביעי",
+"from": [
+33,
+17
+],
+"to": [
+33,
+23
+],
+"words": 81,
+"forms": 65,
+"forms_repeat": 40,
+"forms_new": 25,
+"roots": 30,
+"roots_new": 0,
+"roots_repeat": 30,
+"cal": 0
+},
+{
+"aliyah": "kitisa-5",
+"parsha": "kitisa",
+"name": "חמישי",
+"from": [
+34,
+1
+],
+"to": [
+34,
+9
+],
+"words": 155,
+"forms": 122,
+"forms_repeat": 85,
+"forms_new": 37,
+"roots": 69,
+"roots_new": 1,
+"roots_repeat": 68,
+"cal": 0
+},
+{
+"aliyah": "kitisa-6",
+"parsha": "kitisa",
+"name": "שישי",
+"from": [
+34,
+10
+],
+"to": [
+34,
+26
+],
+"words": 247,
+"forms": 176,
+"forms_repeat": 122,
+"forms_new": 54,
+"roots": 83,
+"roots_new": 0,
+"roots_repeat": 83,
+"cal": 0
+},
+{
+"aliyah": "kitisa-7",
+"parsha": "kitisa",
+"name": "שביעי",
+"from": [
+34,
+27
+],
+"to": [
+34,
+32
+],
+"words": 106,
+"forms": 79,
+"forms_repeat": 67,
+"forms_new": 12,
+"roots": 37,
+"roots_new": 0,
+"roots_repeat": 37,
+"cal": 0
+},
+{
+"aliyah": "kitisa-8",
+"parsha": "kitisa",
+"name": "מפטיר",
+"from": [
+34,
+33
+],
+"to": [
+34,
+35
+],
+"words": 53,
+"forms": 34,
+"forms_repeat": 28,
+"forms_new": 6,
+"roots": 16,
+"roots_new": 0,
+"roots_repeat": 16,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-1",
+"parsha": "vayakhel",
+"name": "ראשון",
+"from": [
+35,
+1
+],
+"to": [
+35,
+20
+],
+"words": 227,
+"forms": 138,
+"forms_repeat": 107,
+"forms_new": 31,
+"roots": 66,
+"roots_new": 0,
+"roots_repeat": 66,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-2",
+"parsha": "vayakhel",
+"name": "שני",
+"from": [
+35,
+21
+],
+"to": [
+35,
+29
+],
+"words": 149,
+"forms": 100,
+"forms_repeat": 72,
+"forms_new": 28,
+"roots": 45,
+"roots_new": 3,
+"roots_repeat": 42,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-3",
+"parsha": "vayakhel",
+"name": "שלישי",
+"from": [
+35,
+30
+],
+"to": [
+36,
+7
+],
+"words": 189,
+"forms": 130,
+"forms_repeat": 91,
+"forms_new": 39,
+"roots": 50,
+"roots_new": 0,
+"roots_repeat": 50,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-4",
+"parsha": "vayakhel",
+"name": "רביעי",
+"from": [
+36,
+8
+],
+"to": [
+36,
+19
+],
+"words": 172,
+"forms": 89,
+"forms_repeat": 75,
+"forms_new": 14,
+"roots": 41,
+"roots_new": 0,
+"roots_repeat": 41,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-5",
+"parsha": "vayakhel",
+"name": "חמישי",
+"from": [
+36,
+20
+],
+"to": [
+37,
+16
+],
+"words": 426,
+"forms": 185,
+"forms_repeat": 171,
+"forms_new": 14,
+"roots": 68,
+"roots_new": 0,
+"roots_repeat": 68,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-6",
+"parsha": "vayakhel",
+"name": "שישי",
+"from": [
+37,
+17
+],
+"to": [
+37,
+29
+],
+"words": 173,
+"forms": 98,
+"forms_repeat": 90,
+"forms_new": 8,
+"roots": 44,
+"roots_new": 0,
+"roots_repeat": 44,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-7",
+"parsha": "vayakhel",
+"name": "שביעי",
+"from": [
+38,
+1
+],
+"to": [
+38,
+17
+],
+"words": 200,
+"forms": 114,
+"forms_repeat": 97,
+"forms_new": 17,
+"roots": 64,
+"roots_new": 0,
+"roots_repeat": 64,
+"cal": 0
+},
+{
+"aliyah": "vayakhel-8",
+"parsha": "vayakhel",
+"name": "מפטיר",
+"from": [
+38,
+18
+],
+"to": [
+38,
+20
+],
+"words": 39,
+"forms": 36,
+"forms_repeat": 30,
+"forms_new": 6,
+"roots": 27,
+"roots_new": 0,
+"roots_repeat": 27,
+"cal": 0
+},
+{
+"aliyah": "pekudei-1",
+"parsha": "pekudei",
+"name": "ראשון",
+"from": [
+38,
+21
+],
+"to": [
+39,
+1
+],
+"words": 198,
+"forms": 127,
+"forms_repeat": 106,
+"forms_new": 21,
+"roots": 57,
+"roots_new": 0,
+"roots_repeat": 57,
+"cal": 0
+},
+{
+"aliyah": "pekudei-2",
+"parsha": "pekudei",
+"name": "שני",
+"from": [
+39,
+2
+],
+"to": [
+39,
+21
+],
+"words": 270,
+"forms": 154,
+"forms_repeat": 130,
+"forms_new": 24,
+"roots": 60,
+"roots_new": 1,
+"roots_repeat": 59,
+"cal": 0
+},
+{
+"aliyah": "pekudei-3",
+"parsha": "pekudei",
+"name": "שלישי",
+"from": [
+39,
+22
+],
+"to": [
+39,
+32
+],
+"words": 144,
+"forms": 81,
+"forms_repeat": 67,
+"forms_new": 14,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "pekudei-4",
+"parsha": "pekudei",
+"name": "רביעי",
+"from": [
+39,
+33
+],
+"to": [
+39,
+43
+],
+"words": 148,
+"forms": 84,
+"forms_repeat": 75,
+"forms_new": 9,
+"roots": 46,
+"roots_new": 0,
+"roots_repeat": 46,
+"cal": 0
+},
+{
+"aliyah": "pekudei-5",
+"parsha": "pekudei",
+"name": "חמישי",
+"from": [
+40,
+1
+],
+"to": [
+40,
+16
+],
+"words": 174,
+"forms": 95,
+"forms_repeat": 85,
+"forms_new": 10,
+"roots": 47,
+"roots_new": 0,
+"roots_repeat": 47,
+"cal": 0
+},
+{
+"aliyah": "pekudei-6",
+"parsha": "pekudei",
+"name": "שישי",
+"from": [
+40,
+17
+],
+"to": [
+40,
+27
+],
+"words": 138,
+"forms": 63,
+"forms_repeat": 55,
+"forms_new": 8,
+"roots": 38,
+"roots_new": 0,
+"roots_repeat": 38,
+"cal": 0
+},
+{
+"aliyah": "pekudei-7",
+"parsha": "pekudei",
+"name": "שביעי",
+"from": [
+40,
+28
+],
+"to": [
+40,
+33
+],
+"words": 74,
+"forms": 47,
+"forms_repeat": 43,
+"forms_new": 4,
+"roots": 24,
+"roots_new": 0,
+"roots_repeat": 24,
+"cal": 0
+},
+{
+"aliyah": "pekudei-8",
+"parsha": "pekudei",
+"name": "מפטיר",
+"from": [
+40,
+34
+],
+"to": [
+40,
+38
+],
+"words": 61,
+"forms": 41,
+"forms_repeat": 33,
+"forms_new": 8,
+"roots": 22,
+"roots_new": 0,
+"roots_repeat": 22,
+"cal": 0
+},
+{
+"aliyah": "vayikra-1",
+"parsha": "vayikra",
+"name": "ראשון",
+"from": [
+1,
+1
+],
+"to": [
+1,
+13
+],
+"words": 196,
+"forms": 101,
+"forms_repeat": 71,
+"forms_new": 30,
+"roots": 45,
+"roots_new": 0,
+"roots_repeat": 45,
+"cal": 0
+},
+{
+"aliyah": "vayikra-2",
+"parsha": "vayikra",
+"name": "שני",
+"from": [
+1,
+14
+],
+"to": [
+2,
+6
+],
+"words": 144,
+"forms": 101,
+"forms_repeat": 59,
+"forms_new": 42,
+"roots": 45,
+"roots_new": 5,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "vayikra-3",
+"parsha": "vayikra",
+"name": "שלישי",
+"from": [
+2,
+7
+],
+"to": [
+2,
+16
+],
+"words": 125,
+"forms": 84,
+"forms_repeat": 60,
+"forms_new": 24,
+"roots": 32,
+"roots_new": 2,
+"roots_repeat": 30,
+"cal": 0
+},
+{
+"aliyah": "vayikra-4",
+"parsha": "vayikra",
+"name": "רביעי",
+"from": [
+3,
+1
+],
+"to": [
+3,
+17
+],
+"words": 262,
+"forms": 96,
+"forms_repeat": 74,
+"forms_new": 22,
+"roots": 41,
+"roots_new": 0,
+"roots_repeat": 41,
+"cal": 0
+},
+{
+"aliyah": "vayikra-5",
+"parsha": "vayikra",
+"name": "חמישי",
+"from": [
+4,
+1
+],
+"to": [
+4,
+26
+],
+"words": 400,
+"forms": 190,
+"forms_repeat": 141,
+"forms_new": 49,
+"roots": 76,
+"roots_new": 0,
+"roots_repeat": 76,
+"cal": 0
+},
+{
+"aliyah": "vayikra-6",
+"parsha": "vayikra",
+"name": "שישי",
+"from": [
+4,
+27
+],
+"to": [
+5,
+10
+],
+"words": 321,
+"forms": 164,
+"forms_repeat": 115,
+"forms_new": 49,
+"roots": 73,
+"roots_new": 1,
+"roots_repeat": 72,
+"cal": 0
+},
+{
+"aliyah": "vayikra-7",
+"parsha": "vayikra",
+"name": "שביעי",
+"from": [
+5,
+11
+],
+"to": [
+5,
+23
+],
+"words": 225,
+"forms": 135,
+"forms_repeat": 91,
+"forms_new": 44,
+"roots": 56,
+"roots_new": 3,
+"roots_repeat": 53,
+"cal": 0
+},
+{
+"aliyah": "vayikra-8",
+"parsha": "vayikra",
+"name": "מפטיר",
+"from": [
+5,
+24
+],
+"to": [
+5,
+26
+],
+"words": 45,
+"forms": 40,
+"forms_repeat": 32,
+"forms_new": 8,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "tzav-1",
+"parsha": "tzav",
+"name": "ראשון",
+"from": [
+6,
+1
+],
+"to": [
+6,
+11
+],
+"words": 163,
+"forms": 117,
+"forms_repeat": 91,
+"forms_new": 26,
+"roots": 59,
+"roots_new": 1,
+"roots_repeat": 58,
+"cal": 0
+},
+{
+"aliyah": "tzav-2",
+"parsha": "tzav",
+"name": "שני",
+"from": [
+6,
+12
+],
+"to": [
+7,
+10
+],
+"words": 265,
+"forms": 172,
+"forms_repeat": 121,
+"forms_new": 51,
+"roots": 74,
+"roots_new": 4,
+"roots_repeat": 70,
+"cal": 0
+},
+{
+"aliyah": "tzav-3",
+"parsha": "tzav",
+"name": "שלישי",
+"from": [
+7,
+11
+],
+"to": [
+7,
+38
+],
+"words": 384,
+"forms": 194,
+"forms_repeat": 148,
+"forms_new": 46,
+"roots": 79,
+"roots_new": 2,
+"roots_repeat": 77,
+"cal": 0
+},
+{
+"aliyah": "tzav-4",
+"parsha": "tzav",
+"name": "רביעי",
+"from": [
+8,
+1
+],
+"to": [
+8,
+13
+],
+"words": 174,
+"forms": 94,
+"forms_repeat": 82,
+"forms_new": 12,
+"roots": 40,
+"roots_new": 0,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "tzav-5",
+"parsha": "tzav",
+"name": "חמישי",
+"from": [
+8,
+14
+],
+"to": [
+8,
+21
+],
+"words": 131,
+"forms": 67,
+"forms_repeat": 55,
+"forms_new": 12,
+"roots": 42,
+"roots_new": 0,
+"roots_repeat": 42,
+"cal": 0
+},
+{
+"aliyah": "tzav-6",
+"parsha": "tzav",
+"name": "שישי",
+"from": [
+8,
+22
+],
+"to": [
+8,
+29
+],
+"words": 154,
+"forms": 85,
+"forms_repeat": 76,
+"forms_new": 9,
+"roots": 39,
+"roots_new": 0,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "tzav-7",
+"parsha": "tzav",
+"name": "שביעי",
+"from": [
+8,
+30
+],
+"to": [
+8,
+32
+],
+"words": 61,
+"forms": 45,
+"forms_repeat": 40,
+"forms_new": 5,
+"roots": 23,
+"roots_new": 0,
+"roots_repeat": 23,
+"cal": 0
+},
+{
+"aliyah": "tzav-8",
+"parsha": "tzav",
+"name": "מפטיר",
+"from": [
+8,
+33
+],
+"to": [
+8,
+36
+],
+"words": 57,
+"forms": 47,
+"forms_repeat": 38,
+"forms_new": 9,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "shemini-1",
+"parsha": "shemini",
+"name": "ראשון",
+"from": [
+9,
+1
+],
+"to": [
+9,
+16
+],
+"words": 211,
+"forms": 128,
+"forms_repeat": 100,
+"forms_new": 28,
+"roots": 61,
+"roots_new": 0,
+"roots_repeat": 61,
+"cal": 0
+},
+{
+"aliyah": "shemini-2",
+"parsha": "shemini",
+"name": "שני",
+"from": [
+9,
+17
+],
+"to": [
+9,
+23
+],
+"words": 93,
+"forms": 68,
+"forms_repeat": 59,
+"forms_new": 9,
+"roots": 39,
+"roots_new": 0,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "shemini-3",
+"parsha": "shemini",
+"name": "שלישי",
+"from": [
+9,
+24
+],
+"to": [
+10,
+11
+],
+"words": 184,
+"forms": 124,
+"forms_repeat": 94,
+"forms_new": 30,
+"roots": 66,
+"roots_new": 0,
+"roots_repeat": 66,
+"cal": 0
+},
+{
+"aliyah": "shemini-4",
+"parsha": "shemini",
+"name": "רביעי",
+"from": [
+10,
+12
+],
+"to": [
+10,
+15
+],
+"words": 82,
+"forms": 66,
+"forms_repeat": 54,
+"forms_new": 12,
+"roots": 29,
+"roots_new": 0,
+"roots_repeat": 29,
+"cal": 0
+},
+{
+"aliyah": "shemini-5",
+"parsha": "shemini",
+"name": "חמישי",
+"from": [
+10,
+16
+],
+"to": [
+10,
+20
+],
+"words": 84,
+"forms": 68,
+"forms_repeat": 48,
+"forms_new": 20,
+"roots": 32,
+"roots_new": 1,
+"roots_repeat": 31,
+"cal": 0
+},
+{
+"aliyah": "shemini-6",
+"parsha": "shemini",
+"name": "שישי",
+"from": [
+11,
+1
+],
+"to": [
+11,
+32
+],
+"words": 378,
+"forms": 176,
+"forms_repeat": 87,
+"forms_new": 89,
+"roots": 55,
+"roots_new": 3,
+"roots_repeat": 52,
+"cal": 9
+},
+{
+"aliyah": "shemini-7",
+"parsha": "shemini",
+"name": "שביעי",
+"from": [
+11,
+33
+],
+"to": [
+11,
+44
+],
+"words": 175,
+"forms": 100,
+"forms_repeat": 72,
+"forms_new": 28,
+"roots": 39,
+"roots_new": 0,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "shemini-8",
+"parsha": "shemini",
+"name": "מפטיר",
+"from": [
+11,
+45
+],
+"to": [
+11,
+47
+],
+"words": 42,
+"forms": 35,
+"forms_repeat": 29,
+"forms_new": 6,
+"roots": 17,
+"roots_new": 0,
+"roots_repeat": 17,
+"cal": 0
+},
+{
+"aliyah": "tazria-1",
+"parsha": "tazria",
+"name": "ראשון",
+"from": [
+12,
+1
+],
+"to": [
+13,
+5
+],
+"words": 209,
+"forms": 146,
+"forms_repeat": 93,
+"forms_new": 53,
+"roots": 60,
+"roots_new": 2,
+"roots_repeat": 58,
+"cal": 2
+},
+{
+"aliyah": "tazria-2",
+"parsha": "tazria",
+"name": "שני",
+"from": [
+13,
+6
+],
+"to": [
+13,
+17
+],
+"words": 151,
+"forms": 85,
+"forms_repeat": 56,
+"forms_new": 29,
+"roots": 34,
+"roots_new": 3,
+"roots_repeat": 31,
+"cal": 0
+},
+{
+"aliyah": "tazria-3",
+"parsha": "tazria",
+"name": "שלישי",
+"from": [
+13,
+18
+],
+"to": [
+13,
+23
+],
+"words": 73,
+"forms": 59,
+"forms_repeat": 45,
+"forms_new": 14,
+"roots": 26,
+"roots_new": 1,
+"roots_repeat": 25,
+"cal": 1
+},
+{
+"aliyah": "tazria-4",
+"parsha": "tazria",
+"name": "רביעי",
+"from": [
+13,
+24
+],
+"to": [
+13,
+28
+],
+"words": 87,
+"forms": 55,
+"forms_repeat": 46,
+"forms_new": 9,
+"roots": 26,
+"roots_new": 0,
+"roots_repeat": 26,
+"cal": 0
+},
+{
+"aliyah": "tazria-5",
+"parsha": "tazria",
+"name": "חמישי",
+"from": [
+13,
+29
+],
+"to": [
+13,
+39
+],
+"words": 172,
+"forms": 82,
+"forms_repeat": 58,
+"forms_new": 24,
+"roots": 37,
+"roots_new": 6,
+"roots_repeat": 31,
+"cal": 1
+},
+{
+"aliyah": "tazria-6",
+"parsha": "tazria",
+"name": "שישי",
+"from": [
+13,
+40
+],
+"to": [
+13,
+54
+],
+"words": 223,
+"forms": 115,
+"forms_repeat": 67,
+"forms_new": 48,
+"roots": 47,
+"roots_new": 3,
+"roots_repeat": 44,
+"cal": 4
+},
+{
+"aliyah": "tazria-7",
+"parsha": "tazria",
+"name": "שביעי",
+"from": [
+13,
+55
+],
+"to": [
+13,
+56
+],
+"words": 47,
+"forms": 32,
+"forms_repeat": 26,
+"forms_new": 6,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "tazria-8",
+"parsha": "tazria",
+"name": "מפטיר",
+"from": [
+13,
+57
+],
+"to": [
+13,
+59
+],
+"words": 56,
+"forms": 39,
+"forms_repeat": 30,
+"forms_new": 9,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "metzora-1",
+"parsha": "metzora",
+"name": "ראשון",
+"from": [
+14,
+1
+],
+"to": [
+14,
+12
+],
+"words": 183,
+"forms": 127,
+"forms_repeat": 93,
+"forms_new": 34,
+"roots": 69,
+"roots_new": 2,
+"roots_repeat": 67,
+"cal": 0
+},
+{
+"aliyah": "metzora-2",
+"parsha": "metzora",
+"name": "שני",
+"from": [
+14,
+13
+],
+"to": [
+14,
+20
+],
+"words": 129,
+"forms": 65,
+"forms_repeat": 59,
+"forms_new": 6,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "metzora-3",
+"parsha": "metzora",
+"name": "שלישי",
+"from": [
+14,
+21
+],
+"to": [
+14,
+32
+],
+"words": 185,
+"forms": 93,
+"forms_repeat": 86,
+"forms_new": 7,
+"roots": 45,
+"roots_new": 0,
+"roots_repeat": 45,
+"cal": 0
+},
+{
+"aliyah": "metzora-4",
+"parsha": "metzora",
+"name": "רביעי",
+"from": [
+14,
+33
+],
+"to": [
+14,
+53
+],
+"words": 287,
+"forms": 160,
+"forms_repeat": 118,
+"forms_new": 42,
+"roots": 69,
+"roots_new": 1,
+"roots_repeat": 68,
+"cal": 1
+},
+{
+"aliyah": "metzora-5",
+"parsha": "metzora",
+"name": "חמישי",
+"from": [
+14,
+54
+],
+"to": [
+15,
+15
+],
+"words": 223,
+"forms": 127,
+"forms_repeat": 89,
+"forms_new": 38,
+"roots": 57,
+"roots_new": 3,
+"roots_repeat": 54,
+"cal": 1
+},
+{
+"aliyah": "metzora-6",
+"parsha": "metzora",
+"name": "שישי",
+"from": [
+15,
+16
+],
+"to": [
+15,
+28
+],
+"words": 204,
+"forms": 86,
+"forms_repeat": 58,
+"forms_new": 28,
+"roots": 28,
+"roots_new": 0,
+"roots_repeat": 28,
+"cal": 0
+},
+{
+"aliyah": "metzora-7",
+"parsha": "metzora",
+"name": "שביעי",
+"from": [
+15,
+29
+],
+"to": [
+15,
+30
+],
+"words": 32,
+"forms": 29,
+"forms_repeat": 27,
+"forms_new": 2,
+"roots": 18,
+"roots_new": 0,
+"roots_repeat": 18,
+"cal": 0
+},
+{
+"aliyah": "metzora-8",
+"parsha": "metzora",
+"name": "מפטיר",
+"from": [
+15,
+31
+],
+"to": [
+15,
+33
+],
+"words": 35,
+"forms": 32,
+"forms_repeat": 19,
+"forms_new": 13,
+"roots": 14,
+"roots_new": 0,
+"roots_repeat": 14,
+"cal": 0
+},
+{
+"aliyah": "achareimot-1",
+"parsha": "achareimot",
+"name": "ראשון",
+"from": [
+16,
+1
+],
+"to": [
+16,
+17
+],
+"words": 288,
+"forms": 167,
+"forms_repeat": 131,
+"forms_new": 36,
+"roots": 74,
+"roots_new": 0,
+"roots_repeat": 74,
+"cal": 1
+},
+{
+"aliyah": "achareimot-2",
+"parsha": "achareimot",
+"name": "שני",
+"from": [
+16,
+18
+],
+"to": [
+16,
+24
+],
+"words": 122,
+"forms": 85,
+"forms_repeat": 74,
+"forms_new": 11,
+"roots": 49,
+"roots_new": 0,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "achareimot-3",
+"parsha": "achareimot",
+"name": "שלישי",
+"from": [
+16,
+25
+],
+"to": [
+16,
+34
+],
+"words": 148,
+"forms": 106,
+"forms_repeat": 88,
+"forms_new": 18,
+"roots": 54,
+"roots_new": 0,
+"roots_repeat": 54,
+"cal": 0
+},
+{
+"aliyah": "achareimot-4",
+"parsha": "achareimot",
+"name": "רביעי",
+"from": [
+17,
+1
+],
+"to": [
+17,
+7
+],
+"words": 121,
+"forms": 83,
+"forms_repeat": 72,
+"forms_new": 11,
+"roots": 41,
+"roots_new": 1,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "achareimot-5",
+"parsha": "achareimot",
+"name": "חמישי",
+"from": [
+17,
+8
+],
+"to": [
+18,
+5
+],
+"words": 221,
+"forms": 137,
+"forms_repeat": 116,
+"forms_new": 21,
+"roots": 58,
+"roots_new": 1,
+"roots_repeat": 57,
+"cal": 0
+},
+{
+"aliyah": "achareimot-6",
+"parsha": "achareimot",
+"name": "שישי",
+"from": [
+18,
+6
+],
+"to": [
+18,
+21
+],
+"words": 179,
+"forms": 76,
+"forms_repeat": 48,
+"forms_new": 28,
+"roots": 28,
+"roots_new": 0,
+"roots_repeat": 28,
+"cal": 0
+},
+{
+"aliyah": "achareimot-7",
+"parsha": "achareimot",
+"name": "שביעי",
+"from": [
+18,
+22
+],
+"to": [
+18,
+27
+],
+"words": 74,
+"forms": 57,
+"forms_repeat": 48,
+"forms_new": 9,
+"roots": 25,
+"roots_new": 2,
+"roots_repeat": 23,
+"cal": 0
+},
+{
+"aliyah": "achareimot-8",
+"parsha": "achareimot",
+"name": "מפטיר",
+"from": [
+18,
+28
+],
+"to": [
+18,
+30
+],
+"words": 41,
+"forms": 37,
+"forms_repeat": 29,
+"forms_new": 8,
+"roots": 14,
+"roots_new": 0,
+"roots_repeat": 14,
+"cal": 0
+},
+{
+"aliyah": "kedoshim-1",
+"parsha": "kedoshim",
+"name": "ראשון",
+"from": [
+19,
+1
+],
+"to": [
+19,
+14
+],
+"words": 161,
+"forms": 118,
+"forms_repeat": 77,
+"forms_new": 41,
+"roots": 61,
+"roots_new": 1,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "kedoshim-2",
+"parsha": "kedoshim",
+"name": "שני",
+"from": [
+19,
+15
+],
+"to": [
+19,
+22
+],
+"words": 124,
+"forms": 91,
+"forms_repeat": 67,
+"forms_new": 24,
+"roots": 56,
+"roots_new": 3,
+"roots_repeat": 53,
+"cal": 0
+},
+{
+"aliyah": "kedoshim-3",
+"parsha": "kedoshim",
+"name": "שלישי",
+"from": [
+19,
+23
+],
+"to": [
+19,
+32
+],
+"words": 116,
+"forms": 81,
+"forms_repeat": 46,
+"forms_new": 35,
+"roots": 54,
+"roots_new": 1,
+"roots_repeat": 53,
+"cal": 0
+},
+{
+"aliyah": "kedoshim-4",
+"parsha": "kedoshim",
+"name": "רביעי",
+"from": [
+19,
+33
+],
+"to": [
+19,
+37
+],
+"words": 62,
+"forms": 49,
+"forms_repeat": 35,
+"forms_new": 14,
+"roots": 20,
+"roots_new": 1,
+"roots_repeat": 19,
+"cal": 0
+},
+{
+"aliyah": "kedoshim-5",
+"parsha": "kedoshim",
+"name": "חמישי",
+"from": [
+20,
+1
+],
+"to": [
+20,
+7
+],
+"words": 110,
+"forms": 75,
+"forms_repeat": 61,
+"forms_new": 14,
+"roots": 30,
+"roots_new": 0,
+"roots_repeat": 30,
+"cal": 0
+},
+{
+"aliyah": "kedoshim-6",
+"parsha": "kedoshim",
+"name": "שישי",
+"from": [
+20,
+8
+],
+"to": [
+20,
+22
+],
+"words": 236,
+"forms": 116,
+"forms_repeat": 91,
+"forms_new": 25,
+"roots": 51,
+"roots_new": 1,
+"roots_repeat": 50,
+"cal": 2
+},
+{
+"aliyah": "kedoshim-7",
+"parsha": "kedoshim",
+"name": "שביעי",
+"from": [
+20,
+23
+],
+"to": [
+20,
+24
+],
+"words": 40,
+"forms": 34,
+"forms_repeat": 29,
+"forms_new": 5,
+"roots": 16,
+"roots_new": 0,
+"roots_repeat": 16,
+"cal": 0
+},
+{
+"aliyah": "kedoshim-8",
+"parsha": "kedoshim",
+"name": "מפטיר",
+"from": [
+20,
+25
+],
+"to": [
+20,
+27
+],
+"words": 53,
+"forms": 50,
+"forms_repeat": 41,
+"forms_new": 9,
+"roots": 22,
+"roots_new": 0,
+"roots_repeat": 22,
+"cal": 0
+},
+{
+"aliyah": "emor-1",
+"parsha": "emor",
+"name": "ראשון",
+"from": [
+21,
+1
+],
+"to": [
+21,
+15
+],
+"words": 186,
+"forms": 133,
+"forms_repeat": 80,
+"forms_new": 53,
+"roots": 47,
+"roots_new": 1,
+"roots_repeat": 46,
+"cal": 0
+},
+{
+"aliyah": "emor-2",
+"parsha": "emor",
+"name": "שני",
+"from": [
+21,
+16
+],
+"to": [
+22,
+16
+],
+"words": 352,
+"forms": 186,
+"forms_repeat": 134,
+"forms_new": 52,
+"roots": 75,
+"roots_new": 9,
+"roots_repeat": 66,
+"cal": 3
+},
+{
+"aliyah": "emor-3",
+"parsha": "emor",
+"name": "שלישי",
+"from": [
+22,
+17
+],
+"to": [
+22,
+33
+],
+"words": 224,
+"forms": 138,
+"forms_repeat": 109,
+"forms_new": 29,
+"roots": 59,
+"roots_new": 1,
+"roots_repeat": 58,
+"cal": 0
+},
+{
+"aliyah": "emor-4",
+"parsha": "emor",
+"name": "רביעי",
+"from": [
+23,
+1
+],
+"to": [
+23,
+22
+],
+"words": 318,
+"forms": 175,
+"forms_repeat": 133,
+"forms_new": 42,
+"roots": 80,
+"roots_new": 1,
+"roots_repeat": 79,
+"cal": 0
+},
+{
+"aliyah": "emor-5",
+"parsha": "emor",
+"name": "חמישי",
+"from": [
+23,
+23
+],
+"to": [
+23,
+32
+],
+"words": 120,
+"forms": 69,
+"forms_repeat": 58,
+"forms_new": 11,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "emor-6",
+"parsha": "emor",
+"name": "שישי",
+"from": [
+23,
+33
+],
+"to": [
+23,
+44
+],
+"words": 179,
+"forms": 106,
+"forms_repeat": 77,
+"forms_new": 29,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "emor-7",
+"parsha": "emor",
+"name": "שביעי",
+"from": [
+24,
+1
+],
+"to": [
+24,
+20
+],
+"words": 252,
+"forms": 161,
+"forms_repeat": 133,
+"forms_new": 28,
+"roots": 84,
+"roots_new": 0,
+"roots_repeat": 84,
+"cal": 0
+},
+{
+"aliyah": "emor-8",
+"parsha": "emor",
+"name": "מפטיר",
+"from": [
+24,
+21
+],
+"to": [
+24,
+23
+],
+"words": 39,
+"forms": 33,
+"forms_repeat": 30,
+"forms_new": 3,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "behar-1",
+"parsha": "behar",
+"name": "ראשון",
+"from": [
+25,
+1
+],
+"to": [
+25,
+13
+],
+"words": 170,
+"forms": 117,
+"forms_repeat": 75,
+"forms_new": 42,
+"roots": 52,
+"roots_new": 2,
+"roots_repeat": 50,
+"cal": 1
+},
+{
+"aliyah": "behar-2",
+"parsha": "behar",
+"name": "שני",
+"from": [
+25,
+14
+],
+"to": [
+25,
+18
+],
+"words": 64,
+"forms": 52,
+"forms_repeat": 40,
+"forms_new": 12,
+"roots": 23,
+"roots_new": 0,
+"roots_repeat": 23,
+"cal": 0
+},
+{
+"aliyah": "behar-3",
+"parsha": "behar",
+"name": "שלישי",
+"from": [
+25,
+19
+],
+"to": [
+25,
+24
+],
+"words": 66,
+"forms": 53,
+"forms_repeat": 37,
+"forms_new": 16,
+"roots": 27,
+"roots_new": 1,
+"roots_repeat": 26,
+"cal": 0
+},
+{
+"aliyah": "behar-4",
+"parsha": "behar",
+"name": "רביעי",
+"from": [
+25,
+25
+],
+"to": [
+25,
+28
+],
+"words": 56,
+"forms": 46,
+"forms_repeat": 32,
+"forms_new": 14,
+"roots": 18,
+"roots_new": 0,
+"roots_repeat": 18,
+"cal": 0
+},
+{
+"aliyah": "behar-5",
+"parsha": "behar",
+"name": "חמישי",
+"from": [
+25,
+29
+],
+"to": [
+25,
+38
+],
+"words": 145,
+"forms": 108,
+"forms_repeat": 79,
+"forms_new": 29,
+"roots": 40,
+"roots_new": 1,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "behar-6",
+"parsha": "behar",
+"name": "שישי",
+"from": [
+25,
+39
+],
+"to": [
+25,
+46
+],
+"words": 95,
+"forms": 76,
+"forms_repeat": 57,
+"forms_new": 19,
+"roots": 31,
+"roots_new": 0,
+"roots_repeat": 31,
+"cal": 0
+},
+{
+"aliyah": "behar-7",
+"parsha": "behar",
+"name": "שביעי",
+"from": [
+25,
+47
+],
+"to": [
+25,
+54
+],
+"words": 103,
+"forms": 78,
+"forms_repeat": 52,
+"forms_new": 26,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "behar-8",
+"parsha": "behar",
+"name": "מפטיר",
+"from": [
+25,
+55
+],
+"to": [
+26,
+2
+],
+"words": 46,
+"forms": 36,
+"forms_repeat": 30,
+"forms_new": 6,
+"roots": 18,
+"roots_new": 0,
+"roots_repeat": 18,
+"cal": 0
+},
+{
+"aliyah": "bechukotai-1",
+"parsha": "bechukotai",
+"name": "ראשון",
+"from": [
+26,
+3
+],
+"to": [
+26,
+5
+],
+"words": 34,
+"forms": 34,
+"forms_repeat": 23,
+"forms_new": 11,
+"roots": 24,
+"roots_new": 1,
+"roots_repeat": 23,
+"cal": 0
+},
+{
+"aliyah": "bechukotai-2",
+"parsha": "bechukotai",
+"name": "שני",
+"from": [
+26,
+6
+],
+"to": [
+26,
+9
+],
+"words": 48,
+"forms": 40,
+"forms_repeat": 26,
+"forms_new": 14,
+"roots": 26,
+"roots_new": 1,
+"roots_repeat": 25,
+"cal": 0
+},
+{
+"aliyah": "bechukotai-3",
+"parsha": "bechukotai",
+"name": "שלישי",
+"from": [
+26,
+10
+],
+"to": [
+26,
+46
+],
+"words": 529,
+"forms": 321,
+"forms_repeat": 182,
+"forms_new": 139,
+"roots": 133,
+"roots_new": 8,
+"roots_repeat": 125,
+"cal": 4
+},
+{
+"aliyah": "bechukotai-4",
+"parsha": "bechukotai",
+"name": "רביעי",
+"from": [
+27,
+1
+],
+"to": [
+27,
+15
+],
+"words": 213,
+"forms": 111,
+"forms_repeat": 85,
+"forms_new": 26,
+"roots": 40,
+"roots_new": 0,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "bechukotai-5",
+"parsha": "bechukotai",
+"name": "חמישי",
+"from": [
+27,
+16
+],
+"to": [
+27,
+21
+],
+"words": 84,
+"forms": 65,
+"forms_repeat": 54,
+"forms_new": 11,
+"roots": 28,
+"roots_new": 0,
+"roots_repeat": 28,
+"cal": 0
+},
+{
+"aliyah": "bechukotai-6",
+"parsha": "bechukotai",
+"name": "שישי",
+"from": [
+27,
+22
+],
+"to": [
+27,
+28
+],
+"words": 102,
+"forms": 69,
+"forms_repeat": 61,
+"forms_new": 8,
+"roots": 30,
+"roots_new": 0,
+"roots_repeat": 30,
+"cal": 0
+},
+{
+"aliyah": "bechukotai-7",
+"parsha": "bechukotai",
+"name": "שביעי",
+"from": [
+27,
+29
+],
+"to": [
+27,
+31
+],
+"words": 30,
+"forms": 29,
+"forms_repeat": 25,
+"forms_new": 4,
+"roots": 14,
+"roots_new": 0,
+"roots_repeat": 14,
+"cal": 0
+},
+{
+"aliyah": "bechukotai-8",
+"parsha": "bechukotai",
+"name": "מפטיר",
+"from": [
+27,
+32
+],
+"to": [
+27,
+34
+],
+"words": 42,
+"forms": 38,
+"forms_repeat": 33,
+"forms_new": 5,
+"roots": 17,
+"roots_new": 0,
+"roots_repeat": 17,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-1",
+"parsha": "bamidbar",
+"name": "ראשון",
+"from": [
+1,
+1
+],
+"to": [
+1,
+19
+],
+"words": 158,
+"forms": 120,
+"forms_repeat": 73,
+"forms_new": 47,
+"roots": 39,
+"roots_new": 1,
+"roots_repeat": 38,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-2",
+"parsha": "bamidbar",
+"name": "שני",
+"from": [
+1,
+20
+],
+"to": [
+1,
+54
+],
+"words": 432,
+"forms": 152,
+"forms_repeat": 114,
+"forms_new": 38,
+"roots": 54,
+"roots_new": 0,
+"roots_repeat": 54,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-3",
+"parsha": "bamidbar",
+"name": "שלישי",
+"from": [
+2,
+1
+],
+"to": [
+2,
+34
+],
+"words": 344,
+"forms": 147,
+"forms_repeat": 122,
+"forms_new": 25,
+"roots": 43,
+"roots_new": 0,
+"roots_repeat": 43,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-4",
+"parsha": "bamidbar",
+"name": "רביעי",
+"from": [
+3,
+1
+],
+"to": [
+3,
+13
+],
+"words": 166,
+"forms": 102,
+"forms_repeat": 90,
+"forms_new": 12,
+"roots": 40,
+"roots_new": 0,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-5",
+"parsha": "bamidbar",
+"name": "חמישי",
+"from": [
+3,
+14
+],
+"to": [
+3,
+39
+],
+"words": 288,
+"forms": 160,
+"forms_repeat": 121,
+"forms_new": 39,
+"roots": 59,
+"roots_new": 0,
+"roots_repeat": 59,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-6",
+"parsha": "bamidbar",
+"name": "שישי",
+"from": [
+3,
+40
+],
+"to": [
+3,
+51
+],
+"words": 158,
+"forms": 86,
+"forms_repeat": 75,
+"forms_new": 11,
+"roots": 35,
+"roots_new": 0,
+"roots_repeat": 35,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-7",
+"parsha": "bamidbar",
+"name": "שביעי",
+"from": [
+4,
+1
+],
+"to": [
+4,
+16
+],
+"words": 254,
+"forms": 141,
+"forms_repeat": 112,
+"forms_new": 29,
+"roots": 67,
+"roots_new": 0,
+"roots_repeat": 67,
+"cal": 0
+},
+{
+"aliyah": "bamidbar-8",
+"parsha": "bamidbar",
+"name": "מפטיר",
+"from": [
+4,
+17
+],
+"to": [
+4,
+20
+],
+"words": 44,
+"forms": 37,
+"forms_repeat": 30,
+"forms_new": 7,
+"roots": 19,
+"roots_new": 0,
+"roots_repeat": 19,
+"cal": 0
+},
+{
+"aliyah": "naso-1",
+"parsha": "naso",
+"name": "ראשון",
+"from": [
+4,
+21
+],
+"to": [
+4,
+37
+],
+"words": 233,
+"forms": 117,
+"forms_repeat": 102,
+"forms_new": 15,
+"roots": 46,
+"roots_new": 0,
+"roots_repeat": 46,
+"cal": 0
+},
+{
+"aliyah": "naso-2",
+"parsha": "naso",
+"name": "שני",
+"from": [
+4,
+38
+],
+"to": [
+4,
+49
+],
+"words": 143,
+"forms": 64,
+"forms_repeat": 60,
+"forms_new": 4,
+"roots": 28,
+"roots_new": 0,
+"roots_repeat": 28,
+"cal": 0
+},
+{
+"aliyah": "naso-3",
+"parsha": "naso",
+"name": "שלישי",
+"from": [
+5,
+1
+],
+"to": [
+5,
+10
+],
+"words": 134,
+"forms": 92,
+"forms_repeat": 76,
+"forms_new": 16,
+"roots": 36,
+"roots_new": 0,
+"roots_repeat": 36,
+"cal": 0
+},
+{
+"aliyah": "naso-4",
+"parsha": "naso",
+"name": "רביעי",
+"from": [
+5,
+11
+],
+"to": [
+6,
+27
+],
+"words": 704,
+"forms": 369,
+"forms_repeat": 227,
+"forms_new": 142,
+"roots": 136,
+"roots_new": 4,
+"roots_repeat": 132,
+"cal": 2
+},
+{
+"aliyah": "naso-5",
+"parsha": "naso",
+"name": "חמישי",
+"from": [
+7,
+1
+],
+"to": [
+7,
+41
+],
+"words": 524,
+"forms": 171,
+"forms_repeat": 139,
+"forms_new": 32,
+"roots": 69,
+"roots_new": 2,
+"roots_repeat": 67,
+"cal": 0
+},
+{
+"aliyah": "naso-6",
+"parsha": "naso",
+"name": "שישי",
+"from": [
+7,
+42
+],
+"to": [
+7,
+71
+],
+"words": 370,
+"forms": 78,
+"forms_repeat": 76,
+"forms_new": 2,
+"roots": 39,
+"roots_new": 0,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "naso-7",
+"parsha": "naso",
+"name": "שביעי",
+"from": [
+7,
+72
+],
+"to": [
+7,
+86
+],
+"words": 213,
+"forms": 97,
+"forms_repeat": 85,
+"forms_new": 12,
+"roots": 43,
+"roots_new": 0,
+"roots_repeat": 43,
+"cal": 0
+},
+{
+"aliyah": "naso-8",
+"parsha": "naso",
+"name": "מפטיר",
+"from": [
+7,
+87
+],
+"to": [
+7,
+89
+],
+"words": 65,
+"forms": 49,
+"forms_repeat": 45,
+"forms_new": 4,
+"roots": 33,
+"roots_new": 0,
+"roots_repeat": 33,
+"cal": 0
+},
+{
+"aliyah": "behaalotecha-1",
+"parsha": "behaalotecha",
+"name": "ראשון",
+"from": [
+8,
+1
+],
+"to": [
+8,
+14
+],
+"words": 178,
+"forms": 105,
+"forms_repeat": 87,
+"forms_new": 18,
+"roots": 49,
+"roots_new": 0,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "behaalotecha-2",
+"parsha": "behaalotecha",
+"name": "שני",
+"from": [
+8,
+15
+],
+"to": [
+8,
+26
+],
+"words": 186,
+"forms": 110,
+"forms_repeat": 93,
+"forms_new": 17,
+"roots": 44,
+"roots_new": 0,
+"roots_repeat": 44,
+"cal": 0
+},
+{
+"aliyah": "behaalotecha-3",
+"parsha": "behaalotecha",
+"name": "שלישי",
+"from": [
+9,
+1
+],
+"to": [
+9,
+14
+],
+"words": 220,
+"forms": 128,
+"forms_repeat": 108,
+"forms_new": 20,
+"roots": 50,
+"roots_new": 0,
+"roots_repeat": 50,
+"cal": 0
+},
+{
+"aliyah": "behaalotecha-4",
+"parsha": "behaalotecha",
+"name": "רביעי",
+"from": [
+9,
+15
+],
+"to": [
+10,
+10
+],
+"words": 259,
+"forms": 146,
+"forms_repeat": 103,
+"forms_new": 43,
+"roots": 67,
+"roots_new": 1,
+"roots_repeat": 66,
+"cal": 0
+},
+{
+"aliyah": "behaalotecha-5",
+"parsha": "behaalotecha",
+"name": "חמישי",
+"from": [
+10,
+11
+],
+"to": [
+10,
+34
+],
+"words": 263,
+"forms": 161,
+"forms_repeat": 136,
+"forms_new": 25,
+"roots": 52,
+"roots_new": 0,
+"roots_repeat": 52,
+"cal": 0
+},
+{
+"aliyah": "behaalotecha-6",
+"parsha": "behaalotecha",
+"name": "שישי",
+"from": [
+10,
+35
+],
+"to": [
+11,
+29
+],
+"words": 496,
+"forms": 321,
+"forms_repeat": 205,
+"forms_new": 116,
+"roots": 125,
+"roots_new": 5,
+"roots_repeat": 120,
+"cal": 1
+},
+{
+"aliyah": "behaalotecha-7",
+"parsha": "behaalotecha",
+"name": "שביעי",
+"from": [
+11,
+30
+],
+"to": [
+12,
+13
+],
+"words": 260,
+"forms": 185,
+"forms_repeat": 135,
+"forms_new": 50,
+"roots": 88,
+"roots_new": 3,
+"roots_repeat": 85,
+"cal": 0
+},
+{
+"aliyah": "behaalotecha-8",
+"parsha": "behaalotecha",
+"name": "מפטיר",
+"from": [
+12,
+14
+],
+"to": [
+12,
+16
+],
+"words": 40,
+"forms": 31,
+"forms_repeat": 21,
+"forms_new": 10,
+"roots": 14,
+"roots_new": 0,
+"roots_repeat": 14,
+"cal": 0
+},
+{
+"aliyah": "shelach-1",
+"parsha": "shelach",
+"name": "ראשון",
+"from": [
+13,
+1
+],
+"to": [
+13,
+20
+],
+"words": 189,
+"forms": 126,
+"forms_repeat": 84,
+"forms_new": 42,
+"roots": 40,
+"roots_new": 0,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "shelach-2",
+"parsha": "shelach",
+"name": "שני",
+"from": [
+13,
+21
+],
+"to": [
+14,
+7
+],
+"words": 300,
+"forms": 206,
+"forms_repeat": 139,
+"forms_new": 67,
+"roots": 83,
+"roots_new": 0,
+"roots_repeat": 83,
+"cal": 1
+},
+{
+"aliyah": "shelach-3",
+"parsha": "shelach",
+"name": "שלישי",
+"from": [
+14,
+8
+],
+"to": [
+14,
+25
+],
+"words": 285,
+"forms": 209,
+"forms_repeat": 152,
+"forms_new": 57,
+"roots": 84,
+"roots_new": 0,
+"roots_repeat": 84,
+"cal": 0
+},
+{
+"aliyah": "shelach-4",
+"parsha": "shelach",
+"name": "רביעי",
+"from": [
+14,
+26
+],
+"to": [
+15,
+7
+],
+"words": 366,
+"forms": 219,
+"forms_repeat": 172,
+"forms_new": 47,
+"roots": 89,
+"roots_new": 0,
+"roots_repeat": 89,
+"cal": 0
+},
+{
+"aliyah": "shelach-5",
+"parsha": "shelach",
+"name": "חמישי",
+"from": [
+15,
+8
+],
+"to": [
+15,
+16
+],
+"words": 110,
+"forms": 73,
+"forms_repeat": 66,
+"forms_new": 7,
+"roots": 36,
+"roots_new": 0,
+"roots_repeat": 36,
+"cal": 0
+},
+{
+"aliyah": "shelach-6",
+"parsha": "shelach",
+"name": "שישי",
+"from": [
+15,
+17
+],
+"to": [
+15,
+26
+],
+"words": 136,
+"forms": 91,
+"forms_repeat": 77,
+"forms_new": 14,
+"roots": 43,
+"roots_new": 0,
+"roots_repeat": 43,
+"cal": 0
+},
+{
+"aliyah": "shelach-7",
+"parsha": "shelach",
+"name": "שביעי",
+"from": [
+15,
+27
+],
+"to": [
+15,
+36
+],
+"words": 131,
+"forms": 101,
+"forms_repeat": 85,
+"forms_new": 16,
+"roots": 47,
+"roots_new": 0,
+"roots_repeat": 47,
+"cal": 0
+},
+{
+"aliyah": "shelach-8",
+"parsha": "shelach",
+"name": "מפטיר",
+"from": [
+15,
+37
+],
+"to": [
+15,
+41
+],
+"words": 71,
+"forms": 59,
+"forms_repeat": 46,
+"forms_new": 13,
+"roots": 24,
+"roots_new": 2,
+"roots_repeat": 22,
+"cal": 0
+},
+{
+"aliyah": "korach-1",
+"parsha": "korach",
+"name": "ראשון",
+"from": [
+16,
+1
+],
+"to": [
+16,
+13
+],
+"words": 191,
+"forms": 142,
+"forms_repeat": 113,
+"forms_new": 29,
+"roots": 56,
+"roots_new": 0,
+"roots_repeat": 56,
+"cal": 0
+},
+{
+"aliyah": "korach-2",
+"parsha": "korach",
+"name": "שני",
+"from": [
+16,
+14
+],
+"to": [
+16,
+19
+],
+"words": 102,
+"forms": 77,
+"forms_repeat": 63,
+"forms_new": 14,
+"roots": 41,
+"roots_new": 1,
+"roots_repeat": 40,
+"cal": 1
+},
+{
+"aliyah": "korach-3",
+"parsha": "korach",
+"name": "שלישי",
+"from": [
+16,
+20
+],
+"to": [
+17,
+8
+],
+"words": 337,
+"forms": 209,
+"forms_repeat": 151,
+"forms_new": 58,
+"roots": 87,
+"roots_new": 0,
+"roots_repeat": 87,
+"cal": 0
+},
+{
+"aliyah": "korach-4",
+"parsha": "korach",
+"name": "רביעי",
+"from": [
+17,
+9
+],
+"to": [
+17,
+15
+],
+"words": 90,
+"forms": 78,
+"forms_repeat": 68,
+"forms_new": 10,
+"roots": 43,
+"roots_new": 0,
+"roots_repeat": 43,
+"cal": 0
+},
+{
+"aliyah": "korach-5",
+"parsha": "korach",
+"name": "חמישי",
+"from": [
+17,
+16
+],
+"to": [
+17,
+24
+],
+"words": 136,
+"forms": 83,
+"forms_repeat": 69,
+"forms_new": 14,
+"roots": 35,
+"roots_new": 1,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "korach-6",
+"parsha": "korach",
+"name": "שישי",
+"from": [
+17,
+25
+],
+"to": [
+18,
+20
+],
+"words": 405,
+"forms": 221,
+"forms_repeat": 159,
+"forms_new": 62,
+"roots": 90,
+"roots_new": 0,
+"roots_repeat": 90,
+"cal": 0
+},
+{
+"aliyah": "korach-7",
+"parsha": "korach",
+"name": "שביעי",
+"from": [
+18,
+21
+],
+"to": [
+18,
+29
+],
+"words": 141,
+"forms": 83,
+"forms_repeat": 66,
+"forms_new": 17,
+"roots": 29,
+"roots_new": 0,
+"roots_repeat": 29,
+"cal": 0
+},
+{
+"aliyah": "korach-8",
+"parsha": "korach",
+"name": "מפטיר",
+"from": [
+18,
+30
+],
+"to": [
+18,
+32
+],
+"words": 43,
+"forms": 38,
+"forms_repeat": 32,
+"forms_new": 6,
+"roots": 23,
+"roots_new": 0,
+"roots_repeat": 23,
+"cal": 0
+},
+{
+"aliyah": "chukat-1",
+"parsha": "chukat",
+"name": "ראשון",
+"from": [
+19,
+1
+],
+"to": [
+19,
+17
+],
+"words": 258,
+"forms": 165,
+"forms_repeat": 124,
+"forms_new": 41,
+"roots": 77,
+"roots_new": 0,
+"roots_repeat": 77,
+"cal": 0
+},
+{
+"aliyah": "chukat-2",
+"parsha": "chukat",
+"name": "שני",
+"from": [
+19,
+18
+],
+"to": [
+20,
+6
+],
+"words": 182,
+"forms": 135,
+"forms_repeat": 119,
+"forms_new": 16,
+"roots": 60,
+"roots_new": 0,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "chukat-3",
+"parsha": "chukat",
+"name": "שלישי",
+"from": [
+20,
+7
+],
+"to": [
+20,
+13
+],
+"words": 108,
+"forms": 72,
+"forms_repeat": 56,
+"forms_new": 16,
+"roots": 32,
+"roots_new": 0,
+"roots_repeat": 32,
+"cal": 0
+},
+{
+"aliyah": "chukat-4",
+"parsha": "chukat",
+"name": "רביעי",
+"from": [
+20,
+14
+],
+"to": [
+20,
+21
+],
+"words": 116,
+"forms": 99,
+"forms_repeat": 63,
+"forms_new": 36,
+"roots": 50,
+"roots_new": 0,
+"roots_repeat": 50,
+"cal": 0
+},
+{
+"aliyah": "chukat-5",
+"parsha": "chukat",
+"name": "חמישי",
+"from": [
+20,
+22
+],
+"to": [
+21,
+9
+],
+"words": 261,
+"forms": 166,
+"forms_repeat": 127,
+"forms_new": 39,
+"roots": 72,
+"roots_new": 1,
+"roots_repeat": 71,
+"cal": 1
+},
+{
+"aliyah": "chukat-6",
+"parsha": "chukat",
+"name": "שישי",
+"from": [
+21,
+10
+],
+"to": [
+21,
+20
+],
+"words": 120,
+"forms": 90,
+"forms_repeat": 53,
+"forms_new": 37,
+"roots": 39,
+"roots_new": 2,
+"roots_repeat": 37,
+"cal": 0
+},
+{
+"aliyah": "chukat-7",
+"parsha": "chukat",
+"name": "שביעי",
+"from": [
+21,
+21
+],
+"to": [
+21,
+33
+],
+"words": 188,
+"forms": 141,
+"forms_repeat": 86,
+"forms_new": 55,
+"roots": 63,
+"roots_new": 1,
+"roots_repeat": 62,
+"cal": 0
+},
+{
+"aliyah": "chukat-8",
+"parsha": "chukat",
+"name": "מפטיר",
+"from": [
+21,
+34
+],
+"to": [
+22,
+1
+],
+"words": 50,
+"forms": 42,
+"forms_repeat": 34,
+"forms_new": 8,
+"roots": 19,
+"roots_new": 0,
+"roots_repeat": 19,
+"cal": 0
+},
+{
+"aliyah": "balak-1",
+"parsha": "balak",
+"name": "ראשון",
+"from": [
+22,
+2
+],
+"to": [
+22,
+12
+],
+"words": 195,
+"forms": 126,
+"forms_repeat": 99,
+"forms_new": 27,
+"roots": 51,
+"roots_new": 2,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "balak-2",
+"parsha": "balak",
+"name": "שני",
+"from": [
+22,
+13
+],
+"to": [
+22,
+20
+],
+"words": 130,
+"forms": 103,
+"forms_repeat": 86,
+"forms_new": 17,
+"roots": 38,
+"roots_new": 0,
+"roots_repeat": 38,
+"cal": 0
+},
+{
+"aliyah": "balak-3",
+"parsha": "balak",
+"name": "שלישי",
+"from": [
+22,
+21
+],
+"to": [
+22,
+38
+],
+"words": 304,
+"forms": 185,
+"forms_repeat": 126,
+"forms_new": 59,
+"roots": 72,
+"roots_new": 3,
+"roots_repeat": 69,
+"cal": 0
+},
+{
+"aliyah": "balak-4",
+"parsha": "balak",
+"name": "רביעי",
+"from": [
+22,
+39
+],
+"to": [
+23,
+12
+],
+"words": 210,
+"forms": 160,
+"forms_repeat": 119,
+"forms_new": 41,
+"roots": 68,
+"roots_new": 0,
+"roots_repeat": 68,
+"cal": 0
+},
+{
+"aliyah": "balak-5",
+"parsha": "balak",
+"name": "חמישי",
+"from": [
+23,
+13
+],
+"to": [
+23,
+26
+],
+"words": 205,
+"forms": 167,
+"forms_repeat": 120,
+"forms_new": 47,
+"roots": 68,
+"roots_new": 0,
+"roots_repeat": 68,
+"cal": 1
+},
+{
+"aliyah": "balak-6",
+"parsha": "balak",
+"name": "שישי",
+"from": [
+23,
+27
+],
+"to": [
+24,
+13
+],
+"words": 245,
+"forms": 197,
+"forms_repeat": 150,
+"forms_new": 47,
+"roots": 86,
+"roots_new": 0,
+"roots_repeat": 86,
+"cal": 0
+},
+{
+"aliyah": "balak-7",
+"parsha": "balak",
+"name": "שביעי",
+"from": [
+24,
+14
+],
+"to": [
+25,
+6
+],
+"words": 234,
+"forms": 184,
+"forms_repeat": 142,
+"forms_new": 42,
+"roots": 83,
+"roots_new": 1,
+"roots_repeat": 82,
+"cal": 0
+},
+{
+"aliyah": "balak-8",
+"parsha": "balak",
+"name": "מפטיר",
+"from": [
+25,
+7
+],
+"to": [
+25,
+9
+],
+"words": 40,
+"forms": 34,
+"forms_repeat": 30,
+"forms_new": 4,
+"roots": 21,
+"roots_new": 1,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "pinchas-1",
+"parsha": "pinchas",
+"name": "ראשון",
+"from": [
+25,
+10
+],
+"to": [
+26,
+4
+],
+"words": 173,
+"forms": 118,
+"forms_repeat": 93,
+"forms_new": 25,
+"roots": 48,
+"roots_new": 0,
+"roots_repeat": 48,
+"cal": 0
+},
+{
+"aliyah": "pinchas-2",
+"parsha": "pinchas",
+"name": "שני",
+"from": [
+26,
+5
+],
+"to": [
+26,
+51
+],
+"words": 441,
+"forms": 231,
+"forms_repeat": 117,
+"forms_new": 114,
+"roots": 31,
+"roots_new": 0,
+"roots_repeat": 31,
+"cal": 0
+},
+{
+"aliyah": "pinchas-3",
+"parsha": "pinchas",
+"name": "שלישי",
+"from": [
+26,
+52
+],
+"to": [
+27,
+5
+],
+"words": 257,
+"forms": 178,
+"forms_repeat": 147,
+"forms_new": 31,
+"roots": 49,
+"roots_new": 0,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "pinchas-4",
+"parsha": "pinchas",
+"name": "רביעי",
+"from": [
+27,
+6
+],
+"to": [
+27,
+23
+],
+"words": 246,
+"forms": 153,
+"forms_repeat": 122,
+"forms_new": 31,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "pinchas-5",
+"parsha": "pinchas",
+"name": "חמישי",
+"from": [
+28,
+1
+],
+"to": [
+28,
+15
+],
+"words": 201,
+"forms": 118,
+"forms_repeat": 99,
+"forms_new": 19,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "pinchas-6",
+"parsha": "pinchas",
+"name": "שישי",
+"from": [
+28,
+16
+],
+"to": [
+29,
+11
+],
+"words": 307,
+"forms": 119,
+"forms_repeat": 104,
+"forms_new": 15,
+"roots": 50,
+"roots_new": 0,
+"roots_repeat": 50,
+"cal": 0
+},
+{
+"aliyah": "pinchas-7",
+"parsha": "pinchas",
+"name": "שביעי",
+"from": [
+29,
+12
+],
+"to": [
+29,
+34
+],
+"words": 246,
+"forms": 82,
+"forms_repeat": 74,
+"forms_new": 8,
+"roots": 45,
+"roots_new": 0,
+"roots_repeat": 45,
+"cal": 0
+},
+{
+"aliyah": "pinchas-8",
+"parsha": "pinchas",
+"name": "מפטיר",
+"from": [
+29,
+35
+],
+"to": [
+30,
+1
+],
+"words": 64,
+"forms": 57,
+"forms_repeat": 50,
+"forms_new": 7,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "matot-1",
+"parsha": "matot",
+"name": "ראשון",
+"from": [
+30,
+2
+],
+"to": [
+30,
+17
+],
+"words": 260,
+"forms": 121,
+"forms_repeat": 70,
+"forms_new": 51,
+"roots": 38,
+"roots_new": 1,
+"roots_repeat": 37,
+"cal": 0
+},
+{
+"aliyah": "matot-2",
+"parsha": "matot",
+"name": "שני",
+"from": [
+31,
+1
+],
+"to": [
+31,
+12
+],
+"words": 167,
+"forms": 103,
+"forms_repeat": 83,
+"forms_new": 20,
+"roots": 50,
+"roots_new": 0,
+"roots_repeat": 50,
+"cal": 0
+},
+{
+"aliyah": "matot-3",
+"parsha": "matot",
+"name": "שלישי",
+"from": [
+31,
+13
+],
+"to": [
+31,
+24
+],
+"words": 159,
+"forms": 119,
+"forms_repeat": 89,
+"forms_new": 30,
+"roots": 57,
+"roots_new": 0,
+"roots_repeat": 57,
+"cal": 0
+},
+{
+"aliyah": "matot-4",
+"parsha": "matot",
+"name": "רביעי",
+"from": [
+31,
+25
+],
+"to": [
+31,
+41
+],
+"words": 203,
+"forms": 108,
+"forms_repeat": 87,
+"forms_new": 21,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "matot-5",
+"parsha": "matot",
+"name": "חמישי",
+"from": [
+31,
+42
+],
+"to": [
+31,
+54
+],
+"words": 164,
+"forms": 107,
+"forms_repeat": 91,
+"forms_new": 16,
+"roots": 54,
+"roots_new": 0,
+"roots_repeat": 54,
+"cal": 1
+},
+{
+"aliyah": "matot-6",
+"parsha": "matot",
+"name": "שישי",
+"from": [
+32,
+1
+],
+"to": [
+32,
+19
+],
+"words": 268,
+"forms": 193,
+"forms_repeat": 146,
+"forms_new": 47,
+"roots": 70,
+"roots_new": 2,
+"roots_repeat": 68,
+"cal": 1
+},
+{
+"aliyah": "matot-7",
+"parsha": "matot",
+"name": "שביעי",
+"from": [
+32,
+20
+],
+"to": [
+32,
+38
+],
+"words": 265,
+"forms": 161,
+"forms_repeat": 121,
+"forms_new": 40,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "matot-8",
+"parsha": "matot",
+"name": "מפטיר",
+"from": [
+32,
+39
+],
+"to": [
+32,
+42
+],
+"words": 43,
+"forms": 33,
+"forms_repeat": 24,
+"forms_new": 9,
+"roots": 10,
+"roots_new": 0,
+"roots_repeat": 10,
+"cal": 0
+},
+{
+"aliyah": "masei-1",
+"parsha": "masei",
+"name": "ראשון",
+"from": [
+33,
+1
+],
+"to": [
+33,
+10
+],
+"words": 117,
+"forms": 87,
+"forms_repeat": 70,
+"forms_new": 17,
+"roots": 42,
+"roots_new": 0,
+"roots_repeat": 42,
+"cal": 0
+},
+{
+"aliyah": "masei-2",
+"parsha": "masei",
+"name": "שני",
+"from": [
+33,
+11
+],
+"to": [
+33,
+49
+],
+"words": 239,
+"forms": 147,
+"forms_repeat": 79,
+"forms_new": 68,
+"roots": 39,
+"roots_new": 0,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "masei-3",
+"parsha": "masei",
+"name": "שלישי",
+"from": [
+33,
+50
+],
+"to": [
+34,
+15
+],
+"words": 310,
+"forms": 170,
+"forms_repeat": 112,
+"forms_new": 58,
+"roots": 61,
+"roots_new": 0,
+"roots_repeat": 61,
+"cal": 0
+},
+{
+"aliyah": "masei-4",
+"parsha": "masei",
+"name": "רביעי",
+"from": [
+34,
+16
+],
+"to": [
+34,
+29
+],
+"words": 107,
+"forms": 66,
+"forms_repeat": 49,
+"forms_new": 17,
+"roots": 14,
+"roots_new": 0,
+"roots_repeat": 14,
+"cal": 0
+},
+{
+"aliyah": "masei-5",
+"parsha": "masei",
+"name": "חמישי",
+"from": [
+35,
+1
+],
+"to": [
+35,
+8
+],
+"words": 131,
+"forms": 86,
+"forms_repeat": 62,
+"forms_new": 24,
+"roots": 37,
+"roots_new": 1,
+"roots_repeat": 36,
+"cal": 0
+},
+{
+"aliyah": "masei-6",
+"parsha": "masei",
+"name": "שישי",
+"from": [
+35,
+9
+],
+"to": [
+35,
+34
+],
+"words": 371,
+"forms": 183,
+"forms_repeat": 134,
+"forms_new": 49,
+"roots": 68,
+"roots_new": 2,
+"roots_repeat": 66,
+"cal": 0
+},
+{
+"aliyah": "masei-7",
+"parsha": "masei",
+"name": "שביעי",
+"from": [
+36,
+1
+],
+"to": [
+36,
+10
+],
+"words": 174,
+"forms": 108,
+"forms_repeat": 77,
+"forms_new": 31,
+"roots": 32,
+"roots_new": 0,
+"roots_repeat": 32,
+"cal": 0
+},
+{
+"aliyah": "masei-8",
+"parsha": "masei",
+"name": "מפטיר",
+"from": [
+36,
+11
+],
+"to": [
+36,
+13
+],
+"words": 41,
+"forms": 38,
+"forms_repeat": 34,
+"forms_new": 4,
+"roots": 14,
+"roots_new": 0,
+"roots_repeat": 14,
+"cal": 0
+},
+{
+"aliyah": "devarim-1",
+"parsha": "devarim",
+"name": "ראשון",
+"from": [
+1,
+1
+],
+"to": [
+1,
+10
+],
+"words": 165,
+"forms": 131,
+"forms_repeat": 105,
+"forms_new": 26,
+"roots": 59,
+"roots_new": 0,
+"roots_repeat": 59,
+"cal": 1
+},
+{
+"aliyah": "devarim-2",
+"parsha": "devarim",
+"name": "שני",
+"from": [
+1,
+11
+],
+"to": [
+1,
+21
+],
+"words": 163,
+"forms": 121,
+"forms_repeat": 90,
+"forms_new": 31,
+"roots": 53,
+"roots_new": 1,
+"roots_repeat": 52,
+"cal": 0
+},
+{
+"aliyah": "devarim-3",
+"parsha": "devarim",
+"name": "שלישי",
+"from": [
+1,
+22
+],
+"to": [
+1,
+38
+],
+"words": 247,
+"forms": 189,
+"forms_repeat": 147,
+"forms_new": 42,
+"roots": 80,
+"roots_new": 1,
+"roots_repeat": 79,
+"cal": 0
+},
+{
+"aliyah": "devarim-4",
+"parsha": "devarim",
+"name": "רביעי",
+"from": [
+1,
+39
+],
+"to": [
+2,
+1
+],
+"words": 136,
+"forms": 108,
+"forms_repeat": 81,
+"forms_new": 27,
+"roots": 50,
+"roots_new": 1,
+"roots_repeat": 49,
+"cal": 1
+},
+{
+"aliyah": "devarim-5",
+"parsha": "devarim",
+"name": "חמישי",
+"from": [
+2,
+2
+],
+"to": [
+2,
+30
+],
+"words": 432,
+"forms": 263,
+"forms_repeat": 183,
+"forms_new": 80,
+"roots": 90,
+"roots_new": 0,
+"roots_repeat": 90,
+"cal": 0
+},
+{
+"aliyah": "devarim-6",
+"parsha": "devarim",
+"name": "שישי",
+"from": [
+2,
+31
+],
+"to": [
+3,
+14
+],
+"words": 345,
+"forms": 198,
+"forms_repeat": 140,
+"forms_new": 58,
+"roots": 73,
+"roots_new": 0,
+"roots_repeat": 73,
+"cal": 0
+},
+{
+"aliyah": "devarim-7",
+"parsha": "devarim",
+"name": "שביעי",
+"from": [
+3,
+15
+],
+"to": [
+3,
+19
+],
+"words": 72,
+"forms": 60,
+"forms_repeat": 48,
+"forms_new": 12,
+"roots": 30,
+"roots_new": 0,
+"roots_repeat": 30,
+"cal": 0
+},
+{
+"aliyah": "devarim-8",
+"parsha": "devarim",
+"name": "מפטיר",
+"from": [
+3,
+20
+],
+"to": [
+3,
+22
+],
+"words": 58,
+"forms": 48,
+"forms_repeat": 41,
+"forms_new": 7,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-1",
+"parsha": "vaetchanan",
+"name": "ראשון",
+"from": [
+3,
+23
+],
+"to": [
+4,
+4
+],
+"words": 178,
+"forms": 133,
+"forms_repeat": 106,
+"forms_new": 27,
+"roots": 60,
+"roots_new": 0,
+"roots_repeat": 60,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-2",
+"parsha": "vaetchanan",
+"name": "שני",
+"from": [
+4,
+5
+],
+"to": [
+4,
+40
+],
+"words": 655,
+"forms": 373,
+"forms_repeat": 258,
+"forms_new": 115,
+"roots": 131,
+"roots_new": 0,
+"roots_repeat": 131,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-3",
+"parsha": "vaetchanan",
+"name": "שלישי",
+"from": [
+4,
+41
+],
+"to": [
+4,
+49
+],
+"words": 125,
+"forms": 95,
+"forms_repeat": 76,
+"forms_new": 19,
+"roots": 39,
+"roots_new": 0,
+"roots_repeat": 39,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-4",
+"parsha": "vaetchanan",
+"name": "רביעי",
+"from": [
+5,
+1
+],
+"to": [
+5,
+18
+],
+"words": 278,
+"forms": 196,
+"forms_repeat": 165,
+"forms_new": 31,
+"roots": 83,
+"roots_new": 1,
+"roots_repeat": 82,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-5",
+"parsha": "vaetchanan",
+"name": "חמישי",
+"from": [
+5,
+19
+],
+"to": [
+6,
+3
+],
+"words": 280,
+"forms": 181,
+"forms_repeat": 150,
+"forms_new": 31,
+"roots": 68,
+"roots_new": 0,
+"roots_repeat": 68,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-6",
+"parsha": "vaetchanan",
+"name": "שישי",
+"from": [
+6,
+4
+],
+"to": [
+6,
+25
+],
+"words": 268,
+"forms": 185,
+"forms_repeat": 130,
+"forms_new": 55,
+"roots": 80,
+"roots_new": 0,
+"roots_repeat": 80,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-7",
+"parsha": "vaetchanan",
+"name": "שביעי",
+"from": [
+7,
+1
+],
+"to": [
+7,
+8
+],
+"words": 141,
+"forms": 108,
+"forms_repeat": 83,
+"forms_new": 25,
+"roots": 49,
+"roots_new": 0,
+"roots_repeat": 49,
+"cal": 0
+},
+{
+"aliyah": "vaetchanan-8",
+"parsha": "vaetchanan",
+"name": "מפטיר",
+"from": [
+7,
+9
+],
+"to": [
+7,
+11
+],
+"words": 51,
+"forms": 44,
+"forms_repeat": 33,
+"forms_new": 11,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "eikev-1",
+"parsha": "eikev",
+"name": "ראשון",
+"from": [
+7,
+12
+],
+"to": [
+8,
+10
+],
+"words": 403,
+"forms": 265,
+"forms_repeat": 177,
+"forms_new": 88,
+"roots": 132,
+"roots_new": 2,
+"roots_repeat": 130,
+"cal": 1
+},
+{
+"aliyah": "eikev-2",
+"parsha": "eikev",
+"name": "שני",
+"from": [
+8,
+11
+],
+"to": [
+9,
+3
+],
+"words": 209,
+"forms": 157,
+"forms_repeat": 130,
+"forms_new": 27,
+"roots": 75,
+"roots_new": 1,
+"roots_repeat": 74,
+"cal": 0
+},
+{
+"aliyah": "eikev-3",
+"parsha": "eikev",
+"name": "שלישי",
+"from": [
+9,
+4
+],
+"to": [
+9,
+29
+],
+"words": 457,
+"forms": 261,
+"forms_repeat": 203,
+"forms_new": 58,
+"roots": 105,
+"roots_new": 0,
+"roots_repeat": 105,
+"cal": 0
+},
+{
+"aliyah": "eikev-4",
+"parsha": "eikev",
+"name": "רביעי",
+"from": [
+10,
+1
+],
+"to": [
+10,
+11
+],
+"words": 187,
+"forms": 139,
+"forms_repeat": 115,
+"forms_new": 24,
+"roots": 58,
+"roots_new": 0,
+"roots_repeat": 58,
+"cal": 0
+},
+{
+"aliyah": "eikev-5",
+"parsha": "eikev",
+"name": "חמישי",
+"from": [
+10,
+12
+],
+"to": [
+11,
+9
+],
+"words": 298,
+"forms": 201,
+"forms_repeat": 153,
+"forms_new": 48,
+"roots": 91,
+"roots_new": 0,
+"roots_repeat": 91,
+"cal": 0
+},
+{
+"aliyah": "eikev-6",
+"parsha": "eikev",
+"name": "שישי",
+"from": [
+11,
+10
+],
+"to": [
+11,
+21
+],
+"words": 175,
+"forms": 141,
+"forms_repeat": 110,
+"forms_new": 31,
+"roots": 77,
+"roots_new": 0,
+"roots_repeat": 77,
+"cal": 0
+},
+{
+"aliyah": "eikev-7",
+"parsha": "eikev",
+"name": "שביעי ומפטיר",
+"from": [
+11,
+22
+],
+"to": [
+11,
+25
+],
+"words": 77,
+"forms": 65,
+"forms_repeat": 55,
+"forms_new": 10,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "reeh-1",
+"parsha": "reeh",
+"name": "ראשון",
+"from": [
+11,
+26
+],
+"to": [
+12,
+10
+],
+"words": 273,
+"forms": 170,
+"forms_repeat": 139,
+"forms_new": 31,
+"roots": 76,
+"roots_new": 1,
+"roots_repeat": 75,
+"cal": 0
+},
+{
+"aliyah": "reeh-2",
+"parsha": "reeh",
+"name": "שני",
+"from": [
+12,
+11
+],
+"to": [
+12,
+28
+],
+"words": 307,
+"forms": 169,
+"forms_repeat": 123,
+"forms_new": 46,
+"roots": 74,
+"roots_new": 2,
+"roots_repeat": 72,
+"cal": 0
+},
+{
+"aliyah": "reeh-3",
+"parsha": "reeh",
+"name": "שלישי",
+"from": [
+12,
+29
+],
+"to": [
+13,
+19
+],
+"words": 397,
+"forms": 250,
+"forms_repeat": 187,
+"forms_new": 63,
+"roots": 98,
+"roots_new": 1,
+"roots_repeat": 97,
+"cal": 0
+},
+{
+"aliyah": "reeh-4",
+"parsha": "reeh",
+"name": "רביעי",
+"from": [
+14,
+1
+],
+"to": [
+14,
+21
+],
+"words": 212,
+"forms": 141,
+"forms_repeat": 108,
+"forms_new": 33,
+"roots": 62,
+"roots_new": 1,
+"roots_repeat": 61,
+"cal": 1
+},
+{
+"aliyah": "reeh-5",
+"parsha": "reeh",
+"name": "חמישי",
+"from": [
+14,
+22
+],
+"to": [
+14,
+29
+],
+"words": 142,
+"forms": 92,
+"forms_repeat": 77,
+"forms_new": 15,
+"roots": 54,
+"roots_new": 0,
+"roots_repeat": 54,
+"cal": 0
+},
+{
+"aliyah": "reeh-6",
+"parsha": "reeh",
+"name": "שישי",
+"from": [
+15,
+1
+],
+"to": [
+15,
+18
+],
+"words": 306,
+"forms": 183,
+"forms_repeat": 135,
+"forms_new": 48,
+"roots": 76,
+"roots_new": 0,
+"roots_repeat": 76,
+"cal": 0
+},
+{
+"aliyah": "reeh-7",
+"parsha": "reeh",
+"name": "שביעי",
+"from": [
+15,
+19
+],
+"to": [
+16,
+12
+],
+"words": 266,
+"forms": 168,
+"forms_repeat": 144,
+"forms_new": 24,
+"roots": 84,
+"roots_new": 0,
+"roots_repeat": 84,
+"cal": 0
+},
+{
+"aliyah": "reeh-8",
+"parsha": "reeh",
+"name": "מפטיר",
+"from": [
+16,
+13
+],
+"to": [
+16,
+17
+],
+"words": 76,
+"forms": 56,
+"forms_repeat": 49,
+"forms_new": 7,
+"roots": 34,
+"roots_new": 0,
+"roots_repeat": 34,
+"cal": 0
+},
+{
+"aliyah": "shoftim-1",
+"parsha": "shoftim",
+"name": "ראשון",
+"from": [
+16,
+18
+],
+"to": [
+17,
+13
+],
+"words": 308,
+"forms": 187,
+"forms_repeat": 158,
+"forms_new": 29,
+"roots": 91,
+"roots_new": 0,
+"roots_repeat": 91,
+"cal": 0
+},
+{
+"aliyah": "shoftim-2",
+"parsha": "shoftim",
+"name": "שני",
+"from": [
+17,
+14
+],
+"to": [
+17,
+20
+],
+"words": 141,
+"forms": 103,
+"forms_repeat": 88,
+"forms_new": 15,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "shoftim-3",
+"parsha": "shoftim",
+"name": "שלישי",
+"from": [
+18,
+1
+],
+"to": [
+18,
+5
+],
+"words": 73,
+"forms": 60,
+"forms_repeat": 54,
+"forms_new": 6,
+"roots": 31,
+"roots_new": 2,
+"roots_repeat": 29,
+"cal": 0
+},
+{
+"aliyah": "shoftim-4",
+"parsha": "shoftim",
+"name": "רביעי",
+"from": [
+18,
+6
+],
+"to": [
+18,
+13
+],
+"words": 94,
+"forms": 83,
+"forms_repeat": 63,
+"forms_new": 20,
+"roots": 47,
+"roots_new": 1,
+"roots_repeat": 46,
+"cal": 0
+},
+{
+"aliyah": "shoftim-5",
+"parsha": "shoftim",
+"name": "חמישי",
+"from": [
+18,
+14
+],
+"to": [
+19,
+13
+],
+"words": 375,
+"forms": 219,
+"forms_repeat": 176,
+"forms_new": 43,
+"roots": 88,
+"roots_new": 1,
+"roots_repeat": 87,
+"cal": 0
+},
+{
+"aliyah": "shoftim-6",
+"parsha": "shoftim",
+"name": "שישי",
+"from": [
+19,
+14
+],
+"to": [
+20,
+9
+],
+"words": 272,
+"forms": 176,
+"forms_repeat": 136,
+"forms_new": 40,
+"roots": 82,
+"roots_new": 0,
+"roots_repeat": 82,
+"cal": 0
+},
+{
+"aliyah": "shoftim-7",
+"parsha": "shoftim",
+"name": "שביעי",
+"from": [
+20,
+10
+],
+"to": [
+21,
+6
+],
+"words": 269,
+"forms": 182,
+"forms_repeat": 133,
+"forms_new": 49,
+"roots": 82,
+"roots_new": 0,
+"roots_repeat": 82,
+"cal": 0
+},
+{
+"aliyah": "shoftim-8",
+"parsha": "shoftim",
+"name": "מפטיר",
+"from": [
+21,
+7
+],
+"to": [
+21,
+9
+],
+"words": 42,
+"forms": 37,
+"forms_repeat": 32,
+"forms_new": 5,
+"roots": 18,
+"roots_new": 0,
+"roots_repeat": 18,
+"cal": 0
+},
+{
+"aliyah": "kiteitzei-1",
+"parsha": "kiteitzei",
+"name": "ראשון",
+"from": [
+21,
+10
+],
+"to": [
+21,
+21
+],
+"words": 188,
+"forms": 146,
+"forms_repeat": 106,
+"forms_new": 40,
+"roots": 78,
+"roots_new": 1,
+"roots_repeat": 77,
+"cal": 0
+},
+{
+"aliyah": "kiteitzei-2",
+"parsha": "kiteitzei",
+"name": "שני",
+"from": [
+21,
+22
+],
+"to": [
+22,
+7
+],
+"words": 162,
+"forms": 110,
+"forms_repeat": 76,
+"forms_new": 34,
+"roots": 54,
+"roots_new": 1,
+"roots_repeat": 53,
+"cal": 1
+},
+{
+"aliyah": "kiteitzei-3",
+"parsha": "kiteitzei",
+"name": "שלישי",
+"from": [
+22,
+8
+],
+"to": [
+23,
+7
+],
+"words": 424,
+"forms": 244,
+"forms_repeat": 167,
+"forms_new": 77,
+"roots": 104,
+"roots_new": 0,
+"roots_repeat": 104,
+"cal": 0
+},
+{
+"aliyah": "kiteitzei-4",
+"parsha": "kiteitzei",
+"name": "רביעי",
+"from": [
+23,
+8
+],
+"to": [
+23,
+24
+],
+"words": 234,
+"forms": 166,
+"forms_repeat": 126,
+"forms_new": 40,
+"roots": 81,
+"roots_new": 0,
+"roots_repeat": 81,
+"cal": 0
+},
+{
+"aliyah": "kiteitzei-5",
+"parsha": "kiteitzei",
+"name": "חמישי",
+"from": [
+23,
+25
+],
+"to": [
+24,
+4
+],
+"words": 103,
+"forms": 78,
+"forms_repeat": 59,
+"forms_new": 19,
+"roots": 40,
+"roots_new": 0,
+"roots_repeat": 40,
+"cal": 0
+},
+{
+"aliyah": "kiteitzei-6",
+"parsha": "kiteitzei",
+"name": "שישי",
+"from": [
+24,
+5
+],
+"to": [
+24,
+13
+],
+"words": 125,
+"forms": 103,
+"forms_repeat": 81,
+"forms_new": 22,
+"roots": 52,
+"roots_new": 0,
+"roots_repeat": 52,
+"cal": 0
+},
+{
+"aliyah": "kiteitzei-7",
+"parsha": "kiteitzei",
+"name": "שביעי",
+"from": [
+24,
+14
+],
+"to": [
+25,
+16
+],
+"words": 350,
+"forms": 234,
+"forms_repeat": 178,
+"forms_new": 56,
+"roots": 103,
+"roots_new": 1,
+"roots_repeat": 102,
+"cal": 0
+},
+{
+"aliyah": "kiteitzei-8",
+"parsha": "kiteitzei",
+"name": "מפטיר",
+"from": [
+25,
+17
+],
+"to": [
+25,
+19
+],
+"words": 54,
+"forms": 45,
+"forms_repeat": 37,
+"forms_new": 8,
+"roots": 26,
+"roots_new": 0,
+"roots_repeat": 26,
+"cal": 0
+},
+{
+"aliyah": "kitavo-1",
+"parsha": "kitavo",
+"name": "ראשון",
+"from": [
+26,
+1
+],
+"to": [
+26,
+11
+],
+"words": 170,
+"forms": 122,
+"forms_repeat": 103,
+"forms_new": 19,
+"roots": 62,
+"roots_new": 0,
+"roots_repeat": 62,
+"cal": 0
+},
+{
+"aliyah": "kitavo-2",
+"parsha": "kitavo",
+"name": "שני",
+"from": [
+26,
+12
+],
+"to": [
+26,
+15
+],
+"words": 86,
+"forms": 71,
+"forms_repeat": 58,
+"forms_new": 13,
+"roots": 37,
+"roots_new": 0,
+"roots_repeat": 37,
+"cal": 0
+},
+{
+"aliyah": "kitavo-3",
+"parsha": "kitavo",
+"name": "שלישי",
+"from": [
+26,
+16
+],
+"to": [
+26,
+19
+],
+"words": 70,
+"forms": 56,
+"forms_repeat": 48,
+"forms_new": 8,
+"roots": 27,
+"roots_new": 1,
+"roots_repeat": 26,
+"cal": 0
+},
+{
+"aliyah": "kitavo-4",
+"parsha": "kitavo",
+"name": "רביעי",
+"from": [
+27,
+1
+],
+"to": [
+27,
+10
+],
+"words": 156,
+"forms": 94,
+"forms_repeat": 83,
+"forms_new": 11,
+"roots": 42,
+"roots_new": 1,
+"roots_repeat": 41,
+"cal": 0
+},
+{
+"aliyah": "kitavo-5",
+"parsha": "kitavo",
+"name": "חמישי",
+"from": [
+27,
+11
+],
+"to": [
+28,
+6
+],
+"words": 236,
+"forms": 142,
+"forms_repeat": 112,
+"forms_new": 30,
+"roots": 74,
+"roots_new": 0,
+"roots_repeat": 74,
+"cal": 0
+},
+{
+"aliyah": "kitavo-6",
+"parsha": "kitavo",
+"name": "שישי",
+"from": [
+28,
+7
+],
+"to": [
+28,
+69
+],
+"words": 963,
+"forms": 544,
+"forms_repeat": 342,
+"forms_new": 202,
+"roots": 235,
+"roots_new": 12,
+"roots_repeat": 223,
+"cal": 0
+},
+{
+"aliyah": "kitavo-7",
+"parsha": "kitavo",
+"name": "שביעי",
+"from": [
+29,
+1
+],
+"to": [
+29,
+5
+],
+"words": 71,
+"forms": 63,
+"forms_repeat": 55,
+"forms_new": 8,
+"roots": 31,
+"roots_new": 0,
+"roots_repeat": 31,
+"cal": 0
+},
+{
+"aliyah": "kitavo-8",
+"parsha": "kitavo",
+"name": "מפטיר",
+"from": [
+29,
+6
+],
+"to": [
+29,
+8
+],
+"words": 39,
+"forms": 36,
+"forms_repeat": 31,
+"forms_new": 5,
+"roots": 19,
+"roots_new": 0,
+"roots_repeat": 19,
+"cal": 0
+},
+{
+"aliyah": "nitzavim-1",
+"parsha": "nitzavim",
+"name": "ראשון",
+"from": [
+29,
+9
+],
+"to": [
+29,
+11
+],
+"words": 38,
+"forms": 33,
+"forms_repeat": 23,
+"forms_new": 10,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "nitzavim-2",
+"parsha": "nitzavim",
+"name": "שני",
+"from": [
+29,
+12
+],
+"to": [
+29,
+14
+],
+"words": 52,
+"forms": 41,
+"forms_repeat": 39,
+"forms_new": 2,
+"roots": 11,
+"roots_new": 0,
+"roots_repeat": 11,
+"cal": 0
+},
+{
+"aliyah": "nitzavim-3",
+"parsha": "nitzavim",
+"name": "שלישי",
+"from": [
+29,
+15
+],
+"to": [
+29,
+28
+],
+"words": 252,
+"forms": 177,
+"forms_repeat": 130,
+"forms_new": 47,
+"roots": 78,
+"roots_new": 0,
+"roots_repeat": 78,
+"cal": 0
+},
+{
+"aliyah": "nitzavim-4",
+"parsha": "nitzavim",
+"name": "רביעי",
+"from": [
+30,
+1
+],
+"to": [
+30,
+6
+],
+"words": 98,
+"forms": 67,
+"forms_repeat": 55,
+"forms_new": 12,
+"roots": 35,
+"roots_new": 0,
+"roots_repeat": 35,
+"cal": 0
+},
+{
+"aliyah": "nitzavim-5",
+"parsha": "nitzavim",
+"name": "חמישי",
+"from": [
+30,
+7
+],
+"to": [
+30,
+10
+],
+"words": 73,
+"forms": 59,
+"forms_repeat": 54,
+"forms_new": 5,
+"roots": 32,
+"roots_new": 0,
+"roots_repeat": 32,
+"cal": 0
+},
+{
+"aliyah": "nitzavim-6",
+"parsha": "nitzavim",
+"name": "שישי",
+"from": [
+30,
+11
+],
+"to": [
+30,
+14
+],
+"words": 51,
+"forms": 37,
+"forms_repeat": 33,
+"forms_new": 4,
+"roots": 16,
+"roots_new": 0,
+"roots_repeat": 16,
+"cal": 0
+},
+{
+"aliyah": "nitzavim-7",
+"parsha": "nitzavim",
+"name": "שביעי ומפטיר",
+"from": [
+30,
+15
+],
+"to": [
+30,
+20
+],
+"words": 116,
+"forms": 84,
+"forms_repeat": 75,
+"forms_new": 9,
+"roots": 44,
+"roots_new": 0,
+"roots_repeat": 44,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-1",
+"parsha": "vayeilech",
+"name": "ראשון",
+"from": [
+31,
+1
+],
+"to": [
+31,
+3
+],
+"words": 52,
+"forms": 45,
+"forms_repeat": 44,
+"forms_new": 1,
+"roots": 18,
+"roots_new": 0,
+"roots_repeat": 18,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-2",
+"parsha": "vayeilech",
+"name": "שני",
+"from": [
+31,
+4
+],
+"to": [
+31,
+6
+],
+"words": 41,
+"forms": 35,
+"forms_repeat": 31,
+"forms_new": 4,
+"roots": 16,
+"roots_new": 0,
+"roots_repeat": 16,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-3",
+"parsha": "vayeilech",
+"name": "שלישי",
+"from": [
+31,
+7
+],
+"to": [
+31,
+9
+],
+"words": 58,
+"forms": 53,
+"forms_repeat": 47,
+"forms_new": 6,
+"roots": 27,
+"roots_new": 0,
+"roots_repeat": 27,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-4",
+"parsha": "vayeilech",
+"name": "רביעי",
+"from": [
+31,
+10
+],
+"to": [
+31,
+13
+],
+"words": 78,
+"forms": 60,
+"forms_repeat": 54,
+"forms_new": 6,
+"roots": 36,
+"roots_new": 0,
+"roots_repeat": 36,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-5",
+"parsha": "vayeilech",
+"name": "חמישי",
+"from": [
+31,
+14
+],
+"to": [
+31,
+19
+],
+"words": 123,
+"forms": 99,
+"forms_repeat": 79,
+"forms_new": 20,
+"roots": 48,
+"roots_new": 0,
+"roots_repeat": 48,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-6",
+"parsha": "vayeilech",
+"name": "שישי",
+"from": [
+31,
+20
+],
+"to": [
+31,
+24
+],
+"words": 99,
+"forms": 75,
+"forms_repeat": 63,
+"forms_new": 12,
+"roots": 44,
+"roots_new": 0,
+"roots_repeat": 44,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-7",
+"parsha": "vayeilech",
+"name": "שביעי",
+"from": [
+31,
+25
+],
+"to": [
+31,
+27
+],
+"words": 48,
+"forms": 42,
+"forms_repeat": 36,
+"forms_new": 6,
+"roots": 20,
+"roots_new": 0,
+"roots_repeat": 20,
+"cal": 0
+},
+{
+"aliyah": "vayeilech-8",
+"parsha": "vayeilech",
+"name": "מפטיר",
+"from": [
+31,
+28
+],
+"to": [
+31,
+30
+],
+"words": 58,
+"forms": 49,
+"forms_repeat": 43,
+"forms_new": 6,
+"roots": 27,
+"roots_new": 0,
+"roots_repeat": 27,
+"cal": 0
+},
+{
+"aliyah": "haazinu-1",
+"parsha": "haazinu",
+"name": "ראשון",
+"from": [
+32,
+1
+],
+"to": [
+32,
+6
+],
+"words": 83,
+"forms": 71,
+"forms_repeat": 46,
+"forms_new": 25,
+"roots": 47,
+"roots_new": 1,
+"roots_repeat": 46,
+"cal": 0
+},
+{
+"aliyah": "haazinu-2",
+"parsha": "haazinu",
+"name": "שני",
+"from": [
+32,
+7
+],
+"to": [
+32,
+12
+],
+"words": 80,
+"forms": 75,
+"forms_repeat": 48,
+"forms_new": 27,
+"roots": 53,
+"roots_new": 2,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "haazinu-3",
+"parsha": "haazinu",
+"name": "שלישי",
+"from": [
+32,
+13
+],
+"to": [
+32,
+18
+],
+"words": 82,
+"forms": 74,
+"forms_repeat": 45,
+"forms_new": 29,
+"roots": 45,
+"roots_new": 1,
+"roots_repeat": 44,
+"cal": 0
+},
+{
+"aliyah": "haazinu-4",
+"parsha": "haazinu",
+"name": "רביעי",
+"from": [
+32,
+19
+],
+"to": [
+32,
+28
+],
+"words": 134,
+"forms": 117,
+"forms_repeat": 74,
+"forms_new": 43,
+"roots": 63,
+"roots_new": 4,
+"roots_repeat": 59,
+"cal": 0
+},
+{
+"aliyah": "haazinu-5",
+"parsha": "haazinu",
+"name": "חמישי",
+"from": [
+32,
+29
+],
+"to": [
+32,
+39
+],
+"words": 137,
+"forms": 120,
+"forms_repeat": 70,
+"forms_new": 50,
+"roots": 64,
+"roots_new": 1,
+"roots_repeat": 63,
+"cal": 0
+},
+{
+"aliyah": "haazinu-6",
+"parsha": "haazinu",
+"name": "שישי",
+"from": [
+32,
+40
+],
+"to": [
+32,
+43
+],
+"words": 62,
+"forms": 58,
+"forms_repeat": 40,
+"forms_new": 18,
+"roots": 37,
+"roots_new": 1,
+"roots_repeat": 36,
+"cal": 0
+},
+{
+"aliyah": "haazinu-7",
+"parsha": "haazinu",
+"name": "שביעי",
+"from": [
+32,
+44
+],
+"to": [
+32,
+47
+],
+"words": 69,
+"forms": 54,
+"forms_repeat": 46,
+"forms_new": 8,
+"roots": 24,
+"roots_new": 0,
+"roots_repeat": 24,
+"cal": 0
+},
+{
+"aliyah": "haazinu-8",
+"parsha": "haazinu",
+"name": "מפטיר",
+"from": [
+32,
+48
+],
+"to": [
+32,
+52
+],
+"words": 81,
+"forms": 60,
+"forms_repeat": 51,
+"forms_new": 9,
+"roots": 23,
+"roots_new": 0,
+"roots_repeat": 23,
+"cal": 0
+},
+{
+"aliyah": "vezot-1",
+"parsha": "vezot",
+"name": "ראשון",
+"from": [
+33,
+1
+],
+"to": [
+33,
+7
+],
+"words": 104,
+"forms": 93,
+"forms_repeat": 70,
+"forms_new": 23,
+"roots": 52,
+"roots_new": 0,
+"roots_repeat": 52,
+"cal": 0
+},
+{
+"aliyah": "vezot-2",
+"parsha": "vezot",
+"name": "שני",
+"from": [
+33,
+8
+],
+"to": [
+33,
+12
+],
+"words": 86,
+"forms": 80,
+"forms_repeat": 54,
+"forms_new": 26,
+"roots": 51,
+"roots_new": 0,
+"roots_repeat": 51,
+"cal": 0
+},
+{
+"aliyah": "vezot-3",
+"parsha": "vezot",
+"name": "שלישי",
+"from": [
+33,
+13
+],
+"to": [
+33,
+17
+],
+"words": 82,
+"forms": 73,
+"forms_repeat": 49,
+"forms_new": 24,
+"roots": 43,
+"roots_new": 2,
+"roots_repeat": 41,
+"cal": 0
+},
+{
+"aliyah": "vezot-4",
+"parsha": "vezot",
+"name": "רביעי",
+"from": [
+33,
+18
+],
+"to": [
+33,
+21
+],
+"words": 70,
+"forms": 66,
+"forms_repeat": 51,
+"forms_new": 15,
+"roots": 38,
+"roots_new": 0,
+"roots_repeat": 38,
+"cal": 0
+},
+{
+"aliyah": "vezot-5",
+"parsha": "vezot",
+"name": "חמישי",
+"from": [
+33,
+22
+],
+"to": [
+33,
+26
+],
+"words": 57,
+"forms": 51,
+"forms_repeat": 28,
+"forms_new": 23,
+"roots": 33,
+"roots_new": 1,
+"roots_repeat": 32,
+"cal": 0
+},
+{
+"aliyah": "vezot-6",
+"parsha": "vezot",
+"name": "שישי",
+"from": [
+33,
+27
+],
+"to": [
+33,
+29
+],
+"words": 54,
+"forms": 53,
+"forms_repeat": 40,
+"forms_new": 13,
+"roots": 33,
+"roots_new": 0,
+"roots_repeat": 33,
+"cal": 0
+},
+{
+"aliyah": "vezot-7",
+"parsha": "vezot",
+"name": "שביעי",
+"from": [
+34,
+1
+],
+"to": [
+34,
+12
+],
+"words": 179,
+"forms": 132,
+"forms_repeat": 121,
+"forms_new": 11,
+"roots": 52,
+"roots_new": 0,
+"roots_repeat": 52,
+"cal": 0
+}
+]

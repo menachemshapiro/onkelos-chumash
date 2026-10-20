@@ -1,0 +1,119 @@
+# Vayera 19:1–19:20
+מַלְאָכ.ַיָּא=emphp | malakh | n mp emph | the angels
+בְּ=at.תַרְע.ָא=emph | tara | n emph | at the gate
+לְ=to.תַרְע.ָא=emph | tara | n emph | to the entrance
+תַרְע.ָא=emph | tara | n emph | the entrance
+בְּ=in.בָעוּ | bavu | n fs | please (lit. in request)
+רִבּוֹנ.ַי=my | ribbon | n mp+1cs | my masters
+רִבּוֹנ.ָי=my | ribbon | n mp+1cs | my masters
+זוּר.וּ~cmd_pl | zwr | G impv mp | turn aside
+וְ=.זָר.וּ~they_p | zwr | G pf 3mp | and (they) turned aside
+וּ=.בִית.וּ~cmd_pl | bwt | G impv mp | and stay overnight
+נְ~we_f.בִית | bwt | G impf 1cp | we will stay overnight
+וְ=.אַ~C.סְח.וֹ~cmd_pl | shy | C impv mp | and wash
+וּ=.תְ~ypl_f.קַדְּמ.וּן~mp | qdm2 | D impf 2mp | and you (pl.) will rise early
+וּ=.תְ~ypl_f.הָכ.וּן~mp | hlk2 | G impf 2mp | and you (pl.) will go
+לְ=on.אָרְח.ֲכוֹן=your (pl.) | orah | n+2mp | on your way
+אֶלָּהֵן | elahen | conj | but rather
+בִּ=in.רְחוֹב.ָא=emph | rehov | n emph | in the street
+וְ=.אַ~C.תְקֵף | tqf | C pf 3ms | and (he) urged (lit. pressed hard)
+מִשְׁתְּי.ָא=emph | mishte | n emph | a feast
+וּ=.פַטִּיר | patir | n | and matzos (unleavened bread)
+אֲפָא | afy | G pf 3ms | (he) baked
+שְׁכִיב.וּ~they_p | shkv | G pf 3mp | (they) lay down
+אֲנָשֵׁי | enash | n mp cs | the men of
+אַ~C.קִּיפ.וּ~they_p | nqf | C pf 3mp | (they) surrounded | the נ of נקף is absorbed (the dot in קּ)
+סָב.ָא=emph | sava | n emph | old (lit. the old man)
+מִ=.סּוֹפ.ֵיהּ=its | sof | n+3ms | from every quarter (lit. from its end)
+וּ=.קְר.וֹ~they_p | qry | G pf 3mp | and (they) called
+אֲת.וֹ~they_p | aty | G pf 3mp | came
+אַ~C.פֵּקִ.נּוּן=them | npq | C impv ms+3mp | bring them out | the נ of נפק is absorbed (the dot in פּ)
+לְוָת.ָנָא=us | lwat | prep+1cp | to us
+לְוָת.ְהוֹן=them | lwat | prep+3mp | to them
+לְוָת.ְכוֹן=you (pl.) | lwat | prep+2mp | to you (pl.)
+וְ=.נִ~we_f.דַּע | yd | G impf 1cp | and we will know | the י of ידע is absorbed (the dot in דּ)
+וְ=.דָשׁ.ָא=emph | dasha | n emph | and the door
+דָּשׁ.ָא=emph | dasha | n emph | the door
+אֲחַד | ahd | G pf 3ms | (he) closed
+אֲחָד.וּ~they_p | ahd | G pf 3mp | (they) closed
+אַח.ַי=my | ah | n mp+1cs | my brothers
+תַ~ypl_f.בְאִישׁ.וּן~mp | bsh | C impf 2mp | do (not) do evil
+נַ~we_f.בְאֵשׁ | bsh | C impf 1cp | we will do (more) harm
+בְּנָ.ן=pl | bnat | n fp abs | daughters
+יְדָעִ.נּוּן=them | yd | G pf 3ms+3fp | (no man) has known them
+אַ~I_f.פֵּק | npq | C impf 1cs | let me bring out | the נ of נפק is absorbed (the dot in פּ)
+יָת.ְהָן=them (fem.) | yat | part+3fp | them
+וְ=.עִיבִיד.וּ~cmd_pl | avad | G impv mp | and do
+לְ.הֵן=them (fem.) | le | prep+3fp | to them
+כִּ=as.דְ=that.תַקֵּן | taqqin | a ms | as is fitting
+בְּ=in.עֵינֵי.כוֹן=your (pl.) | eina | n fp+2mp | in your eyes
+תַ~ypl_f.עְבְּד.וּן~mp | avad | G impf 2mp | you (pl.) shall (not) do
+מִדַּעַם | midaam | pron | anything
+בִּ=under.טְלַל | telal | n cs | under the shelter of
+שֵׁרוּת.ִי=my | sheruta | n fs+1cs | my lodging (= my roof)
+19:9> קְרֵב | qrb | G impv ms | step (lit. come near)
+לְהַלָּא | lhalla | adv | further away (= stand back)
+אֲתָא | aty | G pf 3ms | came
+דָיִין | dyn | G ptc ms | judging (דָיִין דִּינָא = he would act as judge)
+מִ=than.דִּיל.ְהוֹן=them | dil | part+3mp | than to them
+בְ=against.גַבְר.ָא=emph | gvar | n emph | against the man
+בְ=against.לוֹט | name | name | against Lot
+וּ=.קְרִיב.וּ~they_p | qrb | G pf 3mp | and (they) came near
+לְ=.מִ~inf.תְּבַר | tvr | G inf | to break
+וְ=.אוֹ~C.שִׁיט.וּ~they_p | wsht | C pf 3mp | and (they) stretched out
+יְד.ֵיהוֹן=their | yad | n fp+3mp | their hands
+וְ=.אַ~C.יְתִיא.וּ~they_p | aty | C pf 3mp | and (they) brought
+מְח.וֹ~they_p | mhy | G pf 3mp | (they) struck
+בְּ=with.שַׁבְרִיר.ַיָּא=emphp | shavrira | n mp emph | with blindness
+וּ=.לְאִי.וּ~they_p | lay | G pf 3mp | and (they) tired
+לְ=.אַ~C.שְׁכָּח.ָא~inf_end | shkh | C inf | to find
+חַתְנ.ָא=emph | hatna | n emph | a son-in-law
+חַתְנ.וֹהִי=his | hatna | n mp+3ms | his sons-in-law
+וּ=.בְנָת.ָךְ=your | bnat | n fp+2ms | and your daughters
+בְּנָת.ָךְ=your | bnat | n fp+2ms | your daughters
+בְנָת.ֵיהּ=his | bnat | n fp+3ms | his daughters
+בְּנָת.ֵיהּ=his | bnat | n fp+3ms | his daughters
+מְ~ptcD.חַבְּל.ִין~mp | hbl | D ptc mp | (are) destroying
+מְ~ptcD.חַבֵּל | hbl | D ptc ms | is (about to) destroy
+אֲנַחְנָא | anahna | pron 1cp | we
+וְ=.שַׁלְחָ.נָא=us | shlh | D pf 3ms+1cp | and (He) has sent us
+לְ=.חַבָּלוּת.ַהּ=it (fem.) | habbaluta | n fs+3fs | to destroy it
+נָסְבֵי | nsv | G ptc mp cs | who were to marry (lit. taking)
+קוּמ.וּ~cmd_pl | qwm | G impv mp | get up
+פּוּק.וּ~cmd_pl | npq | G impv mp | go out | the נ of נפק drops
+כִּ=like.מְ~ptcD.חָיִךְ | hyk | D ptc ms | like one who jests
+וּ=.כְ=when.מִ~inf.סַּק | slq | G inf | and when (dawn) rose | the ל of סלק is absorbed (the dot in סּ)
+צַפְר.ָא=emph | tsfar | n emph | the morning, dawn
+וּ=.דְחִיק.וּ~they_p | dhq | G pf 3mp | and (they) urged
+דְּ=that.אִ~Gt.שְׁתְּכַח.ַן~fp | shkh | !verb, Itpe‘el, past, 3rd fem. pl. | that are found (here) | the passive ת moves after the ש
+מְהֵימְנ.ָן~fp | hymn | !verb, Af‘el, passive participle, fem. pl. | faithful (lit. trusted)
+תִ~you_f.לְקֵי | lqy | G impf 2ms | you will be smitten
+וְ=.אִתְ~Dt.עַכַּב | kv | Dt pf 3ms | and (he) lingered
+וְ=.אַ~C.תְקִיפ.וּ~they_p | tqf | C pf 3mp | and (they) seized
+בִּ=.ידֵ.יהּ=his | yad | n fs+3ms | his hand
+וּ=.בִ=.ידָא | yad | n fs | and the hand of
+וּ=.בְ=.יַד | yad | n fs cs | and the hand of
+כִּ=as.רְחַם | rhm | G pf 3ms | as (Hashem) had mercy
+חָס | hws | G pf 3ms | (Hashem) had pity
+19:16>חָס | hws | G pf 3ms | (Hashem) had pity (a variant reading)
+וְ=.אַ~C.פְּק.וּהִי=him | npq | C pf 3mp+3ms | and (they) brought him out
+אַ~C.פִּיק.וּ~they_p | npq | C pf 3mp | (they) brought out
+וְ=.אַ~C.שְׁר.וּהִי=him | shry | C pf 3mp+3ms | and (they) set him (down)
+חוּס | hws | G impv ms | have pity (= flee for)
+נַפְשׁ.ָךְ=your | nafsha | n fs+2ms | your life
+תִ~you_f.סְתְּכִי | skh | Gt impf 2ms | look | the passive ת moves after the ס
+לַ=to.אֲחוֹר.ָךְ=your | ahor | n+2ms | behind you
+תְ~you_f.קוּם | qwm | G impf 2ms | (do not) stand
+אִשְׁתֵּזֵב | shyzv | !verb, Ishtaf‘al, imperative | escape | the passive ת moves after the ש
+דִּלְמָא | dilma | conj | lest
+וְ=.אַ~C.סְגֵּי.תָא~you_p | sgy | C pf 2ms | and you have made great
+טֵיבוּת.ָךְ=your | tevu | n fs+2ms | your kindness
+יָכִיל | ykl | G ptc ms | able
+לְ=.אִשְׁתֵּזָב.ָא~inf_end | shyzv | !verb, Ishtaf‘al, infinitive | to escape
+תְ~she_f.עַרְעִ.נַּנִי=me | ra | G impf 3fs+1cs | (evil) will overtake me
+בִשְׁתּ.ָא=emph | bishta2 | n fs emph | the evil
+וְ=.אֵי~I_f.מוּת | mwt | G impf 1cs | and I will die
+קְרִיב.ָא~fs | qariv | a fs | near
+לְ=.מֵ~inf.עִירוֹק | rq | G inf | to flee
+אִשְׁתֵּזַב | shyzv | !verb, Ishtaf‘al, imperfect, 1st person sing. | let me escape
+וְ=.תִ~she_f.תְ~Dt.קַיַּם | qwm2 | Dt impf 3fs | and (my life) will be spared

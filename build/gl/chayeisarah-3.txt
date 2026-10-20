@@ -1,0 +1,77 @@
+# Chayei Sarah 24:10–24:26
+גַמְל.ִין=pl | gamla | n mp abs | camels
+מִ=from.גַּמְלֵי | gamla | n mp cs | from the camels of
+גַמְל.ַיָּא=emphp | gamla | n mp emph | the camels
+גַּמְל.ָךְ=your | gamla | n mp+2ms | your camels
+לְ=for.גַמְל.ָךְ=your | gamla | n mp+2ms | for your camels
+גַּמְל.וֹהִי=his | gamla | n mp+3ms | his camels
+רִבּוֹנ.ֵה=his | ribbon | n+3ms | his master
+פְּרַת | name | name | P'ras (the Euphrates)
+דְּ=that.נַפְק.ַן~fp | npq | G ptc fp | when (the women) come out
+נַפְק.ַן~fp | npq | G ptc fp | are coming out
+נְפָק.ַת~she_p | npq | G pf 3fs | came out
+מַלְיָת.ָא~fp | malyata | n fp emph | the women who draw water
+זַמִּין | zmn | D impv ms | arrange (it)
+24:12> וְ=.עִבַד | avad | G impv ms | and do
+קָאֵם | qwm | G ptc ms | standing
+לְ=.מִ~inf.מְלֵי | mly | G inf | to draw (lit. fill)
+אַ~I_f.מְלֵי | mly | C impf 1cs | I will draw (water; lit. fill)
+עוּלֶמְתּ.ָא=emph | ulemta | n fs emph | the young woman
+וְ=.עוּלֶמְתּ.ָא=emph | ulemta | n fs emph | and the young woman
+דְּ=that.אֵ~I_f.ימַר | amr | G impf 1cs | to whom I say | the א of אמר becomes י
+אַ~C.רְכִי.נִי=me | rkn | C impv fs+1cs | tilt (for me)
+קוּלְת.ִיךְ=your (fem.) | qulta | n fs+2fs | your pitcher
+מִ=from.קּוּלְת.ִיךְ=your (fem.) | qulta | n fs+2fs | from your pitcher
+קוּלְת.ַהּ=her | qulta | n fs+3fs | her pitcher
+וְ=.קוּלְת.ַהּ=her | qulta | n fs+3fs | and her pitcher
+וְ=.אֶ~I_f.שְׁתִּי | shty | G impf 1cs | and I will drink
+אֵשְׁתְּ | shty | G impv ms | drink
+לְ=.מִ~inf.שְׁתֵּי | shty | G inf | to drink
+אַ~I_f.שְׁקֵי | shqy | C impf 1cs | I will give to drink
+אַ~C.שְׁקִי.נִי=me | shqy | C impv fs+1cs | give me to drink
+וְ=.אַ~C.שְׁקְתֵ.יהּ=him | shqy | C pf 3fs+3ms | and (she) gave him to drink
+לְ=.אַ~C.שְׁקָיוּת.ֵיהּ=him | shqy | C inf+3ms | giving him to drink
+זַמִּנְ.תָּא~you_p | zmn | D pf 2ms | You have designated
+וּ=.בַ.הּ=it (fem.) | be | prep+3fs | and by it
+אִי~I_f.דַע | yd | G impf 1cs | I will know
+לְ=.מֵ~inf.ידַע | yd | G inf | to know
+יַדְע.ָהּ=her | yd | G pf 3ms+3fs | had known her
+שֵׁיצֵי | shetsi | Q pf 3ms | (he) finished
+וְ=.שֵׁיצִיא.ַת~she_p | shetsi | Q pf 3fs | and (she) finished
+דְּ=who.אִתְ~Gt.יְלִיד.ַת~she_p | yld | Gt pf 3fs | who was born
+בְּתֻלְתּ.ָא=emph | betulta | n fs emph | a virgin
+וּ=.נְחָת.ַת~she_p | nht | G pf 3fs | and (she) went down
+וַ=.אֲ~C.חֵית.ַת~she_p | nht | C pf 3fs | and (she) lowered | the נ of נחת is absorbed
+וּ=.מְלַ.ת~she_p | mly | G pf 3fs | and (she) filled
+וּ=.סְלֵק.ָת~she_p | slq | G pf 3fs | and (she) came up
+לִ=.קְדָמוּת.ַהּ=her | qadmuta | n fs+3fs | to meet her
+אַ~C.טְעֵמְ.נִי=me | tm | C impv ms+1cs | let me taste
+24:17>אַ~C.טְעֵמְ.נִי=me | tm | C impv ms+1cs | let me taste (a variant reading)
+וְ=.אוֹ~C.חִיא.ַת~she_p | wy | C pf 3fs | and (she) hurried
+יְד.ַהּ=her | yad | n fs+3fs | her hand
+סַפְק.וּן~they_p | spq | G pf 3mp | (they) have had enough
+סַפִּיק.וּ~they_p | spq | D pf 3mp | (they) had finished
+וּ=.נְפָצ.ַת~she_p | npts | G pf 3fs | and (she) emptied
+וּ=.רְהָט.ַת~she_p | rht | G pf 3fs | and (she) ran
+שָׁהֵי | shhy | G ptc ms | wondering
+מִסְ~ptcGt.תַּכֵּל | skl | Dt ptc ms | gazing | the passive ת moves after the ס
+שָׁתִיק | shtq | G ptc ms | in silence (lit. silent)
+הַ=whether.אַ~C.צְלַח | tslh2 | C pf 3ms | whether (Hashem) had made successful
+אָרְח.ֵיהּ=his | orah | n+3ms | his way
+קָדָשׁ.ָא=emph | qdasha | n emph | a nose-ring
+תִּקְל.ָא=emph | tiqla | n emph | a beka (half-shekel)
+מַתְקְל.ֵיהּ=its | matqal | n+3ms | its weight
+מַתְקַל | matqal | n cs | the weight of
+מַתְקַלְ.הוֹן=their | matqal | n+3mp | their weight
+שֵׁיר.ִין=pl | shera | n mp abs | bracelets
+חַוִּי | hwy2 | D impv ms | tell
+הַ=is there?.אִית | it | part | is there
+אָבוּ.ךְ=your | av | n+2ms | your father
+אָתַר | atar | n | a place
+כָּשַׁר | kshr | a ms | fit
+לִ=.מְ~inf.בָת | bwt | G inf | to stay overnight
+תִּבְנ.ָא=emph | tivna | n emph | straw
+כִּסָּת.ָא=emph | kissata | n fs emph | fodder
+עִמּ.ָנָא=us | im | prep+1cp | with us
+וּ=.כְרַע | kr | G pf 3ms | and (he) bowed
+24:24> מִלְכָּא | name | name | Milkah

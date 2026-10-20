@@ -1,0 +1,71 @@
+# Vayera 18:1–18:14
+וּ=.בַר | bar | n cs | and a son of (בַּר תּוֹרֵי = a calf)
+בְּ=in.מֵשְׁרֵי | meishar | n mp cs | in the plains of
+בִּ=at.תְרַע | tara | n cs | at the entrance of
+מִ=.תְּרַע | tara | n cs | from the entrance of
+מַשְׁכְּנ.ָא=emph | mashkan | n emph | the tent
+לְ=to.מַשְׁכְּנ.ָא=emph | mashkan | n emph | to the tent
+בְ=in.מַשְׁכְּנ.ָא=emph | mashkan | n emph | in the tent
+כְּ=at.מֵיחַם | hmm | n cs | in the heat of
+גֻבְר.ִין=pl | gvar | n mp abs | men
+גַבְר.ִין=pl | gvar | n mp abs | men
+18:2>גַבְר.ִין=pl | gvar | n mp abs | men (a variant reading)
+קָיְמ.ִין~mp | qwm | G ptc mp | standing
+עִלָּו.וֹהִי=him | illawi | prep+3ms | over him (= near him)
+עִלָּו.ֵיהוֹן=them | illawi | prep+3mp | over them (= attending them)
+וּ=.רְהַט | rht | G pf 3ms | and (he) ran
+רְהַט | rht | G pf 3ms | ran
+לְ=.קַדָּמוּת.ְהוֹן=them | qadmuta | n fs+3mp | to meet them
+וּ=.סְגִיד | sgd | G pf 3ms | and (he) bowed
+אַ~C.שְׁכָּח.ִית~I_p | shkh | C pf 1cs | I have found
+בְּ=in.עֵינָ.יךְ=your | eina | n fp+2ms | in your eyes
+18:3>בְּ=in.עֵינָ.יךְ=your | eina | n fp+2ms | in your eyes (a variant reading)
+תְּ~you_f.עִבַּר | avr | G impf 2ms | (do not) pass on
+עַבְדּ.ָךְ=your | eved | n+2ms | your servant
+עַבְדּ.ְכוֹן=your (pl.) | eved | n+2mp | your servant
+יִ~they_f.סְּב.וּן~mp | nsv | G impf 3mp | let (them) take | the נ of נסב is absorbed (the dot in סּ)
+זְעֵיר | zeir | a ms | a little
+וְ=.אַ~C.סְח.וּ~cmd_pl | shy | C impv mp | and wash
+רַגְל.ֵיכוֹן=your (pl.) | regel | n fp+2mp | your feet
+וְ=.אִסְ~Gt.תְּמִיכ.וּ~cmd_pl | smk | Gt impv mp | and recline (lit. lean) | the passive ת moves after the ס
+פִּתּ.ָא=emph | pitta | n fs emph | a morsel
+וּ=.סְעִיד.וּ~cmd_pl | sad | G impv mp | and refresh
+לִבּ.ְכוֹן=your (pl.) | lev | n+2mp | your heart
+תַּ~ypl_f.עֲבָר.וּן~mp | avr | G impf 2mp | you (pl.) shall pass on
+עֲבַרְ.תּוּן~ypl_p | avr | G pf 2mp | you (pl.) have passed
+מַלֵּלְ.תָּא~you_p | mll2 | D pf 2ms | you have said
+וְ=.אוֹ~C.חִי | wy | C pf 3ms | and (he) hurried
+אוֹ~C.חָא | wy | !verb, Af‘el, imperative | hurry
+סְא.ִין=pl | sea | n fp abs | se'ahs
+קִמְח.ָא=emph | qimha | n emph | flour
+דְ=of.סָלְתּ.ָא=emph | solta | n fs emph | of fine flour
+לוּשׁ.ִי~cmd_fs | lwsh | G impv fs | knead
+גְרִיצ.ָן=pl | gritsa | n fp abs | cakes
+תּוֹר.ֵי~cs_pl | tor | n mp cs | (of) cattle
+רַכִּיךְ | rakkikh | a ms | tender
+לְ=to.עוּלֵמ.ָא=emph | ulema | n emph | to the young man
+שְׁמַן | shman | n | cream
+וַ=.חֲלָב | halav | n | and milk
+קֳדָמ.ֵיהוֹן=them | qodam | prep+3mp | before them
+וַ=.אֲכָל.וּ~they_p | akhal | G pf 3mp | and (they) ate
+מִ~inf.תַּב | twv | G inf | returning (מִתַּב אִתּוּב = I will surely return) | the ו of תוב drops; the ת is doubled
+אִ~I_f.תּוּב | twv | G impf 1cs | I will return
+כְּ=at.עִדָּן | iddan | n cs | at the time
+דְּ=that.אַתּוּן | atun | pron 2mp | (when) you (pl.)
+קַיָּמ.ִין~mp | qayyam | a mp abs | (are) alive
+שְׁמַע.ַת~she_p | shm | G pf 3fs | heard
+אֲחוֹר.וֹהִי=him | ahor | n+3ms | behind him
+סִיב.וּ~they_p | syv | G pf 3mp | (they) were old
+18:11> מִ=from.לְּ=.מֶ~inf.הֱוֵי | hwy | G inf | (it had ceased) to be
+פְּסַק | psq | G pf 3ms | (it) had ceased
+וְ=.חַיְכ.ַת~she_p | hyk | G pf 3fs | and (she) laughed
+חַיְכ.ַת~she_p | hyk | G pf 3fs | (she) laughed
+בִּ=.מְע.ָהַהּ=her | mea | n mp+3fs | within herself (lit. in her innards)
+דְּ=that.סֵיבִ.ית~I_p | syv | G pf 1cs | after I have grown old
+סֵיבִ.ית~I_p | syv | G pf 1cs | I have grown old
+עוּלֵימוּ | ulemu | n fs | youth
+וְ=.רִבּוֹנ.ִי=my | ribbon | n+1cs | and my master (= my husband)
+סִיב | syv | a ms | (is) old
+דְנָן | denan | pron | this (לְמָא דְנָן = why is it that)
+הֲ=?.יִ~he_f.תְ~Dt.כַּסֵּא | ksy | Dt impf 3ms | (is anything) hidden
+דְ=of.לַחְמ.ָא=emph | lahma | n emph | of bread

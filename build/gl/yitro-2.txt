@@ -1,0 +1,28 @@
+# Shemot 18:13–23
+עִלָוֹ.הִי=him | al | prep+3ms | by him (lit. upon him)
+עִלָוָ.ךְ=you | al | prep+2ms | by you (lit. upon you)
+בִּ=by.לְחוֹד.ָךְ=you | lhod | adv+2ms | by yourself
+וְ=.דָאִי.נָא=I | dyn | G ptc ms+1cs | and I judge
+וּ=.מְ~ptcC.הוֹדַעְ.נָא=I | yd | C ptc ms+1cs | and I make known
+קְיָמ.ַיָא~emphp | qyam | n mp emph | the statutes of
+אוֹרָיָת.ֵהּ=His | oraita | n fp+3ms | His teachings
+מִ~inf.לְאָה | lay | G inf | (with) tiring (doubles the verb: you will surely tire)
+תִ~you_f.לְאֶה | lay | G impf 2ms | you will tire
+אֲ~I_f.מַלְכִ.נָךְ=you | mlk2 | D impf 1cs+2ms | I will advise you
+תְּבַע | bay | G impv 2ms | seek!
+מַ~ptcC.יְתִי | aty | C ptc ms | bring (lit. bringing) | the א of אתי becomes י
+וְ=.תַ~you_f.זְהַר | zhr | C impf 2ms | and you shall warn
+וּ=.תְ~you_f.הוֹדַע | yd | C impf 2ms | and you shall make known
+אוֹרְח.ָא=emph | orah | n emph | the way
+תֶּ~you_f.חֶזֵי | hzy | G impf 2ms | you shall look for (lit. see)
+דַחֲל.ַיָא~emphp | dahla | a mp cs | those who fear (Hashem)
+דְ=who.סָנָ.ן~mp | sny | G ptc mp | who hate
+וּ=.תְ~you_f.מַנֵי | mny | D impf 2ms | and you shall appoint
+מָאוָת.ָא=emph | meah | n fp emph | hundreds
+עִשׂוֹרְיָת.ָא=emph | isura | n fp emph | tens
+יַ~they_f.יְת.וּן~mp | aty | C impf 3mp | they shall bring | the א of אתי becomes י
+וְ=.יִ~they_f.קְל.וּן~mp | qll | C impf 3mp | and they will lighten (the burden)
+וִ=and.י~they_f.סוֹבְר.וּן~mp | svr | D impf 3mp | and they will bear (it)
+וִ=and.י~he_f.פַקְדִ.נָךְ=you | pqd | D impf 3ms+2ms | and (Hashem) commands you
+אַתְר.ֵהּ=his | atar | n+3ms | his place
+יְ~he_f.הַךְ | hlk2 | G impf 3ms | will go

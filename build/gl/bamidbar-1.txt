@@ -1,0 +1,347 @@
+# Bamidbar + Naso, all in one batch (other aliyah files are stubs)
+לְ=on.מִ~inf.פַּקְ.הוֹן=their | npq | G inf+3mp | of their going out (i.e. after they left)
+לְ=by.זַרְעֲיַתְ.הוֹן=their | zaraya | n+3mp | by their families
+לְ=by.גֻלְגְּלַתְ.הוֹן=their | gulgalta | n+3mp | by their heads (one by one)
+יְקוּמוּן | qwm | G impf 3mp | (who) shall stand
+אֱלִיצוּר | name | name | Elitzur
+שְׁדֵיאוּר | name | name | Shedeur
+שְׁלֻמִיאֵל | name | name | Shelumiel
+צוּרִישַׁדָּי | name | name | Tzurishaddai
+נַחְשׁוֹן | name | name | Nachshon
+נְתַנְאֵל | name | name | Netanel
+צוּעָר | name | name | Tzuar
+אֱלִיאָב | name | name | Eliav
+חֵלֹּן | name | name | Chelon
+אֱלִישָׁמָע | name | name | Elishama
+עַמִּיהוּד | name | name | Ammihud
+גַּמְלִיאֵל | name | name | Gamliel
+פְּדָהצוּר | name | name | Pedahtzur
+אֲבִידָן | name | name | Avidan
+גִּדְעֹנִי | name | name | Gidoni
+אֲחִיעֶזֶר | name | name | Achiezer
+עַמִּישַׁדָּי | name | name | Ammishaddai
+פַּגְעִיאֵל | name | name | Pagiel
+עָכְרָן | name | name | Ochran
+אֶלְיָסָף | name | name | Elyasaf
+דְּעוּאֵל | name | name | Deuel
+אֲחִירַע | name | name | Achira
+עֵינָן | name | name | Enan
+מְעַרְעֵי | ra | D ptc mp cs | the called ones of (Hebrew: קְרוּאֵי)
+שִׁבְט.ֵי=pl | shivta | n mp cs | the tribes of
+אַלְפ.ַיָּא=pl | alaf | n mp emph | the thousands (of Yisrael)
+אִתְפָּרָשׁוּ | prsh | Dt pf 3mp | (who) were designated (lit. specified)
+אַכְנָשׁוּ | kns | C pf 3mp | they gathered
+וְ=and.אִתְיַחֲסוּ | yhs | Dt pf 3mp | and they registered their lineage
+זַרְעֲיַתְ.הוֹן=their | zaraya | n+3mp | their families
+וּ=and.מְנִ.נּוּן=them | mny | G pf 3ms+3mp | and he counted them
+תּוּלְדַתְ.הוֹן=their | toldot | n+3mp | their descendants
+מִנְיָנֵ.יהוֹן=their | minyan | n mp+3mp | their numbers
+מִנְיָנ.וֹהִי=its | minyan | n mp+3ms | its numbers
+וְ=and.תִשְׁעָה | tsha | num | and nine
+אֲבָהֲתְ.הוֹן=their | av | n mp+3mp | their fathers
+מְנָא | mny | G pf 3ms | (he) counted
+אִתְמְנִיאוּ | mny | Gt pf 3mp | were counted
+שִׁבְטָא | shivta | n emph | the tribe (of)
+חֻשְׁבַּנְ.הוֹן=their | hushban | n+3mp | their count (lit. reckoning)
+יִשְׂראֵל | name | name | Yisrael
+מַנִּי | mny | D impv ms | appoint
+יִטְּלוּן | ntl | G impf 3mp | shall carry
+יְשַׁמְּשֻׁ.נֵּיהּ=it | shmsh | D impf 3mp+3ms | shall serve it (minister in it)
+יִשְׁרוּן | shry | G impf 3mp | shall encamp
+יְפָרְקוּן | prq2 | D impf 3mp | shall take apart
+וּ=and.בְ=when.מִ~inf.שְׁרֵי | shry | G inf | and when (the Mishkan) encamps
+יְקִימוּן | qwm | C impf 3mp | shall set up
+יִתְקְטָל | qtl | Gt impf 3ms | shall be put to death
+מַשְׁר.וֹהִי=his | mashrita | n+3ms | his camp
+טִקְסֵ.יהּ=his | teqas | n+3ms | his banner
+בְּ=by.אַתְוָ.ן=pl | at | n mp | by the signs
+שְׁרַן | shry | G ptc mp | (they) encamp
+טֵקַס | teqas | n cs | the banner of
+מַשְׁרִית | mashrita | n cs | the camp of
+וּ=and.מִנְיָנֵ.יהוֹן=their | minyan | n mp+3mp | and their numbers
+סְמִיכ.ִין~mp | smk | Gp ptc mp | adjacent (lit. leaning)
+וּ=and.מִנְיָנ.וֹהִי=its | minyan | n mp+3ms | and its numbers
+חֵלוֹן | name | name | Chelon
+לְ=of.מַשְׁרִית | mashrita | n cs | of the camp of
+וְ=and.שִׁבְטָא | shivta | n emph | and the tribe (of)
+מַשְׁרְיָתָא | mashrita | n fp emph | the camps
+דְ=as.שָׁרַן | shry | G ptc mp | as they encamp
+אַתְרֵ.יהּ=his | atar | n+3ms | his place
+לְ=by.טִקְסֵ.יהוֹן=their | teqas | n mp+3mp | by their banners
+וְ=and.דִ=who.סְמִיכ.ִין~mp | smk | Gp ptc mp | and those adjacent
+גִּדְעוֹנִי | name | name | Gidoni
+בִּ=in.תְלִיתֵתָא | telitai | num fs emph | in the third (position)
+בְּ=in.בַתְרֵתָא | batrai | a fs emph | at the end (lit. in the last)
+שָׁרַן | shry | G ptc mp | (they) encamped
+דְּ=who.אִתְרַבִּיאוּ | rby | Dt pf 3mp | who were anointed (lit. made great)
+אִתְקָרַב | qrb | Dt pf 3ms | he consecrated (lit. was brought near; Hebrew: מִלֵּא יָדָם)
+וּ=and.תְקֵים | qwm | C impf 2ms | and you shall stand
+מַטַּרְתֵּ.יהּ=his | mattara | n+3ms | his charge
+יְהִיב.ִין~mp | yhb | Gp ptc mp | given
+תְּמַנֵּי | mny | D impf 2ms | you shall appoint
+כְּהֻנַּתְ.הוֹן=their | kehunta | n+3mp | their priesthood
+קָרֵבִית | qrb | D pf 1cs | I have brought near
+מְשַׁמְּשִׁ.ין~mp | shmsh | D ptc mp | (they shall be) ministering
+אַקְדֵּשִׁית | qdsh | C pf 1cs | I consecrated
+מְנֵי | mny | G impv ms | count
+תִּמְנִ.נּוּן=them | mny | G impf 2ms+3mp | you shall count them
+דְּ=as.אִתְפַּקָּד | pqd | Dt pf 3ms | as he was commanded
+שִׁמְעִי | name | name | Shimi
+אַטּוּנ.וֹהִי=its | atuna | n mp+3ms | its cords
+פּוּלְחָנֵ.יהּ=its | pulhana | n+3ms | its service
+נָטְר.ֵי=pl | ntr | G ptc mp cs | keepers of
+מַטַּרְתָּא | mattara | n emph | the charge
+אֱלִיצָפָן | name | name | Elitzafan
+וּ=and.מַטַּרְתְּ.הוֹן=their | mattara | n+3mp | and their charge
+יְשַׁמְּשׁוּן | shmsh | D impf 3mp | they minister
+וַ=and.אֲמַרְכְּלָא | amarkela | n emph | and the officer (in charge)
+מוּשִׁי | name | name | Mushi
+צוּרִיאֵל | name | name | Tzuriel
+אֲבִיחָיִל | name | name | Avichayil
+מְסִיר | msr | Gp ptc ms | entrusted (lit. handed over)
+וְ=and.סִכֵּ.יהוֹן=their | sikka | n mp+3mp | and their pegs
+נָטְר.ִין~mp | ntr | G ptc mp | keeping
+בּוּכְר.ַיָּא=pl | bukhra | n mp emph | the firstborn
+דִכְר.ַיָּא=pl | dekhura | n mp emph | the males
+דְּ=who.יַתִּיר.ִין~mp | yattir | a mp | who are in excess (lit. extra)
+מִ=of.בּוּכְר.ַיָּא=pl | bukhra | n mp emph | of the firstborn
+פֻּרְקַנְ.הוֹן=their | purqan | n+3mp | their redemption (money)
+פְּרִיק.ֵי=pl | prq | Gp ptc mp cs | those redeemed by
+אֲלַף | alaf | num | a thousand
+פְּרִיק.ַיָּא=pl | prq | Gp ptc mp emph | the redeemed
+פּוּלְחַן | pulhana | n cs | the service of
+וִ=and.יפָרְקוּן | prq2 | D impf 3mp | and they shall take down
+וִ=and.יכַסּוּן | ksy | D impf 3mp | and they shall cover
+וְ=and.יִפְרְסוּן | prs2 | G impf 3mp | and they shall spread
+יִפְרְסוּן | prs2 | G impf 3mp | they shall spread
+מָגִיס.ַיָּא=pl | magis | n mp emph | the dishes
+בָּזִיכ.ַיָּא=pl | bazikh | n mp emph | the spoons (pans)
+מְכִילָתָא | mekhilta | n fp emph | the measuring bowls
+קַסְווֹת | qasva | n fp cs | the jugs of
+נִסּוּכָא | nissukh | n emph | the libation
+צִבְתָ.הָא=its | tsevita | n fp+3fs | its tongs
+מַחְתְּיתָ.הָא=its | mahta | n fp+3fs | its fire pans
+אֲרִיחָא | ariha | n emph | the carrying pole
+וְ=and.יִסְּפוּן | sfy | G impf 3mp | and they shall clear away (the ashes)
+צִנּוֹרְיָתָא | tsinnurita | n fp emph | the forks
+מִזְרְק.ַיָּא=pl | mizraqa | n mp emph | the basins
+יֵעֲלוּן | ill | G impf 3mp | they shall come in
+מַטּוּל | matula | n cs | the burden of
+תְשֵׁיצוּן | shetsi | Sh impf 2mp | you shall cause to be destroyed (lit. finish off)
+וְ=and.יֵחוּן | hyy | G impf 3mp | and they shall live
+בְּ=when.מִקְרַבְ.הוֹן=their | qrb | G inf+3mp | when they approach (lit. in their coming near)
+וִ=and.ימַנּוּן | mny | D impf 3mp | and they shall appoint
+וּ=and.לְ=to.מַטּוּלֵ.יהּ=his | matula | n+3ms | and to his burden
+מְכַסָּ.ן~mp | ksy | D ptc mp | (they) cover
+לְ=to.חַיָּלָא | heil | D inf | to serve (in the host; lit. to muster)
+וּ=and.לְ=for.מַטּוֹל | matula | n | and for carrying (lit. burden)
+יְרִיעַת | yeria | n cs | the curtain of
+דְ=of.מַעֲלָנָא | maalana | n emph | of the entrance
+פָּלְחַנְ.הוֹן=their | pulhana | n+3mp | their service
+יִתְמְסַר | msr | Gt impf 3ms | shall be handed over
+מַטּוּלְ.הוֹן=their | matula | n+3mp | their burden
+מְנְיָנֵ.יהוֹן=their | minyan | n mp+3mp | their numbers
+וְ=and.תַמְנָן | tmane | num | and eighty
+מַטּוּלֵ.יהּ=his | matula | n+3ms | his burden
+וִ=and.ישַׁלְּחוּן | shlh | D impf 3mp | and they shall send out
+דְּ=who.דָאֵב | dwv | G ptc ms | who has a discharge
+לִ=for.טְמֵי | sav | a | for (the) impure (of; as in the Hebrew)
+תְּשַׁלְּחוּן | shlh | D impf 2mp | you shall send out
+תְּשַׁלְּחֻ.נּוּן=them | shlh | D impf 2mp+3mp | you shall send them out
+יְסַאֲבוּן | say | D impf 3mp | they shall defile
+מַשְׁרִיתְ.הוֹן=their | mashrita | n+3mp | their camp
+שָׁרְיָא | shry | G ptc fs | dwells
+לִ=to.דְ=whom.חָב | hwb | G pf 3ms | to (the one) whom he wronged (lit. sinned)
+דִּ=that.מְתֵב | twv | Hp ptc ms | that is returned
+דִּ=that.לֵּ.יהּ=his | dil | pron+3ms | that is his
+קוּדְשֵׁ.יהּ=his | qudsha | n+3ms | his holy things
+תִסְטֵי | sty | G impf 3fs | (she) goes astray
+וּ=and.תְשַׁקֵּר | shqr | D impf 3fs | and deals falsely
+וְ=and.יִשְׁכֻּב | shkv | G impf 3ms | and (a man) lies
+שָׁכְבַת | shikhva | n cs | an emission of
+בַעְלָ.הּ=her | bal | n+3fs | her husband
+וּ=and.מִטַּמְּרָא | tmr | Dt ptc fs | and she is hidden
+אִתַּחָדָת | ahd | Gt pf 3fs | she was (not) seized (caught)
+וְ=and.יֶעְבַּר | avr | G impf 3ms | and (a spirit) passes
+קִנְאָה | qinata | n | jealousy
+וִ=and.יקַנֵּי | qny2 | D impf 3ms | and he is jealous
+קֻרְבָּנַ.הּ=her | qurbana | n+3fs | her offering
+שְׂעָר.ִין=pl | saarta | n fp | barley
+קִנְאָתָא | qinata | n emph | jealousy
+מַדְכָּרַת | dkr | C ptc fs | that recalls (lit. reminds of)
+וִ=and.יקִימִ.נַּהּ=her | qwm | C impf 3ms+3fs | and he shall stand her
+כִיּוֹר | kiyyora | n | (from) the laver (Hebrew: קָדֹשׁ, holy water)
+דַּ=of.חֲסָף | hasfa | n | of earthenware
+בִּ=on.יסוֹדֵי | yesoda | n mp cs | on the floor of (lit. foundations)
+וְ=and.יִפְרַע | pra2 | G impf 3ms | and he shall uncover (her hair)
+מְרִיר.ַיָּא=pl | merir | a mp emph | the bitter
+מְלַטְטַ.יָּא=pl | lwt | D ptc mp emph | the cursing
+סְטִית | sty | G pf 2fs | you went astray
+מִ=from.בַּעֲלִ.יךְ=your | bal | n+2fs | from your husband
+אִסְתָּאָבְ.תְּ~you_p | sav | Gt pf 2fs | you became impure
+בִּ.יךְ=you | be | prep+2fs | with you
+שְׁכֻבְתֵּ.יהּ=his | shikhva | n+3ms | his lying
+דִ=of.לְוָטָא | levat | n emph | of the curse
+יְהֵב | yhb | G impv/pf | may (Hashem) make (lit. give)
+לִ=as.לְוַט | levat | n | a curse
+עַמִּ.יךְ=your | amma2 | n+2fs | your people
+בְּ=when.דִ=that.יהֵב | yhb | G ptc ms | when (Hashem) makes (lit. gives)
+יַרְכִּ.יךְ=your | yarka | n+2fs | your thigh
+מַסְיָא | msy | G ptc fs | wasting away
+מְעַיְ.כִי=your | mea | n mp+2fs | your belly
+נְפִיח.ִין~mp | nfh | Gp ptc mp | swollen (lit. blown up)
+לַ=to.אֲפָחָא | nfh | C inf | to swell (lit. blow up)
+וּ=and.לְ=to.אַמְסָאָה | msy | C inf | and to make waste away
+אָמֵן | amen | interj | amen
+וְ=and.יִכְתּוֹב | ktv | G impf 3ms | and he shall write
+וְ=and.יִמְחוֹק | mhq | G impf 3ms | and he shall erase
+וְ=and.יַשְׁקֵי | shqy | C impf 3ms | and he shall give to drink
+לִ=for.מְרִירוּ | merirut | n | for bitterness
+אַדְכַּרְתַּ.הּ=its | adkarta | n+3fs | its memorial portion
+יַשְׁקֵי | shqy | C impf 3ms | he shall give to drink
+וְ=and.יַשְׁקִ.נַּהּ=her | shqy | C impf 3ms+3fs | and he gives her to drink
+אִסְתָּאָבַת | sav | Gt pf 3fs | she became impure
+וְ=and.שַׁקָּרַת | shqr | D pf 3fs | and she dealt falsely
+וְ=and.יִפְּחוּן | nfh | G impf 3mp | and (her belly) shall swell
+מְעָ.הָא=her | mea | n mp+3fs | her belly
+וְ=and.תִתְמְסֵי | msy | Gt impf 3fs | and (her thigh) shall waste away
+יַרְכַּ.הּ=her | yarka | n+3fs | her thigh
+וְ=and.דַכְיָאָה | dakhi | a fs | and pure
+וְ=and.תַעְדִּי | dy | G impf 3fs | and she shall conceive
+דְּ=of.קִנְאָתָא | qinata | n emph | of jealousy
+וְ=and.תִסְתָּאָב | sav | Gt impf 3fs | and becomes impure
+תֶעְבַּר | avr | G impf 3fs | passes
+וִ=and.יקֵם | qwm | C impf 3ms | and he shall stand
+וְ=and.יֶעְבַּד | avad | G impf 3ms | and (the priest) shall do
+לְ=to.מִ~inf.דַּר | ndr | G inf | to vow
+נְזִירוּ | nezirut | n | a nazirite vow
+לְ=to.מֵ~inf.יזַר | nzr | G inf | to be a nazir (lit. to set apart)
+חֲדַת | hadat | a ms | new
+וְ=and.עַתִּיק | attiq | a ms | and old
+יִזַּר | nzr | G impf 3ms | he shall abstain (lit. keep apart)
+חַל | hal2 | n cs | vinegar of
+וְ=and.חַל | hal2 | n cs | and vinegar of
+עַתִּיק | attiq | a ms | old
+יִשְׁתֵּי | shty | G impf 3ms | he shall drink
+מַתְרוּת | matrut | n cs | the steeped liquid of
+וִ=and.יבֵשׁ.ִין~mp | ybsh | G ptc mp | and dried (grapes)
+נִזְרֵ.יהּ=his | nizra | n+3ms | his nazirhood
+מִ=from.גֻּפְנָא | gufna | n emph | from the vine
+מִ=from.פּוּרְצְנ.ִין=pl | purtsena | n mp | from the seeds
+עִצּוּר.ִין=pl | itsura | n mp | the pressings (skins)
+יֶעְבַּר | avr | G impf 3ms | shall pass (over)
+דְּ=that.יַנְזֵר | nzr | C impf 3ms | that he set (himself) apart
+דְ=that.יַנְזֵר | nzr | C impf 3ms | that he set (himself) apart
+יֵיעוּל | ill | G impf 3ms | he shall come
+בִּ=.תְכֵּף | tekef | n | suddenly (lit. in an instant)
+יְגַלְּחִ.נֵּה=it | glh | D impf 3ms+3ms | he shall shave it
+מִ=for.דְּ=that.חָב | hwb | G pf 3ms | for (the sin) that he sinned
+וִ=and.יקַדַּשׁ | qdsh | D impf 3ms | and he shall sanctify
+וְ=and.יַזֵּר | nzr | C impf 3ms | and he shall set apart
+אִסְתָּאַב | sav | Gt pf 3ms | became impure
+דִ=of.נְזִירָא | nezira | n emph | of the nazir
+וְ=and.סַל | salla | n | and a basket of
+וְ=and.אִסְפּוֹג.ִין=pl | espog | n mp | and wafers
+וּ=and.מִנְחַתְ.הוֹן=their | minhta | n+3mp | and their meal offerings
+חַטָּאתֵ.יהּ=his | hattata | n+3ms | his sin offering
+מִנְחָתֵ.יהּ=his | minhta | n+3ms | his meal offering
+נִסְכֵּ.יהּ=his | nisskha | n+3ms | his libation
+נְזִירָא | nezira | n emph | the nazir
+דּוּדָא | dud | n emph | the pot
+דְּרָעָא | dra | n emph | the foreleg
+בְּשֵׁלָא | bshl | Gp ptc fs | cooked
+פַּטִּירְתָּא | patir | n fs emph | unleavened (cake)
+וְ=and.אִסְפּוֹג | espog | n cs | and a wafer of
+דְּ=after.גַלַּח | glh | D pf 3ms | after he has shaved
+חַדְיָא | hadya | n emph | the breast
+שָׁקָא | shoqa2 | n emph | the thigh
+יִדַּר | ndr | G impf 3ms | he vows
+מִ=from.דְּ=what.תַדְבֵּק | dbq | C impf 3fs | besides what (his hand) attains
+נִדְרֵ.יהּ=his | nidra | n+3ms | his vow
+דְ=of.נִזְרֵ.יהּ=his | nizra | n+3ms | of his nazirhood
+תְּבָרְכוּן | brk | D impf 2mp | you shall bless
+יְבָרְכִ.נָּךְ=you | brk | D impf 3ms+2ms | (may Hashem) bless you
+וְ=and.יִטְּרִ.נָּךְ=you | ntr | G impf 3ms+2ms | and keep you
+יַנְהַר | nhr | C impf 3ms | may (Hashem) make shine
+וִ=and.ירַחֵם | rhm | D impf 3ms | and may He have mercy (on)
+אַפֵּ.יהּ=his | anpin | n+3ms | His face (i.e. His favour)
+שְׁלָם | shlam | n | peace
+בִּרְכַּת | birkta | n cs | the blessing of
+אֲבָרֵכִ.נּוּן=them | brk | D impf 1cs+3mp | I will bless them
+לַ=to.אֲקָמָא | qwm | C inf | to set up
+וְ=and.רַבִּ.נּוּן=them | rby | D pf 3ms+3mp | and he anointed them (lit. made them great)
+קֻרְבָּנֵ.יהוֹן=their | qurbana | n mp+3mp | their offerings
+מְחַפְיַ.ן~fp | hpy | Dp ptc fp | covered
+עֶגְלְתָא | agalta | n emph | a wagon
+עֶגְלָתָא | agalta | n fp emph | the wagons
+עֶגְל.ַן=pl | agalta | n fp | wagons
+יְהָב | yhb | G pf 3ms | he gave
+בְּ=on.כַתְפָּא | katef | n emph | on the shoulder
+חֲנֻכַּת | hanukta | n cs | the dedication of
+דְ=that.רַבִּיּוּ | rby | D pf 3mp | that they anointed
+לַ=for.חֲנֻכַּת | hanukta | n cs | for the dedication of
+דִּ=who.מְקָרַב | qrb | D ptc ms | who offered
+מְגִסְתָּא | magis | n fs emph | dish
+מַתְקְלַ.הּ=its | matqal | n+3fs | its weight
+מִזְרְקָא | mizraqa | n emph | basin
+מְלַ.ן~mp | malei | a mp | full
+בָּזִיכָא | bazikh | n emph | spoon
+מַלְיָא | malei | a fs emph | full
+דִּכְר.ֵי=pl | dikhra | n mp | rams
+גְּדָי.ֵי=pl | gadya | n mp cs | kids of
+דִּכְר.ֵין=pl | dikhra | n mp | rams
+חֲמִישָׁאָה | hamishai | num ms emph | the fifth
+תְּשִׁיעָאָה | tsha | num ms emph | the ninth
+מִזְרָקָא | mizraqa | n emph | basin
+דְּ=that.רַבִּיּוּ | rby | D pf 3mp | that they anointed
+מְגִיס.ֵי=pl | magis | n mp cs | dishes of
+מַזְרְק.ֵי=pl | mizraqa | n mp cs | basins of
+בָּזִיכ.ֵי=pl | bazikh | n mp cs | spoons of
+דִ=of.מְגִיסְתָּא | magis | n fs emph | of a dish
+דְּ=of.מִזְרְקָא | mizraqa | n emph | of a basin
+בִּ=in.סִלְעֵי | sela | n mp cs | in the shekels of (lit. selas)
+מַלְיַ.ן~fp | malei | a fp | full
+דְ=of.בָזִיכָא | bazikh | n emph | of a spoon
+גַּדְי.ַן=pl | gadya | n mp | kids
+עָלִיל | ill | G ptc ms | went in (lit. entering)
+# global fixes for common wrong derivations
+מִ=from.בַּר | bar | n cs | from (age) (lit. from a son of)
+וּ=and.מָאתָן | mayatan | num | and two hundred
+וְ=and.אִנּוּן | inun | pron | and they
+דְּ=who.יִקְרַב | qrb | G impf 3ms | who comes near
+וְ=and.תִתֵּן | yhb | G impf 2ms | and you shall give (put)
+וְ=and.יִתְּנוּן | yhb | G impf 3mp | and they shall put (give)
+וִ=and.ישַׁוּוּן | shwy | C impf 3mp | and they shall put
+וִ=and.ישַׁווּן | shwy | C impf 3mp | and they shall put
+וְ=and.יָתֵב | twv | C impf 3ms | and he shall return
+וְ=and.יִתֵּן | yhb | G impf 3ms | and he shall give (put)
+מַעֲשַׂר | asra | n cs | the tithe of
+דִּ=that.יִתֵּן | yhb | G impf 3ms | that he gives
+וִ=and.ירִים | rwm | C impf 3ms | and he shall lift (wave)
+מִ~inf.שְׁלַם | shlm | G inf | the completing of
+וְ=and.יַעְבֵּד | avad | G impf 3ms | and he shall do (offer)
+וְ=and.קָרִיב.וּ~they_p | qrb | D pf 3mp | and (they) offered (lit. brought near)
+מַתְקְלָא | matqal | n emph | the weight
+# scoped
+1:51>וּ=and.בְ=when.מִ~inf.טַּל | ntl2 | G inf | and when (the Mishkan) journeys (lit. is lifted)
+2:3>וְ=and.רַבָּא | rav | n emph | and the prince (lit. the great one)
+3:24>לָאֵל | name | name | Lael
+4:3>לְ=into.חֵילָא | heil | n emph | into the host (i.e. the service)
+4:47>וּ=and.פָלְחַן | pulhana | n cs | and the service of
+5:13>מְכַסָּא | ksy | Dp ptc ms | hidden (lit. covered)
+5:17>בְּ=in.מַן | mana | n cs | in a vessel of
+5:18>וִ=and.יהֵב | yhb | G impf 3ms | and he shall put (lit. give)
+5:19>וְ=and.יוֹמֵי | ymy | C impf 3ms | and (the priest) shall adjure
+5:21>וְ=and.יוֹמֵי | ymy | C impf 3ms | and (the priest) shall adjure
+5:21>וּ=and.לְ=as.מוֹמֵי | ymy | C ptc | and an oath (lit. one sworn by)
+5:22>מְעִין | mea | n mp | the belly (lit. innards)
+5:27>בְּ=against.בַעֲלַ.הּ=her | bal | n+3fs | against her husband
+5:29>מִ=from.בַּעֲלַ.הּ=her | bal | n+3fs | from (under) her husband
+6:3>מֵ=from.חֲמַר | hamra | n | from wine
+6:3>דַּ=of.חֲמַר | hamra | n | of wine
+6:5>מַסְפַּר | masppar | n | a razor
+6:5>מַרְבֵּי | rby | C ptc ms | growing (lit. letting grow)
+7:5>כְּ=by.מִסַּת | missa | n cs | according to
+7:7>כְּ=by.מִסַּת | missa | n cs | according to
+7:8>כְּ=by.מִסַּת | missa | n cs | according to
+7:89>וּ=and.מִתְמַלֵּל | mll | Dt ptc ms | and (He) spoke (lit. was speaking)

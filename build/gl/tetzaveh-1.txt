@@ -1,0 +1,286 @@
+# Tetzaveh (batch for the whole parsha): Shemot 27:20–30:10
+תְּ~you_f.פַקֵּד | pqd | D impf 2ms | you shall command
+כָּתִישׁ.ָא=emph | ktsh | Gp ptc ms emph | crushed (i.e. beaten)
+לְ=.אַ~C.דְלָק.ָא~inf_end | dlq | C inf | to kindle
+וּ=.בְ=.אַ~C.דְלָקוּת | dlq | C inf cs | and when kindling
+בוֹצִינ.ַיָּא~emphp | butsina | n mp emph | the lamps
+בּוֹצִינ.ַיָּא~emphp | butsina | n mp emph | the lamps
+בְּ=in.מַשְׁכַּן | mashkan | n cs | in the Tent of
+לְ=to.מַשְׁכַּן | mashkan | n cs | to the Tent of
+מַשְׁכַּן | mashkan | n cs | the Tent of
+דִּ=that is.עַל | al | prep | that is upon
+יְ~he_f.סַדַּר | sdr | D impf 3ms | (Aharon) shall arrange
+לִ=for.יקָר | yqr | n | for honor
+חַכִּימ.ֵי~cs_pl | hkm | a mp cs | the wise of
+חָכְמְת.ָא=emph | hokhmta | n fs emph | wisdom
+לְ=.קַדָּשׁוּת.ֵיהּ=him | qdsh | D inf+3ms | to sanctify him
+לְבוּשׁ.ַיָּא~emphp | levush | n mp emph | the garments
+חוּשְׁנ.ָא=emph | hushna | n emph | the breastplate
+חשֶׁן | hushna | n | the breastplate (as in the Hebrew: חֹשֶׁן)
+בְּ=.חשֶׁן | hushna | n | on the breastplate (as in the Hebrew)
+וְ=.אֵפוֹד.ָא=emph | efoda | n emph | and the ephod
+אֵפוֹד.ָא=emph | efoda | n emph | the ephod
+דְ=of.אֵפוֹד.ָא=emph | efoda | n emph | of the ephod
+וּ=.מְעִיל.ָא=emph | meil | n emph | and the robe
+מְעִיל.ָא=emph | meil | n emph | the robe
+מְ~ptcD.רַמְּצ.ָא=emph | rmts | Dp ptc emph | checkered (i.e. a checkered tunic)
+מִצְנֶפְתּ.ָא=emph | mitsnefta | n fs emph | the turban
+וְ=.הֶמְיָנ.ָא=emph | hemyana | n emph | and the belt
+וְ=.הֶמְיַן | hemyana | n cs | and the belt of
+הֶמְיַן | hemyana | n cs | the belt of
+לְ=to.הֶמְיַן | hemyana | n cs | to the belt of
+בְּ=with.הֶמְיַן | hemyana | n cs | with the belt of
+הֶמְיָנ.ִין~pl | hemyana | n mp abs | belts
+אַרְגְּוָנ.ָא=emph | argevana | n emph | purple wool
+בּוּצ.ָא=emph | buts | n emph | fine linen
+בוּצ.ָא=emph | buts | n emph | fine linen
+דְ=of.בוּצ.ָא=emph | buts | n emph | of fine linen
+כַּתְפ.ִין~pl | katef | n mp abs | shoulder (pieces)
+כִּתְפ.ֵי~cs_pl | katef | n mp cs | the shoulder pieces of
+כִּתְפּ.וֹהִי=his | katef | n mp+3ms | his shoulders
+וְ=.יִתְ~Dt.לָפַף | lpp | Dt impf 3ms | and it shall be joined
+תִּקּוּנ.ֵיהּ=its | tiqquna | n+3ms | its workmanship
+כְּ=like.עוֹבָד.וֹהִי=its | ovada | n mp+3ms | like its workmanship (lit. its works)
+וְ=.תִ~you_f.גְלוֹף | glf | G impf 2ms | and you shall engrave
+תִּ~you_f.גְלוֹף | glf | G impf 2ms | you shall engrave
+כִּ=like.גְלֹּף | glf | G inf | like the engraving of
+כִּ=like.גְלוֹף | glf | G inf | like the engraving of
+עֲלֵי.הֶן=them | al | prep+3fp | on them
+מִ=from.שְּׁמָהָתְ.הוֹן=their | shum | n fp+3mp | of their names
+שְׁמָהָתְ.הוֹן=their | shum | n fp+3mp | their names
+דְ=who.אִשְׁתָּ~passive (Itpe‘el).אָר.וּ~they_p | shar | Gt pf 3mp | who remain(ed) | the ת moves after the ש
+כְּ=according to.תוּלְדָתְ.הוֹן=their | toldot | n fp+3mp | according to their birth (order)
+אֳמַן | uman | n | a craftsman (as engraved by a craftsman)
+כְּתַב | ktava | n cs | writing of (i.e. inscribed)
+מְ~ptcD.פָרַשׁ | prsh | Dp ptc ms | distinct (i.e. clearly engraved)
+דְּ=of.עִזְק.ָא=emph | izqa | n emph | of a signet ring
+אַבְנ.ַיָּא~emphp | avna | n fp emph | the stones
+אַבְנ.ַיָא~emphp | avna | n fp emph | the stones
+וְ=.אַבְנ.ַיָּא~emphp | avna | n fp emph | and the stones
+מְ~ptcD.שַׁקְּע.ָן~fp | shqa2 | Dp ptc fp | set (in place)
+מְ~ptcD.רַמְּצ.ָן~fp | rmts | Dp ptc fp | mounted (i.e. in settings)
+מְ~ptcD.רַמְּצָת.ָא=emph | rmts | Dp ptc fp emph | the settings
+דָכְרָנ.ָא=emph | dukhrana | n emph | remembrance
+לְ=as.דָכְרָנ.ָא=emph | dukhrana | n emph | as a remembrance
+וְ=.יִ~he_f.טּוֹל | ntl | G impf 3ms | and (Aharon) shall carry | the נ of נטל is absorbed
+תִּכּ.ִין~pl | tikka | n mp abs | chains
+תִּכּ.ַיָּא~emphp | tikka | n mp emph | the chains
+מְ~ptcD.תַחְמ.ָן~fp | thm | Dp ptc fp | at the ends (lit. bounded)
+גְּדִילוּ | gdil | n | braided work
+גְדִילָת.ָא=emph | gdil | n fp emph | the braided cords
+גְּדִיל.ָן~fp | gdil | n fp abs | braided cords
+תַּ~you_f.עְבְּדִ.נֵּיהּ=it | avad | G impf 2ms+3ms | you shall make it
+עֵיף | wf | Gp ptc ms | folded (doubled)
+זֶרְת.ָא=emph | zarta | n fs emph | a span
+וְ=.זֶרְת.ָא=emph | zarta | n fs emph | and a span
+וְ=.תַ~you_f.שְׁלֵם | shlm | C impf 2ms | and you shall fill (with settings)
+אַשְׁלָמוּת | ashlamuta | n fs cs | settings of
+בְּ=in.אַשְׁלָמוּתְ.הוֹן=their | ashlamuta | n fs+3mp | in their settings
+סִדְר.ִין~pl | sidra | n mp abs | rows
+סִדְר.ָא=emph | sidra | n emph | the row
+וְ=.סִדְר.ָא=emph | sidra | n emph | and the row
+סַמְקָן | samqan | n | a ruby (אֹדֶם)
+יַרְקָן | yarqan | n | an emerald (פִּטְדָה)
+וּ=.בַרְקָן | barqan | n | and a carbuncle (בָּרֶקֶת)
+אִזְמָרַגְדִּין | izmaragd | n | an emerald (נֹפֶךְ)
+וְ=.שַׁבְזִיז | shavziz | n | and a sapphire
+וְ=.סִבְהֲלוֹם | sivhalom | n | and a diamond (יַהֲלֹם)
+קַנְכִּירֵי | qankhirei | n | jacinth (לֶשֶׁם)
+טַרְקְי.ָא=emph | tarqia | n emph | agate (שְׁבוֹ)
+עֶגְל.ָא=emph | eglla | n | (eye of the) calf: amethyst (אַחְלָמָה)
+כְּרוּם | kerum | n | beryl (lit. the color of [the sea]) (תַּרְשִׁישׁ)
+וּ=.פַנְטֵרֵי | panterei | n | and onyx (שֹׁהַם)
+תַּרְתֵּי | tren | num | two (fem.) (תַּרְתֵּי עַסְרֵי = twelve)
+סִפְת.ֵיהּ=its | sifta | n fs+3ms | its edge
+מִ=from.לְּ=.גָיו | go | prep | on the inside
+וְ=.יֶ~they_f.חְדּ.וּן~mp | ahd | G impf 3mp | and they shall hold fast (lit. seize) | the א of אחד drops out
+בְּ=with.חוּט.ָא=emph | huta | n emph | with a thread of
+חוּט.ָא=emph | huta | n emph | a thread of
+דִ=of.תְכֶלְתּ.ָא=emph | tikhla | n emph | of blue wool
+לְ=.מֵ~inf.הֱוֵי | hwy | G inf | to be
+יִתְ~Dt.פָּרֵק | prq | Dt impf 3ms | (it shall not) come loose
+בְּ=when.מֵעֲל.ֵיהּ=he | ill | G inf+3ms | when he comes in
+בְּ=when.מֵעַלְ.הוֹן=they | ill | G inf+3mp | when they come in
+אוּר.ַיָּא~emphp | urim | n mp emph | the Urim
+תֻּמּ.ַיָּא~emphp | tummim | n mp emph | the Thummim
+גְּמִיר | gmr2 | Gp ptc ms | entirely (lit. complete)
+כָּפִיל | kafil | a | doubled (i.e. folded inward)
+לְ=into.גַוּ.ֵיהּ=its | go | prep+3ms | (folded) into it (lit. to its inside)
+מַקַּף | nqf | !noun (from נקף), construct | a border (lit. surrounding) of
+לְ=for.פוּמ.ֵיהּ=its | pum | n+3ms | (around) its opening (lit. mouth)
+שִׁרְיָ.ן~pl | shiryan | n | a coat of mail
+יִתְ~Gt.בְּזָע | bza | Gt impf 3ms | it shall (not) be torn
+שִׁיפוֹל.וֹהִי=its | shippula | n mp+3ms | its hem
+שִׁיפוֹל.ֵי~cs_pl | shippula | n mp cs | the hem of
+רִמּוֹנ.ֵי~cs_pl | rimmona | n mp cs | pomegranates of
+וְ=.רִמּוֹנ.ָא=emph | rimmona | n emph | and a pomegranate
+וְ=.רִמוֹנ.ָא=emph | rimmona | n emph | and a pomegranate
+וְ=.זַגּ.ִין~pl | zagga | n mp abs | and bells
+זַגּ.ָא=emph | zagga | n emph | a bell
+זַג.ָא=emph | zagga | n emph | a bell
+צִיצ.ָא=emph | tsitsa | n emph | a plate (of gold)
+לַ=to.ייָ | yy | !the Divine Name | to Hashem
+עֲוָיַת | awayta | n fs cs | the iniquity of
+יְ~they_f.קַדְּשׁ.וּן~mp | qdsh | D impf 3mp | (they) consecrate
+מַתְּנַת | mattna | n fs cs | the gifts of
+קוּדְשׁ.ֵיהוֹן=their | qudsha | n+3mp | their holy (offerings)
+וּ=.תְ~you_f.רַמֵּץ | rmts | D impf 2ms | and you shall weave (in a checkered pattern)
+כִּתּוּנ.ִין~pl | kittuna | n mp abs | tunics
+וְ=.כוֹבָע.ִין~pl | kovaa | n mp abs | and caps
+כּוֹבָע.ִין~pl | kovaa | n mp abs | caps
+וְ=.תַ~you_f.לְבֵּשׁ | lbsh | C impf 2ms | and you shall clothe
+וְ=.תַ~you_f.לְבֵּשִׁ.נּוּן=them | lbsh | C impf 2ms+3mp | and you shall clothe them
+יַ~he_f.לְבֵּשִׁ.נּוּן=them | lbsh | C impf 3ms+3mp | (he) shall wear them (lit. clothe them)
+וּ=.תְ~you_f.רַבֵּי | rby | D impf 2ms | and you shall anoint (lit. make great)
+וּ=.תְ~you_f.רַבִּי | rby | D impf 2ms | and you shall anoint
+וּ=.תְ~you_f.קָרֵב | qrb | D impf 2ms | and you shall bring near (i.e. ordain; Hebrew: וּמִלֵּאתָ יָדָם)
+תְ~you_f.קָרֵב | qrb | D impf 2ms | you shall bring near
+תְּ~you_f.קָרֵב | qrb | D impf 2ms | you shall bring near
+קֻרְבַּנְ.הוֹן=their | qurbana | n+3mp | their offering
+קֻרְבָּנְ.הוֹן=their | qurbana | n+3mp | their offering
+קֻרְבָּנ.ָא=emph | qurbana | n emph | the offering
+קֻרְבָּנ.ַיָּא~emphp | qurbana | n mp emph | the offerings
+בְּ=in.קָרְבָּנ.ֵיהוֹן=their | qurbana | n mp+3mp | in their offerings
+וּ=.תְ~you_f.קַדֵּשׁ | qdsh | D impf 2ms | and you shall sanctify
+וִ=and.י~they_f.שַׁמְּשׁ.וּן~mp | shmsh | D impf 3mp | and they shall minister
+לְ=.כַסָּא.ָה~inf_end | ksy | D inf | to cover
+מֵ=from.חַרְצ.ָן~fp | hartsa | n fp | from the loins
+יַרְכ.ָן~fp | yarka | n fp abs | the thighs
+בְ=when.מִ~inf.קְרָבְ.הוֹן=they | qrb | G inf+3mp | when they approach
+שַׁלְמ.ִין~pl | shlim | a mp | unblemished (lit. complete)
+וּ=.גְרִיצ.ִין~pl | gritsa | n mp abs | and cakes
+פַּטִּיר.ִין~pl | patir | a mp | unleavened
+פַּטִּיר.ָן~fp | patir | a fp | unleavened
+דְּ=.פִיל.ָן~fp | pyl | Gp ptc fp | mixed
+דְּ=.פִיל.ָא=emph | pyl | Gp ptc fs emph | mixed
+בִּ=with.מְשַׁח | mishha | n cs | with oil of
+בִּ=with.מְשָׁח | mishha | n | with oil
+בִ=with.מְשַׁח | mishha | n cs | with oil of
+מְשַׁח | mishha | n cs | oil of
+וְ=.אֶסְפּוֹג.ִין~pl | espog | n mp abs | and wafers
+וְ=.אֶסְפּוֹג | espog | n cs | and a wafer
+דִּ=.מְשִׁיח.ִין~mp | mshh | Gp ptc mp | anointed
+סֻלְתּ.ָא=emph | solta | n fs emph | fine flour
+וְ=.תַ~you_f.סְחֵי | shy | C impf 2ms | and you shall wash
+וְ=.תַ~you_f.תְקֵן | tqn | C impf 2ms | and you shall put on (lit. arrange)
+וְ=.תַ~you_f.תְקַן | tqn | C impf 2ms | and you shall complete (lit. arrange)
+כְּלִיל.ָא=emph | kelila | n emph | the crown
+וּ=.תְ~you_f.רִיק | ryq | C impf 2ms | and you shall pour
+וּ=.תְ~you_f.זָרֵז | zrz | D impf 2ms | and you shall gird
+וְ=.יִ~he_f.סְמוֹךְ | smk | G impf 3ms | and (Aharon) shall lean (his hands)
+וְ=.יִ~they_f.סְמְכ.וּן~mp | smk | G impf 3mp | and (they) shall lean (their hands)
+קַרְנַת | qarna | n fp cs | the horns of
+בְּ=with.אֶצְבָּע.ָךְ=your | etsba | n+2ms | with your finger
+תֵי~you_f.שׁוֹד | shd | G impf 2ms | you shall pour | the א of אשד becomes י
+לִ=to.יסוֹד.ָא=emph | yesoda | n emph | at the base
+תַּרְבּ.ָא=emph | tarba | n emph | the fat
+דְּ=that.חָפֵי | hpy | G ptc ms | that covers
+דְ=that.חָפֵי | hpy | G ptc ms | that covers
+גַּוּ.ָא=emph | go | n emph | the innards (lit. the inside)
+גַּוּ.ֵיהּ=its | go | n+3ms | its innards
+חִצְר.ָא=emph | hitsra | n emph | the lobe
+חֲצַר | hitsra | n cs | the lobe of
+כַּבְד.ָא=emph | kavda | n emph | the liver
+כַּבְדּ.ָא=emph | kavda | n emph | the liver
+כָּלְי.ָן~fp | kolya | n fp abs | kidneys
+וְ=.תַ~you_f.סֵּיק | slq | C impf 2ms | and you shall burn (lit. bring up) | the ל of סלק is absorbed
+יַ~he_f.סֵּקִ.נַּהּ=it | slq | C impf 3ms+3fs | he shall burn it (lit. bring it up) | the ל of סלק is absorbed
+תַ~ypl_f.סְּק.וּן~mp | slq | C impf 2mp | you shall (not) offer (lit. bring up) | the ל of סלק is absorbed
+מַשְׁכּ.ֵיהּ=its | mashkha | n+3ms | its skin
+אוּכְל.ֵיהּ=its | ukhla | n+3ms | its dung
+תּוֹ~you_f.קִיד | yqd | C impf 2ms | you shall burn | the י of יקד becomes ו
+וְ=.תוֹ~you_f.קִיד | yqd | C impf 2ms | and you shall burn | the י of יקד becomes ו
+חַטָּאת.ָא=emph | hattata | n fs emph | a sin offering
+דְ=of.חַטָּאת.ָא=emph | hattata | n fs emph | of the sin offering
+חַטַּאת | hattata | n fs cs | the sin offering of
+וְ=.תִ~you_f.זְרוֹק | zrq | G impf 2ms | and you shall sprinkle
+תְּ~you_f.פַלֵּג | plg | D impf 2ms | you shall cut up (lit. divide)
+לְ=into.אֵבָר.וֹהִי=its | evra | n mp+3ms | into its pieces
+אֵבָר.וֹהִי=its | evra | n mp+3ms | its pieces
+וּ=.תְ~you_f.חַלִּיל | hll3 | D impf 2ms | and you shall rinse
+עֲלָת.ָא=emph | alawan | n fs emph | a burnt offering
+וַ=.עֲלָת.ָא=emph | alawan | n fs emph | and a burnt offering
+לְ=.אִתְ~Dt.קַבָּל.ָא~inf_end | qbl2 | Dt inf | to be accepted
+רוּם | rum | n cs | the tip of (lit. height)
+אוּדְנ.ָא=emph | udna | n fs emph | the ear (of)
+אִלְיוֹן | ilyon | n cs | the thumb of; the big toe of
+רַגְל.ֵיהוֹן=their | regel | n fp+3mp | their feet
+וְ=.תַ~you_f.דֵּי | ndy | C impf 2ms | and you shall sprinkle | the נ of נדי is absorbed
+וְ=.יִתְ~Dt.קַדַּשׁ | qdsh | Dt impf 3ms | and he shall be sanctified
+יִתְ~Dt.קַדַּשׁ | qdsh | Dt impf 3ms | shall be sanctified
+יִתְ~Dt.קַדָּשׁ | qdsh | Dt impf 3ms | shall be sanctified
+וְ=.אַלִּית.ָא=emph | alita | n fs emph | and the fat tail
+שׁוֹק.ָא=emph | shoqa2 | n emph | the thigh
+וּ=.גְרִצְתּ.ָא=emph | gritsa | n fs emph | and a cake (of)
+אֲרָמוּת.ָא=emph | aramuta | n fs emph | an uplifted (offering) (תְּנוּפָה)
+דַ=of.אֲרָמוּת.ָא=emph | aramuta | n fs emph | of the uplifted (offering)
+חֶדְי.ָא=emph | hadya | n emph | the breast
+אִתָּ~Ct.רַם | rwm | Ct pf 3ms | was raised | the passive ת merges
+אִתַּ~Ct.פְרָשׁ | prsh | Ct pf 3ms | was set apart | the passive ת merges
+אַפְרָשׁוּתְ.הוֹן=their | prsh | !noun (from Af‘el of פרש) + 3mp | their offering
+לְ=.דַכָּא.ָה~inf_end | dky | D inf | to purify (Hebrew: לְמָשְׁחָה)
+כַּהֲנ.ָא=emph | kahana | n emph | the priest
+יֵ~he_f.עוֹל | ill | G impf 3ms | he comes in
+וּ=.תְ~you_f.בַשֵּׁל | bshl | D impf 2ms | and you shall cook
+בִּסְר.ֵיהּ=its | bsr | n+3ms | its meat
+בְּסַר | bsr | n cs | the meat of
+מִ=from.בְּסַר | bsr | n cs | from the meat of
+יִתְ~Dt.כַּפַּר | kpr | Dt impf 3ms | atonement was made (lit. it was atoned)
+וְ=.חִלּוֹנ.ַי~pl | hilloni | n mp | and an outsider (layman)
+יִשְׁתָּ~passive (Itpe‘el).אַר | shar | Gt impf 3ms | (if) there is left over | the ת moves after the ש
+פַקֵּדִ.ית~I_p | pqd | D pf 1cs | I have commanded
+כִּפּוּר.ַיָּא~emphp | kippura | n mp emph | atonement
+וּ=.תְ~you_f.דַכֵּי | dky | D impf 2ms | and you shall purify
+בְּ=when.כַפָּרוּתָ.ךְ=you | kapparuta | n fs+2ms | when you atone
+תְּ~you_f.כַפֵּר | kpr | D impf 2ms | you shall atone
+יְ~he_f.כַפֵּר | kpr | D impf 3ms | he shall atone
+וִ=and.י~he_f.כַפֵּר | kpr | D impf 3ms | and he shall atone
+אִמְּר.ִין~pl | imra | n mp abs | lambs
+שְׁנָא | shna | n | a year (בְּנֵי שְׁנָא = yearlings)
+וְ=.עִסְרוֹנ.ָא=emph | isrona | n emph | and a tenth (of)
+רַבְעוּת | ravut | n fs cs | a quarter of
+הִינ.ָא=emph | hina | n emph | a hin
+וְ=.נִסְכּ.ָא=emph | nisskha | n emph | and a libation
+וּ=.כְ=like.נִסְכּ.ַהּ=its | nisskha | n+3fs | and like its libation
+כְּ=like.מִנְחַת | minhta | n fs cs | like the meal offering of
+וּ=.מִנְחָת.ָא=emph | minhta | n fs emph | and a meal offering
+דִּ=where.אֱ~I_f.זַמֵּן | zmn | D impf 1cs | where I will appoint (meeting)
+וְ=.אֱ~I_f.זַמֵּן | zmn | D impf 1cs | and I will appoint (meeting)
+אֲ~I_f.זַמֵּן | zmn | D impf 1cs | I will appoint (meeting)
+וֶ=.אֱ~I_f.קַדֵּשׁ | qdsh | D impf 1cs | and I will sanctify
+אֱ~I_f.קַדֵּשׁ | qdsh | D impf 1cs | I will sanctify
+אַפֵּקִ.ית~I_p | npq | C pf 1cs | I brought out | the נ of נפק is absorbed
+לְ=.אַ~C.שְׁרָא.ָה~inf_end | shry | C inf | to make (My Presence) dwell
+לְ=.אַ~C.קְטָר.ָא~inf_end | qtr2 | C inf | to burn (incense)
+וְ=.יַ~he_f.קְטַר | qtr2 | C impf 3ms | and (Aharon) shall burn (incense)
+קְטֹרֶת | qetoret | n | incense
+בּוּסְמ.ִין~pl | busma | n mp abs | spices
+אִגָּר.ֵיהּ=its | igra | n+3ms | its top (lit. roof)
+כָּתְל.וֹהִי=its | kotla | n mp+3ms | its walls
+דֵּיר | deir | n | a rim (lit. crown)
+לְ=for.דֵיר.ֵיהּ=its | deir | n+3ms | for its rim
+עִזְק.ַן~fp | izqta | n fp | rings (of)
+בְּ=when.אַתְקָנוּת.ֵיהּ=he | tqn | C inf+3ms | when he prepares (i.e. cleans)
+תְ~ypl_f.נַסְּכ.וּן~mp | nsk | D impf 2mp | you shall (not) pour
+27:21> מִ=from.בָּר.ָא=emph | bara | adv | outside
+וּ=.לְ=for.תֻשְׁבְּח.ָן~fp | tushbahta | n fp abs | and for glory (lit. praises)
+דִּ=whom.אַ~C.שְׁלֵמִ.ית~I_p | shlm | C pf 1cs | whom I have filled (with wisdom)
+מִ=from.לָּקֳבֵל | qbl | prep | opposite
+28:28> מֵ=from.עִזְקְת.ֵיהּ=its | izqta | n fp+3ms | from its rings
+28:29> לְ=into.קוּדְשׁ.ָא=emph | qudsha | n emph | into the holy (place)
+28:35> לְ=into.קוּדְשׁ.ָא=emph | qudsha | n emph | into the holy (place)
+28:43> לְ=into.קוּדְשׁ.ָא=emph | qudsha | n emph | into the holy (place)
+כְּ=like.פוּם | pum | n cs | like the opening (lit. mouth) of
+מִכְנְס.ִין~pl | mikhnas | n mp | breeches
+28:43> לְ=to.מַדְבְּח.ָא=emph | madbha | n emph | to the altar
+29:1> לְ=.קַדָּשׁ.ָא~inf_end | qdsh | D inf | to sanctify
+29:5> מְעִיל | meil | n cs | the robe of
+דְּ=of.מַדְבְּח.ָא=emph | madbha | n emph | of the altar
+בְּ=on.מַדְבְּח.ָא=emph | madbha | n emph | on the altar
+29:29> וּ=.לְ=.קָרָב.ָא~inf_end | qrb | D inf | and to ordain (lit. to bring near)
+29:33> לְ=.קָרָב.ָא~inf_end | qrb | D inf | to ordain (lit. to bring near)
+29:35> לְ=.קָרָב.ָא~inf_end | qrb | D inf | to ordain (lit. to bring near)
+בִּ=through.יקָר.ִי=My | yqr | n+1cs | through My glory
+וּ=.תְ~you_f.רִים | rwm | C impf 2ms | and you shall raise
+29:11> וְ=.תִ~you_f.כּוֹס | nks | G impf 2ms | and you shall slaughter | the נ of נכס is absorbed
+28:35> וְ=.יִשְׁתְּ~passive (Ishtaf‘al).מַע | shm | Gt impf 3ms | and (its sound) shall be heard | the ת moves after the ש

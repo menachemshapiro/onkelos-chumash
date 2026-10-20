@@ -1,0 +1,62 @@
+# Vayishlach 35:12–36:19
+מֵ=from.עִלָּו | illawi | prep | from upon (him) | the word מֵעִלָּוֹהִי is split here by a hidden character in the source text
+הִי | illawi | !end of the word מֵעִלָּוֹהִי | (from upon) him
+וְ=.אַ~C.סִּיךְ | nsk | C pf 3ms | and (he) poured | the נ of נסך is absorbed (the dot in ס)
+נִסּוּכ.ִין=pl | nissukh | n mp abs | libations
+כְּ=about.רוּבַת | ruvta | n fs cs | about a stretch of (Hebrew: כִּבְרַת)
+וְ=.קַשִּׁיא.ַת~she_p | qshy | D pf 3fs | and she had difficulty
+בְּ=in.מֵ~inf.ילְד.ַהּ=her | yld | G inf+3fs | in her giving birth
+בְּ=in.קַשְׁיוּת.ַהּ=her | qashyu | n fs+3fs | in her difficulty
+חָיְת.ָא=emph | hayta | n fs emph | the midwife
+נַפְשׁ.ַהּ=her | nafsha | n fs+3fs | her soul
+מִיתַ.ת~she_p | mwt | G pf 3fs | she died
+מַיְת.ָא~fs | mwt | G ptc fs | dying (a variant reading)
+דְּוָי | dwy | n | grief (בַּר דְּוָי = son of my grief) (Hebrew: בֶּן אוֹנִי)
+קְבֻרְתּ.ַהּ=her | qvura | n fs+3fs | her grave
+קְבֻרְתּ.ָא=emph | qvura | n fs emph | the grave
+לְ=.מִגְדְּל.ָא=emph | migdal | n emph | to the tower (of)
+תְּרֵי | tren | num | two (תְּרֵי עֲסַר = twelve)
+אִתְ~Gt.יְלִידַן | yld | Gt pf 3mp | were born
+קִרְיַת | qirya | n fs cs | the city of
+דָר | dwr | G pf 3ms | lived
+וּ=.קְבָר.וּ~they_p | qvr | G pf 3mp | and (they) buried
+נַפְשַׁת | nafsha | n fs cs | the souls (members) of
+אָחֲרֵי | ohoran | a fs | another
+יְכִילַ.ת~she_p | ykl | G pf 3fs | (the land) could (not)
+תּוֹתָבוּתְ.הוֹן=their | totavuta | n fs+3mp | of their sojourning
+לְ=.סוֹבָר.ָא~inf_end | svr | Q inf | to support (lit. to bear)
+שְׁמָהַת | shum | n mp cs | the names of
+רַבְרְבָנ.ֵיהוֹן=their | rav | n mp+3mp | their chiefs
+מִ=from.לְּהַלָּא | lhalla | adv | beyond (מִלְּהַלָּא לְ… = beyond …)
+מִ=from.לְּ=to.מִ~inf.תַּב | ytv | G inf | (too great) to dwell (lit. from dwelling) | the י of יתב drops
+דֶ | di | part | of (a variant reading, in brackets)
+דֶ=of.אֱדוֹמָאֵי | name | name | of the Edomites
+אֶפְרָת | name | name | Efrat
+לָחֶם | name | name | (Beit) Lechem
+בִּנְיָמִין | name | name | Binyamin
+בִּנְיָמִן | name | name | Binyamin
+עֵדֶר | name | name | Eder
+יִשָׂשכָר | name | name | Yissachar
+אָהֳלִיבָמָה | name | name | Oholivamah
+עֲנָה | name | name | Anah
+צִבְעוֹן | name | name | Tziv‘on
+חִוָּאָה | name | name | the Chivite
+בָּשְׂמַת | name | name | Basemat
+אֱלִיפָז | name | name | Elifaz
+אֱלִיפַז | name | name | Elifaz
+רְעוּאֵל | name | name | Re‘uel
+יְעוּשׁ | name | name | Ye‘ush
+יַעְלָם | name | name | Yalam
+קֹרַח | name | name | Korach
+תֵּימָן | name | name | Teiman
+תֵימָן | name | name | Teiman
+אוֹמָר | name | name | Omar
+צְפוֹ | name | name | Tzefo
+גַעְתָּם | name | name | Ga‘tam
+קְנַז | name | name | Kenaz
+תִמְנַע | name | name | Timna
+עֲמָלֵק | name | name | Amalek
+נַחַת | name | name | Nachat
+זֶרַח | name | name | Zerach
+שַׁמָּה | name | name | Shammah
+מִזָּה | name | name | Mizzah

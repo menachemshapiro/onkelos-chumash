@@ -1,0 +1,165 @@
+# Pinchas, all in one batch (other aliyah files are stubs)
+חֵימְתִ.י=my | hemta | n+1cs | My wrath
+בִּ=when.דְ=that.קַנֵּי | qny2 | D pf 3ms | when he was zealous (for)
+קִנְאָתִ.י=my | qinata | n+1cs | My zeal (vengeance)
+שֵׁיצֵיתִי | shetsi | Sh pf 1cs | I (did not) destroy
+בְּ=in.קִנְאָתִ.י=my | qinata | n+1cs | in My zeal
+כְּהֻנַּת | kehunta | n cs | priesthood of
+קַנֵּי | qny2 | D pf 3ms | he was zealous
+קְטִילָא | qtl | Gp ptc ms emph | slain
+אִתְקְטֵל | qtl | Gt pf 3ms | (who) was killed
+זִמְרִי | name | name | Zimri
+סָלוּא | name | name | Salu
+דְ=who.אִתְקְטִילַת | qtl | Gt pf 3fs | who was killed
+מִדְיָנֵתָא | name | name | the Midianite woman
+כָּזְבִּי | name | name | Kozbi
+צוּר | name | name | Tzur
+אֻמֵּי | umma | n fp cs | the clans of (lit. nations of)
+אָעֵק | wq | C impv ms | harass (lit. distress)
+מְעִיק.ִין~mp | wq | C ptc mp | harassing (lit. distressing)
+בְּ=with.נִכְלֵ.יהוֹן=their | nikhla | n mp+3mp | with their schemes
+נְכִילוּ | nkl | G pf 3mp | (they) plotted
+דְּ=who.אִתְקְטִילַת | qtl | Gt pf 3fs | who was killed
+בְּ=in.מֵישְׁר.ַיָּא=pl | meishar | n mp emph | in the plains
+יַרְדֵּנָא | yarden | n emph | the Yarden
+נְמוּאֵל | name | name | Nemuel
+בְּ=when.אִתְכַּנּוֹשֵׁ.יהוֹן=their | kns | Dt inf+3mp | when they gathered (lit. in their gathering)
+פּוּמָ.הּ=its | pum | n+3fs | its mouth
+אֲכָלַת | akhal | G pf 3fs | (the fire) consumed
+לִ=to.נְמוּאֵל | name | name | to Nemuel
+לְ=to.אָזְנִי | name | name | to Ozni
+אָזְנִי | name | name | Ozni
+לַ=to.אֲרוֹד | name | name | to Arod
+לְ=to.יָשׁוּב | name | name | to Yashuv
+יָשׁוּב | name | name | Yashuv
+גִּלְעָד | name | name | Gilad
+לְ=to.גִלְעָד | name | name | to Gilad
+אִיעֶזֶר | name | name | Iezer
+לְ=to.חֵלֶק | name | name | to Chelek
+חֵלֶק | name | name | Chelek
+וְ=and.אַשְׂרִיאֵל | name | name | and Asriel
+אַשְׂרִיאֵלִי | name | name | the Asrielite
+שֶׁכֶם | name | name | Shechem
+וּ=and.שְׁמִידָע | name | name | and Shemida
+שְׁמִידָע | name | name | Shemida
+וְ=and.חֵפֶר | name | name | and Chefer
+חֵפֶר | name | name | Chefer
+וּ=and.צְלָפְחָד | name | name | and Tzelofchad
+צְלָפְחָד | name | name | Tzelofchad
+מַחְלָה | name | name | Machlah
+וְ=and.נוֹעָה | name | name | and Noah
+חָגְלָה | name | name | Choglah
+וְ=and.תִרְצָה | name | name | and Tirtzah
+לְ=to.שׁוּתֶלַח | name | name | to Shutelach
+שׁוּתֶלַח | name | name | Shutelach
+לְ=to.תַחַן | name | name | to Tachan
+תָּחַן | name | name | Tachan
+שׁוּתָלַח | name | name | Shutelach
+לְ=to.עֵרָן | name | name | to Eran
+עֵרָן | name | name | Eran
+לַ=to.אֲחִירָם | name | name | to Achiram
+אֲחִירָם | name | name | Achiram
+לִ=to.שְׁפוּפָם | name | name | to Shefufam
+שְׁפוּפָם | name | name | Shefufam
+לְ=to.חוּפָם | name | name | to Chufam
+חוּפָם | name | name | Chufam
+אַרְדְּ | name | name | Ard
+הָאַרְדִּי | name | name | the Ardite
+נַעֲמִי | name | name | the Naamite
+לְ=to.שׁוּחָם | name | name | to Shucham
+שׁוּחָם | name | name | Shucham
+חֵבֶר | name | name | Chever
+סָרַח | name | name | Serach
+לְ=by.מְנְיְנֵ.יהוֹן=their | minyan | n mp+3mp | by their numbers
+תִּתְפְּלֵג | plg | Gt impf 3fs | shall be divided
+תַּסְגּוּן | sgy | C impf 2mp | you shall increase
+וְ=and.לִ=to.זְעִיר.ֵי=pl | zeir | a mp | and to the few
+תַּזְעֲרוּן | zr | C impf 2mp | you shall decrease
+תִּתְיְהַב | yhb | Gt impf 3fs | shall be given
+לִ=to.זְעִיר.ֵי=pl | zeir | a mp | to the few
+דִ=whom.ילֵדַת | yld | G pf 3fs | whom (her mother) bore
+וִ=and.ילֵדַת | yld | G pf 3fs | and she bore
+בְּ=when.קָרוֹבֵ.הוֹן=their | qrb | D inf+3mp | when they offered
+נוּכְרֵתָא | nukhrai | a fs emph | alien (strange)
+מְנ.וֹ~they_p | mny | G pf 3mp | (they) counted
+מֵ~inf.מַת | mwt | G inf abs | (surely) dying
+וְ=and.קָרֵיבָא | qrb | D pf 3fp | and (the daughters) came near
+נוֹעָה | name | name | Noah
+וְ=and.חָגְלָה | name | name | and Choglah
+דְּ=that.אִזְדַּמָּנוּ | zmn | Dt pf 3mp | that assembled
+יִתְמְנַע | mna | Gt impf 3ms | should (the name) be withheld (lost)
+זַרְעִיתֵ.יהּ=his | zaraya | n+3ms | his family
+דִּינְ.הֶן=their | din2 | n+3fp | their case
+מְמַלְּל.ָן~fp | mll | D ptc fp | speak
+מִ~inf.תַּן | yhb | G inf abs | (surely) give
+אֲחוּדַת | ahuda | n cs | a possession of
+אֲבוּ.הֶן=their | av | n+3fp | their father
+וְ=and.תַעְבְּרוּן | avr | C impf 2mp | and you shall pass on
+לְ=to.עַמָּ.יךְ=your | amma2 | n mp+2ms | to your people
+אִתְכְּנִישׁ | kns | Gt pf 3ms | (Aharon) was gathered
+סָרֵיבְתּוּן | srv | G pf 2mp | you rebelled
+דְ=of.צִן | name | name | of Tzin
+בְּ=in.מַצּוּת | matsut | n cs | in the strife of
+מַצּוּת | matsut | n cs | the strife of (Merivah)
+רְקַם | name | name | Rekam (Hebrew: קָדֵשׁ)
+יְמַנֵּי | mny | D impf 3ms | may (Hashem) appoint
+יַפֵּקִ.נּוּן=them | npq | C impf 3ms+3mp | (who) will lead them out
+יְעֵלִ.נּוּן=them | ill | C impf 3ms+3mp | (who) will bring them in
+יְהוֹשֻׁע | name | name | Yehoshua
+וְ=and.תִסְמוֹךְ | smk | G impf 2ms | and you shall lay (your hand)
+מִ=from.זִּיוָ.ךְ=your | ziv | n+2ms | (some) of your radiance
+עַלִּ.ין~mp | ill | G ptc mp | coming in
+וַ=and.אֲקִימֵ.יהּ=him | qwm | C pf 3ms+3ms | and he stood him
+קוּרְבָּנִ.י=my | qurbana | n+1cs | My offering
+לְ=for.קוּרְבָּנִ.י=my | qurbana | n+1cs | for My offering
+קוּרְבָּנָא | qurbana | n emph | the offering
+תַּעֲבֵּד | avad | G impf 2ms | you shall offer (lit. make)
+כְּתִישָׁא | ktsh | Gp ptc ms emph | crushed (beaten)
+דְ=that.אִתְעֲבִידָא | avad | Gt pf 3fs | that was offered (lit. made)
+נִסּוּךְ | nissukh | n cs | the libation of
+דְּ=that.מִתְקַבַּל | qbl2 | Dt ptc ms | that is accepted
+עִשְׂרוֹנ.ִין=pl | isrona | n mp | tenths (of an ephah)
+בְּ=on.שַׁבַּתָּא | shabbta | n emph | on the Sabbath
+וְ=and.נִסְכַּ.הּ=its | nisskha | n+3fs | and its libation
+עִשְׂרוֹנָא | isrona | n emph | a tenth (of an ephah)
+בְּ=in.אִתְחַדָּתוּתֵ.יהּ=its | hadatut | n+3ms | at its renewal
+יַרְח.ֵי=pl | yarha | n mp cs | the months of
+בְּ=on.אַרְבַּעַת | arba | num cs | on the four(teenth)
+יִתְאָכֵיל | akhal | Gt impf 3ms | shall be eaten
+עִשְׁרוֹנָא | isrona | n emph | a tenth (of an ephah)
+בְּ=when.קָרוֹבֵ.יכוֹן=your | qrb | D inf+2mp | when you offer
+בְּ=on.עַצְרָתֵ.יכוֹן=your | atsarta | n fp+2mp | on your festival of Weeks (Shavuot)
+וְ=and.תַעַבְּדוּן | avad | G impf 2mp | and you shall offer (lit. make)
+וּ=and.מִנְחָתַ.הּ=its | minhta | n+3fs | and its meal offering
+עִבִידְתָּא | avidta | n emph | work
+תַעַבְּדוּן | avad | G impf 2mp | you shall (not) do
+מִנְחָתַ.הּ=its | minhta | n+3fs | its meal offering
+וְ=and.נִסְכָּ.הָא=its | nisskha | n+3fs | and its libations
+וְ=and.נִסְכָּ.הּ=its | nisskha | n+3fs | and its libation
+כְּנִישׁוּ | knishut | n | an assembly (Hebrew: עֲצֶרֶת)
+תַּעַבְּדוּן | avad | G impf 2mp | you shall offer (lit. make)
+וְ=and.נִדְבַתְ.כוֹן=your | nedavta | n+2mp | and your freewill offerings
+לַ=for.עֲלָוַתְ.כוֹן=your | alawan | n fp+2mp | for your burnt offerings
+וּ=and.לְ=for.מִנְחַתְ.כוֹן=your | minhta | n+2mp | and for your meal offerings
+וּ=and.לְ=for.נִסְכֵּ.יכוֹן=your | nisskha | n mp+2mp | and for your libations
+# global fixes
+וְ=and.תִקְטוֹל | qtl | G impf 2ms | and you shall kill
+לְ=by.פוּם | pum | n cs | according to (lit. to the mouth of)
+דְּ=who.קָרִיב | qariv | a ms | who is close (to him)
+לִ=as.גְזֵרַת | gezera | n cs | as a statute of
+לְ=to.קָרָבָא | qrb | D inf | to offer (lit. to bring near)
+דַּ=of.חֲמַר | hamra | n | of wine
+# scoped
+26:54>לְ=to.סַגִּיא.ֵי=pl | saggi | a mp | to the many
+27:2>וְ=and.קָמָא | qwm | G pf 3fp | and they stood
+27:11>וְ=and.יֵרַת | yrt | G impf 3ms | and he shall inherit
+27:13>וְ=and.תֶחֱזֵי | hzy | G impf 2ms | and you shall see
+27:13>וְ=and.תִתְכְּנֵשׁ | kns | Gt impf 2ms | and you shall be gathered
+27:21>וְ=and.יִשְׁאַל | shl | G impf 3ms | and he shall inquire
+27:21>בְּ=by.דִין | din2 | n cs | by the judgment of
+27:23>וּ=and.סְמַךְ | smk | G pf 3ms | and he laid (his hands)
+28:26>מִנְחֲתָא | minhta | n emph | a meal offering
+29:7>וּ=and.בְ=on.עַשְׂרָא | asar | num | and on the tenth (lit. on ten)
+28:11>וּ=and.בְ=on.רֵישֵׁי | resh | n mp cs | and on the beginnings of (months)
+29:18>לְ=for.דִכְר.ִין=pl | dikhra | n mp | for the rams
+וּ=and.לְ=to.מִ~inf.תַּן | yhb | G inf | and to give

@@ -1,0 +1,33 @@
+# Shemot 15:27–16:10
+לְ=to.אֵילִם | name | name | to Elim
+מֵ=from.אֵילִם | name | name | from Elim
+אֵילִם | name | name | Elim
+מַבּוּע.ִין~pl | mabbua | n mp abs | springs
+דְ=of.מַיִן | mayin | n abs | of water
+דְ=of.סִין | name | name | of Sin
+סִינָי | name | name | Sinai
+לְ=after.מִ~inf.פָּקְ.הוֹן=they | npq | G inf+3mp | after their going out | the נ of נפק is absorbed
+דְ=that.מִיתְ.נָא~we_p | mwt | G pf 1cp | that we had died
+דוּד.ֵי~cs_pl | dud | n mp cs | the pots of
+וְ=.שָׂבְע.ִין~mp | sva | G ptc mp | and (we were) satisfied
+אַפֶּקְ.תּוּן~ypl_p | npq | C pf 2mp | you have brought out | the נ of נפק is absorbed
+וְ=.יִ~they_f.לְקְט.וּן~mp | lqt | G impf 3mp | and they shall gather
+דְ=that.יִ~they_f.לְקְט.וּן~mp | lqt | G impf 3mp | (beside) what they gather
+דַ=so that.אֲ~I_f.נַסִ.נוּן=them | nsy | D impf 1cs+3mp | so that I may test them
+הַ~question marker.יְ~they_f.הָכ.וּן~mp | hlk2 | G impf 3mp | whether they will walk
+בְּ=in.אוֹרַיְת.ִי=My | oraita | n+1cs | in My Torah
+שְׁתִיתָאָה | shetitai | ord | the sixth
+וִ=and.י~they_f.תַקְנ.וּן~mp | tqn | D impf 3mp | and they shall prepare
+דְ=what.יַ~they_f.יְת.וּן~mp | aty | C impf 3mp | what they bring | the א of אתי becomes י
+תֻּרְעֲמוּתְ.כוֹן=your | turamut | n fs+2mp | your complaint(s)
+אַתְ~Dt.רַעַמְ.תּוּן~ypl_p | rm2 | Dt pf 2mp | you complained
+בִּ=when.דְ=.יִ~he_f.תֵּן | yhb | G impf 3ms | when (Hashem) gives | the future of יְהַב comes from נתן
+לְ=.מִ~inf.שְׂבַּע | sva | G inf | to be satisfied
+בְּ=when.דִ=.שְׁמִיעַ | shm | Gp ptc ms | when (it) is heard
+מִתְ~ptcGt.רַעֲמ.ִין~mp | rm2 | Dt ptc mp | are complaining
+שְׁמִיע.ַן~fp | shm | Gp ptc fp | are heard
+וְ=.אִתְ~Gt.פְּנִי.וּ~they_p | pny | Gt pf 3mp | and they turned
+דִקְל.ִין~pl | diqla | n mp abs | palm trees
+16:1> בְּ=on the.חַמְשָׁא | hamsha | num | on the fifteenth (lit. on five-teen)
+16:7> וְ=.תֶ~ypl_f.חֱז.וּן~mp | hzy | G impf 2mp | and you shall see
+וְ=.לַחְמ.ָא=emph | lahma | n emph | and bread

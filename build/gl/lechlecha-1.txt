@@ -1,0 +1,77 @@
+# Lech Lecha 12:1–12:13
+יְיָ | yy | !the Divine Name | Hashem
+אִי~cmd.זֵל | azl | G impv ms | go | the א of אזל becomes י
+מֵ=.אַרְע.ָךְ=your | ara | n fs+2ms | from your land
+וּ=.מִ=.יַּלָּדוּת.ָךְ=your | yalluta | n fs+2ms | and from your birthplace
+אֲבוּ.ךְ=your | av | n+2ms | your father
+אַ~I_f.חֲזִ.נָּךְ=you | hzy | C impf 1cs+2ms | I will show you
+וְ=.אֶ~I_f.עְבְּדִ.נָּךְ=you | avad | G impf 1cs+2ms | and I will make you
+לְ=into.עַם | amma2 | n abs | into a nation
+וֶ=.אֱ~I_f.בָרֵכִ.נָּךְ=you | brk | D impf 1cs+2ms | and I will bless you
+וֶ=.אֱ~I_f.בָרֵךְ | brk | D impf 1cs | and I will bless
+וַ=.אֲ~I_f.רַבֵּי | rby | D impf 1cs | and I will make great
+שְׁמ.ָךְ=your | shum | n+2ms | your name
+מְ~ptcD.בָרָךְ | brk | !verb, Pa‘el, passive participle, masc. sing. | blessed
+מְ~ptcD.בָרְכ.ָךְ=you | brk | D ptc mp+2ms | those who bless you
+וּ=.מְ~ptcD.לַטְטָ.ךְ=you | lwt | D ptc ms+2ms | and one who curses you
+אֵי~I_f.לוּט | lwt | G impf 1cs | I will curse
+וְ=.יִ~they_f.תְ~Dt.בָּרֲכ.וּן~mp | brk | Dt impf 3mp | and (they) will be blessed
+וַ=.אֲזַל | azl | G pf 3ms | and (he) went
+דִ=that.מַלֵּיל | mll2 | D pf 3ms | that (He) had spoken
+בְּ=when.מִ~inf.פְּק.ֵיהּ=he | npq | G inf+3ms | when he went out (lit. in his going out) | the נ of נפק is absorbed (the dot in פּ)
+אִתְּת.ֵיהּ=his | itta | n fs+3ms | his wife
+קִנְיָנ.ְהוֹן=their | qinyan | n+3mp | their possessions
+קְנ.וֹ~they_p | qny | G pf 3mp | (they) had acquired
+נַפְשָׁת.ָא=emph | nafsha | n fp emph | the souls (= the people)
+דְּ=that.שַׁ~Sh.עְבִּיד.וּ~they_p | shabed | Sh pf 3mp | that they had brought under (the Torah)
+לְ=to.אוֹרַיְת.ָא=emph | oraita | n fs emph | to the Torah (Hebrew: אֲשֶׁר עָשׂוּ, whom they had made)
+וַ=.עֲבַר | avr | G pf 3ms | and (he) passed through
+אֲתַר | atar | n cs | the place of
+שְׁכֶם | name | name | Shekhem
+מֵישַׁר | meishar | n cs | the plain of
+מוֹרֶה | name | name | Moreh
+כְנַעֲנָאָה | name | name | the Canaanite(s)
+וּ=.כְנַעֲנָאָה | name | name | and the Canaanite(s)
+אֶ~I_f.תֵּן | yhb | G impf 1cs | I will give | the future of יְהַב comes from נתן
+הָדָא | hada | pron fs | this
+מִדְבְּח.ָא=emph | madbha | n emph | an altar
+דְּ=that.אִתְ~Gt.גְּלִי | gly | Gt pf 3ms | Who had revealed Himself
+וְ=.אִסְ~Dt.תַּלַּק | slq2 | Dt pf 3ms | and (he) moved away | the passive ת moves after the ס
+לְ=to.טוּר.ָא=emph | tura | n emph | to the mountain
+מִ=.מַּדְנַח | madnah | n | east (lit. from the east)
+אֵל | el | n | God (אֵל עִלָּאָה = God Most High)
+12:8> אֵל | name | name | El (בֵּית אֵל = Beit El)
+13:3> אֵל | name | name | El (בֵּית אֵל = Beit El)
+וּ=.פְרַס | prs | G pf 3ms | and (he) spread (his tent)
+מִ=.מַּעַרְב.ָא=emph | maarav | n emph | on the west (lit. from the west)
+עַי | name | name | Ai
+וְ=.צַלִּי | tsly | D pf 3ms | and (he) prayed
+וּ=.נְטַל | ntl2 | G pf 3ms | and (he) journeyed
+אָזֵל | azl | G ptc ms | going
+וְ=.נָטֵל | ntl2 | G ptc ms | and journeying
+לְ=to.דָרוֹמ.ָא=emph | darom | n emph | to the south
+כַפְנ.ָא=emph | kafna | n emph | a famine
+כַּפְנ.ָא=emph | kafna | n emph | the famine
+וּ=.נְחַת | nht | G pf 3ms | and (he) went down
+לְ=.אִתּ~Ct.וֹתָב.ָא~inf_end | ytv | Ct inf | to sojourn (lit. to be settled) | CAL: ytb; the י of יתב shows as וֹ
+אַרֵי | arei | conj | because
+12:11>אַרֵי | arei | conj | because (a variant reading)
+קְרֵיב | qrb | G pf 3ms | (he) came near
+לְ=.מֵ~inf.יעַל | ill | G inf | to enter
+לְ=.מִצְרָיִם | name | name | to Mitzrayim (Egypt)
+כְעַן | kean | adv | now (here: please)
+יְדָע.ִית~I_p | yd | G pf 1cs | I know
+שַׁפִּירַת | shapir | a fs cs | beautiful of
+חֵיזוּ | hezu | n | appearance
+יֶ~they_f.חֱז.וּן~mp | hzy | G impf 3mp | (they) will see
+יָת.ִיךְ=you (fem.) | yat | part+2fs | you
+וְ=.יָת.ִיךְ=you (fem.) | yat | part+2fs | and you
+וְ=.יֵ~they_f.ימְר.וּן~mp | amr | G impf 3mp | and (they) will say | the א of אמר becomes י
+וְ=.יִ~they_f.קְטְל.וּן~mp | qtl | G impf 3mp | and (they) will kill
+יְ~they_f.קַיְמ.וּן~mp | qwm2 | D impf 3mp | they will keep alive
+אִמְר.ִי~cmd_fs | amr | G impv fs | say
+אֲחָת.ִי=my | ahata | n fs+1cs | my sister
+דְּ=that.יֵ~he_f.יטַב | ytv2 | G impf 3ms | (so) that it will go well
+וְ=.תִ~she_f.תְ~Dt.קַיֵּם | qwm2 | Dt impf 3fs | and (it) will survive (lit. be kept alive)
+נַפְשׁ.ִי=my | nafsha | n fs+1cs | my soul
+בְּ=through.פִתְגָּמ.ָיְכִי=your (fem.) | pitgam | n mp+2fs | through your words (Hebrew: בִּגְלָלֵךְ, because of you)

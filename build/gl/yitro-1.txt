@@ -1,0 +1,19 @@
+# Shemot 18:1–12
+חֲמ.וּהִי=his | hama | n+3ms | his father-in-law
+לַ=to.חֲמ.וּהִי=his | hama | n+3ms | to his father-in-law
+חֲמ.וּךְ=your | hama | n+2ms | your father-in-law
+אַ~C.פִּיק | npq | C pf 3ms | (Hashem) brought out | the נ of נפק is absorbed
+צִפֹּרָה | name | name | Tzipporah
+דְ=after.פַטְרַ.הּ=her | ptr | G pf 3ms+3fs | after he had sent her away
+בְּנָ.הָא=her | bar | n mp+3fs | her sons
+וְ=.שֵׁזְבַ.נִי=me | shyzv | Sh pf 3ms+1cs | and (He) saved me
+וּ=.נְשִׁיק | nshq | G pf 3ms | and (he) kissed
+אַשְׁכַּחְ.תִּ~she_p.נוּן=them | shkh | C pf 3fs+3mp | (the hardship) that had found them
+וְ=.שֵׁזְבָ.נוּן=them | shyzv | Sh pf 3ms+3mp | and (Hashem) saved them
+שֵׁזְב.ֵיהּ=them | shyzv | Sh pf 3ms+3ms | (He) saved them (lit. him, i.e. Israel)
+מַרְוַת | marwa | n fs cs | the power of (Hebrew: מִיַּד)
+אֱלָהּ | elah | n | a god
+חַשִׁיב.וּ~they_p | hshb | D pf 3mp | (the Egyptians) plotted
+לְ=.מִ~inf.דַן | dyn | G inf | to judge
+דָנִ.נוּן=them | dyn | G pf 3ms+3mp | He judged them
+קוּדְשׁ.ִין~pl | qudsha | n mp abs | holy things (נִכְסַת קוּדְשִׁין = peace offerings)

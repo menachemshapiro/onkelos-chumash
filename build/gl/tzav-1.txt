@@ -1,0 +1,118 @@
+# Tzav (batch for the whole parsha): Vayikra 6:1–8:36
+דְּ=that.מִתּוֹ~ptcGt.קְד.ָא~fs | yqd | Ct ptc fs | that burns (lit. is burned) | the passive ת merges; the י becomes ו
+יָקְד.ָא~fs | yqd | G ptc fs | burning
+תִּתּוֹ~Ct.קָד | yqd | Ct impf 3fs | shall be burned | the passive ת merges; the י becomes ו
+וְ=.יַ~he_f.לְבֵּשׁ | lbsh | C impf 3ms | and he shall put on (lit. clothe)
+יַ~he_f.לְבֵּשׁ | lbsh | C impf 3ms | he shall put on
+וְ=.יִ~he_f.לְבַּשׁ | lbsh | G impf 3ms | and he shall put on
+וְ=.אַ~C.לְבֵּשׁ | lbsh | C pf 3ms | and he clothed
+וְ=.אַ~C.לְבֵּשִׁ.נּוּן=them | lbsh | C pf 3ms+3mp | and he clothed them
+וִ=and.י~he_f.שַׁוִּ.נֵּיהּ=it | shwy | D impf 3ms+3ms | and he shall put it
+תִ~she_f.טְּפֵי | tfy | G impf 3fs | it shall (not) go out
+וְ=.יַ~he_f.בְעַר | bry_burn | D impf 3ms | and he shall kindle
+דִּ=that.יְ~they_f.קָרְב.וּן~mp | qrb | D impf 3mp | that (they) shall offer
+יְ~they_f.קָרְב.וּן~mp | qrb | D impf 3mp | they shall offer
+לְבוּנְתּ.ָא=emph | levunta | n fs emph | frankincense
+אַדְכַּרְתּ.ָא=emph | adkarta | n fs emph | the memorial portion
+תִּתְ~Gt.אָכֵל | akhal | Gt impf 3fs | it shall be eaten
+תִתְ~Gt.אֲכֵל | akhal | Gt impf 3fs | it shall (not) be eaten
+תִּתְ~Gt.אֲכֵל | akhal | Gt impf 3fs | it shall be eaten
+יִתְ~Gt.אֲכָל | akhal | Gt impf 3ms | it shall be eaten
+אִתְ~Gt.אֲכָל.ָא~inf_end | akhal | Gt inf | (with) being eaten (doubles the verb: if it is eaten at all)
+מִשְׁכַּן | mashkan | n cs | the Tent of
+יֵ~they_f.כְלֻ.נַּהּ=it | akhal | G impf 3mp+3fs | they shall eat it | the א of אכל becomes י
+יֵ~he_f.יכְלִ.נַּהּ=it | akhal | G impf 3ms+3fs | he shall eat it | the א of אכל becomes י
+יֵ~he_f.יכְלִ.נֵּיהּ=it | akhal | G impf 3ms+3ms | he shall eat it | the א of אכל becomes י
+יֵ~they_f.יכְלֻ.נֵּיהּ=it | akhal | G impf 3mp+3ms | they shall eat it | the א of אכל becomes י
+תֵ~ypl_f.יכְלֻ.נֵּיהּ=it | akhal | G impf 2mp+3ms | you shall (not) eat it | the א of אכל becomes י
+תִתְ~Gt.אֲפֵי | afy | Gt impf 3fs | it shall (not) be baked
+מִ=from.קֻּרְבָּנ.ָי=My | qurbana | n mp+1cs | from My offerings
+דְּ=on which.רַבִּי.אוּ~they_p | rby | D pf 3mp | (on which) they anoint
+פַּלְגּוּת.ַהּ=its | palga | n fs+3fs | half of it
+וּ=.פַלְגּוּת.ַהּ=its | palga | n fs+3fs | and half of it
+רְבִיכ.ָא~fs | rbkh | Gp ptc fs | well mixed (with oil)
+תַ~you_f.יְתִ.נַּהּ=it | aty | C impf 2ms+3fs | you shall bring it | the א of אתי becomes י
+תּוּפִינ.ֵי~cs_pl | tufin | n mp cs | baked pieces of
+בִּצּוּע.ִין~pl | bitsua | n mp abs | broken pieces
+דִ=who is.מְ~ptcD.רַבָּ.א~emph | rby | Dp ptc ms | who is anointed
+תִּתַּ~Ct.סָּק | slq | Ct impf 3fs | it shall be burned (lit. brought up) | the passive ת merges
+תִתְ~Gt.נְכֵס | nks | Gt impf 3fs | it shall be slaughtered
+תִּתְ~Gt.נְכֵס | nks | Gt impf 3fs | it shall be slaughtered
+דִּ=who.מְ~ptcD.כַפֵּר | kpr | D ptc ms | who atones (i.e. offers it)
+בִּ=with.דְמ.ַהּ=its | dam | n+3fs | with its blood
+בְּ=.בִסְר.ַהּ=its | bsr | n+3fs | its flesh
+6:20> יַ~he_f.דִּי | ndy | C impf 3ms | (if) (its blood) splashes (lit. one sprinkles) | the נ of נדי is absorbed
+לְבוּשׁ | levush | n | a garment
+תִּתְ~Dt.חַוָּר | hwr | Dt impf 3fs | it shall be washed (lit. whitened)
+דַּ=of.חֲסַף | hasfa | n | of earthenware
+תִתְ~Dt.בַּשֵּׁל | bshl | Dt impf 3fs | (in which) it is cooked
+תִּתְ~Dt.בַּשֵּׁל | bshl | Dt impf 3fs | it is cooked
+יִתָּ~Gt.בָר | tvr | Gt impf 3ms | it shall be broken | the passive ת merges with the ת of תבר
+וְ=.יִתְ~Gt.מְרֵק | mrq | Gt impf 3ms | it shall be scoured
+וְ=.יִשְׁתַּ~passive (Ishtaf‘al).טֵּף | shtf | Gt impf 3ms | and rinsed | the ת moves after the ש and becomes ט
+יִתָּ~Ct.עַל | ill | Ct impf 3ms | (whose blood) is brought in | the passive ת merges
+יִ~they_f.כְּס.וּן~mp | nks | G impf 3mp | they slaughter | the נ of נכס is absorbed
+יִ~he_f.זְרַק | zrq | G impf 3ms | he shall sprinkle
+דִּ=who.יִ~he_f.זְרַק | zrq | G impf 3ms | who sprinkles
+עֲלַת | alawan | n fs cs | the burnt offering of
+בְּ=in.רִדְתּ.ָא=emph | radta | n fs emph | in a deep pan
+פִילָ.א~fs | pyl | Gp ptc fs | mixed
+תּוֹדְת.ָא=emph | todta | n fs emph | thanksgiving
+תּוֹדַת | todta | n fs cs | the thanksgiving of
+קוּדְשׁ.וֹהִי=his | qudsha | n mp+3ms | his holy (offerings)
+קוּדְשׁ.ֵיכוֹן=your | qudsha | n mp+2mp | your holy (offerings)
+קוּרְבַּן | qurbana | n cs | an offering of
+קֻרְבְּנ.ֵיהּ=his | qurbana | n+3ms | his offering
+קֻרְבָּנ.ֵיכוֹן=your | qurbana | n mp+2mp | your offering(s)
+קֻרְבָּנְ.כוֹן=your | qurbana | n+2mp | your offering
+יַ~C.צְנַע | tsna | C impf 3ms | he shall (not) leave over (lit. put away)
+נִדְר.ָא=emph | nidra | n emph | a vow
+נִכְסְת.ֵיהּ=his | nikhsta | n fs+3ms | his sacrifice
+נִכְסְת.ָא=emph | nikhsta | n fs emph | the sacrifice
+יִתְ~Gt.חֲשֵׁב | hshb2 | Gt impf 3ms | it shall (not) be reckoned
+מְ~ptcD.רָחָק | rhq2 | Dp ptc ms | abhorrent (Hebrew: פִּגּוּל)
+מְ~ptcD.סָאֲב.ָא=emph | sav | Dp ptc emph | impure
+שִׁקְצ.ָא=emph | shiqtsa | n emph | abomination
+וְ=.עִזּ.ָא=emph | iza | n emph | and goat
+נְבִיל.ָא=emph | nevila | n emph | a carcass (that died by itself)
+תְּבִיר.ָא=emph | tevira | n emph | a torn (animal)
+יַ~he_f.יְתִ.נֵּיהּ=it | aty | C impf 3ms+3ms | he shall bring it | the א of אתי becomes י
+לַ=.אֲרָמ.ָא~inf_end | rwm | C inf | to raise (it)
+אֲרוּמ.ָא=emph | aramuta | n emph | an uplifted (offering)
+אֲרָמ.ָא=emph | aramuta | n emph | an uplifted (offering)
+נְסֵבִ.ית~I_p | nsv | G pf 1cs | I have taken
+כְּנֵשׁ | kns | G impv 2ms | gather!
+וְ=.אִתְ~Dt.כְּנִישׁ.ַת~she_p | kns | Dt pf 3fs | and (the congregation) assembled
+וְ=.אַ~C.תְקֵן | tqn | C pf 3ms | and he put on (lit. arranged)
+וְ=.אַ~C.דִּי | ndy | C pf 3ms | and he sprinkled | the נ of נדי is absorbed
+לְ=.קַדָּשׁוּתְ.הוֹן=them | qdsh | D inf+3mp | to sanctify them
+וְ=.דַכִּי | dky | D pf 3ms | and he purified
+אֲ~C.רִיק | ryq | C pf 3ms | he poured
+וְ=.קַדְּשֵׁ.יהּ=it | qdsh | D pf 3ms+3ms | and he sanctified it
+תַּרְבְּ.הֶן=their | tarba | n+3fp | their fat
+אָכְל.ֵיהּ=its | ukhla | n+3ms | its dung
+וּ=.סְמָכ.וּ~they_p | smk | G pf 3mp | and (they) leaned (their hands)
+פַּלֵּיג | plg | D pf 3ms | he cut up
+לְ=into.אֶבְר.וֹהִי=its | evra | n mp+3ms | into its pieces
+אֵבָר.ַיָּא~emphp | evra | n mp emph | the pieces
+חַלִּיל | hll3 | D pf 3ms | he rinsed
+אוּדְנ.ֵהוֹן=their | udna | n fp+3mp | their ear(s)
+רַגְל.ֵהוֹן=their | regel | n fp+3mp | their feet
+גְּרִצְתּ.ָא=emph | gritsa | n fs emph | a cake
+תַּרְבּ.ַיָּא~emphp | tarba | n mp emph | the fats
+וַ=.אֲרִימ.ֵיהּ=it | rwm | C pf 3ms+3ms | and he raised it
+בְּ=in.סַל | salla | n cs | in the basket of
+יְמָם | imam | n | by day
+וְ=.לֵילֵי | lelya | n | and night
+אִתְ~Dt.פַּקָּדִ.ית~I_p | pqd | Dt pf 1cs | I have been commanded
+וְ=.יַ~he_f.דִּי | ndy | C impf 3ms | and he shall sprinkle | the נ of נדי is absorbed
+וּ=.מִכְנְס.ִין~pl | mikhnas | n mp | and breeches
+6:4> וְ=.יַ~he_f.שְׁלַח | shlh2 | C impf 3ms | and he shall take off
+6:21> בְּ=in.מָנ.ָא=emph | mana | n emph | in a vessel
+7:20> מֵ=from.עַמּ.ַהּ=its | amma2 | n+3fs | from its people
+7:21> מֵ=from.עַמּ.ַהּ=its | amma2 | n+3fs | from its people
+7:38> לְ=.קָרָב.ָא~inf_end | qrb | D inf | to offer (lit. bring near)
+8:14> וּ=.סְמַךְ | smk | G pf 3ms | and (Aharon) leaned
+כְּרָע.ַיָּא~emphp | kera | n mp emph | the legs
+8:33> מִ=until.שְׁלַם | shlm | G inf | until the completion of
+8:17> מִ=from.בָּר.ָא=emph | bara | adv | outside

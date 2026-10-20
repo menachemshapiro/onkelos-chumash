@@ -1,0 +1,2058 @@
+# key | root | headword | part of speech | meaning  (rebuilt 14:15 from g/*.json and the transcript)
+dbr | דבר | דְּבַר | verb | to lead; to take
+illein |  | אִלֵּין | pronoun, pl. | these
+toldot | ילד | תּוּלְדָא | noun, f. | generation; (pl.) history, offspring
+kad |  | כַּד | conjunction | when
+elohim |  | אֱלֹהִים | the Divine Name | Elohim — kept as in the Hebrew where it follows יְיָ
+haqla | חקל | חַקְלָא | noun | field
+ad |  | עַד | preposition | until, up to; (עַד לָא) before, not yet
+la |  | לָא | negative | not, no
+tsmh | צמח | צְמַח | verb | to sprout, grow; (Af'el) to make grow
+nht | נחת | נְחַת | verb | to go down; (Af'el) to bring down
+mitra | מטר | מִטְרָא | noun | rain
+leit |  | לֵית | negative particle | there is not (לָא + אִית)
+plh | פלח | פְּלַח | verb | to work, till; to serve, worship
+adamta | אדם | אַדְמְתָא | noun, f. | ground, soil
+anana | ענן | עֲנָנָא | noun | cloud; (here) mist
+slq | סלק | סְלֵיק | verb | to go up, rise
+shqy | שקי | אַשְׁקֵי | verb (Af'el) | to give to drink, water
+afra | עפר | עַפְרָא | noun | dust, earth
+nfh | נפח | נְפַח | verb | to blow, breathe
+nishmeta | נשם | נִשְׁמְתָא | noun, f. | breath, soul
+hayyin | חיי | חַיִּין | noun, pl. | life
+mll | מלל | מַלֵּיל | verb (Pa'el) | to speak
+nsb | נצב | נְצַב | verb | to plant
+ginta | גנן | גִּינְתָא | noun, f. | garden
+eden |  | עֵדֶן | proper name | Eden
+shwy | שוי | אַשְׁוֵי | verb (Af'el) | to put, place, set
+taman |  | תַּמָּן | adverb | there
+mraggeg | רגג | מְרַגֵּג | adjective | highly desirable, pleasant
+hkm | חכם | חַכִּים | adjective | wise, knowing
+bish | באש | בִּישׁ | adjective | bad, evil
+nahar | נהר | נַהֲרָא | noun | river
+arba | ארבע | אַרְבְּעָא | number | four
+resh | ריש | רֵישָׁא | noun | head; source
+shum | שום | שׁוּם | noun | name
+name |  |  | proper name | a name, kept as in the Hebrew
+hu |  | הוּא | pronoun | he, it; (as a link) is
+nqf | נקף | אַקֵּיף | verb (Af'el) | to surround, go around
+dahava | דהב | דַּהֲבָא | noun | gold
+hahu |  | הַהוּא | pronoun | that (fem. הַהִיא)
+bdolha |  | בְּדָלְחָא | noun | bdellium (a precious stone or resin)
+avna | אבן | אַבְנָא | noun, f. | stone
+burla |  | בּוּרְלָא | noun | beryl (Hebrew: שֹׁהַם)
+hlk | הלך | הַלֵּיךְ | verb (Pa'el) | to walk, go; (of a river) to flow
+madinha | דנח | מַדִּינְחָא | noun | east (lit. the sunrise)
+shry | שרי | שְׁרָא | verb | to dwell, rest; to begin; (Af'el) to settle, place
+ntr | נטר | נְטַר | verb | to guard, keep
+pqd | פקד | פַּקֵּיד | verb (Pa'el) | to command
+mwt | מות | מִית | verb | to die
+lhod | לחד | בִּלְחוֹד | adverb | alone, only (with a suffix: by himself)
+smakh | סמך | סְמָךְ | noun | support; a helper
+qbl | קבל | לָקֳבֵל | preposition | opposite, facing; corresponding to
+bara | בר | בָּרָא | noun | open country, field (lit. the outside)
+aty | אתי | אֲתָא | verb | to come; (Af'el) to bring
+lwat |  | לְוַת | preposition | to, toward
+ma |  | מָה | pronoun | what
+shkh | שכח | אַשְׁכַּח | verb (Af'el) | to find
+rmy | רמי | רְמָא | verb | to throw, cast; to put
+shinta | שנה | שִׁינְתָא | noun, f. | sleep
+dmkh | דמך | דְּמַךְ | verb | to sleep, lie down
+nsv | נסב | נְסֵיב | verb | to take; to marry
+ila | עלע | עִלְעָא | noun | rib; side
+bsr | בשׂר | בִּשְׂרָא | noun | flesh, meat (also spelled בִּסְרָא)
+bny | בני | בְּנָא | verb | to build
+itta | אנת | אִתְּתָא | noun, f. | woman; wife
+hada |  | הָדָא | pronoun, f. | this
+garma | גרם | גַּרְמָא | noun | bone
+da |  | דָּא | pronoun, f. | this
+bal | בעל | בַּעְלָא | noun | husband; owner
+shbq | שבק | שְׁבַק | verb | to leave, let go; to forgive
+gvar | גבר | גְּבַר | noun | man; (each) one
+mishkav | שכב | מִשְׁכְּבָא | noun | bed, lying place
+av | אב | אַבָּא | noun | father
+em | אם | אִמָּא | noun, f. | mother
+dbq | דבק | דְּבַק | verb | to cling, cleave
+artilai | ערטל | עַרְטִילַאי | adjective | naked
+klm | כלם | אִתְכְּלַם | verb (Itpa'al) | to be ashamed
+hiwya | חוי | חִוְיָא | noun | serpent, snake
+qushta | קשט | קוּשְׁטָא | noun | truth; (בְּקוּשְׁטָא) truly, really
+qrb | קרב | קְרֵיב | verb | to come near; (Pa'el) to bring near, touch
+dilma |  | דִּילְמָא | conjunction | lest; perhaps
+gly | גלי | גְּלָא | verb | to uncover, reveal; to go into exile; (passive participle) revealed, known
+ptH | פתח | פְּתַח | verb | to open; (Itpa'al) to be opened
+eina | עין | עֵינָא | noun, f. | eye
+asu | אסי | אָסוּ | noun | healing, a cure
+skl | סכל | אִסְתַּכַּל | verb (Itpa'al) | to look at, gaze
+ibba | אבב | אִבָּא | noun | fruit
+af2 |  | אַף | adverb | also, even
+im |  | עִם | preposition | with
+yd | ידע | יְדַע | verb | to know
+inun |  | אִינּוּן | pronoun, pl. | they, those
+hwt | חוט | חַיֵּט | verb (Pa'el) | to sew, fasten together
+tarpa | טרף | טַרְפָא | noun | leaf
+teina | תאן | תְּאֵנְתָא | noun, f. | fig tree; (pl.) figs
+zraz | זרז | זְרָז | noun | girdle, loincloth
+shm | שמע | שְׁמַע | verb | to hear; to obey
+qal | קול | קָלָא | noun | voice, sound
+meimra | אמר | מֵימְרָא | noun | word; (of Hashem) His Word, the Memra
+tmr | טמר | אִטַּמַּר | verb (Itpa'al) | to hide oneself
+go |  | גּוֹ | noun / preposition | inside, midst; (בְּגוֹ) among
+an |  | אָן | adverb | where
+att |  | אַתְּ | pronoun | you (sing.)
+dhl | דחל | דְּחֵיל | verb | to fear, be afraid
+ana |  | אֲנָא | pronoun | I
+man |  | מָן | pronoun | who
+hwy2 | חוי | חַוִּי | verb (Pa'el) | to tell, declare
+bdil |  | בְּדִיל | preposition / conjunction | because of; in order that
+hi |  | הִיא | pronoun, f. | she, it
+ty | טעי | טְעָא | verb | to go astray; (Af'el) to lead astray, deceive
+lwt | לוט | לוּט | verb | to curse; (passive participle) cursed
+mea | מעי | מְעָא | noun | belly; (pl.) innards
+azl | אזל | אֲזַל | verb | to go
+dvavu | דבב | דְּבָבוּ | noun, f. | enmity, hostility
+bnin | בני | בְּנִין | noun, pl. | sons, children (sing. בַּר)
+dkr | דכר | דְּכַר | verb | to remember
+sof | סוף | סוֹפָא | noun | end
+tsar | צער | צַעֲרָא | noun | pain, sorrow
+iddui | עדי | עִדּוּי | noun | pregnancy
+yld | ילד | יְלֵיד | verb | to give birth; (Af'el) to beget
+tiuvta | תאב | תְּאוּבְתָּא | noun, f. | desire, longing
+qbl2 | קבל | קַבֵּיל | verb (Pa'el) | to receive, accept; (לְמֵימַר) to listen to
+amal | עמל | עֲמַל | noun | toil, labour
+kuva | כוב | כּוּבָא | noun | thorn
+atad | אטד | אַטְדָּא | noun | thistle, bramble
+zeita | זוע | זֵיעֲתָא | noun, f. | sweat
+lahma | לחם | לַחְמָא | noun | bread; food
+twv | תוב | תּוּב | verb | to return; (Af'el) to bring back
+levush | לבש | לְבוּשָׁא | noun | garment, clothing
+yqr | יקר | יְקָרָא | noun | honour, glory
+meshakh | משך | מְשַׁךְ | noun | skin, hide
+lbsh | לבש | לְבֵישׁ | verb | to wear, put on; (Af'el) to clothe
+yhidai | יחד | יְחִידַאי | adjective | unique, alone
+alma | עלם | עָלְמָא | noun | world
+kean |  | כְּעַן | adverb | now
+wsht | ושט | אוֹשֵׁיט | verb (Af'el) | to stretch out
+yad | יד | יְדָא | noun, f. | hand
+hyy | חיי | חֲיָא | verb | to live
+alam | עלם | עָלַם | noun | eternity; (לְעָלַם) forever
+shlh | שלח | שַׁלַּח | verb (Pa'el) | to send away, send off
+trk | תרך | תָּרֵיךְ | verb (Pa'el) | to drive out, banish; (passive participle) divorced woman
+kruv | כרב | כְּרוּבָא | noun | cherub
+shnan | שנן | שְׁנַן | noun | sharp edge, blade
+harba | חרב | חַרְבָּא | noun, f. | sword
+hpk | הפך | הֲפַךְ | verb | to turn; (Itpa'al) to turn about, revolve
+orah | ארח | אוֹרְחָא | noun | way, road, path
+dy | עדי | עֲדִיאַת | verb | to conceive, become pregnant
+qny | קני | קְנָא | verb | to acquire (here in the Hebrew wording קָנִיתִי)
+ysf | יסף | אוֹסֵיף | verb (Af'el) | to add, do again, continue
+ah | אח | אֲחָא | noun | brother
+rey | רעי | רְעָא | verb | to pasture, tend (flocks); (participle) shepherd
+ana2 | ענ | עָנָא | noun, f. | sheep, flock
+tiqruvta | קרב | תִּקְרוּבְתָּא | noun, f. | offering, gift
+bakkir | בכר | בַּכִּירָא | noun | firstborn, firstling
+shamen | שמן | שַׁמִּינָא | adjective | fat; (pl.) the fattest ones
+raava | רעי | רַעֲוָא | noun | favour, acceptance, goodwill
+qurbana | קרב | קוּרְבָּנָא | noun | offering, sacrifice
+kvsh | כבש | כְּבַשׁ | verb | to press down; (Itpe'el) to be downcast, fall
+lema |  | לְמָא | adverb | why
+hala |  | הֲלָא | particle | is it not?, surely
+im2 |  | אִם | conjunction | if
+twv2 | טוב | אוֹטֵיב | verb (Af'el) | to do good, improve
+ovada | עבד | עוֹבָדָא | noun | deed, action
+dina | דין | דִּינָא | noun | judgment
+hta | חטא | חֶטְאָה | noun | sin
+atid | עתד | עֲתִיד | adjective | ready, destined, about to
+pra | פרע | פְּרַע | verb | to pay; (Itpe'el) to exact payment, punish
+qwm | קום | קָם | verb | to rise, stand up
+qtl | קטל | קְטַל | verb | to kill
+dam | דמי | דְּמָא | noun | blood
+qbl3 | קבל | קְבַל | verb | to complain, cry out
+pum | פום | פּוּמָא | noun | mouth
+mtltl | טלטל | מְטַלְטַל | adjective | homeless, wandering
+saggi | סגי | סַגִּי | adjective | great, much, many
+hova | חוב | חוֹבָא | noun | sin, guilt; debt
+dein |  | דֵּין | pronoun | this
+efshar |  | אֶפְשָׁר | adverb | possible
+bekhen |  | בְּכֵן | adverb | then; therefore
+shava | שבע | שִׁבְעָא | number | seven
+dar | דור | דָּרָא | noun | generation
+ytv | יתב | יְתֵיב | verb | to sit, dwell, settle
+qarta | קרי | קַרְתָּא | noun, f. | city, town
+mashkan | שכן | מַשְׁכְּנָא | noun | tent, dwelling
+mare | מרא | מָרֵא | noun | master, owner
+ngn | נגן | נַגֵּין | verb (Pa'el) | to play (an instrument)
+nivla | נבל | נִבְלָא | noun | harp
+zmar | זמר | זְמָר | noun | song, music
+kinnora | כנר | כִּנּוֹרָא | noun | lyre
+abbuva | אבב | אַבּוּבָא | noun | flute, pipe
+nhasha | נחש | נְחָשָׁא | noun | copper, bronze
+parzla | פרזל | פַּרְזְלָא | noun | iron
+ahata | אח | אֲחָתָא | noun, f. | sister
+tsyt | צות | אַצֵּית | verb (Af'el) | to listen, pay heed
+svl | סבל | סְבַל | verb | to carry, bear
+ulema | עלם | עוּלֵימָא | noun | young man, youth
+hbl | חבל | חַבֵּיל | verb (Pa'el) | to injure, destroy
+tly | תלי | תְּלָא | verb | to hang; (Itpe'el) to be suspended, held over
+shavin | שבע | שַׁבְעִין | number | seventy
+od |  | עוֹד | adverb | again, more, still
+ohoran |  | אוֹחֲרָן | adjective | other, another
+halaf | חלף | חֲלַף | preposition | instead of, in place of
+hll | חלל | חֲלַל | verb | to become profane; to profane
+tsly | צלי | צַלֵּי | verb (Pa'el) | to pray
+sfar | ספר | סִפְרָא | noun | book, record
+meah | מאה | מְאָה | number | hundred
+tlat | תלת | תְּלָת | number | three; (pl. תְּלָתִין) thirty
+dmy | דמי | דְּמֵי | verb | to be like, resemble
+batar | בתר | בָּתַר | preposition | after
+tmane | תמני | תְּמָנֵי | number | eight; (pl. תְּמָנַן) eighty
+bnat | בנת | בְּרַתָּא | noun, f. | daughter (pl. בְּנָן, בְּנָתָא)
+tsha | תשע | תְּשַׁע | number | nine; (pl. תִּשְׁעִין) ninety
+hmesh | חמש | חֲמֵשׁ | number | five
+asar | עשר | עֲשַׂר | number | ten; (עַשְׂרֵי) -teen; (pl. עַשְׂרִין) twenty
+shitin | שת | שִׁתִּין | number | sixty
+dahalta | דחל | דַּחַלְתָּא | noun, f. | fear, reverence (of Hashem)
+nhm | נחם | נַחֵים | verb (Pa'el) | to comfort, console
+leut | לאי | לֵאוּתָא | noun, f. | weariness, toil
+shapir | שפר | שַׁפִּיר | adjective | beautiful, fair; good
+ry | רעי | רְעָא | verb | to want, be pleased; (Itpe'el) to choose, be desired
+qwm2 | קום | קַיֵּים | verb (Pa'el) | to establish, fulfil; (Itpa'al) to endure, last
+hadein |  | הָדֵין | pronoun | this
+arka | ארך | אַרְכָּא | noun, f. | extension (of time), reprieve
+gibbar | גבר | גִּבָּרָא | noun | mighty man, warrior
+haillein |  | הָאִנּוּן | pronoun, pl. | those
+ill | עלל | עַל | verb | to enter, come in
+bisha | באש | בִּישְׁתָּא | noun, f. | evil, wickedness
+yetsra | יצר | יִצְרָא | noun | inclination, impulse
+mahshava | חשב | מַחְשַׁבְתָּא | noun, f. | thought
+lev | לבב | לִבָּא | noun | heart
+twv_r | תוב | תָּב | verb | to return; (with בְּמֵימְרֵהּ) to reconsider, regret
+tvr | תבר | תְּבַר | verb | to break, shatter
+tqof | תקף | תָּקְפָּא | noun | strength
+reuta | רעי | רְעוּתָא | noun, f. | will, desire, pleasure
+mhy | מחי | מְחָא | verb | to strike; to wipe out
+rahmin | רחם | רַחֲמִין | noun, pl. | mercy, compassion; favour
+qirya | קרי | קִרְיְתָא | noun, f. | town, village (pl. קִירְוֵי)
+spd | ספד | סְפַד | verb | to mourn, eulogize
+bky | בכי | בְּכָא | verb | to weep
+mita | מות | מִיתָא | noun | dead person, the dead
+mll2 | מלל | מַלֵּיל | verb (Pa'el) | to speak
+dayyar | דור | דַּיָּר | noun | sojourner, stranger
+totav | יתב | תּוֹתָב | noun | resident, settler
+hav | יהב | הַב | verb (command) | come!, let us (lit. give!)
+ahsanta | חסן | אַחְסַנְתָּא | noun, f. | possession, inheritance
+qvura | קבר | קְבוּרָא | noun | burial
+qvr | קבר | קְבַר | verb | to bury; (Itpe'el) to be buried
+ribbon | רבב | רִבּוֹנָא | noun | master, lord
+shefar | שפר | שְׁפַר | noun | the best, choicest
+qivra | קבר | קִבְרָא | noun | grave, tomb
+mna | מנע | מְנַע | verb | to hold back; (Itpe'el) to be held back, prevented
+sgd | סגד | סְגִיד | verb | to bow down, prostrate oneself
+amma2 | עמם | עַמָּא | noun | people, nation (pl. עַמְמַיָּא)
+it |  | אִית | particle | there is (with a suffix: he is, she is)
+bay | בעי | בְּעָא | verb | to seek, ask, request
+mearta | ערר | מְעַרְתָּא | noun, f. | cave
+makhpelah |  | כָּפֶלְתָּא | proper name | (the cave of) Makhpelah (lit. the double cave)
+sitra | סטר | סִטְרָא | noun | side
+kaspa | כסף | כַּסְפָּא | noun | silver, money
+shlim | שלם | שְׁלִים | adjective | perfect, complete, whole
+tara | תרע | תַּרְעָא | noun | door, gate
+beram |  | בְּרַם | adverb | but, only, however
+tevu | טיב | טֵיבוּתָא | noun, f. | kindness, goodness
+dmey | דמי | דְּמֵי | noun, pl. | price, value
+shwy2 | שוי | שָׁוֵי | verb | to be worth
+sela | סלע | סַלְעָא | noun | sela (a silver coin)
+tql | תקל | תְּקַל | verb | to weigh (out)
+shora | סחר | סְחוֹרָא | noun | trader, merchant (מִתְקַבֵּל סְחוֹרָא = accepted by any merchant)
+medinta | דין | מְדִינְתָּא | noun, f. | country, province
+tehum | תחם | תְּחוּם | noun | border, boundary
+shor | סחר | סְחוֹר | adverb | around (סְחוֹר סְחוֹר = all around)
+zvn | זבן | זְבַן | verb | to buy; (passive participle) bought
+syv | סיב | סִיב | verb / adjective | to grow old; old
+eved | עבד | עַבְדָּא | noun | slave, servant
+sava | סיב | סָבָא | noun | old man
+shalit | שלט | שַׁלִּיט | adjective / noun | ruling; ruler
+yarka | ירך | יַרְכָא | noun, f. | thigh
+elah | אלה | אֱלָהָא | noun | God
+elahen |  | אֱלָהֵין | conjunction | but, rather; except
+yalluta | ילד | יַלָּדוּתָא | noun, f. | birth (אַרְעָא דְיַלָּדוּתֵיהּ = his native land)
+maim |  | מָאִים | adverb | perhaps
+avy | אבי | אֲבָא | verb | to want, be willing
+shmr | שמר | אִסְתַּמַּר | verb (Itpa'al) | to beware, take care
+malakh | לאך | מַלְאֲכָא | noun | angel, messenger
+zakkai | זכי | זַכַּאי | adjective | righteous, innocent
+mumata | ימי | מוֹמָתָא | noun, f. | oath
+pitgam |  | פִּתְגָּמָא | noun | word, matter
+gamla | גמל | גַּמְלָא | noun | camel
+bera | באר | בֵּירָא | noun, f. | well, pit
+iddan | עדן | עִדָּן | noun | time, period
+malyata | מלי | מָלְיָתָא | noun, f. pl. | women who draw water
+zmn | זמן | זַמֵּין | verb (Pa'el) | to prepare, arrange; to designate
+ayna | עין | עֵינָא | noun, f. | spring, fountain
+ulemta | עלם | עוּלֶמְתָּא | noun, f. | young woman, maiden
+rkn | רכן | אַרְכֵּין | verb (Af'el) | to tilt, lower
+qulta | קלל | קוּלְתָא | noun, f. | pitcher, jug
+shty | שתי | שְׁתָא | verb | to drink
+katef | כתף | כַּתְפָּא | noun, f. | shoulder
+hezu | חזי | חֵיזוּ | noun | appearance
+betulta | בתל | בְּתֻלְתָּא | noun, f. | maiden, virgin
+rht | רהט | רְהַט | verb | to run
+qadmuta | קדם | קַדָּמוּתָא | noun, f. | meeting (לְקַדָּמוּתֵיהּ = to meet him)
+tm | טעם | אַטְעֵים | verb (Af'el) | to let taste, give to taste
+wy | אוי | אוֹחִי | verb (Af'el) | to hurry, hasten
+spq | ספק | סְפַק | verb | to have enough, finish
+npts | נפץ | נְפַץ | verb | to empty, shake out
+shaqya | שקי | שַׁקְיָא | noun | irrigation (בֵּית שַׁקְיָא = well-watered land)
+shhy | שהי | שְׁהָא | verb | to wait, linger; to wonder
+shtq | שתק | שְׁתַק | verb | to be silent
+tslh2 | צלח | אַצְלַח | verb (Af'el) | to make successful
+qdasha |  | קְדָשָׁא | noun | (nose-)ring
+tiqla | תקל | תִּקְלָא | noun | a shekel weight (Hebrew: בֶּקַע, half a shekel)
+matqal | תקל | מַתְקַל | noun | weight
+shera | שור | שֵׁירָא | noun | bracelet
+bat | בנת | בַּת | noun, f. | daughter (construct)
+kshr | כשר | כְּשַׁר | verb / adjective | to be fit, proper; fitting
+bwt | בות | בָּת | verb | to stay overnight, lodge
+tivna | תבן | תִּבְנָא | noun | straw
+kissata | כסס | כִּסָּתָא | noun, f. | fodder
+kr | כרע | כְּרַע | verb | to kneel, bow
+kedein |  | כְּדֵין | adverb | so, thus
+illawi | עלי | עִלָּוֵי | preposition | above, over (מֵעִלָּווֹהִי = from above him)
+pny2 | פני | פַּנֵּי | verb (Pa'el) | to clear, make room
+shry2 | שרי | שְׁרָא | verb | to loosen, untie, unload
+shy | סחי | אַסְחֵי | verb (Af'el) | to wash
+regel | רגל | רִגְלָא | noun, f. | foot, leg
+rby2 | רבי | רְבָא | verb | to grow (up)
+aan | ען | עָאן | noun | sheep, flocks
+tor | תור | תּוֹרָא | noun | ox; (pl.) cattle
+amta | אמה | אַמְתָא | noun, f. | maidservant
+hmara | חמר | חֲמָרָא | noun | donkey
+dil |  | דִּיל | particle | belonging to (with a suffix: his, hers …)
+zaraya | זרע | זַרְעִיתָא | noun, f. | family, clan
+hlk2 | הלך | הֲלַךְ | verb | to go, walk (future תְּהָכוּן)
+shl | שאל | שְׁאֵיל | verb | to ask
+qshot | קשט | קְשׁוֹט | noun | truth
+pny | פני | פְּנָא | verb | to turn; (Itpe'el) to turn away
+yamina | ימן | יַמִּינָא | noun | the right (hand, side)
+o |  | אוֹ | conjunction | or
+smala | שמאל | שְׂמָאלָא | noun | the left (hand, side)
+anahna |  | אֲנַחְנָא | pronoun | we
+ykl | יכל | יְכֵיל | verb | to be able
+kma |  | כְּמָא | conjunction | as, just as
+mana | מאן | מָנָא | noun | vessel, article (pl. מָנִין)
+migdana | מגד | מִגְדָּנָא | noun | precious gift, delicacy
+yarha | ירח | יַרְחָא | noun | month
+ahr | אחר | אַחַר | verb (Pa'el) | to delay
+meneqta | ינק | מֵינִקְתָּא | noun, f. | nurse
+alaf | אלף | אַלְפָא | number | thousand
+ribbo | רבב | רִבּוֹ | number | ten thousand, myriad
+yrt | ירת | יְרֵית | verb | to inherit
+sny | סני | סְנָא | verb | to hate; (participle) enemy
+rkv | רכב | רְכֵיב | verb | to ride
+meta | אתי | מֵיתֵי | noun / infinitive | coming (מִמֵּתוֹהִי = from his coming)
+qayyam | קום | קַיָּמָא | adjective | living, everlasting
+darom | דרם | דָּרוֹמָא | noun | south
+zqf | זקף | זְקַף | verb | to raise, lift up
+deikhi |  | דֵּיכִי | pronoun | that (one) there
+eifa | עוף | עֵיפָא | noun | veil
+ksy | כסי | כַּסִּי | verb (Pa'el) | to cover, hide; (Itpa'al) to be hidden
+shy2 | שעי | אִשְׁתָּעֵי | verb (Ishtaf'al) | to tell, relate
+ittu | אנת | אִתּוּ | noun | wifehood (לְאִתּוּ = as a wife)
+rhm | רחם | רְחֵם | verb | to have mercy, love
+mashrita | שרי | מַשִּׁירְיָא | noun, f. | camp, encampment (pl. מַשִּׁירְיָן)
+shkhuna | שכן | שְׁכוּנָא | noun | dwelling, settlement (pl. שְׁכוּנִין)
+nagwa | נגו | נַגְוָא | noun | island, coastland
+lhena |  | לְחֵינְתָא | noun, f. | concubine
+mattna | יהב | מַתַּנְתָּא | noun, f. | gift (pl. מַתְּנָן)
+qiduma | קדם | קִידוּמָא | noun | the east (קִידוּמָא = eastward)
+ngd | נגד | נְגַד | verb | to draw, pull; (Itpe'el) to expire, pass away
+seivu | סיב | סֵיבוּ | noun, f. | old age
+sva | שבע | שְׂבַע | adjective | satisfied, full
+mitsrai |  | מִצְרָאָה | adjective | Egyptian (fem. מִצְרֵיתָא)
+bukhra | בכר | בּוּכְרָא | noun | firstborn
+patsha | פצח | פַּצְחָא | noun | unwalled town, village
+krakha | כרך | כְּרַכָּא | noun | walled city
+umma | אמם | אֻמְּתָא | noun, f. | nation, people
+mty | מטי | מְטָא | verb | to reach, arrive
+rby | רבי | רַבֵּי | verb (Pa'el) | to make great, raise
+qinyan | קני | קִנְיָנָא | noun | possessions, property
+shabed | עבד | שַׁעְבֵּיד | verb (Shaf'el) | to subjugate, bring under (here: to bring under the Torah)
+oraita | ירי | אוֹרַיְתָא | noun, f. | the Torah, teaching
+avr | עבר | עֲבַר | verb | to pass, cross; (Af'el) to cause to pass
+meishar | ישר | מֵישְׁרָא | noun | plain
+madbha | דבח | מַדְבְּחָא | noun | altar
+slq2 | סלק | אִסְתַּלַּק | verb (Itpa'al) | to move away, depart
+tura | טור | טוּרָא | noun | mountain
+madnah | דנח | מַדְנַח | noun | east
+maarav | ערב | מַעַרְבָא | noun | west
+ntl2 | נטל | מִטַּל | verb | to travel, journey (lit. lift up, set out)
+kafna | כפן | כַּפְנָא | noun | famine, hunger
+taqqif | תקף | תַּקִּיף | adjective | strong, mighty
+ytv2 | יטב | יְטַב | verb | to be good, go well
+shbh | שבח | שַׁבַּח | verb (Pa'el) | to praise
+atana | אתן | אֲתָנָא | noun, f. | she-donkey
+makhtash | כתש | מַכְתָּשָׁא | noun | plague, blow
+esaq | עסק | עֵיסַק | noun | matter, affair (עַל עֵיסַק = on account of)
+lwy | לוי | אַלְוִי | verb (Af'el) | to accompany, escort
+matlan | נטל | מַטְלָנָא | noun | journey, stage of travel
+qadmeita | קדם | קַדְמֵיתָא | noun / adverb | the beginning; (בְּקַדְמֵיתָא) at first, from the east
+svr | סבר | סוֹבַר | verb (4-letter root) | to carry, bear
+kahada |  | כַּחֲדָא | adverb | together
+matsuta | נצי | מַצּוּתָא | noun, f. | quarrel, strife
+tsippuna | צפן | צִפּוּנָא | noun | north
+yarden |  | יַרְדְּנָא | proper name | the Yarden (Jordan)
+habbaluta | חבל | חַבָּלוּתָא | noun, f. | destruction
+bhr | בחר | בְּחַר | verb | to choose
+mamon |  | מָמוֹנָא | noun | wealth, money
+hayyav | חוב | חַיָּב | adjective | guilty, sinful
+gwiya | גוי | גְּוִיָּתָא | noun, f. | body
+orka | ארך | אוּרְכָּא | noun | length
+ptay | פתי | פְּתָיָא | noun | width, breadth
+malka | מלך | מַלְכָּא | noun | king
+sdr | סדר | סְדַר | verb | to arrange, set in order (סְדַר קְרָבָא = to join battle)
+qrava | קרב | קְרָבָא | noun | battle, war
+milha | מלח | מִלְחָא | noun | salt
+mrd | מרד | מְרַד | verb | to rebel
+smk | סמך | סְמַךְ | verb | to lean, support; (passive participle) adjoining
+madbra | דבר | מַדְבְּרָא | noun | wilderness, desert
+palga | פלג | פַּלְגָא | noun | half; (pl.) the halves, the pieces
+hamsha | חמש | חַמְשָׁא | number | five
+heimar | חמר | חֵימָרָא | noun | bitumen, asphalt
+rq | ערק | עֲרַק | verb | to flee
+npl | נפל | נְפַל | verb | to fall
+shar | שאר | אִשְׁתְּאַר | verb (Itpe'el) | to be left, remain
+shby | שבי | שְׁבָא | verb | to take captive; (Itpe'el) to be taken captive
+shyzv | שיזב | שֵׁיזֵיב | verb (Shaf'el) | to rescue, save; (passive participle) one who escaped
+qyam | קום | קְיָם | noun | covenant
+zrz | זרז | זָרֵיז | verb (Pa'el) | to arm, equip
+rdf | רדף | רְדַף | verb | to pursue
+plg | פלג | פְּלַג | verb | to divide; (Itpe'el) to be divided
+resa | רוס | רֵיסָא | noun | race-course, open field (בֵּית רֵיסָא דְמַלְכָּא = the king's field)
+hamra | חמר | חַמְרָא | noun | wine
+shmsh | שמש | שַׁמֵּשׁ | verb (Pa'el) | to serve, minister (as a priest)
+el |  | אֵל | noun | God (a Hebrew word kept by Onkelos in אֵל עִלָּאָה)
+illai | עלי | עִלָּאָה | adjective | most high, supreme
+msr | מסר | מְסַר | verb | to hand over; (passive participle) handed over, given
+asra | עשר | עַסְרָא | noun | a tenth (חַד מִן עַסְרָא = a tithe)
+rwm | רום | רָם | verb | to be high; (Itpe'el) to be lifted up
+tslo | צלי | צְלוֹתָא | noun, f. | prayer
+huta | חוט | חוּטָא | noun | thread
+arqa | ערק | עַרְקְתָא | noun, f. | strap, lace
+msana | מסן | מְסָנָא | noun | shoe, sandal
+atr | עתר | עֲתַר | verb | to be rich; (Af'el) to make rich
+hulaq | חלק | חוּלָקָא | noun | share, portion
+nevua | נבא | נְבוּאָה | noun, f. | prophecy
+agra | אגר | אַגְרָא | noun | reward, wages
+walad | ילד | וְלָד | noun | child, offspring
+parnasa |  | פַּרְנָסָא | noun | steward, manager (בַּר פַּרְנָסָא = the steward)
+skh | סכי | אִסְתְּכִי | verb (Itpe'el) | to look, gaze
+hymn | אמן | הֵימִין | verb (Af'el) | to believe, trust
+hshb2 | חשב | חֲשַׁב | verb | to reckon, consider
+zakhu | זכי | זָכוּ | noun, f. | merit, righteousness
+ura | אור | אוּרָא | noun | fire; Ur (אוּרָא דְכַסְדָּאֵי = Ur of the Kasdim)
+egla | עגל | עִגְלָא | noun | calf, heifer
+iza | עזז | עִזָּא | noun, f. | goat
+dikhra | דכר | דִּכְרָא | noun | ram
+shafnina |  | שַׁפְנִינָא | noun | turtle-dove
+yona2 |  | יוֹנָא | noun | pigeon, dove (בַּר יוֹנָא = a young pigeon)
+shaveh | שוי | שָׁוֶה | noun | middle (בְּשָׁוֶה = through the middle)
+havra | חבר | חַבְרָא | noun | companion, fellow (גְּבַר לְחַבְרֵיהּ = one to another)
+pagla | פגל | פַּגְלָא | noun | carcass, piece (Hebrew: פְּגָרִים)
+prh2 | פרח | אַפְרַח | verb (Af'el) | to drive away (lit. make fly)
+shimsha | שמש | שִׁמְשָׁא | noun | sun
+eima | אים | אֵימְתָא | noun, f. | dread, terror
+qavla | קבל | קַבְלָא | noun | darkness
+any | ענה | עַנֵּי | verb (Pa'el) | to afflict, oppress
+dyn | דין | דָּן | verb | to judge
+shlam | שלם | שְׁלָמָא | noun | peace, well-being
+hakha |  | הָכָא | adverb | here
+tanur |  | תַּנּוּר | noun | oven, furnace
+tnn | תנן | תְּנָנָא | noun | smoke
+bur | בער | בְּעוּר | noun | a burning, flame
+eshta | אשת | אֶשָּׁתָא | noun, f. | fire
+dy_pass | עדי | עֲדָא | verb | to pass, pass through
+gzr | גזר | גְּזַר | verb | to cut; to make (a covenant); to circumcise; (Itpe'el, Itpa'al) to be circumcised
+qll2 | קלל | קַל | verb | to be light; to be slighted, despised
+ribbona | רבב | רִבּוֹנְתָא | noun, f. | mistress
+din2 | דין | דִּין | noun | judgment, claim
+menan |  | מְנָן | adverb | from where
+sgi | סגי | סְגֵי | noun | abundance, multitude
+marod | מרד | מָרוֹד | adjective | rebellious, wild
+tsrikh | צרך | צְרִיךְ | adjective | in need, needy
+shet6 | שת | שִׁית | number | six (שִׁתְּ before מְאָה)
+shaddai |  | שַׁדַּי | proper name | Shaddai (a Divine Name)
+kenishta | כנש | כְּנִשְׁתָּא | noun, f. | assembly, congregation
+totavuta | יתב | תּוֹתָבוּתָא | noun, f. | sojourning
+dekhura | דכר | דְּכוּרָא | noun | male
+orla | ערל | עָרְלְתָא | noun, f. | foreskin
+tmanya | תמני | תְּמַנְיָא | number | eight
+arel | ערל | עָרֵל | adjective | uncircumcised
+shny | שני | אַשְׁנִי | verb (Af'el) | to change; to break (a covenant)
+hdy | חדי | חֲדִי | verb | to rejoice
+lewai |  | לְוַי | particle | would that, if only
+kran |  | כְּרַן | noun | (בִּכְרַן) on that very (day), at that time
+hatof | חטף | חֲטוֹף | noun | robbery, violence (pl. חֲטוֹפִין)
+qits | קצץ | קִצָּא | noun | end
+tevuta | תיב | תֵּבוֹתָא | noun, f. | ark, chest
+a | אע | אָעָא | noun | wood; tree
+qadrom |  | קַדְרוֹם | noun | cedar (Hebrew: גֹּפֶר)
+medor | דור | מְדוֹר | noun | dwelling; compartment
+hpy | חפי | חֲפָא | verb | to cover
+kufra | כפר | כּוּפְרָא | noun | pitch, tar
+amma | אמם | אַמְּתָא | noun, f. | cubit
+hamshin | חמש | חַמְשִׁין | number | fifty
+rum | רום | רוּמָא | noun | height
+illa | עלל | עֵלָּא | adverb | above (מִלְּעֵלָּא = from above)
+arai | ארע | אֲרָעַי | adjective | lower, bottom
+tufana | טוף | טוֹפָנָא | noun | flood
+dakhi | דכי | דְּכֵי | adjective | clean, pure
+yquma | קום | יְקוּמָא | noun | living thing, existence
+bza | בזע | בְּזַע | verb | to split; (Itpe'el) to be split open
+mabbua | נבע | מַבּוּעָא | noun | spring, fountain
+kawwa | כוי | כַּוְּתָא | noun, f. | window; (pl. כַּוֵּי) windows, openings
+tsippar | צפר | צִפַּר | noun | bird
+gnn | גנן | אֲגֵין | verb (Af'el) | to shield, protect
+ntl | נטל | נְטַל | verb | to lift, carry
+ram | רום | רָם | adjective | high, lofty
+skr | סכר | סְכַר | verb | to close, stop up; (Itpe'el) to be closed
+kly | כלי | כְּלָא | verb | to hold back; (Itpe'el) to be withheld
+hsr | חסר | חֲסַר | verb | to decrease, lessen, lack
+kardu |  | קַרְדּוּ | proper name | Kardu (Hebrew: אֲרָרָט, Ararat)
+asirai | עשר | עֲשִׂירָאָה | ordinal number | tenth
+orva | ערב | עוּרְבָא | noun | raven
+ybsh | יבש | יְבֵשׁ | verb | to dry up, be dry
+yona |  | יוֹנָה | noun | dove
+qll | קלל | קַל | verb | to be light; (of water) to abate
+menah | נוח | מְנָח | noun | resting place
+parsa | פרס | פַּרְסְתָא | noun, f. | sole (of the foot)
+ork | ארך | אוֹרֵיךְ | verb (Af'el) | to wait, delay; to lengthen
+zayta | זית | זֵיתָא | noun | olive (tree)
+qadmai | קדם | קַדְמָאָה | ordinal number | first
+ngv | נגב | נְגֵיב | verb | to dry, become dry
+dy_rm | עדי | אַעְדִּי | verb (Af'el) | to remove, take away
+hofaa | חפי | חוֹפָאָה | noun | covering
+alawan | עלי | עֲלָתָא | noun, f. | burnt offering (pl. עֲלָוָן)
+zrua | זרע | זְרוֹעָא | noun | sowing, seed-time
+hatsad | חצד | חֲצָדָא | noun | harvest
+qor | קרר | קוֹרָא | noun | cold
+hom | חמם | חוֹמָא | noun | heat
+qayta | קיט | קַיְטָא | noun | summer
+sitwa | סתו | סִתְוָא | noun | winter
+btl | בטל | בְּטֵיל | verb | to cease, be idle
+tba | תבע | תְּבַע | verb | to seek, demand; to call to account
+shd | אשד | אֲשַׁד | verb | to pour, spill (blood)
+sahid | סהד | סָהִיד | noun | witness
+dayyan | דין | דַּיָּנָא | noun | judge
+atun |  | אַתּוּן | pronoun, pl. | you (pl.)
+qashta | קשת | קַשְׁתָּא | noun, f. | bow, rainbow
+ananuta | ענן | עֲנָנוּתָא | noun, f. | the bringing of clouds
+bdr | בדר | בַּדַּר | verb (Pa'el) | to scatter; (Itpa'al) to be scattered, spread out
+karma | כרם | כַּרְמָא | noun | vineyard
+rwy | רוי | רְוִי | verb | to become drunk
+erya | ערי | עֶרְיְתָא | noun, f. | nakedness
+shuqa | שוק | שׁוּקָא | noun | street, marketplace
+kesuta | כסי | כְּסוּתָא | noun, f. | garment, covering
+hzr | חזר | חַזַּר | verb (Pa'el) | to turn around; (participle) facing backward
+r | עור | אִתְּעַר | verb (Itpe'el) | to wake up
+ypt | פתי | אַפְתֵּי | verb (Af'el) | to make wide, enlarge (Hebrew: יַפְתְּ)
+shekhinta | שכן | שְׁכִינְתָּא | noun, f. | the Presence (Shechinah)
+lishan | לשן | לִישָׁנָא | noun | tongue, language
+malkhu | מלך | מַלְכוּתָא | noun, f. | kingdom
+etsa | יעץ | עֵיצָה | noun | counsel, plan
+rehov | רחב | רְחוֹב | noun | street, open place
+rabba | רבב | רַבְּתָא | adjective, f. | great (fem. of רַב)
+motav | יתב | מוֹתְבָא | noun | dwelling, settlement
+sfar2 | ספר | סְפַר | noun | border, edge
+mamlal | מלל | מַמְלַל | noun | speech
+biqa | בקע | בִּקְעֲתָא | noun, f. | valley, plain
+lvina | לבן | לְבֵינְתָא | noun, f. | brick
+srf | שׂרף | שְׂרַף | verb | to burn
+nura | נור | נוּרָא | noun, f. | fire
+yoqadta | יקד | יוֹקַדְתָּא | noun, f. | burning, a furnace
+shia | שוע | שִׁיעַ | noun | mortar, plaster
+migdal | גדל | מַגְדְּלָא | noun | tower
+tseit |  | צֵית | preposition | toward, up to
+hshb | חשב | חַשֵּׁיב | verb (Pa'el) | to plan, think, devise
+blbl | בלבל | בַּלְבֵּל | verb (4-letter root) | to confuse, mix up
+mayatan | מאה | מָאתָן | number | two hundred
+aqara | עקר | עֲקָרָא | adjective, f. | barren
+kalla | כלל | כַּלְּתָא | noun, f. | daughter-in-law; bride
+hmm | חמם | מֵיחַם | noun | heat (כְּמֵיחַם יוֹמָא = in the heat of the day)
+pitta | פתת | פִּתָּא | noun, f. | piece, morsel (of bread)
+sad | סעד | סְעַד | verb | to sustain, refresh (סְעִידוּ לִבְּכוֹן = refresh yourselves)
+sea | סאה | סְאָתָא | noun, f. | se'ah (a dry measure)
+qimha | קמח | קִמְחָא | noun | flour
+solta | סלת | סָלְתָּא | noun, f. | fine flour
+lwsh | לוש | לוּשׁ | verb | to knead
+gritsa | גרץ | גְּרִיצְתָא | noun, f. | cake (pl. גְּרִיצָן)
+rakkikh | רכך | רַכִּיךְ | adjective | tender, soft
+shman | שמן | שְׁמַן | noun | fat; cream, butter
+halav | חלב | חֲלָב | noun | milk
+ahor | אחר | אֲחוֹר | noun / adverb | back; behind
+psq | פסק | פְּסַק | verb | to cease, stop
+hyk | חיך | חֲיֵיךְ | verb | to laugh
+ulemu | עלם | עוּלֵימוּ | noun, f. | youth
+denan |  | דְנָן | pronoun | this (לְמָא דְנָן = why is it that)
+kdb | כדב | כַּדֵּיב | verb (Pa'el) | to deny, lie
+tsdaqa | צדק | צְדַקְתָּא | noun, f. | righteousness, charity
+qvila | קבל | קְבֵלְתָא | noun, f. | outcry, complaint
+hakhi |  | הֲכִי | particle | whether so?, if indeed
+gmr | גמר | גְּמִירָא | noun | destruction, an end (lit. completion)
+rugza | רגז | רוּגְזָא | noun | anger, wrath
+qitma | קטם | קִטְמָא | noun | ashes
+bavu | בעי | בָּעוּ | noun, f. | request (בְּבָעוּ = please)
+zwr | זור | זָר | verb | to turn aside
+qdm2 | קדם | קַדֵּים | verb (Pa'el, Af'el) | to rise early; to go early
+mishte | שתי | מִשְׁתְּיָא | noun | feast, banquet (lit. drinking)
+patir | פטר | פַּטִּיר | noun / adjective | unleavened bread, matzah
+afy | אפי | אֲפָא | verb | to bake
+shkv | שכב | שְׁכֵיב | verb | to lie down
+dasha | דשש | דָּשָׁא | noun | door
+ahd | אחד | אֲחַד | verb | to hold, seize; to close (a door)
+bsh | באש | אַבְאֵישׁ | verb (Af'el) | to do harm, do evil
+midaam |  | מִדַּעַם | pronoun | anything
+telal | טלל | טְלָלָא | noun | shade, shelter
+sheruta | שרי | שֵׁרוּתָא | noun, f. | lodging, dwelling (בִּטְלַל שֵׁרוּתִי = under the shelter of my roof)
+lhalla |  | לְהַלָּא | adverb | further, beyond (קְרַב לְהַלָּא = step back)
+shavrira | שבר | שַׁבְרִירָא | noun | blindness
+lay | לאי | לְאִי | verb | to be weary, tire
+hatna | חתן | חַתְנָא | noun | son-in-law
+dhq | דחק | דְּחַק | verb | to press, urge
+lqy | לקי | לְקָא | verb | to be smitten, punished
+kv | עכב | אִתְעַכַּב | verb (Itpa'al) | to delay, linger
+hws | חוס | חָס | verb | to have pity, spare
+ra | ערע | עֲרַע | verb | to meet, befall
+bishta2 | באש | בִּשְׁתָּא | noun, f. | evil, harm
+qariv | קרב | קָרִיב | adjective | near
+mtr | מטר | אַמְטַר | verb (Af'el) | to rain, make rain fall
+gofrita | גפר | גָּפְרֵיתָא | noun, f. | sulfur, brimstone
+tsimha | צמח | צִמְחָא | noun | growth, what grows
+qama | קום | קָמָא | noun | pillar
+attuna |  | אַתּוּנָא | noun | furnace, kiln
+hafekhta | הפך | הֲפֶכְתָּא | noun, f. | overturning, upheaval
+zeirta | זער | זְעֶרְתָּא | adjective, f. | the younger (fem. of זְעֵיר)
+ita | אתי | אִיתָא | verb (command) | come!
+qima | קום | קִימָא | noun | rising, getting up
+helma | חלם | חֶלְמָא | noun | dream
+qashitu | קשט | קַשִּׁיטוּ | noun, f. | sincerity, truth
+zakhau | זכי | זַכָּאוּ | noun, f. | innocence, purity
+hty | חטי | חֲטָא | verb | to sin
+naviya | נבא | נְבִיָּא | noun | prophet
+hwb | חוב | חָב | verb | to sin, be guilty
+ykh | יכח | אוֹכַח | verb (Af'el) | to prove, reprove; (Ittaf'al) to be vindicated
+asy | אסי | אַסִּי | verb (Pa'el) | to heal
+rwh | רוח | רְוַח | verb | to be wide; (Itpe'el) to be relieved, to be able to bear
+seivta | סיב | סֵיבְתָא | noun, f. | old age
+hedwa | חדי | חֶדְוָא | noun | joy
+man2 |  | מָאן | pronoun | who
+ynq | ינק | אוֹנֵיק | verb (Af'el) | to nurse, suckle
+ravya | רבי | רַבְיָא | noun | boy, child
+hsl | חסל | אִתְחֲסַל | verb (Itpe'el) | to be weaned
+raqba |  | רָקְבָּא | noun | water-skin, flask
+shlm | שלם | שְׁלֵים | verb | to be finished, come to an end
+rhq | רחק | אַרְחֵיק | verb (Af'el) | to go far away
+gry | גרי | גְּרָא | verb | to shoot (an arrow)
+mota | מות | מוֹתָא | noun | death
+saad | סעד | סַעֲדָא | noun | support, help (בְּסַעֲדָךְ = with you, at your side)
+rabbay | רבי | רָבֵי | noun | archer (רָבֵי קַשְׁתָּא, lit. a shooter of the bow)
+shqr | שקר | שַׁקַּר | verb (Pa'el) | to deal falsely
+ans | אנס | אֲנַס | verb | to rob, seize by force
+hurfa | חרף | חוּרַפְתָּא | noun, f. | ewe-lamb (pl. חוּרְפַן)
+sahadu | סהד | סַהֲדוּ | noun, f. | testimony, witness
+hfr | חפר | חֲפַר | verb | to dig
+nitsba | נצב | נִצְבָּא | noun | planting, orchard
+nsy | נסי | נַסִּי | verb (Pa'el) | to test
+yhid | יחד | יְחִידָא | adjective | only, only one
+pulhana | פלח | פּוּלְחָנָא | noun | worship, service
+tslh | צלח | צַלַּח | verb (Pa'el) | to split, cleave
+rahiq | רחק | רָחִיק | adjective | far, distant (מֵרָחִיק = from afar)
+ka |  | כָּא | adverb | here, hither (עַד כָּא = up to there)
+sakkina |  | סַכִּינָא | noun | knife
+imra | אמר | אִימְרָא | noun | lamb
+qd | עקד | עֲקַד | verb | to bind
+eil2 | עלי | עֵיל | adverb | above (עֵיל מִן = on top of)
+nks | נכס | נְכַס | verb | to slaughter
+dahla | דחל | דָּחֵיל | adjective | fearing (דַחֲלָא דַיְיָ = one who fears Hashem)
+qarna | קרן | קַרְנָא | noun, f. | horn
+tinyanut | תני | תִּנְיָנוּת | adverb | a second time
+hala2 | חלא | חָלָא | noun | sand
+keif | כיף | כֵּיפָא | noun | shore, bank (also: rock)
+aqva | עקב | עִקְבָא | noun | heel
+aramai | | אֲרַמָּאָה | proper name | the Aramean
+avoda | עבד | עֲבוּדָה | noun, f. | service, work
+bekhoruta | בכר | בְּכֵרוּתָא | noun, f. | birthright
+birkta | ברך | בִּרְכְּתָא | noun, f. | blessing (pl. בִּרְכָן)
+bshl | בשל | בַּשֵּׁיל | verb (Pa'el) | to cook
+dakhyata | דכי | דָּכְיָתָא | adjective, f. pl. | clean, choice (garments)
+dilhen | | דִּלְהֵן | adverb | (כְּיוֹם דִּלְהֵן) right now, this very day
+dwr | דור | דּוּר | verb | to dwell, sojourn
+ekhdein | | אֶכְדֵּין | adverb | how
+evla | אבל | אֶבְלָא | noun | mourning
+gadya | גדי | גַּדְיָא | noun | kid (young goat)
+geita | | גֵּיתָא | noun | flock, herd (pl. cs. גֵּיתֵי)
+gelima | גלם | גְּלִימָא | noun | cloak, mantle
+harakha | חרך | חֲרַכָּא | noun | window
+hayyim | חיי | חַיִּים | noun, pl. | life (Hebrew form)
+hkm2 | חכם | חַכֵּים | verb (Pa'el) | to outwit, deceive
+hokhmta | חכם | חָכְמְתָא | noun, f. | wisdom, cunning
+ibbur | עבר | עִיבוּרָא | noun | grain
+kenishta2 | כנש | כְּנִשְׁתָּא | noun, f. | assembly
+khy | כהי | כְּהָא | verb | to grow dim
+kmn | כמן | כְּמַן | verb | to lie in wait, plot
+kry | כרי | כְּרָא | verb | to dig
+levat | לוט | לְוָטָא | noun | curse
+mattara | נטר | מַטְּרָא | noun | charge, guard (נְטַר מַטְּרַת = kept the charge)
+merir | מרר | מְרִירָא | adjective | bitter
+mshsh | משש | מַשֵּׁישׁ | verb (Pa'el) | to feel, touch
+nahla | נחל | נַחְלָא | noun | valley, wadi
+nahshirkhan | | נַחְשִׁירְכָן | noun | hunter
+nira | ניר | נִירָא | noun | yoke
+nshq | נשק | נְשַׁק | verb | to kiss
+nshy | נשי | נְשָׁא | verb | to forget; (Itpe'el) to be forgotten
+nts | נצי | נְצָא | verb | to quarrel
+nva | נבע | נְבַע | verb | to flow, gush
+nzq | נזק | אַנְזֵיק | verb (Af'el) | to harm
+pillug | פלג | פִּלּוּג | noun | division (פִּלּוּג דִּינָא = the giving of judgment)
+piqqud | פקד | פִּקּוּדָא | noun | commandment
+pon | | פּוֹן | adverb | perhaps; a little (כִּזְעֵר פּוֹן = almost)
+qny2 | קני | קַנִּי | verb (Pa'el) | to envy
+qt | עקת | עָקַת | verb | to be distressed, weary
+reiha | ריח | רֵיחָא | noun | smell, fragrance
+rgz | רגז | אַרְגֵּיז | verb | to anger, provoke (participle: provoking)
+rh | ריח | אֲרַח | verb (Af'el) | to smell
+saaran | שער | שַׂעֲרָן | adjective | hairy
+saifa | סיף | סַיְפָא | noun | sword
+sd | סעד | סְעַד | verb | to support, sustain
+sear | שער | שְׂעַר | noun | hair
+sgiut | סגי | סְגִיאוּת | noun, f. | abundance
+shea | שעע | שְׁעִיעַ | adjective | smooth
+sheiuta | שעע | שְׁעִיעוּתָא | noun, f. | smoothness
+shiur | שער | שִׁעוּרָא | noun | estimate, measure
+shivta | שבט | שִׁבְטָא | noun | tribe
+shlhy | שלהי | שַׁלְהֵי | verb (4-letter) | to be faint, exhausted
+shmd | ידע | אִשְׁתְּמוֹדַע | verb (Ishtaf'al) | to recognize
+shr | סחר | אִסְתַּחַר | verb (Itpa'al) | to sit up, recline (at a meal)
+shwt | שוט | שָׁט | verb | to despise, scorn
+siata | | סִיעֲתָא | noun, f. | group, company
+simmoq | סמק | סִמּוֹק | adjective | red
+sq | עסק | אִתְעַסַּק | verb (Itpa'al) | to contend, quarrel
+srv | סרב | סָרֵיב | verb (Pa'el) | to rebel, defy
+talla | טלל | טַלָּא | noun | dew
+talofha | | טְלוֹפְחָא | noun | lentil
+tavshil | בשל | תַּבְשִׁילָא | noun | cooked dish, stew
+teyom | תאם | תְּיוֹמָא | noun | twin
+tiwha | תוה | תִּוְהָא | noun | astonishment, trembling
+tkl | תכל | תְּכַל | verb | to be bereaved; (Itpe'el) to be bereft (of)
+tlv | תלעב | מִתְלָעַב | verb (4-letter, passive participle) | mocking, one who mocks
+tmm | טמם | טַמֵּים | verb (Pa'el) | to stop up, fill in
+tsawwar | צור | צַוְּרָא | noun | neck
+tseida | ציד | צֵידָא | noun | game, hunted food
+tsiwha | צוח | צִוְחָא | noun | outcry
+tswd | צוד | צָד | verb | to hunt
+tswh | צוח | צְוַח | verb | to cry out
+tuva | טוב | טוּבָא | noun | goodness, bounty
+twh | תוה | תְּוַהּ | verb | to be astonished, tremble
+ulpan | אלף | אוּלְפָנָא | noun | instruction, teaching (בֵּית אוּלְפָנָא = house of study)
+yaut | | יָאוּת | adverb | rightly, properly
+yhd | יחד | יַחֵד | verb (Pa'el) | to set apart; (participle) the distinguished one
+zeina | זין | זֵינָא | noun | weapons, gear
+zimna | זמן | זִמְנָא | noun | time, occasion (pl. זִמְנִין)
+isada | | אִסָּדָא | noun | pillow, headrest
+hlm | חלם | חֲלַם | verb | to dream
+sulma | סלם | סֻלְמָא | noun | ladder
+nayts | נעץ | נְעַץ | verb | to fix, plant (in the ground)
+td | עתד | עַתֵּד | verb (Pa'el) | to make ready; (passive participle) stationed, standing ready
+ryq | ריק | אֲרִיק | verb (Af'el) | to pour out, empty
+mishha | משח | מִשְׁחָא | noun | oil
+dhilu | דחל | דְּחִילוּ | noun, f. | awe, fearsomeness
+hedyot | | הֶדְיוֹט | adjective | common, ordinary (from Greek idiōtēs)
+edra | עדר | עֶדְרָא | noun | flock, herd
+rva | רבע | רְבַע | verb | to lie down, crouch (of animals)
+gndr | גנדר | גַּנְדַּר | verb (4-letter root) | to roll
+shema | שמע | שֵׁמַע | noun | report, news
+gpf | גפף | גַּפֵּף | verb (Pa'el) | to embrace
+maggan | | מַגָּן | adverb | for nothing, without pay
+yay | יאי | יָאֵי | adjective | beautiful, fitting
+reiva | | רֵיוָא | noun | appearance, figure
+amhu | אמה | אַמְהוּ | noun, f. | the status of a maidservant
+shavua | שבע | שְׁבוּעָא | noun | week (of seven days)
+ulbbon | עלב | עֻלְבָּנָא | noun | humiliation, affliction
+hbr | חבר | חַבַּר | verb (Pa'el) | to join; (Itpa'al) to be joined, attached
+ydy | ידי | אוֹדִי | verb (Af'el) | to give thanks, praise; to confess
+ithanauta | חנן | אִתְחַנָּנוּתָא | noun, f. | supplication, pleading
+hmd | חמד | חֲמַד | verb | to desire, long for
+tushbahta | שבח | תֻּשְׁבַּחְתָּא | noun, f. | praise
+hitta | חטי | חִטְּתָא | noun, f. | wheat
+yavruha | | יַבְרוּחָא | noun | mandrake
+agr | אגר | אֲגַר | verb | to hire
+dukhrana | דכר | דּוּכְרָנָא | noun | remembrance
+hissud | חסד | חִסּוּדָא | noun | disgrace, shame
+nashin | | נְשַׁיָּא | noun, f. pl. | women, wives
+eimatai | | אֵימָתַי | question word | when
+nemor | נמר | נְמוֹר | adjective | speckled, spotted
+reqoa | רקע | רְקוֹעַ | adjective | spotted (with patches)
+shhum | שחם | שְׁחוּם | adjective | dark brown
+shd2 | סהד | אַסְהֵד | verb (Af'el) | to testify, bear witness
+mehar | | מְחָר | adverb | tomorrow; in the future
+gnv | גנב | גְּנַב | verb | to steal
+tayasha | תיש | תַּיְשָׁא | noun | he-goat
+regol | רגל | רְגוֹל | adjective | striped (lit. marked on the legs)
+hiwwar | חור | חִוָּר | adjective | white
+mahalakh | הלך | מַהֲלָכָא | noun | journey, distance
+hutra | חטר | חוּטְרָא | noun | rod, staff
+rattiv | רטב | רַטִּיב | adjective | fresh, moist
+livna | לבן | לִבְנָא | noun | poplar (white-barked tree)
+luz | | לוּז | noun | almond tree
+dulva | דלב | דּוּלְבָא | noun | plane tree
+qlf | קלף | קְלַף | verb | to peel
+qilfa | קלף | קִלְפָּא | noun | peeled stripe
+qilluf | קלף | קִלּוּף | noun | peeling, laying bare
+dts | דעץ | דַּעֵיץ | verb (Pa'el) | to fix, stick in, set up
+rahata | רהט | רַהֲטָא | noun | trough, water channel
+yhm | יחם | יַחֵם | verb (Pa'el) | (Itpa'al, of animals) to be in heat, to mate
+rv | ערב | עֲרַב | verb | to mix
+bkr | בכר | בַּכַּר | verb (Pa'el) | to bear early, be first
+yahamu | יחם | יַחָמוּתָא | noun, f. | mating, being in heat
+laqqishut | לקש | לַקִּישׁוּתָא | noun, f. | late bearing
+laqish | לקש | לַקִּישׁ | adjective | late-born, late
+nikhsin | נכס | נִכְסִין | noun, pl. | property, possessions
+svar | סבר | סְבַר | noun | appearance, expression (סְבַר אַפִּין = countenance)
+itmali | | אִתְמָלֵי | adverb | yesterday
+qamohi | | מִדְּקַמּוֹהִי | adverb | the day before (lit. from before it)
+attin | | אַתִּין | pronoun, f. pl. | you (women)
+patstsih | פצח | פַּצִּיחַ | adjective | spotted (with white patches)
+mshh | משח | מְשַׁח | verb | to anoint
+nukhrai | נכר | נוּכְרָאָה | adjective | foreign; a stranger
+utra | עתר | עוּתְרָא | noun | wealth
+gzz | גזז | גְּזַז | verb | to shear
+shivya | שבי | שִׁבְיָא | noun | captives
+tuppa | תפף | תּוּפָּא | noun | drum, tambourine
+skl2 | סכל | אַסְכֵּל | verb (Af'el) | to act foolishly
+avita | עבט | עֲבִיטָא | noun | packsaddle (of a camel)
+blsh | בלש | בְּלַשׁ | verb | to search
+surhan | סרח | סוּרְחָנָא | noun | offense, sin
+rehela | רחל | רְחֵלָא | noun, f. | ewe
+shgy | שגי | שְׁגָא | verb | to be missing, to stray
+minyan | מני | מִנְיָנָא | noun | count, number
+sharva | שרב | שַׁרְבָא | noun | heat
+glida | גלד | גְּלִידָא | noun | frost, ice
+ndd | נדד | נְדַד | verb | to wander, flee
+ilula | | אִילוּלֵי | conjunction | if not, were it not that
+lqt | לקט | לְקַט | verb | to gather
+dgora | דגר | דְּגוֹרָא | noun | heap, mound
+yegar | יגר | יְגַר | noun | heap (Aramaic for “mound”)
+skhuta | סכי | סָכוּתָא | noun, f. | lookout, watchtower
+bishu | באש | בִּישׁוּ | noun | evil, harm
+nikhsta | נכס | נִכְסְתָא | noun, f. | slaughtered animal; feast
+izgad | | אִזְגַּדָּא | noun | messenger, envoy (a Persian loanword)
+hr | אחר | אוֹחַר | verb (Af'el) | to delay, stay on
+hisda | חסד | חִסְדָּא | noun | kindness
+ira | עיר | עִירָא | noun | young donkey, foal
+rewaha | רוח | רְוָחָא | noun | space, room; relief
+maavar | עבר | מַעֲבַר | noun | crossing, ford
+shdl | שדל | אִשְׁתַּדַּל | verb (Itpa'al) | to wrestle, struggle; to try hard
+zwa | זוע | זָע | verb | to move, shake; (of a joint) to be dislocated
+ishtaddaluta | שדל | אִשְׁתַּדָּלוּתָא | noun, f. | wrestling, struggle
+rvrv | רבב | רַבְרֵב | verb | to be great, become a prince
+dnh | דנח | דְּנַח | verb | to rise, shine (of the sun)
+tla | טלע | טְלַע | verb | to limp
+gida | גיד | גִּידָא | noun | sinew, tendon
+nashya | נשי | נַשְׁיָא | noun | the displaced (sciatic) sinew (Hebrew: גִּיד הַנָּשֶׁה)
+batrai | בתר | בַּתְרָאָה | adjective | last, later
+innin | | אִנִּין | pronoun, f. pl. | they (fem.)
+ry2 | רעי | אִתְרְעֵי | verb (Itpe'el) | to be pleased with, desire, accept favorably
+yanqa | ינק | יָנְקָא | noun | infant, young child (lit. suckling)
+niah | נוח | נִיחַ | noun | ease, gentleness (בְּנִיחַ = slowly)
+metalla | טלל | מְטַלְּתָא | noun, f. | booth, shelter
+hurpan | | חוּרְפָא | noun | lamb
+say | סאב | סָאֵיב | verb (Pa'el) | to defile
+nss | נסס | נְסַס | verb | (Itpe'el) to be grieved, upset
+qlana | קלן | קְלָנָא | noun | disgrace, shame
+htn | חתן | חַתֵּן | verb (Pa'el) | (Itpa'al) to intermarry
+hsn | חסן | אַחְסֵין | verb (Af'el) | to take possession, inherit
+mohar | מהר | מוֹהֲרָא | noun | bride-price
+pys | פיס | פַּיֵּס | verb | to persuade, appease; (Itpe'el) to agree, consent
+kwat | | כְּוָת | preposition | like
+shpr | שפר | שְׁפַר | verb | to be pleasing, good
+yaqqir | יקר | יַקִּיר | adjective | honored, respected
+ptayut | פתי | פְּתָיוּתָא | noun, f. | breadth, width
+keiva | כאב | כֵּיבָא | noun | pain
+rahtsan | רחץ | רְחָצָן | noun | security, trust
+hlts | חלץ | חַלֵּץ | verb (Pa'el) | to strip, despoil
+bzz | בזז | בְּזַז | verb | to plunder
+tafla | טפל | טַפְלָא | noun | small children
+akr | עכר | עֲכַר | verb | to trouble
+taawa | טעי | טַעֲוְתָא | noun, f. | idol, false god (lit. error)
+dky | דכי | דְּכֵי | verb | to be pure; (Itpa'al) to purify oneself
+sehorta | סחר | סְחוֹרְתָא | noun, f. | trade, commerce
+aqta | עוק | עָקְתָא | noun, f. | distress
+udna | אדן | אוּדְנָא | noun, f. | ear
+butma | בטם | בּוּטְמָא | noun | terebinth (tree)
+shippul | שפל | שִׁפּוּלָא | noun | lower part, foot (of a hill)
+bakhita | בכי | בְּכִיתָא | noun, f. | weeping
+nsk | נסך | נְסַךְ | verb | to pour (a libation); (Af'el) to pour out
+nissukh | נסך | נִסּוּכָא | noun | libation, drink-offering
+ruvta | | רוּבְתָא | noun, f. | a stretch, measure (of land)
+qshy | קשי | קְשָׁא | verb | to be hard; (Pa'el) to have difficulty
+qashyu | קשי | קַשְׁיוּתָא | noun, f. | difficulty, hardness
+hayta | חיי | חָיְתָא | noun, f. | midwife
+dwy | דוי | דְּוָי | noun | grief, sorrow
+mlk | מלך | מְלַךְ | verb | to reign, be king
+tsrf | צרף | צָרֵף | verb (Pa'el) | to refine (metal)
+kittuna | כתן | כִּתּוּנָא | noun | tunic, coat
+passa | פסס | פַּסָּא | noun | stripe; (pl.) a striped or many-colored garment
+tsby | צבי | צְבָא | verb | to want, desire
+asr | אסר | אֲסַר | verb | to bind, tie
+esarta | אסר | אֱסַרְתָּא | noun, f. | sheaf (lit. bundle)
+shultan | שלט | שׁוּלְטָנָא | noun | rule, dominion; ruler
+svr2 | סבר | סְבַר | verb | to think, expect, intend
+sihra | סהר | סִהֲרָא | noun | moon
+nzf | נזף | נְזַף | verb | to rebuke
+heikha | | הֵיכָא | question word | where
+guba | גבב | גֻּבָּא | noun | pit, cistern
+shlh2 | שלח | אַשְׁלַח | verb (Af'el) | to strip off, take off (clothes)
+shayyarta | שור | שְׁיָרְתָא | noun, f. | caravan
+tn | טען | טְעַן | verb | to carry, load
+sheaf | | שְׁעַף | noun | gum (a spice) (Hebrew: נְכֹאת)
+qtaf | קטף | קְטַף | noun | balsam (Hebrew: צְרִי)
+letom | | לְטוֹם | noun | ladanum (an aromatic resin) (Hebrew: לֹט)
+hny | הני | הֲנָא | verb | to benefit; (Itpe'el) to gain, have benefit
+taggar | תגר | תַּגָּרָא | noun | merchant
+tsfir | צפר | צְפִירָא | noun | he-goat
+tvl | טבל | טְבַל | verb | to dip
+saqa | שקק | שַׂקָּא | noun | sackcloth
+hartsa | חרץ | חַרְצָא | noun | loins, waist
+avl | אבל | אַבֵּל | verb | to mourn; (Itpa'al) to go into mourning
+tanhumin | נחם | תַּנְחוּמִין | noun, pl. | consolation
+sheol | | שְׁאוֹל | noun | the grave, Sheol
+qatol | קטל | קָטוֹלָא | noun | executioner; (also) slaughterer, cook
+sty | סטי | סְטָא | verb | to turn aside
+ybm | יבם | יַבֵּם | verb (Pa'el) | to perform levirate marriage (marry a brother's widow)
+armla | ארמל | אַרְמַלְתָּא | noun, f. | widow
+rahma | רחם | רָחֲמָא | noun | friend (lit. one who loves)
+hama | חמי | חֲמָא | noun | father-in-law
+armlut | ארמל | אַרְמְלוּתָא | noun, f. | widowhood
+tqn | תקן | תַּקֵּין | verb (Pa'el) | to prepare, set right; (Itpa'al) to adorn oneself
+parashut | פרש | פָּרָשׁוּתָא | noun, f. | crossroads, parting (of the ways)
+mashkon | משכן | מַשְׁכּוֹנָא | noun | pledge, security
+izqa | עזק | עִזְקְתָא | noun, f. | signet ring
+shoshippa | | שׁוֹשִׁפָּא | noun | cloak, mantle
+shdr | שדר | שַׁדַּר | verb (Pa'el) | to send
+meqaddeshta | קדש | מְקַדִּשְׁתָּא | noun, f. | harlot (Hebrew: קְדֵשָׁה)
+hukha | חוך | חוּכָא | noun | laughingstock, mockery
+zny | זני | זַנִּי | verb (Pa'el) | to act as a harlot
+znut | זני | זְנוּתָא | noun, f. | harlotry
+yqd | יקד | יְקַד | verb | to burn; (Ittaf'al) to be burned
+qtr | קטר | קְטַר | verb | to tie, bind
+zehorita | | זְהוֹרִיתָא | noun, f. | scarlet (thread)
+bdq | בדק | בְּדַק | verb | to examine, check
+ktava | כתב | כְּתָבָא | noun | writing, record
+hushban | חשב | חוּשְׁבְּנָא | noun | account, reckoning
+srh | סרח | סְרַח | verb | to sin, offend
+nahtom | | נַחְתּוֹמָא | noun | baker
+pushran | פשר | פּוּשְׁרָנָא | noun | interpretation
+pshr | פשר | פְּשַׁר | verb | to interpret
+gufna | גפן | גּוּפְנָא | noun | vine
+shivsha | שבש | שִׁבְשָׁא | noun | branch, shoot
+lavlev | לבלב | לַבְלְבָא | noun | blossom, bud
+nts2 | נצץ | אֲנֵיץ | verb (Af'el) | to blossom
+nets | נצץ | נֵצָא | noun | blossom
+itkela | | אִתְכְּלָא | noun | cluster (of grapes)
+inba | ענב | עִנְּבָא | noun | grape
+kasa | כסס | כַּסָּא | noun | cup
+tsr | עצר | עֲצַר | verb | to press, squeeze
+shimmush | שמש | שִׁמּוּשָׁא | noun | service, position
+hilkheta | הלך | הִלְכְתָא | noun, f. | custom, practice
+salla | סלל | סַלָּא | noun | basket
+hiru | חור | חִירוּ | noun | white bread (lit. whiteness)
+tslb | צלב | צְלַב | verb | to hang, impale
+tseliva | צלב | צְלִיבָא | noun | gallows (a tree for hanging)
+shaqyut | שקי | שַׁקְיוּתָא | noun, f. | the office of cupbearer
+malei | מלי | מְלֵי | adjective | full
+spr2 | ספר | סַפַּר | verb (Pa'el) | to cut the hair, shave
+pattim | פטם | פַּטִּים | adjective | fat, well-fed
+ahwa | | אַחֲוָה | noun | meadow, reed-grass
+shubbalta | שבל | שֻׁבַּלְתָּא | noun, f. | ear (of grain)
+qanya | קני | קַנְיָא | noun | stalk, reed
+shqf | שקף | שְׁקַף | verb | to strike, beat (of wind)
+qiddum | קדם | קִדּוּמָא | noun | the east wind
+bla | בלע | בְּלַע | verb | to swallow
+trf2 | טרף | טְרַף | verb | to beat; (Itpe'el) to be agitated, troubled
+harash | חרש | חָרָשָׁא | noun | magician, sorcerer
+hasikh | חסך | חֲסִיךְ | adjective | lean, thin
+natsan | | נָצָן | adjective | withered, shriveled
+sova | שבע | שׂוֹבְעָא | noun | plenty, abundance
+tny | תני | תְּנָא | verb | to repeat; (Itpa'al) to be repeated
+sukhletan | סכל | סוּכְלְתָן | adjective | understanding, discerning
+tsbr | צבר | צְבַר | verb | to pile up, store
+gnz | גנז | גְּנַז | verb | to store away, hide
+zwn | זון | זָן | verb | to feed, sustain
+kursya | כרס | כּוּרְסְיָא | noun | throne
+buts | | בּוּצָא | noun | fine linen
+manikha | | מָנִיכָא | noun | necklace, chain
+rtikha | רתך | רְתִכָּא | noun | chariot
+krz | כרז | אַכְרֵז | verb (Af'el) | to proclaim, announce
+susya | סוס | סוּסְיָא | noun | horse
+otsar | אצר | אוֹצְרָא | noun | storehouse
+shibbud | עבד | שִׁעְבּוּדָא | noun | servitude, oppression
+shry3 | שרי | שָׁרֵי | verb (Pa'el) | to begin
+kfn | כפן | כְּפַן | verb | to be hungry, suffer famine
+alla | עלל | עָלָא | noun | one who comes in, a newcomer
+ll | אלל | אַלֵּל | verb (Pa'el) | to spy
+bidqa | בדק | בִּדְקָא | noun | breach, weak spot
+keiwan | כון | כֵּיוָן | adjective | honest, upright
+bhn | בחן | בְּחַן | verb | to test; (Itpa'al) to be tested
+madda | ידע | מַדְּעָא | noun | understanding, mind
+ybl | יבל | אוֹבֵיל | verb (Af'el) | to carry, bring
+hnn | חנן | חַנֵּן | verb (Pa'el) | to be gracious; (Itpa'al) to plead
+meturgeman | תרגם | מְתֻרְגְּמָנָא | noun | interpreter, translator
+saqa2 | שקק | סַקָּא | noun | sack
+zewada | זוד | זְוָדָא | noun | provisions (for a journey)
+kista | | כִּסְתָא | noun | fodder
+mevata | בות | מְבָתָא | noun | lodging for the night (בֵּית מְבָתָא = inn)
+toan | טען | טוֹעֲנָא | noun | load; sack
+tsrr | צרר | צְרַר | verb | to tie up, bundle
+tserar | צרר | צְרָרָא | noun | bundle
+dawona | דוי | דָּווֹנָא | noun | grief, sorrow
+rv2 | ערב | עָרֵב | verb | to be surety, guarantee
+dvash | דבש | דּוּבְשָׁא | noun | honey
+bitna | בטן | בָּטְנָא | noun | pistachio nut
+shigda | שגד | שִׁגְדָּא | noun | almond
+shalu | שלי | שָׁלוּ | noun | error, oversight
+ptr | פטר | פְּטַר | verb | to release, let go
+sheiruta | שרי | שֵׁירוּתָא | noun, f. | meal (the noon meal)
+sqf | סקף | סַקֵּף | verb | (Itpa'al) to fall upon, attack
+sima | | סִימָא | noun | treasure
+gll | גלל | גַּלֵּל | verb | to roll; (passive) to be stirred
+idron | | אִדְרוֹנָא | noun | inner room, chamber
+hsn2 | חסן | חַסֵּן | verb (Pa'el) | to strengthen; (Itpa'al) to restrain oneself
+ravyut | רבי | רַבְיוּתָא | noun, f. | seniority, age
+zeirut | זער | זְעֵרוּתָא | noun, f. | youth
+tmh | תמה | תְּמַהּ | verb | to be amazed
+qallida | | קַלִּידָא | noun | goblet, cup
+zevin | זבן | זְבִינָא | noun | purchase
+zky | זכי | זְכֵי | verb | to be innocent, acquitted
+haviv | חבב | חֲבִיב | adjective | dear, beloved
+bhl | בהל | בְּהַל | verb | to frighten; (Itpe'el) to be terrified
+shear | שאר | שְׁאָרָא | noun | remnant, survivors
+mskn | מסכן | מַסְכֵּן | verb (4-letter root) | (passive) to become poor
+agalta | עגל | עֲגַלְתָּא | noun, f. | wagon
+itstela | | אִצְטְלָא | noun | robe, garment (from Greek stolē)
+milla | מלל | מִלְּתָא | noun, f. | word, thing
+pwg | פוג | פָּג | verb | to cease, weaken, fade
+dbh | דבח | דְּבַח | verb | to sacrifice
+divha | דבח | דִּבְחָא | noun | sacrifice
+tqs | טקס | טַקֵּס | verb (Pa'el) | to arrange, harness
+qetsat | קצץ | קְצָת | noun | part, some (lit. edge)
+raaya | רעי | רַעֲיָא | noun | pasture
+bwr | בור | בּוּר | verb | to lie waste, be desolate
+sayafa | סוף | סְיָפָא | noun | end, edge
+kumra | כמר | כּוּמְרָא | noun | priest (of idolatry)
+alalta | עלל | עֲלַלְתָּא | noun, f. | produce, crop
+gezera | גזר | גְּזֵירְתָא | noun, f. | decree, statute
+kamma | | כַּמָּה | question word | how many, how much
+arsa | ערס | עַרְסָא | noun | bed
+mra | מרע | מְרַע | verb | to be sick
+yqr2 | יקר | יְקַר | verb | to be heavy; (of eyes) to be dim
+prq | פרק | פְּרַק | verb | to redeem, rescue
+yattir | יתר | יַתִּיר | adjective | extra, more
+kehunta | כהן | כְּהֻנְתָּא | noun, f. | priesthood
+hll2 | חלל | אַחֵל | verb (Af'el) | to profane
+shiwwuy | שוי | שִׁוּוּיָא | noun | couch, bed (lit. what is spread out)
+gvura | גבר | גְּבוּרְתָא | noun, f. | might; a mighty deed
+raza | | רָזָא | noun | secret, secret counsel
+tr | תרע | תַּרַע | verb | to break down
+shura | שור | שׁוּרָא | noun | wall
+sana | סני | סַנְאָה | noun | enemy (lit. one who hates)
+hemta | חמם | חֵמְתָא | noun, f. | wrath
+bht | בהת | בְּהֵית | verb | to be ashamed
+qdal | קדל | קְדָלָא | noun | the back of the neck
+sheruya | שרי | שֵׁרוּיָא | noun | beginning
+qetala | קטל | קַטְלָא | noun | killing, death
+arya | ארי | אַרְיָא | noun | lion
+leita | | לֵיתָא | noun | lioness
+zz | זעזע | זַעְזַע | verb (4-letter root) | to shake
+safra | ספר | סָפְרָא | noun | scribe, teacher
+meshiha | משח | מְשִׁיחָא | noun | Mashiach (the anointed one)
+heikhla | | הֵיכְלָא | noun | temple, palace
+tsaddiq | צדק | צַדִּיק | adjective | righteous
+argwan | | אַרְגְּוָנָא | noun | purple (wool)
+meila | | מֵילָא | noun | fine wool (מֵילָא מֵילָא = the finest wool)
+tseva | צבע | צְבַע | noun | dye, color
+tsivon | צבע | צִבְעוֹנִין | noun, pl. | colors, dyed stuffs
+smq | סמק | סַמֵּק | verb (Pa'el) | to redden, be red
+twf | טוף | טוּף | verb | to flow, overflow
+naava | | נַעֲוָא | noun | hill
+hwr | חור | חַוַּר | verb (Pa'el) | to be white, whiten
+mehoza | | מְחוֹזָא | noun | district, harbor town
+sfina | ספן | סְפִינְתָּא | noun, f. | ship
+attir | עתר | עַתִּיר | adjective | rich
+masa | | מַסָּא | noun | tribute, tax
+mehata | מחי | מְחָתָא | noun, f. | blow, stroke
+hurman | | חוּרְמָן | noun | a kind of venomous snake
+pitna | | פִּתְנָא | noun | adder, asp
+shvila | שבל | שְׁבִילָא | noun | path
+parasha | פרש | פָּרָשָׁא | noun | horseman
+raglai | רגל | רַגְלָאָה | noun | foot soldier
+qr | עקר | עַקַּר | verb (Pa'el) | to uproot; to hamstring
+mgr | מגר | מַגַּר | verb (Pa'el) | to throw down, overthrow
+purqan | פרק | פּוּרְקָנָא | noun | redemption, salvation
+zyn | זין | זַיֵּן | verb (Pa'el) | to arm
+tafnuq | פנק | תַּפְנוּקָא | noun | delicacy
+adva | עדב | עַדְבָא | noun | lot, allotted portion
+mrr | מרר | מָרַר | verb | (Itpa'al) to be embittered, to quarrel
+nqm | נקם | נְקַם | verb | to take revenge
+wq | עוק | אָעִיק | verb (Af'el) | to distress, oppress
+palguta | פלג | פַּלְגּוּתָא | noun, f. | division, dispute
+sitra2 | סתר | סִתְרָא | noun | secret, hiding
+dra | | דְּרָעָא | noun | arm
+maamaq | עמק | מַעֲמַקָּא | noun | depth
+maqdash | קדש | מַקְדְּשָׁא | noun | the Sanctuary, the Temple
+panya | פני | פַּנְיָא | noun | afternoon, evening (lit. the turning of the day)
+kahana | כהן | כַּהֲנָא | noun | priest
+motar | יתר | מוֹתָרָא | noun | remainder
+qudsha | קדש | קוּדְשָׁא | noun | holy thing, sacred offering
+asya | אסי | אָסְיָא | noun | physician
+hnt | חנט | חֲנַט | verb | to embalm
+hanit | חנט | חֲנִיטָא | noun | embalming
+idra | אדר | אִדְּרָא | noun | threshing floor
+ivra | עבר | עִבְרָא | noun | side, other side
+mispad | ספד | מִסְפְּדָא | noun | lament, eulogy
+gml | גמל | גְּמַל | verb | to do (to someone), repay
+ymy | ימי | אוֹמֵי | verb (Af'el) | to make swear, adjure
+swm | שום | שָׂם | verb | to put, place
+arona | | אֲרוֹנָא | noun | coffin, chest
+hadat | חדת | חֲדַת | adjective | new
+gwh | גוח | אַגַּח | verb (Af'el) | to wage (war), stir up (a fight)
+tina | טין | טִינָא | noun | clay, mud
+matbra | תבר | מַתְבְּרָא | noun | birthstool
+goma | | גּוֹמָא | noun | papyrus, reeds
+zifta | זפת | זִפְתָּא | noun | pitch
+yaara | יער | יַעֲרָא | noun | reeds (lit. thicket)
+shhl | שחל | שְׁחַל | verb | to draw out
+dly | דלי | דְּלָא | verb | to draw (water)
+trd | טרד | טְרַד | verb | to drive away
+nhh | אנח | אִתְנַח | verb (Itpe'el) | to groan, sigh
+zq | זעק | זְעַק | verb | to cry out
+bry_burn | בער | בְּעַר | verb | to burn
+shalhovit | שלהב | שַׁלְהוֹבִיתָא | noun, f. | flame
+asana | | אַסָּנָא | noun | thornbush
+halkha | | הַלְכָא | adverb | here, hither
+qaddish | קדש | קַדִּישׁ | adjective | holy
+pte | פתי | פְּתֵי | adjective | broad, wide
+dohaqa | דחק | דּוֹחֲקָא | noun | oppression
+prishuta | פרש | פְּרִישׁוּתָא | noun, f. | wonder (lit. a distinct deed)
+shvavta | שבב | שְׁבַבְתָּא | noun, f. | neighbor (woman)
+zanva | זנב | זַנְבָא | noun | tail
+itfa | עטף | עִטְפָא | noun | bosom, fold of a garment
+talga | תלג | תַּלְגָּא | noun | snow
+millul | מלל | מִלּוּלָא | noun | speech
+ammiq | עמק | עַמִּיק | adjective | deep; (of speech) heavy
+ilem | אלם | אִלֵּם | adjective | mute
+hersh | חרש | חֵרֵשׁ | adjective | deaf
+piqqeah | פקח | פִּקֵּחַ | adjective | seeing (lit. open-eyed)
+awwir | עור | עַוִּיר | adjective | blind
+lf | אלף | אַלֵּף | verb (Pa'el) | to teach
+nissa | נסס | נִסָּא | noun | miracle
+mofta | | מוֹפְתָא | noun | wonder, sign
+tinara | | טִנָּרָא | noun | flint, sharp stone
+mehulta | מהל | מְהוּלְתָּא | noun, f. | circumcision
+hgg | חגג | חֲגַג | verb | to celebrate a festival
+sarkha | סרך | סַרְכָא | noun | officer, overseer
+gbb | גבב | גַּבֵּב | verb (Pa'el) | to gather, collect (straw, stubble)
+skhum | סכם | סְכוֹם | noun | sum, total; quota
+batlan | בטל | בַּטְלָן | adjective | idle, lazy
+betel | בטל | בְּטֵל | adjective | idle, vain, empty
+gila | | גִּילָא | noun | stubble
+sq2 | עסק | אִתְעַסַּק | verb (Itpa'al) | to busy oneself, be occupied with
+yerutta | ירת | יְרֻתָּא | noun | inheritance, possession
+lahash | לחש | לַחְשָׁא | noun | whispered spell, enchantment
+arita | | אֲרִיתָא | noun | canal, channel
+agma | אגם | אַגְמָא | noun | pond, marsh
+urdeana | | עֻרְדְּעָנָא | noun | frog (plural: frogs)
+ashwata | | אַצְוָתָא | noun, f. | kneading trough
+ednote | | | editorial note | a note printed in the text, not part of the Targum
+sry | סרי | סְרִי | verb | to stink, rot
+immatai | | אִמָּתַי | adverb | when? (לְאִמָּתַי = for when)
+qalmeta | קלם | קַלְמְתָא | noun, f. | lice (collective)
+arova | ערב | עָרוֹבָא | noun | mixture of wild beasts
+darta | דור | דָּרְתָא | noun, f. | courtyard
+rgm | רגם | רְגַם | verb | to stone
+hofna | חפן | חוֹפְנָא | noun | handful (pl. both hands' fill)
+piha | פיח | פִּיחָא | noun | soot, ashes (of a furnace)
+zrq | זרק | זְרַק | verb | to throw, sprinkle
+avqa | אבק | אַבְקָא | noun | dust
+shihna | שחן | שִׁיחֲנָא | noun | boils, inflammation
+avavua | | אֲבַעְבּוּעָא | noun | blister (pl. אֲבַעְבֻּעִין)
+barda | ברד | בַּרְדָּא | noun | hail
+kittana | כתן | כִּתָּנָא | noun | flax
+saarta | שער | שְׂעָרְתָא | noun, f. | barley (pl. שַׂעֲרִין)
+avviv | אבב | אַבִּיב | adjective | ripe (in the ear)
+gavol | | גַּבְעוֹל | noun | stalk, bud (in bloom)
+kunta | | כֻּנְתָּא | noun | spelt
+afila | אפל | אֲפִיל | adjective | late (ripening)
+prs2 | פרס | פְּרַס | verb | to spread out (hands, wings)
+kna | כנע | אִתְכְּנַע | verb (Itpe'el) | to humble oneself, submit
+goba | גוב | גּוֹבָא | noun | locust(s)
+abd | אבד | אֲבַד | verb | to perish, be lost
+taqla | תקל | תַּקְלָא | noun | stumbling block, snare
+shr2 | סחר | אִסְתַּחַר | verb (Itpa'al) | to turn around, turn back
+hshk | חשך | חֲשַׁךְ | verb | to grow dark
+haga | חגג | חַגָּא | noun | festival
+reihya | רחי | רֵיחְיָא | noun | millstone(s), mill
+nvh | נבח | נְבַח | verb | to bark
+tewe | טוי | טְוֵי | adjective | roasted
+pasha | פסח | פִּסְחָא | noun | the Pesach (Passover) offering; Pesach
+hamira | חמע | חֲמִירָא | noun | leaven, leavened food (חָמֵץ)
+hamia | חמע | חֲמִיעַ | adjective | leavened (חָמֵץ)
+mahmea | חמע | מַחְמְעָא | noun | leavened food (מַחְמֶצֶת)
+meara | ערע | מְעָרַע | noun | (holy) convocation (lit. a meeting, an assembly)
+giyora | גיר | גִּיּוֹרָא | noun | convert, proselyte (Hebrew: גֵּר)
+yatsiv | יצב | יַצִּיבָא | noun | native (citizen) (lit. one firmly settled)
+qhal | קהל | קְהָלָא | noun | congregation, assembly
+sippa | ספף | סִפָּא | noun | doorpost
+shaqfa | שקף | שַׁקְפָא | noun | lintel
+shvav | שבב | שֵׁיבָבָא | noun | neighbor
+meikhla | אכל | מֵיכְלָא | noun | food; eating
+bahilu | בהל | בְּהִילוּ | noun | haste
+kera | כרע | כְּרָעָא | noun | leg, shank
+kalba | כלב | כַּלְבָּא | noun | dog
+ezova | אזב | אֵזוֹבָא | noun | hyssop
+hayas | חוס | חֲיָס | noun | pity, compassion (דְּבַח חֲיָס = the sacrifice of (Hashem's) pity, the Pesach)
+ndy | נדי | אַדֵּי | verb (Af'el) | to sprinkle, apply (Hebrew: וְהִגַּעְתֶּם)
+ishtamad | שמד | אִשְׁתְּמַד | verb (Ishtaf'al) | to become an apostate (lit. be destroyed)
+gyr | גיר | אִתְגַּיַּר | verb (Itpa'al) | to become a convert
+rqn | רקן | רוֹקֵין | verb (Af'el) | to empty out
+havura | חבר | חֲבוּרָא | noun | group, company
+laysha | לוש | לַיְשָׁא | noun | dough
+nqf2 | נקף | נְקַף | verb | to strike (the neck), break the neck (Hebrew: וַעֲרַפְתּוֹ)
+tefillin | תפל | תְּפִלִּין | noun, pl. | tefillin
+avduta | עבד | עַבְדוּתָא | noun | slavery, bondage
+amuda | עמד | עַמּוּדָא | noun | pillar, column
+rbl | ערבל | עַרְבֵּל | verb | (passive participle) confused, entangled (lit. tangled)
+shgsh | שגש | שַׁגֵּישׁ | verb (Shaf'el) | to confuse, throw into confusion
+galgal | גלגל | גַּלְגְּלָא | noun | wheel
+shnq | שנק | שַׁנֵּיק | verb | to drown, shake off (Hebrew: וַיְנַעֵר)
+gay | גאי | אִתְגָּאֵי | verb (Itpa'al) | to be exalted, show majesty
+gevtan | גאי | גֵּיוְתָן | noun | proud one, arrogant one
+geuta | גאי | גֵּאוּתָא | noun, f. | majesty, pride
+nitshan | נצח | נִצְחָן | noun, pl. | victories
+shdy | שדי | שְׁדָא | verb | to throw, cast
+tva | טבע | טְבַע | verb | to sink; (Itpe'el) to be sunk, drown
+umqa | עמק | עוּמְקָא | noun | depth (pl. the depths)
+addir | אדר | אַדִּיר | adjective | mighty, glorious
+qasha | קשש | קַשָּׁא | noun | stubble, straw
+qfy | קפא | קְפָא | verb | to congeal, stand still
+bizta | בזז | בִּזְתָא | noun, f. | spoil, plunder
+shlf | שלף | שְׁלַף | verb | to draw (a sword), pull out
+shqa | שקע | אִשְׁתְּקַע | verb (Ishtaf'al) | to sink, be sunk
+avara | | אֲבָרָא | noun | lead (the metal)
+tavuta | טוב | טַבְוָתָא | noun, f. | goodness, kindness
+dira | דור | דִּירָא | noun | dwelling, abode
+retita | רתת | רְתֵיתָא | noun, f. | trembling
+hinga | חנג | חִנְגָּא | noun | dance, circle-dance (pl. חִנְגִּין)
+any2 | עני | עֲנָא | verb | to answer; (Pa'el) to lead in song, respond
+rm2 | רעם | אִתְרַעַם | verb (Itpa'al) | to complain, murmur
+bsm | בסם | בְּסֵים | verb | to become sweet; (Pa'el) to sweeten
+marea | מרע | מַרְעָא | noun | sickness, disease
+neviata | נבא | נְבִיאֲתָא | noun, f. | prophetess
+dud | דוד | דּוּדָא | noun | pot, cauldron
+turamut | רעם | תּוּרְעֲמוּתָא | noun, f. | complaint, murmuring
+slav | | סְלָו | noun | quail
+daqdaq | דקק | דַּעְדַּק | adjective | fine, thin
+gira | גיר | גִּירָא | noun | lime, chalk (here: hoarfrost)
+manna | | מַנָּא | noun | manna
+omer | עמר | עֻמְרָא | noun | omer (a dry measure)
+gulgalta | גלגל | גֻּלְגַּלְתָּא | noun, f. | head, skull (לְגֻלְגַּלְתָּא = per person)
+zr | זער | אַזְעַר | verb (Af'el) | to take little, lessen
+kyl | כול | כָּל | verb | to measure
+ytr2 | יתר | אוֹתַר | verb (Af'el) | to have left over, have extra
+hmm2 | חמם | חֲמָא | verb | to become hot
+shabbta | שבת | שַׁבְּתָא | noun, f. | Sabbath; rest (שְׁבַת קוּדְשָׁא = a holy rest)
+tsna | צנע | אַצְנַע | verb (Af'el) | to put away, store, lay aside
+gidda | | גִּדָּא | noun | coriander
+taama | טעם | טַעְמָא | noun | taste
+isqrit | | אִסְקְרֵיטָא | noun | wafer, cake (pl. אִסְקְרֵיטָוָן)
+tseluhit | צלח | צְלוֹחִית | noun, f. | jar, flask
+tsehuta | צחי | צְחוּתָא | noun, f. | thirst
+tshy | צחי | צְחֵי | verb | to be thirsty
+diqla | דקל | דִּקְלָא | noun | palm tree
+ramta | רום | רָמָתָא | noun, f. | hill (lit. height)
+nisyuta | נסי | נִסֵּיתָא | noun, f. | testing (place name: Massah)
+kevar | | כְּבַר | particle | like, resembling
+ktv | כתב | כְּתַב | verb | to write
+shevuah | שבע | שְׁבוּעָה | noun, f. | oath
+amira | אמר | אֲמִירָא | noun | statement, word (lit. what is said)
+marwa | רוי | מַרְוָתָא | noun, f. | dominion, power (Hebrew: יַד)
+zhr | זהר | אַזְהַר | verb (Af'el) | to warn, caution
+isura | עשר | עִשּׂוּרְיָתָא | noun, f. | group of ten (pl. עִשׂוֹרְיָתָא, tens)
+mlk2 | מלך | מְלַךְ | verb | to advise, counsel (Af'el: to give advice)
+gadfa | גדף | גַּדְפָּא | noun | wing
+nishra | נשר | נִשְׁרָא | noun | eagle
+qashe | קשי | קָשֵׁי | adjective | hard, difficult
+eiva | עוב | עֵיבָא | noun | thickness (of cloud)
+thm | תחם | תַּחֵים | verb (Pa'el) | to set bounds, fence in
+shofar | שפר | שׁוֹפָרָא | noun | shofar, horn
+rsh2 | רשי | רְשָׁא | verb | to be permitted (passive participle: allowed)
+barqa | ברק | בַּרְקָא | noun | lightning
+tnn2 | תנן | תְּנַן | verb | to smoke
+pgr | פגר | פַּגַּר | verb (Pa'el) | to break through; to stop, cease
+qanna | קנא | קַנָּא | adjective | jealous, zealous
+sar | סער | סְעַר | verb | to visit (punish); (Af'el) to bring (sins) to account
+gwf | נאף | גּוּף | verb | to commit adultery
+shiqra | שקר | שִׁקְרָא | noun | falsehood
+tsad | צדד | צַד | noun / preposition | side (לְצַד = toward, near)
+baura | בער | בָּעוֹרָא | noun | torch, flame (here: lightning flashes)
+amitta | | אַמִּיטְתָא | noun, f. | thick darkness (Hebrew: הָעֲרָפֶל)
+dehala | דחל | דַּחֲלָא | noun | object of fear, idol (pl. דַּחֲלָן)
+psila | פסל | פְּסִילָא | noun | hewn stone (pl. פְּסִילָן)
+darga | דרג | דַּרְגָּא | noun | step (pl. דַּרְגִּין)
+horin | חרר | חוֹרִין | noun, pl. | freedom (בַּר חוֹרִין = a free man)
+mezuzta | זוז | מְזוּזְתָא | noun, f. | doorpost
+rts | רצע | רְצַע | verb | to pierce (the ear)
+martsea | רצע | מַרְצְעָא | noun | awl
+mafqanut | נפק | מַפְקָנוּת | noun, f. | going out, release
+reshu | רשי | רְשׁוּ | noun | authority, right, permission
+ziyun | זון | זִיוּנָא | noun | food, sustenance
+onta | עון | עוֹנְתָא | noun, f. | conjugal rights (lit. her time)
+rsha | רשע | אַרְשַׁע | verb (Af'el) | to act wickedly, act presumptuously
+nekhilu | נכל | נְכִילוּ | noun | cunning, guile
+kurmeiza | | כּוּרְמֵיזָא | noun | fist
+butlan | בטל | בּוּטְלָנָא | noun | idleness, loss of work (לְבוּטְלָן = bedridden)
+burya | ברי | בּוּרְיָא | noun | health, strength (עַל בּוּרְיֵהּ = in his full health)
+gby | גבי | גְּבָא | verb | to collect; (Itpe'el) to be fined (lit. collected from)
+shinna | שנן | שִׁנָּא | noun, f. | tooth
+kewaa | כוי | כְּוָאָה | noun | burn
+pida | פדע | פִּדְעָא | noun | wound
+mashqofa | שקף | מַשְׁקוֹפֵי | noun, pl. | bruise (lit. blows)
+ngh | נגח | נְגַח | verb | to gore
+mahtarta | חתר | מַחְתַּרְתָּא | noun, f. | tunnel, breaking in
+ganava | גנב | גַּנָּבָא | noun | thief
+genuvta | גנב | גְּנֻבְתָא | noun, f. | theft; stolen thing
+gdish | גדש | גְּדִישָׁא | noun | stack of sheaves (pl. גְּדִישִׁין)
+qamta | קום | קָמְתָא | noun, f. | standing grain (קֳמָא)
+dlq | דלק | אַדְלֵיק | verb (Af'el) | to kindle, set burning
+delequta | דלק | דְּלֵיקְתָא | noun, f. | fire, conflagration
+oshit | שוט | אוֹשִׁיט | verb (Af'el) | to stretch out (the hand)
+avedta | אבד | אֲבֵידְתָא | noun, f. | lost thing
+hyb | חוב | חַיֵּיב | verb (Pa'el) | to declare guilty, convict
+shdl2 | שדל | שַׁדֵּל | verb (Pa'el) | to entice, seduce
+ars | ארס | אָרֵיס | verb (Pa'el) | to betroth (passive participle: betrothed)
+ynh | ינה | אוֹנִי | verb (Af'el) | to wrong (with words)
+yatma | יתם | יַתְמָא | noun | orphan
+zwf | זוף | אוֹזֵיף | verb (Af'el) | to lend
+anya | עני | עַנְיָא | noun | poor man
+karsha | כרש | כְּרַשְׁיָא | noun | creditor (lit. one who presses)
+hibbulya | חבל | חִבּוּלְיָא | noun | interest (on a loan)
+totva | | תּוֹתְבָא | noun | covering (here: his garment)
+mashkha | משך | מַשְׁכָּא | noun | skin
+hannana | חנן | חַנָּנָא | adjective | gracious
+bikkura | בכר | בִּכּוּרַיָּא | noun, pl. | first fruits
+dima | דמע | דִּמְעָא | noun | (first) juice, liquid offering (lit. tear)
+tlsh | תלש | תְּלַשׁ | verb | to tear off (passive participle: torn)
+miskena | מסכן | מִסְכֵּינָא | noun | poor man
+pga | פגע | פְּגַע | verb | to meet, come upon
+tsly2 | צלי | אַצְלֵי | verb (Af'el) | to pervert, incline (judgment)
+shohada | שחד | שׁוֹחֲדָא | noun | bribe
+awwr | עור | עַוַּר | verb (Pa'el) | to blind
+qlql | קלקל | קַלְקֵל | verb | to spoil, pervert
+trits | תרץ | תְּרִיץ | adjective | straight, just
+shmt | שמט | אַשְׁמֵט | verb (Af'el) | to release (the land), let lie fallow
+rtsh | רטש | רְטַשׁ | verb | to abandon, leave
+shqt | שקט | שְׁקַט | verb | to be quiet, rest
+kenasha | כנש | כְּנָשָׁא | noun | ingathering
+tmin | תמני | תְּמִינָאָה | ordinal | eighth
+tarba | תרב | תַּרְבָּא | noun | fat
+arita2 | ערע | עֲרָעִיתָא | noun, f. | hornet(s)
+mizraqa | זרק | מִזְרְקָא | noun | basin (for sprinkling)
+kpr | כפר | כַּפַּר | verb (Pa'el) | to atone
+beriru | ברר | בְּרִירוּ | noun | clearness, purity
+nizqa | נזק | נִזְקָא | noun | harm, damage
+luha | לוח | לוּחָא | noun | tablet
+tafqedta | פקד | תַּפְקֶדְתָּא | noun, f. | commandment
+ilu | | אִלּוּ | conjunction | if (כְּאִלּוּ = as if)
+tikhla | | תִּכְלָא | noun | blue wool (תְּכֵלֶת)
+argevana | | אַרְגְּוָנָא | noun | purple wool
+sasgona | | סַסְגּוֹנָא | noun | tachash (a many-colored animal; lit. of many colors)
+shitta | שטה | שִׁטִּין | noun, pl. | acacia (wood)
+anharuta | נהר | אַנְהָרוּתָא | noun, f. | lighting (lit. giving light)
+busma | בסם | בּוּסְמָא | noun | spice (pl. בּוּסְמַיָּא)
+rebuta | רבי | רְבוּתָא | noun, f. | anointing; greatness (מִשְׁחָא דִרְבוּתָא = anointing oil)
+qetoret | קטר | קְטֹרֶת | noun | incense (as in the Hebrew)
+ashlamuta | שלם | אַשְׁלָמוּתָא | noun, f. | setting, filling (אַבְנֵי אַשְׁלָמוּתָא = stones for setting)
+shqa2 | שקע | שַׁקַּע | verb (Pa'el) | to set, fix (stones in a setting)
+efoda | | אֵפוֹדָא | noun | the ephod
+hushna | | חוּשְׁנָא | noun | the breastplate (חֹשֶׁן)
+zeira | זיר | זֵירָא | noun | rim, crown (molding)
+ntk | נתך | נְתַךְ | verb | to pour out; (Af'el) to cast (metal)
+izqta | עזק | עִזְקְתָא | noun, f. | ring (pl. עִזְקָן)
+zawita | זוי | זָוִיתָא | noun, f. | corner
+ariha | ארח | אֲרִיחָא | noun | pole, carrying-pole
+kapporta | כפר | כַּפֻּרְתָּא | noun, f. | the cover (of the Ark) (כַּפֹּרֶת)
+tll | טלל | טַלֵּל | verb (Pa'el) | to overshadow, shelter
+patora | | פָּתוֹרָא | noun | table
+gedanfa | | גְּדַנְפָא | noun | border, frame (lit. rim)
+pushka | | פֻּשְׁכָּא | noun | handbreadth
+magis | | מָגִיסָא | noun | dish, bowl
+bazikh | | בָּזִיכָא | noun | spoon, pan (for incense)
+qasva | | קַסְוָא | noun | jar, jug (pl. קַסְוָתָא)
+mekhilta | כיל | מְכִילְתָא | noun, f. | measure, (measuring) bowl
+tedira | תדר | תְּדִירָא | adverb | continually, always
+menarta | נור | מְנַרְתָּא | noun, f. | menorah, lampstand
+shida | | שִׁדָּא | noun | base, shaft
+kallida | | כַּלִּידָא | noun | goblet, cup (as on the menorah)
+hezura | | חֵזוּרָא | noun | knob (lit. apple)
+shoshanna | | שׁוֹשַׁנָּא | noun | lily, flower
+tsyr | ציר | צַיֵּיר | verb (Pa'el) | to decorate, design (participle: decorated; צַיָּר = embroiderer)
+butsina | | בּוֹצִינָא | noun | lamp
+tsevita | צבת | צִבְיְתָא | noun, f. | tongs
+mahta | חתי | מַחְתְּיָתָא | noun, f. | fire pan
+kakkra | ככר | כִּכְּרָא | noun | talent (a weight)
+yeria | | יְרִיעֲתָא | noun, f. | curtain (pl. יְרִיעָן)
+shzr | שזר | שְׁזִיר | adjective | twisted (thread)
+tsurta | צור | צוּרְתָא | noun, f. | form, design (צוּרַת כְּרוּבִין = a design of cherubim)
+uman | אמן | אֻמָּנָא | noun | craftsman (עוֹבָד אֳמָן = the work of a craftsman)
+asrin | עסר | עַסְרִין | number | twenty
+lpp | לפף | לַפֵּף | verb (Pa'el) | to join, attach
+anuva | ענב | עֲנוּבָא | noun | loop
+sifta | ספה | סִפְתָא | noun, f. | edge, border
+lofa | לוף | לוּפָא | noun | loop, fastening
+kwn | כון | כַּוֵּין | verb (Pa'el) | to align, set opposite (participle: matching, aligned)
+purpa | | פּוּרְפָא | noun | clasp, hook
+perasa | פרס | פְּרָסָא | noun | screen, curtain
+wf | עוף | עוּף | verb | to fold, double over
+srh2 | סרח | סְרַח | verb | to hang over, overhang
+dappa | דפף | דַּפָּא | noun | board, plank
+tsira | ציר | צִירָא | noun | tenon, peg
+shlb | שלב | שַׁלֵּב | verb (Pa'el) | to join, interlock (participle: joined)
+samkha | סמך | סַמְכָא | noun | socket, base
+abbara | עבר | עַבְּרָא | noun | bar, crossbar
+metsiai | מצע | מְצִיעָאָה | adjective | middle
+parokhta | | פָּרֻכְתָּא | noun, f. | the dividing curtain (פָּרֹכֶת)
+waw | | וָוָא | noun | hook
+rba2 | רבע | מְרַבַּע | adjective | square
+pasakhter | | פְּסַכְתֵּר | noun | pot, ash-pot (pl. פְּסַכְתְּרָוָתָא)
+sfy | ספי | סְפָא | verb | to clear away (ashes)
+magrofita | גרף | מַגְרוֹפִיתָא | noun, f. | shovel
+tsinnurita | צנר | צִנּוּרִיתָא | noun, f. | fork, flesh-hook
+serada | סרד | סְרָדָא | noun | netting, grating (pl. סְרָדִין: hangings)
+metsadta | צוד | מְצַדְתָּא | noun, f. | net, mesh
+sovev | סבב | סוֹבָבָא | noun | ledge, rim (around the altar)
+halil | חלל | חֲלִיל | adjective | hollow
+kibbush | כבש | כִּבּוּשָׁא | noun | band, ring (pl.: hoops)
+sikka | סכך | סִכְּתָא | noun, f. | peg, tent pin (pl. סִכִּין)
+ktsh | כתש | כְּתַשׁ | verb | to crush (passive participle: crushed, beaten)
+meil | | מְעִילָא | noun | robe
+rmts | רמץ | רַמֵּץ | verb (Pa'el) | to set, mount; (passive participle) set (with stones), checkered
+mitsnefta | | מִצְנֶפְתָּא | noun, f. | turban
+hemyana | | הֶמְיָנָא | noun | belt, sash
+tiqquna | תקן | תִּקּוּנָא | noun | workmanship, adornment
+glf | גלף | גְּלַף | verb | to engrave
+tikka | | תִּכָּא | noun | chain (pl. תִּכִּין)
+gdil | גדל | גְּדִילוּ | noun | braiding, twisted work (גְּדִילָן = braided cords)
+zarta | זרת | זַרְתָּא | noun, f. | span (a measure)
+sidra | סדר | סִדְרָא | noun | row (pl. סִדְרִין)
+samqan | סמק | סַמְקָן | noun | ruby (red stone)
+yarqan | ירק | יַרְקָן | noun | emerald (green stone)
+barqan | ברק | בַּרְקָן | noun | carbuncle (sparkling stone)
+izmaragd | | אִזְמָרַגְדִּין | noun | emerald (a precious stone)
+shavziz | | שַׁבְזִיז | noun | sapphire (a precious stone)
+sivhalom | | סִבְהֲלוֹם | noun | diamond (a precious stone)
+qankhirei | | קַנְכִּירֵי | noun | jacinth (a precious stone)
+tarqia | | טַרְקְיָא | noun | agate (a precious stone)
+eglla | | עֵין עֶגְלָא | noun | amethyst (lit. calf's eye)
+kerum | | כְּרוּם יַמָּא | noun | beryl (lit. sea-colored)
+panterei | | פַּנְטֵרֵי | noun | onyx (a precious stone)
+urim | | אוּרַיָּא | noun, pl. | the Urim
+tummim | | תֻּמַּיָּא | noun, pl. | the Thummim
+gmr2 | גמר | גְּמַר | verb | to complete (passive participle: complete, entirely)
+kafil | כפל | כָּפִיל | adjective | doubled, folded
+shiryan | שרין | שִׁרְיָנָא | noun | coat of mail
+shippula | שפל | שִׁיפוֹלָא | noun | hem, lower edge
+rimmona | | רִמּוֹנָא | noun | pomegranate
+zagga | | זַגָּא | noun | bell
+tsitsa | | צִיצָא | noun | (head)plate
+awayta | עוי | עֲוָיָתָא | noun, f. | iniquity, sin
+kovaa | | כּוֹבָעָא | noun | cap, hat
+pyl | פיל | פְּיַל | verb | to mix (passive participle: mixed)
+espog | | אֶסְפּוֹגָא | noun | wafer (pl. אֶסְפּוֹגִין)
+kelila | כלל | כְּלִילָא | noun | crown, diadem
+etsba | | אֶצְבְּעָא | noun | finger
+yesoda | יסד | יְסוֹדָא | noun | base, foundation
+hitsra | | חִצְרָא | noun | lobe (of the liver)
+kavda | כבד | כַּבְדָא | noun | liver
+kolya | | כּוֹלְיָתָא | noun, f. | kidney (pl. כָּלְיָן)
+ukhla | | אוּכְלָא | noun | dung (lit. what is eaten)
+hattata | חטי | חַטָּאתָא | noun, f. | sin offering
+evra | אבר | אֵבָרָא | noun | limb, part
+hll3 | חלל | חַלֵּל | verb (Pa'el) | to rinse, wash out
+ilyon | | אִלְיוֹן | noun | thumb; big toe (Hebrew: בֹּהֶן)
+alita | | אַלִּיתָא | noun, f. | fat tail
+hadya | חדי | חֶדְיָא | noun | breast (of an animal)
+shoqa2 | שוק | שׁוֹקָא | noun | thigh (of an animal)
+aramuta | רום | אֲרָמוּתָא | noun, f. | raising, uplifted offering (תְּנוּפָה)
+hilloni | חלל | חִלּוֹנַי | noun | outsider, layman (זָר)
+kippura | כפר | כִּפּוּרַיָּא | noun, pl. | atonement
+kapparuta | כפר | כַּפָּרוּתָא | noun, f. | atoning
+isrona | עסר | עִסְרוֹנָא | noun | a tenth (measure)
+ravut | רבע | רַבְעוּת | noun, f. | a quarter
+hina | | הִינָא | noun | hin (a liquid measure)
+nisskha | נסך | נִסְכָּא | noun | libation
+minhta | מנח | מִנְחָתָא | noun, f. | meal offering
+qtr2 | קטר | אַקְטַר | verb (Af'el) | to burn (incense)
+igra | | אִגָּרָא | noun | roof, top
+kotla | | כּוֹתְלָא | noun | wall, side
+deir | | דֵּיר | noun | rim, crown (molding)
+mikhnas | כנס | מִכְנְסִין | noun, pl. | breeches, trousers
+kiyyora | כיר | כִּיּוֹרָא | noun | laver, basin
+besis | בסס | בְּסִיסָא | noun | base, stand
+qiddush | קדש | קִדּוּשׁ | noun | washing (lit. sanctification)
+meira | | מֵירָא | noun | myrrh
+qinnamon | | קִנְּמָן | noun | cinnamon
+qetsiata | | קְצִיעֲתָא | noun, f. | cassia
+busmanu | בסם | בּוּסְמָנוּ | noun | perfumery (lit. spice-making)
+netofa | נטף | נְטוֹפָא | noun | stacte (a resin)
+tufra | | טוּפְרָא | noun | onycha (a spice)
+helbeneta | | חֶלְבְּנֵתָא | noun, f. | galbanum
+levunta | | לְבוּנְתָא | noun, f. | frankincense
+shhq | שחק | שְׁחַק | verb | to grind, pulverize
+daqiq | דקק | דַּקִּיק | adjective | fine, thin (C: to grind fine)
+umanu | אמן | אוּמָנוּ | noun | craftsmanship (pl. אוּמַנְוָן)
+naggaruta | נגר | נַגָּרוּתָא | noun, f. | carpentry
+tswr | צור | צָר | verb | to fashion, shape
+zifa | | זִיפָא | noun | engraving tool
+matkha | נתך | מַתְּכָא | noun | molten (metal)
+pria | פרע | פְּרִיעַ | adverb | quickly (בִּפְרִיעַ = quickly)
+yby | יבב | יַבֵּב | verb (Pa'el) | to shout, wail
+ntsh | נצח | נְצַח | verb | to be victorious
+hlsh | חלש | חֲלַשׁ | verb | to be weak, defeated
+shwf | שוף | שָׁף | verb | to file, grind down
+zry | זרי | זְרָא | verb | to scatter, strew
+asabuta | | אֲסָבוּתָא | noun, f. | bad name, disgrace
+shaa | שעי | שָׁעָא | noun | moment, hour
+dibra | דבר | דִּבְרָא | noun | back (part) (דִּבְרַת = what is behind)
+psl | פסל | פְּסַל | verb | to hew, carve
+rahmana | רחם | רַחֲמָנָא | adjective | merciful
+slh | סלח | סְלַח | verb | to forgive
+agora | | אֱגוֹרָא | noun | (idolatrous) altar
+ashera | | אֲשֵׁירָא | noun | asherah (a sacred tree)
+qtsts | קצץ | קַצֵּץ | verb (Pa'el) | to cut down
+ziv | זוי | זִיו | noun | radiance
+maa | | מָעָה | noun, f. | ma'ah (a small coin; pl. מָעִין) (Hebrew: גֵּרָה)
+atuna | | אַטּוּנָא | noun | cord, rope
+shivkha | שבך | שִׁבְכָא | noun | bracelet, chain (pl. שִׁבְכִין)
+mahokh | | מָחוֹךְ | noun | girdle (an ornament; Hebrew: כּוּמָז)
+zl | עזל | עֲזַל | verb | to spin (thread)
+nedavta | נדב | נְדַבְתָּא | noun, f. | freewill offering
+missat | | מִסַּת | noun | (more than) enough (lit. sufficiency of)
+karoza | כרז | כָּרוֹזָא | noun | proclamation, herald
+raddid | רדד | רַדִּידוּ | noun | beaten (thin) plates
+tasa | | טַסָּא | noun | plate, sheet (of metal)
+mehzita | חזי | מֶחְזִיתָא | noun, f. | mirror (pl. מֶחְזְיָן)
+hippui | חפי | חִפּוּי | noun | overlay, plating
+siddur | סדר | סִדּוּר | noun | arrangement
+hakhimut | חכם | חַכִּימוּת | noun | wisdom, skill
+mlq | מלק | מְלַק | verb | to pinch off (the head of a bird)
+mtsy | מצי | מְצָא | verb | to drain; (Itpe'el) to be drained out
+zefaq | זפק | זְפָקָא | noun | crop (of a bird)
+qmts | קמץ | קְמַץ | verb | to take a handful (fistful)
+qumtsa | קמץ | קֻמְצָא | noun | handful, fistful
+adkarta | דכר | אַדְכַּרְתָּא | noun, f. | memorial portion (Hebrew: אַזְכָּרָה)
+maafe | אפי | מַאֲפֵה | noun | baked (offering) (as in the Hebrew)
+masreita | | מַסְרֵיתָא | noun, f. | griddle, flat pan
+btsa | בצע | בְּצַע | verb | to break (into pieces)
+bitsua | בצע | בִּיצוּעָא | noun | piece (pl. בִּיצוּעִין)
+radta | | רַדְתָּא | noun, f. | deep pan (Hebrew: מַרְחֶשֶׁת)
+mlh | מלח | מְלַח | verb | to salt
+qly | קלי | קְלֵי | verb | to parch, roast (passive participle: parched)
+peirukh | פרך | פֵּירוּכָא | noun | crushed (grain), groats (Hebrew: גֶּרֶשׂ)
+gisa | | גִּסְסָא | noun | flank (pl. גִּסְסַיָּא)
+shzarta | | שְׁזַרְתָּא | noun, f. | backbone, spine
+hovta | חוב | חוֹבְתָא | noun, f. | guilt, sin offering
+shly | שלי | שְׁלָא | verb | to err, be mistaken; (Ishtaf'al) to err unintentionally
+sav | סאב | סְאֵיב | verb | to be impure; (Pa'el passive participle) impure; (Ishtaf'al) to become impure
+sovta | סאב | סוֹאֲבְתָא | noun, f. | impurity
+nevela | נבל | נְבִלְתָא | noun, f. | carcass
+sifwan | ספי | סִפְוָן | noun, pl. | lips
+qiyyum | קום | קִיּוּם | noun | oath (lit. confirmation)
+ashma | אשם | אֲשָׁמָא | noun | guilt offering
+seita | | שֵׂיתָא | noun, f. | lamb, sheep (Hebrew: שֶׂה)
+pursan | פרס | פֻּרְסָנָא | noun | valuation
+humsha | חמש | חֻמְשָׁא | noun | a fifth
+kdv | כדב | כַּדֵּב | verb (Pa'el) | to lie, deny
+piqdona | פקד | פִּקְּדוֹנָא | noun | deposit, something entrusted
+shutafut | שתף | שֻׁתָּפוּת | noun, f. | partnership (lit. a joint holding)
+gezela | גזל | גְּזֵילָא | noun | robbery, stolen thing
+gzl | גזל | גְּזַל | verb | to rob
+usqa | עשק | עֻשְׁקָא | noun | something withheld (by oppression)
+ashq | עשק | עֲשַׁק | verb | to oppress, withhold
+shtba | שבע | אִשְׁתְּבַע | verb (Ishtaf'al) | to swear
+tfy | טפי | טְפָא | verb | to go out, be extinguished
+rbkh | רבך | רְבַךְ | verb | to mix, soften (passive participle: well mixed)
+tufin | | תּוּפִינָא | noun | baked piece (pl. תּוּפִינֵי; Hebrew: תֻּפִינֵי)
+hasfa | חסף | חַסְפָּא | noun | earthenware
+mrq | מרק | מְרַק | verb | to scour, polish
+shtf | שטף | שְׁטַף | verb | to rinse
+todta | ידי | תּוֹדְתָא | noun, f. | thanksgiving (offering)
+nidra | נדר | נִדְרָא | noun | vow
+shiqtsa | שקץ | שִׁקְצָא | noun | abomination, detestable thing
+rhq2 | רחק | רַחֵיק | verb (Pa'el) | to reject, make loathsome (passive participle: abhorrent)
+nevila | נבל | נְבִילָא | noun | carcass, animal that died by itself
+tevira | תבר | תְּבִירָא | noun | animal torn (by beasts)
+perua | פרע | פְּרוּעַ | adjective | loose, unkempt (of hair)
+hulla | חלל | חֻלָּא | noun | the profane, ordinary (not holy)
+gawwaa | גוא | גַּוָּאָה | adjective | inner
+sdq | סדק | סְדַק | verb | to split (passive participle: split)
+tilfa | טלף | טִלְפָּא | noun | hoof (cleft), (pl. טִלְפִין)
+tlf | טלף | אַטְלֵיף | verb (Af'el) | to have split hooves (participle: cloven-hoofed)
+pishra | פשר | פִּשְׁרָא | noun | cud
+tafza | | טַפְזָא | noun | hyrax (Hebrew: שָׁפָן)
+arneva | | אַרְנְבָא | noun | hare
+hazira | | חֲזִירָא | noun | pig
+tsits | | צִיצָא | noun | fin (pl. צִיצִין)
+shqts | שקץ | שַׁקֵּץ | verb (Pa'el) | to treat as abominable, detest
+ar | | עַר | noun | (bird) Hebrew: פֶּרֶס (bearded vulture?)
+azya | | עַזְיָא | noun | (bird) Hebrew: עָזְנִיָּה (osprey?)
+dayta | | דַּיְתָא | noun | kite (Hebrew: דָּאָה)
+tarafita | | טָרָפִיתָא | noun | a bird of prey (Hebrew: אַיָּה)
+naamita | | נַעֲמִיתָא | noun | ostrich (בַּת נַעֲמִיתָא; Hebrew: בַּת הַיַּעֲנָה)
+shahfa | | שַׁחְפָּא | noun | (bird) Hebrew: שַׁחַף (seagull?)
+natsa | | נָצָא | noun | hawk (Hebrew: נֵץ)
+qadya | | קַדְיָא | noun | (bird) Hebrew: כּוֹס (little owl?)
+shleinuna | | שָׁלֵינוּנָא | noun | pelican, heron (Hebrew: שָׁלָךְ)
+qippofa | | קִפּוֹפָא | noun | owl (Hebrew: יַנְשׁוּף)
+bavta | | בַּוְתָא | noun | an unclean bird (Hebrew: תִּנְשֶׁמֶת)
+qata | | קָאתָא | noun | pelican? (Hebrew: קָאָת)
+yarqreqa | ירק | יַרְקְרֵקָא | noun | (bird) Hebrew: רָחָם (lit. greenish one)
+havvarita | חור | חַוָּרִיתָא | noun | stork? (lit. white one; Hebrew: חֲסִידָה)
+ibbu | | אִבּוּ | noun | (bird) Hebrew: אֲנָפָה (heron?)
+naggar | נגר | נַגַּר טוּרָא | noun | hoopoe (lit. mountain carpenter; Hebrew: דּוּכִיפַת)
+atalefa | | עֲטַלֵּפָא | noun | bat
+qartsul | | קַרְצוּלָא | noun | (jointed) leg (pl. קַרְצוּלִין)
+qfts | קפץ | קְפַץ | verb | to leap, hop
+rashuna | | רָשׁוּנָא | noun | (locust) Hebrew: סָלְעָם
+hargola | | חַרְגּוֹלָא | noun | (locust) Hebrew: חַרְגֹּל
+hagava | | חֲגָבָא | noun | (locust) Hebrew: חָגָב
+tsva | צבע | צַבַּע | verb (Pa'el) | to wash (clothes) (lit. to dip)
+hulda | | חֻלְדָּא | noun | weasel? (Hebrew: חֹלֶד)
+akhbera | | עַכְבְּרָא | noun | mouse
+tsava | | צָבָא | noun | (lizard) Hebrew: צָב
+yala | | יָלָא | noun | a type of lizard (Hebrew: אֲנָקָה)
+koha | | כֹּחָא | noun | (lizard) Hebrew: כֹּחַ
+hulteita | | חֻלְטֵיתָא | noun | a type of lizard (Hebrew: לְטָאָה)
+humta | | חֻמְטָא | noun | (lizard) Hebrew: חֹמֶט
+ashuta | | אָשׁוּתָא | noun | mole (Hebrew: תִּנְשָׁמֶת)
+mashqe | שקי | מַשְׁקֶה | noun | drink, liquid
+kirayim | | כִּירַיִם | noun | stove (as in the Hebrew)
+mayan | עין | מַעְיָן | noun | spring
+qalfa | קלף | קַלְפָּא | noun | scale (of a fish) (pl. קַלְפִין)
+tsitsa2 | | צִיצָא | noun | (bird) Hebrew: תַּחְמָס
+madein | | מָדֵין | adverb | why? (lit. what is this)
+rihuq | רחק | רִיחוּקָא | noun | separation (of a menstruant) (Hebrew: נִדָּה)
+dakhu | דכי | דָּכוּ | noun, f. | purity, purification
+amqa | עמק | עַמְקָא | noun | (skin) lesion, sunken lesion (Hebrew: שְׂאֵת)
+adya | עדי | עַדְיָא | noun | scab (Hebrew: סַפַּחַת)
+bahara | בהר | בַּהֲרָא | noun | bright spot (Hebrew: בַּהֶרֶת)
+sgiru | סגר | סְגִירוּ | noun | tzara'at (lit. confinement)
+sgr | סגר | אַסְגַּר | verb (Af'el) | to quarantine, shut up
+sgir | סגר | סְגִירָא | noun | one afflicted with tzara'at (מְצֹרָע)
+hwr2 | חור | מֶחֱוָר | verb (participle form) | to be white (לְמֶחֱוָר = to whiteness)
+amiq | עמק | עַמִּיק | adjective | deep, sunken
+osafa | יסף | אוֹסָפָא | noun | spreading (lit. adding)
+rishma | רשם | רִשְׁמָא | noun | mark, trace (Hebrew: מִחְיָה)
+attiq | עתק | עַתִּיק | adjective | old, chronic
+makkikh | מכך | מַכִּיךְ | adjective | low, lower (than the skin)
+behara | בהר | בַּהַרְתָּא | noun, f. | bright spot (as in the Hebrew: בַּהֶרֶת)
+diqna | דקן | דִּקְנָא | noun | beard
+summaq | סמק | סֻמָּק | adjective | red, reddish
+nitqa | נתק | נִתְקָא | noun | bald spot (Hebrew: נֶתֶק)
+ukkam | אכם | אֻכָּם | adjective | black
+glh | גלח | גַּלַּח | verb (Pa'el) | to shave
+bqr | בקר | בַּקַּר | verb (Pa'el) | to examine, seek out
+bahaqa | בהק | בָּהֲקָא | noun | (harmless) white rash (Hebrew: בֹּהַק)
+qrh | קרח | קְרַח | adjective | bald (at the back)
+qarhut | קרח | קָרָחוּתָא | noun, f. | baldness (at the back)
+glosh | גלש | גְּלוֹשׁ | adjective | bald in front
+gloshut | גלש | גְּלוֹשׁוּתָא | noun, f. | baldness in front
+safam | | שָׂפָם | noun | upper lip, mustache (as in the Hebrew)
+tf | עטף | אִתְעַטַּף | verb (Itpa'al) | to cover oneself, wrap oneself
+amar | עמר | עֲמַר | noun | wool
+shitya | שתי | שִׁתְיָא | noun | warp (threads)
+arva | ערב | עַרְבָא | noun | woof (threads)
+hsr2 | חסר | חַסַּר | verb (Pa'el) | to harm, damage (participle: harmful) (Hebrew: מַמְאֶרֶת)
+shhiqut | שחק | שְׁחִיקוּתָא | noun, f. | wornness (i.e. its worn side)
+hadatut | חדת | חַדָּתוּתָא | noun, f. | newness (i.e. its new side)
+tsba | צבע | אִצְטַבַּע | verb (Itpa'al) | to be washed (lit. dipped)
+arza | ארז | אַרְזָא | noun | cedar
+gevina | גבן | גְּבִינָא | noun | eyebrow (pl. גְּבִינִין)
+luga | | לֻגָּא | noun | log (a liquid measure)
+pny3 | פני | פַּנֵּי | verb (Pa'el) | to clear out, empty
+pahta | פחת | פַּחְתָּא | noun | pit, depression (pl. פַּחֲתִין)
+qlf2 | קלף | קַלֵּיף | verb (Pa'el) | to scrape off
+shwa | שוע | שָׁע | verb | to plaster
+dwv | דוב | דָּב | verb | to flow, discharge
+dova | דוב | דּוֹבָא | noun | discharge, flow (pl. דּוֹבָנָא)
+rwr | רור | רָר | verb | to run, flow (of a discharge)
+htm | חתם | חֲתַם | verb | to seal, close up (passive participle: blocked)
+merkava | רכב | מֶרְכְּבָא | noun | saddle, seat (for riding)
+shikhva | שכב | שִׁכְבְתָא | noun, f. | emission (of seed) (lit. lying)
+amy | עמי | עָמֵי | verb / adjective | to grow dim, fade (participle: dim; Hebrew: כֵּהָה)
+rq2 | ירק | יְרַק | verb | to spit
+ntr3 | נתר | נְתַר | verb | to fall out (of hair, leaves)
+gumra | גמר | גּוּמְרָא | noun | burning coal (pl. גּוּמְרִין)
+merda | מרד | מְרָדָא | noun | rebellion (Hebrew: פֶּשַׁע)
+sheda | שׁדד | שֵׁידָא | noun | demon (pl. שֵׁדִין; Hebrew: שְׂעִירִם)
+toevta | תעב | תּוֹעֵבְתָּא | noun, f. | abomination (as in the Hebrew)
+tivla | תבל | תִּבְלָא | noun | perversion (Hebrew: תֶּבֶל)
+nimosa | נמס | נִימוֹסָא | noun | custom, law (Greek nomos; pl. נִימוֹסִין)
+pata | פאי | פָּאתָא | noun, f. | corner, edge
+leqata | לקט | לְקָטָא | noun | gleanings (fallen ears left for the poor)
+nitra | נתר | נִתְרָא | noun | fallen fruit (grapes that drop in the harvest)
+ll2 | עלל | עוֹלֵל | verb (Pa'el) | to glean (the small clusters)
+hdr | הדר | הַדַּר | verb (Pa'el) | to honour; to show favour
+qurtsa | קרץ | קוּרְצָא | noun | slander (אֲכַל קוּרְצִין = to slander, lit. eat pieces)
+eruvin | ערב | עֵרוּבִין | noun, pl. | mixtures, two kinds (Hebrew: כִּלְאַיִם)
+shaatnez | | שַׁעַטְנֵזָא | noun | shaatnez (wool and linen woven together; as in the Hebrew)
+heruta | חרר | חֵרוּתָא | noun, f. | freedom
+shtar | שטר | שְׁטָרָא | noun | document, deed
+hrr | חרר | אִתְחָרַר | verb (Itpa'al) | to be set free
+nhsh | נחש | נַחֵשׁ | verb (Pa'el) | to practise divination (from omens)
+ann | ענן | עוֹנֵן | verb (Pa'el) | to practise soothsaying (by times or clouds)
+hibbula | חבל | חִבּוּלָא | noun | a wound, cutting (Hebrew: שֶׂרֶט)
+hrt | חרת | חֲרִית | adjective (passive participle) | incised, engraved
+dekhuru | דכר | דְּכוּרוּ | noun | sorcery of the "yidoni" (Hebrew: יִדְּעֹנִי); one who practises it
+mozna | אזן | מֹאזְנָא | noun | scales (pl. מֹאזְנָוָן)
+gayyafa | גוף | גַּיָּפָא | noun | adulterer (f. גַּיַּפְתָּא)
+qalana | קלן | קְלָנָא | noun | shame, disgrace
+hsd | חצד | חֲצַד | verb | to reap, harvest
+biqqurta | בקר | בִּקֻּרְתָּא | noun, f. | inquiry, investigation (Hebrew: בִּקֹּרֶת)
+bidin | | בִּדִּין | noun, pl. | necromancers (Hebrew: אֹבֹת)
+meshohta | משח | מְשׁוּחְתָּא | noun, f. | measure (of length or area)
+agira | אגר | אֲגִירָא | noun | hired worker
+muma | מום | מוּמָא | noun | blemish, defect
+moada | יעד | מוֹעֲדָא | noun | appointed time, festival (pl. מוֹעֲדַיָּא)
+mrt | מרט | מְרַט | verb | to pluck (out hair), make bald
+hagir | חגר | חֲגִיר | adjective | lame
+harim | חרם | חָרִים | adjective | with a slit (flattened) nose
+sheria | שרע | שְׂרִיעַ | adjective | with one limb longer than the other (Hebrew: שָׂרוּעַ)
+hilliz | חלז | חִלִּיז | adjective | with a white streak (in the eye; Hebrew: תְּבַלֻּל)
+garav | גרב | גַּרְבָן | adjective | with dry scabs (Hebrew: גָּרָב)
+hazaz | חזז | חֲזָזָן | adjective | with lichen (a skin rash; Hebrew: יַלֶּפֶת)
+mrs | מרס | מְרַס | verb | to crush (passive participle: crushed)
+pahda | פחד | פַּחֲדָא | noun | testicle (pl. פַּחֲדִין)
+rss | רסס | רְסַס | verb | to crush, bruise (passive participle: bruised)
+yabblan | יבל | יַבְּלָן | adjective | with warts (Hebrew: יַבֶּלֶת)
+etrog | | אֶתְרוֹגָא | noun | etrog, citron (pl. אֶתְרוֹגִין; Hebrew: פְּרִי עֵץ הָדָר)
+lulav | | לוּלָבָא | noun | lulav, palm branch (pl. לֻלַּבִּין)
+hadas | | הֲדַסָּא | noun | myrtle (pl. הֲדַסִּין)
+arva2 | ערב | עַרְבָתָא | noun | willow (pl. עַרְבִין)
+qedusha | קדש | קְדֻשְּׁתָא | noun, f. | holiness
+afrashuta | פרש | אַפְרָשׁוּתָא | noun, f. | separated portion (Hebrew: תְּרוּמָה)
+nyaha | נוח | נְיָחָא | noun | rest (a day of rest; Hebrew: שַׁבָּתוֹן)
+yabbava | יבב | יַבָּבָא | noun | (shofar) blast, sounding (Hebrew: תְּרוּעָה)
+gavin | גבן | גְּבִין | adjective | hunchbacked (lit. curved; Hebrew: גִבֵּן)
+ksh | כסח | כְּסַח | verb | to prune (a vineyard)
+kata | כתת | כַּתָּא | noun, f. | aftergrowth (grain sprouting from what fell at the last harvest; Hebrew: סְפִיחַ)
+qtf | קטף | קְטַף | verb | to pick (grapes, fruit)
+qetafa | קטף | קְטָפָא | noun | grape harvest, vintage
+shmitta | שמט | שְׁמִטְּתָא | noun, f. | release, the Sabbatical year (Hebrew: שַׁבָּתוֹן)
+yovla | יבל | יוֹבֵלָא | noun | the Jubilee (year)
+haluta | חלט | חֲלוּטִין | noun, pl. | permanence (לַחֲלוּטִין = permanently, beyond redemption)
+ribbita | רבי | רִבִּיתָא | noun, f. | increase, interest (on food; Hebrew: תַּרְבִּית)
+daysha | דוש | דַּיְשָׁא | noun | threshing
+nwd | נוד | אָנִיד | verb (Af'el) | to make tremble, frighten (Hebrew: מַחֲרִיד)
+tsdy | צדי | צְדָא | verb | to be laid waste, desolate; (Af'el) to lay waste
+bahalta | בהל | בַּהֶלְתָּא | noun, f. | terror, panic
+shahefta | שחף | שַׁחֶפְתָּא | noun, f. | consumption (a wasting disease)
+qadahta | קדח | קַדַּחְתָּא | noun, f. | fever
+hasin | חסן | חֲסִין | adjective | strong, hard
+swf | סוף | סָף | verb | to come to an end, be used up
+gry2 | גרי | גָּרֵי | verb (Pa'el) | to stir up, set against (Hebrew: וְהִשְׁלַחְתִּי)
+rdy | רדי | רְדָא | verb | to chastise, discipline; (Itpe'el) to accept discipline
+purenuta | פרע | פֻּרְעֲנוּתָא | noun, f. | punishment, retribution
+motana | מות | מוֹתָנָא | noun | pestilence, plague (lit. death)
+bamta | במי | בָּמְתָא | noun, f. | high place (for idolatry; pl. בָּמָתָא)
+hanisnisa | חנס | חֲנִיסְנְסָא | noun | pagan shrine (Hebrew: חַמָּן, sun-image)
+pigra | פגר | פִּגְרָא | noun | corpse
+pigur | פגר | פִּגּוּר | noun | destruction, ruin (other texts: פִּגְרֵי, corpses of)
+tequma | קום | תְּקוּמָה | noun | standing (power to stand up against)
+msy | מסי | מְסָא | verb | to melt; (Itpe'el) to melt away, waste away
+tafsha | טפש | טַפְשָׁא | adjective | dull, gross (of heart; Hebrew: הֶעָרֵל)
+prs3 | פרס | פְּרַס | verb | to value, assess
+ndr | נדר | נְדַר | verb | to vow; (participle) one who vows
+hlf | חלף | חַלֵּף | verb (Pa'el) | to exchange, substitute
+hilufa | חלף | חִלּוּפָא | noun | substitute, exchange
+kor | | כּוּרָא | noun | kor (a dry measure; Hebrew: חֹמֶר)
+hrm | חרם | אַחֲרֵם | verb (Af'el) | to devote (to the Sanctuary, irrevocably)
+herma | חרם | חֶרְמָא | noun | devoted thing (חֵרֶם)
+sahran | סחר | סַחֲרָנָא | noun | surroundings (בְּסַחֲרָנֵיכוֹן = around you)
+mwt3 | מוט | מָט | verb | to totter, give way (תְּמוּט יְדֵיהּ = his means fail)
+qwts | קוץ | קָץ | verb | to loathe, despise
+reqanu | ריק | רֵיקָנוּ | noun | emptiness (לְרֵיקָנוּ = in vain)
+teqas | טקס | טִקְסָא | noun | banner, standard (a division under its banner)
+yhs | יחס | אִתְיַחֵס | verb (Itpa'al) | to be registered by lineage
+amarkela | | אֲמַרְכְּלָא | noun | officer, overseer (in charge of the Sanctuary; Hebrew: נְשִׂיא)
+matula | נטל | מַטּוּלָא | noun | burden, load (to be carried)
+hanukta | חנך | חֲנֻכְּתָא | noun, f. | dedication (of the altar)
+qinata | קני | קִנְאָתָא | noun, f. | jealousy
+merirut | מרר | מְרִירוּ | noun | bitterness
+mhq | מחק | מְחַק | verb | to erase, blot out
+nzr | נזר | נְזַר | verb | to vow as a nazir; (Af'el) to set apart, keep (oneself) apart
+nezira | נזר | נְזִירָא | noun | a nazir (one who has taken the nazirite vow)
+nezirut | נזר | נְזִירוּ | noun | nazirite vow, nazirhood
+nizra | נזר | נִזְרָא | noun | nazirhood, the nazirite term (Hebrew: נֵזֶר)
+hal2 | חלל | חַלָּא | noun | vinegar
+matrut | תרי | מַתְרוּת | noun | liquid, infusion (of grapes steeped in water; Hebrew: מִשְׁרַת)
+purtsena | | פּוּרְצְנָא | noun | grape seed (pl. פּוּרְצְנִין)
+itsura | עצר | עִצּוּרָא | noun | pressing (of grapes; pl. עִצּוּרִין, here for Hebrew זָג, the skins)
+tekef | תכף | תְּכֵף | noun | instant (בִּתְכֵּף = suddenly)
+nhr | נהר | אַנְהַר | verb (Af'el) | to make shine, give light
+amen | | אָמֵן | interjection | amen (so be it)
+prq2 | פרק | פָּרֵק | verb (Pa'el) | to take apart, dismantle
+maalana | עלל | מַעֲלָנָא | noun | entrance
+pra2 | פרע | פְּרַע | verb | to uncover (the hair), let loose
+masppar | ספר | מַסְפַּר | noun | razor
+missa | מסס | מִסַּת | noun | measure, sufficiency (כְּמִסַּת = according to)
+hidda | חוד | חִדְוָא | noun | riddle, obscure speech (pl. חִדְוָן)
+invtan | ענו | עִנְוְתָן | adjective | humble
+kanfa | כנף | כַּנְפָא | noun | corner, edge (of a garment)
+turbyana | רבי | תֻּרְבְּיָנָא | noun | nurse, one who rears (a child)
+yokhla | יכל | יוּכְלָא | noun | ability, power
+tqa | תקע | תְּקַע | verb | to blow (a long blast on a trumpet)
+tuma | תום | תּוּמָא | noun | garlic (pl. תּוּמֵי)
+thn | טחן | טְחַן | verb | to grind
+tiltut | תלת | תַּלְתּוּת | noun | a third (of)
+sheelta | שאל | שְׁאֶלְתָּא | noun, f. | request, craving
+shth | שטח | שְׁטַח | verb | to spread out
+qts | קצץ | קְצָא | verb | to cut (off)
+qidra | | קִדְרָא | noun | pot
+qamtsa | קמץ | קַמְצָא | noun | grasshopper, locust (pl. קַמְצִין)
+ptah | פתח | פְּתַח | noun | opening (פְּתַח וַלְדָּא = the firstborn, lit. opening of the womb)
+ovarta | | עוֹבַרְתָּא | noun, f. | branch, shoot (Hebrew: זְמוֹרָה)
+nby | נבי | אִתְנַבֵּי | verb (Itpa'al) | to prophesy
+mashtih | שטח | מַשְׁטִיחָא | noun | spreading place, drying place (pl. מַשְׁטִיחִין)
+medukhta | דוך | מְדֻכְתָּא | noun, f. | mortar (for pounding)
+kruspeda | | כְּרוּסְפְּדָא | noun | fringe, tassel (tzitzit; pl. כְּרוּסְפְּדִין)
+karta | | כַּרְתָּא | noun | leek (pl. כְּרָתֵי)
+hatsotsra | | חֲצוֹצְרְתָא | noun, f. | trumpet (pl. חֲצוֹצְרָן)
+halla | חלל | חַלְּתָא | noun, f. | loaf (challah, the portion of dough given to the priest)
+hirhur | הרהר | הִרְהוּר | noun | thought, musing (of the heart)
+dwk | דוך | דָּךְ | verb | to pound, crush (in a mortar)
+butsla | בצל | בּוּצְלָא | noun | onion (pl. בּוּצְלֵי)
+avattiha | | אֲבַטִּיחָא | noun | melon (pl. אֲבַטִּיחַיָּא)
+atsva | | עֲצוֹתָא | noun, f. | dough (Hebrew: עֲרִסָה)
+arvav | ערב | עֲרַבְרְבִין | noun, pl. | mixed multitude (Hebrew: אסַפְסֻף)
+addayuta | נדי | אַדָּיוּתָא | noun, f. | sprinkling (מֵי אַדָּיוּתָא = water of sprinkling; Hebrew: מֵי נִדָּה)
+grm | גרם | גְּרַם | verb | to cause (to happen)
+kafrana | כפר | כַּפְרָנָא | noun | village (pl. כַּפְרָנִין)
+kft | כפת | כְּפַת | verb | to tie, bind; (of a tree) to bear (fruit)
+lwy2 | | לְוַי | interjection | if only, would that
+maatsarta | עצר | מַעְצַרְתָּא | noun, f. | winepress
+magzta | גוז | מְגִיזְתָּא | noun, f. | crossing, ford (pl. cs. מְגִיזַת)
+matla | מתל | מַתְלָא | noun | parable; (pl.) those who speak in parables
+meguf | גוף | מְגוּפָא | noun | stopper, lid
+mlata | מלי | מְלֵאתָא | noun, f. | fullness, full yield (Hebrew: מְלֵאָה)
+nkt | נכת | נְכַת | verb | to bite (of a snake)
+qal2 | קלי | קָלֵי | adjective (participle) | burning (lit. roasting; of snakes, Hebrew: שָׂרָף)
+qalil | קלל | קָלִיל | adjective | light, insubstantial
+reshit | | רֵאשִׁית | noun | first (portion) (as in the Hebrew)
+shfk | שפך | שְׁפוּךְ | noun | outpouring, cascade
+shhr | שחר | שַׁחַר | verb (Pa'el) | to confiscate, requisition
+shufra | שפר | שׁוּפְרָא | noun | beauty; the best part
+way | | וַי | interjection | woe
+gadera | גדר | גָּדֵרָא | noun | fence, wall
+gillula | גלל | גִּלּוּלָא | noun | idol (pl. גִּלּוּלִין)
+laut | לאי | לֵאוּת | noun, f. | toil, trouble, mischief (Hebrew: עָמָל)
+lhk | לחך | לַחֵיךְ | verb (Pa'el) | to lick up
+nahasha2 | נחש | נַחֲשָׁא | noun | diviner (pl. נַחֲשַׁיָּא; also: divinations)
+pnq | פנק | אִתְפַּנַּק | verb (Itpa'al) | to delight oneself, enjoy luxury
+qashshit | קשט | קַשִּׁיט | adjective | upright, truthful (pl. קַשִּׁיטִין)
+qassama | קסם | קַסָּמָא | noun | soothsayer (pl. קְסָמַיָּא)
+qisma | קסם | קִסְמָא | noun | divination; (pl.) payment for divination
+qubta | | קוּבְּתָא | noun, f. | tent, inner chamber (Hebrew: קֻבָּה)
+romha | רמח | רוּמְחָא | noun | spear
+satan | שטן | סָטָנָא | noun | adversary (לְמִסְטַן / לְשָׂטָן = as an adversary)
+sekhuta | סכי | סְכוּתָא | noun, f. | lookout, watching post (Hebrew: צֹפִים)
+tsrh | צרח | אִצְטְרַח | verb (Itpe'el) | to be equipped, assembled (for war)
+ylf | ילף | יְלַף | verb | to learn; (Pa'el) to be accustomed, practise (Af'el) teach
+nikhla | נכל | נִכְלָא | noun | deceit, cunning scheme (pl. נִכְלִין)
+nkl | נכל | נְכַל | verb | to plot, deal deceitfully
+matsut | נצי | מַצּוּתָא | noun, f. | strife, quarrel (Hebrew: מְרִיבָה)
+ahuda | אחד | אֲחוּדָא | noun | holding, possession (אֲחוּדַת אַחֲסָנָא = a possession of inheritance)
+atsarta | עצר | עַצְרְתָא | noun, f. | assembly, festival (Shavuot; Hebrew: בְּשָׁבֻעֹתֵיכֶם)
+adaa | עדי | עֲדָאָה | noun | spoil, plunder (Hebrew: שָׁלָל)
+avatsa | | אֲבָצָא | noun | tin
+dhy | דחי | דְּחָא | verb | to push, thrust
+divrta | דבר | דְּבַרְתָּא | noun, f. | captives, what was taken (Hebrew: מַלְקוֹחַ)
+esar | אסר | אֱסָרָא | noun | binding (a vow of abstinence; Hebrew: אִסָּר)
+gaal | גאל | גָּאֵל | noun | avenger, redeemer (גָּאֵל דְּמָא = the blood-avenger; as in the Hebrew)
+kamna | כמן | כְּמָנָא | noun | ambush
+masqana | סלק | מַסְקָנָא | noun | ascent
+mshh2 | משח | מְשַׁח | verb | to measure (out)
+nwy | ניא | אוֹנִי | verb (Af'el) | to discourage, break (the heart)
+perush | פרש | פֵּרוּשׁ | noun | utterance, expression (Hebrew: מִבְטָא)
+qaddasha | קדש | קַדָּשָׁא | noun | earring, nose-ring (pl. קַדָּשִׁין)
+rewah | רוח | רְוָחָא | noun | open space, surrounding land (Hebrew: מִגְרָשׁ)
+sgf | סגף | סַגֵּף | verb (Pa'el) | to afflict (oneself), fast
+shezavuta | שזב | שֵׁזָבוּתָא | noun, f. | refuge, rescue (קִרְוֵי שֵׁזָבוּתָא = cities of refuge)
+sigda | סגד | סִגְדְּתָא | noun, f. | worship (בֵּית סִגְדְּתָא = temple, house of worship)
+talmid | | תַּלְמִידָא | noun | student, disciple (here: follower)
+baa | בעע | אַבְעֵי | verb (Af'el) | to hurry
+dabbarta | דבר | דַּבַּרְתָּא | noun, f. | bee (pl. דַּבַּרְיָתָא)
+drk | דרך | דְּרַךְ | verb | to tread (מִדְרַךְ פַּרְסַת רִגְלָא = a footstep)
+isqa | עסק | עִסְקָא | noun | affair, business; (עַל עֵסַק = because of)
+kry2 | כרי | כְּרָא | verb | to buy (as in the Hebrew תִּכְרוּ)
+magira | | מָגִירָא | noun | neighbor (pl. מָגִירִין; Hebrew: שְׁכֵנָיו)
+mashpakh | שפך | מַשְׁפַּךְ | noun | slope (lit. outpouring) (Hebrew: אַשְׁדֹּת)
+ntz | נתז | נְתַז | verb | to spring out, swarm
+pelekh | | פֶּלֶךְ | noun | district (בֵּית פֶּלֶךְ = region)
+shefelta | שפל | שְׁפֵלְתָּא | noun, f. | lowland
+tirha | טרח | טִרְחָא | noun | burden, trouble
+tpl | תפל | אִתַּפַּל | verb (Itpa'al) | to malign; (with עַל) to complain about
+tsorkha | צרך | צָרְכָּא | noun | need
+awir | | אֲוִירָא | noun | air
+heilta | | חֵילְתָא | noun, f. | valley (Hebrew: גַּיְא)
+hezwan | חזי | חֶזְוָנָא | noun | vision; awesome sight (Hebrew: מוֹרָא)
+lm | אלם | אַלֵּם | verb (Pa'el) | to make firm, encourage
+rwg | רוג | רָג | verb | to covet, desire
+sukhletanu | סכל | סוּכְלְתָנוּ | noun | understanding
+aqrav | עקרב | עַקְרַבָּא | noun | scorpion (pl. עַקְרַבִּין)
+bly | בלי | בְּלָא | verb | to wear out; (Itpe'el) to become worn out
+mezona | זון | מְזוֹנָא | noun | food, sustenance
+shufina | שוף | שׁוּפִינָא | noun | file (tool for grinding)
+tafshut | טפש | טַפְשׁוּתָא | noun, f. | dullness, grossness (of heart; Hebrew: עָרְלַת)
+yarqa | ירק | יַרְקָא | noun | vegetables, greens
+yhf | יחף | יְחֵף | verb | to be barefoot
+baqra | בקר | בַּקְרָא | noun | herd (of cattle)
+abbof | עבף | עַבּוֹף | adjective | leafy, thick with leaves
+ayla | איל | אַיְלָא | noun | deer, hart
+ditsa | | דִּיצָא | noun | ibex (Hebrew: זֶמֶר)
+hesrona | חסר | חֶסְרוֹנָא | noun | lack, need
+hrv | חרב | חֲרַב | verb | to be destroyed, laid waste
+kewan | כון | כֵּוָן | adjective | correct, certain (lit. aimed true)
+maggla | | מַגְּלָא | noun | sickle
+oni | | עֹנִי | noun | affliction (as in the Hebrew)
+ply | פלי | פַּלֵּי | verb (Pa'el) | to clear away, remove
+rema | רום | רֵימָא | noun | wild ox; (here for Hebrew דִּישֹׁן)
+risha | רשע | רִשְׁעָא | noun | wickedness
+rshy | רשי | אַרְשֵׁי | verb (Af'el) | to lend (on credit)
+tavya | טבי | טַבְיָא | noun | gazelle
+tel | | תֵּל | noun | mound (as in the Hebrew)
+torbala | | תּוֹרְבָּלָא | noun | wild ox (Hebrew: תְאוֹ)
+yahmura | | יַחְמוּרָא | noun | roebuck
+yala2 | יעל | יַעְלָא | noun | wild goat (Hebrew: אַקּוֹ)
+bayyar | בור | בַּיָּר | adjective | uncultivated, rough (of land)
+garzna | | גַּרְזְנָא | noun | axe
+gizza | גזז | גִּזָּא | noun | shearing, fleece
+hnk | חנך | חֲנַךְ | verb | to dedicate, inaugurate
+karqom | | כַּרְקוֹמָא | noun | siege work, bulwark (pl. כַּרְקוֹמִין)
+loa | לוע | לוֹעָא | noun | jaw, cheek
+mrg | מרג | אִתְמְרֵג | verb (Itpe'el) | to swing, be swung
+patshegen | | פַּתְשֶׁגֶן | noun | copy (a Persian loanword; Hebrew: מִשְׁנֵה)
+pura | פרע | פּוּרְעָנָא | noun | officer, enforcer (pl. פֻרְעָנִין; Hebrew: שֹׁטְרִים)
+qeva | קבב | קֵבְתָא | noun, f. | stomach (Hebrew: קֵבָה)
+qsm | קסם | קְסַם | verb | to practise divination
+rtn | רטן | רְטַן | verb | to mutter (spells), charm
+tsyara | צור | צְיָרָא | noun | siege
+horsha | חרש | חֻרְשָׁא | noun | forest, wood
+avera | עבר | עֲבֵירְתָא | noun, f. | transgression (עֲבֵרַת פִּתְגָּם = an indecent matter; Hebrew: עֶרְוַת דָּבָר)
+bal2 | בעל | בְּעַל | verb | to marry (lit. to become husband)
+behta | בהת | בַּהַתְּתָא | noun, f. | shame; (בֵּית בַּהַתְּתֵיהּ = his private parts)
+beta | | בֵּיעֲתָא | noun, f. | egg (pl. בֵּיעִין)
+betulin | בתל | בְּתוּלִין | noun, pl. | signs of virginity
+dwsh | דוש | דָּשׁ | verb | to thresh
+efroha | פרח | אֶפְרוֹחָא | noun | young bird, chick (pl. אֶפְרֹחִין)
+get | | גֵּט | noun | document (גֵּט פִּטּוּרִין = a bill of divorce)
+hbt | חבט | חֲבַט | verb | to beat (olives off a tree)
+kisa | | כִּיסָא | noun | pouch, purse
+mamzer | | מַמְזֵרָא | noun | mamzer (one born of a forbidden union)
+melila | מלל | מְלִילְתָא | noun, f. | ear of grain (pl. מְלִילָן)
+nevelta | נבל | נְבִלְתָּא | noun, f. | corpse, carcass
+pitturin | פטר | פִּטּוּרִין | noun, pl. | dismissal, divorce
+qery | קרי | קְרִי | noun | occurrence (מִקְּרֵה לֵילְיָא = a nocturnal emission)
+qinna | קנן | קִנָּא | noun | nest
+rby3 | רבי | רַבֵּי | verb (Pa'el) | to lend at interest (lit. to increase)
+rdy2 | רדי | רְדָא | verb | to plough
+rikhba | רכב | רִכְבָּא | noun | upper millstone (lit. rider)
+tasqofa | | תַּסְקוֹפָא | noun | false charge, pretext (Hebrew: עֲלִילֹת)
+tgr | תגר | אִתַּגַּר | verb (Itpa'al) | to trade, do business
+tiqqun | תקן | תִּקּוּנָא | noun | adornment, gear
+tyaqa | | תְּיָקָא | noun | parapet (Hebrew: מַעֲקֶה)
+yevam | יבם | יְבָמָא | noun | brother-in-law (husband's brother)
+yevimta | יבם | יְבִמְתָּא | noun, f. | sister-in-law (brother's widow)
+zannita | זני | זַנִּיתָא | noun, f. | harlot
+zll | זלל | זְלַל | verb | to be gluttonous (participle: glutton)
+artilyuta | ערטל | עַרְטִלְיוּתָא | noun | nakedness
+bishut | באש | בִּישׁוּתָא | noun | evil, wickedness
+duhqa | דחק | דּוּחְקָא | noun | oppression, distress
+glal | גלל | גְּלָל | noun | cause; (with בִּ) on account of
+hamota | חמי | חֲמוֹתָא | noun | mother-in-law
+harhura | חרר | חַרְחוּרָא | noun | burning fever
+haris | חרס | חֲרִיס | noun | itch, eczema
+hasirut | חסר | חֲסִירוּתָא | noun | want, lack
+htv | חטב | חֲטַב | verb | to single out, choose (lit. to make unique)
+mahata | מחי | מָחָתָא | noun | blow, plague
+meerta | ארר | מְאֶרְתָּא | noun | curse
+mezofita | זוף | מְזוֹפִיתָא | noun | rebuke
+moha | מחח | מוֹחָא | noun | brain; crown of the head
+nisa | נסי | נִסָּא | noun | miracle; trial
+rakkikhu | רכך | רַכִּיכוּ | noun | tenderness
+rhts | רחץ | רְחַץ | verb | to trust
+rkuba | רכב | רְכוּבְתָא | noun | knee
+rwa | רעע | רְעַע | verb | to crush, break
+samyuta | סמי | סַמְיוּתָא | noun | blindness
+saqqaa | | סַקָּאָה | noun | a kind of locust
+shaamamut | עמם | שַׁעֲמָמוּת | noun | confusion, bewilderment (of heart)
+shapirut | שפר | שַׁפִּירוּתָא | noun | goodness, gladness
+shgr | שגר | שַׁגַּר | verb | to cast out, throw away
+shiddefona | שדף | שִׁדְּפוֹנָא | noun | blight (scorching wind)
+shty2 | שטי | שַׁטֵּי | verb | (Itpa'al) to go mad
+shwy3 | שעי | שׁוֹעִי | noun | tale, byword
+sida | סוד | סִידָא | noun | lime, plaster
+swd | סוד | סוּד | verb | to plaster
+swk | סוך | סוּךְ | verb | to anoint (oneself)
+tehor | טחר | טְחוֹרִין | noun | hemorrhoids (pl.)
+tihra | טהר | טִיהֲרָא | noun | noon, midday
+tltl | טלטל | טַלְטֵל | verb | to move; (Itpa'al) to be uprooted, wander
+tolaa | תלע | תּוֹלַעְתָּא | noun | worm
+tsadu | צדי | צָדוּ | noun | desolation, astonishment
+yabbish | יבש | יַבִּישׁ | adjective | dry
+yarqona | ירק | יַרְקוֹנָא | noun | mildew, jaundice
+zia | זוע | זִיעָא | noun | trembling, terror
+krk | כרך | כְּרַךְ | verb | to surround; (passive ptc.) fortified
+dleqta | דלק | דַּלֶּקְתָּא | noun | inflammation, burning fever
+hrhr | הרהר | הַרְהַר | verb | to muse, think (esp. on sin); (noun הַרְהוֹר) musing, thought
+zadon | זוד | זָדוֹן | noun | willful sin, presumption
+galuta | גלי | גָּלוּתָא | noun | exile
+sarvanut | סרב | סַרְבָנוּתָא | noun | rebelliousness
+akhzar | אכזר | אַכְזְרָא | adjective | cruel
+awla | עול | עַוְלָא | noun | injustice, wrong
+bt | בעט | בְּעַט | verb | to kick; to rebel
+harga | חרג | חַרְגְּתָא | noun | terror, dread
+hdt | חדת | חַדֵּת | verb | to renew; (Itpa'al) to be renewed
+hemanu | אמן | הֵימָנוּתָא | noun | faithfulness, faith
+hwf | חפף | חוֹפֵף | verb | to cover, hover over; (Itpa'al) to hover
+hwl | חול | חוּל | verb | to make rest, let (anger) settle
+kitra | כתר | כִּתְרָא | noun | crown
+laquta | לקי | לָקוּתָא | noun | smiting, punishment
+mabba | בעי | מַבַּע | noun | what is hastening (to come)
+magen | גנן | מָגֵן | noun | shield, protection
+malqosha | לקש | מַלְקוֹשָׁא | noun | late rain
+merarta | מרר | מְרָרְתָא | noun | gall, bile, venom
+mhsh | חוש | אַחִישׁ | verb (Af'el) | to stir up, rouse
+nshv | נשב | נְשַׁב | verb | to blow
+puranuta | פרע | פֻּרְעָנוּתָא | noun | punishment, retribution
+ravrav | רבב | רַבְרֵב | verb | (Itpa'al) to boast, magnify oneself
+reqa | ריק | רֵיקָא | adjective | empty, vain
+rsis | רסס | רְסִיסָא | noun | drop (of rain), raindrop
+tashlamta | שלם | תַּשְׁלָמְתָא | noun | recompense, payment
+tawna | תון | תַּוְנָא | noun | inner room, chamber
+tevar | תבר | תְּבָרָא | noun | breaking, destruction
+zhl | זחל | זְחַל | verb | to crawl, creep
+ganya | גני | גַּנְיָא | adjective | hidden; honored (lit. the one set apart)
+gur | גור | גּוּרָא | noun | cub, whelp
+hasid | חסד | חֲסִידָא | adjective | pious, devoted
+hbb | חבב | חַבֵּב | verb | to love, hold dear
+magdana | מגד | מַגְדָּנָא | noun | choice produce, delicacy
+zehor | זהר | זֵהוֹרָא | noun | brilliance, radiance
+ziwa | זיו | זִיוָא | noun | splendor, radiance

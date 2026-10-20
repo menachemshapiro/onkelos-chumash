@@ -1,0 +1,90 @@
+# Shemot 11:4–12:20
+כְּ=at.פַלְגוּת | palga | n fs cs | at about the half of (the night)
+מִתְ~ptcGt.גְלִי | gly | Gt ptc ms | (I) am revealing Myself
+מַלְכוּת.ֵהּ=his | malkhu | n+3ms | his kingdom
+רֵיחְי.ָא=emph | reihya | n emph | the millstones
+צְוַחְתּ.ָא=emph | tsiwha | n fs emph | an outcry
+תוֹ~C.סֵף | ysf | C impf 3fs | will there be again (lit. will it add)
+יַ~C.נְזֵק | nzq | C impf 3ms | (a dog) will (not) harm (i.e. bark at)
+בְּ=with.לִישְׁנ.ֵהּ=its | lishan | n+3ms | with its tongue
+לְ=.מִ~inf.נְבַּח | nvh | G inf | to bark
+לְ=.מֵ=from.אֲנָשׁ.ָא=emph | enash | n emph | from man (לְמֵאֲנָשָׁא וְעַד בְּעִירָא = man and beast alike)
+דְ=that.תִ~ypl_f.דְע.וּן~mp | yd | G impf 2mp | that you (pl.) may know
+דְ=that.יַ~he_f.פְרֵישׁ | prsh | C impf 3ms | that (Hashem) distinguishes
+וְ=.יֶ~they_f.חֱת.וּן~mp | nht | G impf 3mp | and (they) will come down | the נ of נחת drops out
+וְ=.יִ~they_f.בְע.וֹן~mp | bay | G impf 3mp | and (they) will ask
+אֶ~I_f.פּוֹק | npq | G impf 1cs | I will go out | the נ of נפק is absorbed
+רְגָז | rugza | n | anger
+קַדְמַאי | qadmai | a ms | first
+לְ=of.יַרְח.ֵי~cs_pl | yarha | n mp cs | of the months of
+כְּנִשְׁתּ.ָא=emph | kenishta | n fs emph | the congregation
+כְנִשְׁתּ.ָא=emph | kenishta | n fs emph | the congregation
+מִ=from.כְּנִשְׁתּ.ָא=emph | kenishta | n fs emph | from the congregation
+יִ~he_f.זְעֵיר | zeir | !verb, Pe‘al, imperfect (future), 3rd masc. sing. | (if the household) is too small
+מִ=from.לְ=.אִתְ~Gt.מְנָא.ָה~inf_end | mny | Gt inf | from being counted (i.e. too few for a lamb)
+אִמְר.ָא=emph | imra | n emph | the lamb
+אִמַר | imra | n | a lamb
+וְ=.שֵׁיבָב.ֵהּ=his | shvav | n+3ms | and his neighbor
+בְּ=by.מִנְיַן | minyan | n cs | by the number of
+מֵיכְל.ֵהּ=his | meikhla | n+3ms | his eating
+תִּ~ypl_f.תְ~Gt.מְנ.וּן~mp | mny | Gt impf 2mp | you shall be counted
+שַׁתּ.ֵהּ=its | shna | n+3ms | its year (בַּר שַׁתֵּהּ = in its first year)
+אַרְבְּע.ָא=emph | arba | num | four (אַרְבְּעָא עַסְרָא = fourteen)
+בְּ=on.אַרְבְּע.ָא=emph | arba | num | on the four(teenth)
+וְ=.יִ~they_f.כְּס.וּן~mp | nks | G impf 3mp | and they shall slaughter | the נ of נכס is absorbed
+קְהָל.ָא=emph | qhal | n emph | the assembly of
+שִׁמְשַּׁ.יָא~emphp | shimsha | n mp emph | (between) the suns (בֵּין שִׁמְשַׁיָּא = at twilight)
+סִפַּ.יָא~emphp | sippa | n mp emph | the doorposts
+שַׁקְפ.ָא=emph | shaqfa | n emph | the lintel
+בִּסְר.ָא=emph | bsr | n emph | the meat
+בְּ=in.לֵיל.ָא=emph | lelya | n emph | in (that) night
+טְוֵי | tewe | a | roasted (טְוֵי נוּר = roasted in fire)
+נוּר | nura | n | fire
+מְרָר.ִין~pl | merir | n mp abs | bitter herbs
+יֵ~they_f.כְלֻ.נֵהּ=it | akhal | G impf 3mp+3ms | they shall eat it | the א of אכל becomes י
+בַשָׁל.ָא~inf_end | bshl | D inf | cooked (doubles the verb: cooked at all)
+מְ~ptcD.בַשֵׁל | bshl | D ptc pass ms | cooked
+כְּרָע.וֹהִי=its | kera | n mp+3ms | its legs
+גַו.ֵהּ=its | go | n+3ms | its innards (lit. its inside)
+תַ~ypl_f.שְׁאֲר.וּן~mp | shar | C impf 2mp | you shall (not) leave over
+וּ=.דְ=what.יִ~he_f.שְׁתָּ~passive (Itpe‘el).אַר | shar | Gt impf 3ms | and what is left over
+תוֹ~ypl_f.קְד.וּן~mp | yqd | C impf 2mp | you shall burn | the י of יקד becomes ו
+חַרְצ.ֵיכוֹן=your | hartsa | n mp+2mp | your loins
+מְסָנ.ֵיכוֹן=your | msana | n mp+2mp | your shoes
+וְ=.חוּטְר.ֵיכוֹן=your | hutra | n mp+2mp | and your staffs
+בִּ=in.יד.ֵיכוֹן=your | yad | n fp+2mp | in your hands
+בִּ=in.בְהִילוּ | bahilu | n | in haste
+פִּסְח.ָא=emph | pasha | n emph | a Pesach offering
+דִינ.ִין~pl | din2 | n mp abs | judgments
+וְ=.אֵי~I_f.חוֹס | hws | G impf 1cs | and I will have pity (Hebrew: וּפָסַחְתִּי)
+בְ.כוֹן=you | be | prep+2mp | among (lit. in) you
+בְּ=when.מִ~inf.קְטְל.ִי=I | qtl | G inf+1cs | when I kill
+וּ=.תְ~ypl_f.חַג.וּן~mp | hgg | G impf 2mp | and you shall celebrate
+לְ=for.דָר.ֵיכוֹן=your | dar | n mp+2mp | for your generations
+תְּ~ypl_f.חַגֻ.נֵהּ=it | hgg | G impf 2mp+3ms | you shall celebrate it
+פַּטִיר | patir | n | matzah (lit. unleavened)
+פַּטִיר.ָא=emph | patir | n emph | the matzah
+חֲמִיר.ָא=emph | hamira | n emph | leaven
+חֲמִיר | hamira | n | leaven
+חֲמִיעַ | hamia | a | leavened food
+וְ=.יִ~he_f.שְׁתֵּ~passive (Ishtaf‘al).צֵי | shetsi | Sht impf 3ms | and (that soul) will be cut off (lit. destroyed)
+מְעָרַע | meara | n | a (holy) convocation
+עִיבִיד.ָא=emph | avidta | n emph | work
+מִתְ~ptcGt.אֲכֵל | akhal | Gt ptc ms | is eaten
+נְפַשׁ | nafsha | n cs | soul (i.e. person)
+אַ~C.פֵּיקִ.ית~I_p | npq | C pf 1cs | I brought out | the נ of נפק is absorbed
+חֵיל.ֵיכוֹן=your | heil | n mp+2mp | your hosts
+בְּ=in.נִיסָן | name | name | in Nisan
+מַחְמְע.ָא=emph | mahmea | n emph | leavened food
+בְּ=among.גִיוֹר.ָא=emph | giyora | n emph | among the converts (Hebrew: בַּגֵּר)
+וּ=.בְ=among.יַצִיב.ָא=emph | yatsiv | n emph | and among the natives
+מוֹתְבָנ.ֵיכוֹן=your | motav | n mp+2mp | your dwellings
+כַּלְבּ.ָא=emph | kalba | n emph | a dog
+12:15> דְ=who.יֵ~he_f.כוּל | akhal | G impf 3ms | who eats | the א of אכל becomes י
+12:19> דְ=who.יֵ~he_f.כוּל | akhal | G impf 3ms | who eats | the א of אכל becomes י
+12:4> דְ=who.קָרִיב | qariv | a | who is near
+12:3> בְּ=on.עַסְר.ָא=emph | asra | num | on the tenth
+11:9> לְ=.אַ~C.סְגָא.ָה~inf_end | sgy | C inf | to multiply
+12:4> לְ=according to.פוּם | pum | n cs | according to (lit. to the mouth of)
+12:11> בְּ=on.רִגְל.ֵיכוֹן=your | regel | n fp+2mp | on your feet
+11:8> בִּ=in.תְקוֹף | tqof | n cs | in the strength of (i.e. in fierce anger)

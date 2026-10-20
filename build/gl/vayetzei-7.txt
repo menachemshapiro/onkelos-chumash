@@ -1,0 +1,30 @@
+# Vayetzei 31:43–54
+בְּנָת.ָא=emph | bnat | n fp emph | the daughters
+עָנ.ִי=my | ana2 | n+1cs | my sheep
+דִּיל.ִי=my | dil | part+1cs | mine
+לִ=to.בְנֵי.הֶן=their (fem.) | bnin | n mp+3fp | to their children
+דִּ=whom.ילִיד.ָן~they (fem.), past | yld | G pf 3fp | whom they have borne
+אֱתָא | aty | G impv ms | come
+נִ~we_f.גְזַר | gzr | G impf 1cp | let us make (lit. cut) (a covenant)
+סָהִיד | sahid | n | a witness
+וּ=.זְקָפַ.הּ=it | zqf | G pf 3ms+3fs | and (he) set it up
+לְקוּט.וּ~cmd_pl | lqt | G impv mp | gather
+אַבְנ.ִין=pl | avna | n fp abs | stones
+דְּגוֹר.ָא=emph | dgora | n emph | a heap
+יְגַר | yegar | n cs | the heap of (Aramaic, as in the Torah: יְגַר שָׂהֲדוּתָא)
+שַׂהֲדוּת.ָא=emph | sahadu | n fs emph | witness, testimony
+גַּלְעֵד | name | name | Gal‘ed
+וְ=.סָכוּת.ָא=emph | skhuta | n fs emph | and the lookout (Hebrew: וְהַמִּצְפָּה)
+יִ~he_f.סֶךְ | skh | G impf 3ms | may (Hashem) watch
+נִ~we_f.תְ~Dt.כַּסִּי | ksy | Dt impf 1cp | we are hidden
+תְּ~you_f.עַנֵּי | any | D impf 2ms | you mistreat
+קַמְת.ָא=emph | qama | n fs emph | the pillar
+אֲ~C.קֵימ.ִית~I_p | qwm | C pf 1cs | I have set up
+וְ=.סָהֲד.ָא=emph | sahid | n emph | and witness
+תֵ~you_f.עִבַּר | avr | G impf 2ms | you (shall not) pass
+לְ=for.בִישׁוּ | bishu | n | for harm
+יְ~they_f.דוּנ.וּן~mp | dyn | G impf 3mp | may (they) judge
+וְ=.קַיֵּים | qwm2 | D pf 3ms | and (Yaakov) swore (lit. affirmed)
+בִּ=by.דְ=the One that.דָחִיל | dhl | G ptc ms | by the One that (his father Yitzchak) feared
+וּ=.נְכֵס | nks | G pf 3ms | and (he) slaughtered
+נִכְסָת.ָא=emph | nikhsta | n fs emph | a slaughtered offering, feast (Hebrew: זֶבַח)

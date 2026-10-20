@@ -1,0 +1,53 @@
+# Shemot 23:6–19
+תַ~you_f.צְלֵי | tsly2 | C impf 2ms | you shall (not) pervert
+בְּ=in.דִינ.ֵהּ=his | din2 | n+3ms | in his case
+רָחִיק | rahiq | a | far
+וְ=.דִ=whoever.זְכֵי | zky | G pf 3ms | and (whoever) was acquitted
+אֱ~I_f.זַכֵּי | zky | D impf 1cs | I will (not) acquit
+וְ=.שׁוֹחֲד.ָא=emph | shohada | n emph | and a bribe
+שׁוֹחֲד.ָא=emph | shohada | n emph | a bribe
+מְ~ptcD.עַוֵר | awwr | D ptc ms | blinds
+וּ=.מְ~ptcD.קַלְקֵל | qlql | Q ptc ms | and perverts
+פִּתְגָמ.ִין~pl | pitgam | n mp abs | words
+תְּרִיצ.ִין~pl | trits | a mp | just
+הֲוֵי.תוּן~ypl_p | hwy | G pf 2mp | you were
+תִּ~you_f.זְרַע | zra | G impf 2ms | you shall sow
+תִ~you_f.זְרַע | zra | G impf 2ms | you sow
+אַרְע.ָךְ=your | ara | n+2ms | your land
+עֲלַלְתּ.ַהּ=its | alalta | n fs+3fs | its produce
+וּ=.שְׁבִעֵת.ָא=emph | shevia | ord fs emph | and the seventh (year)
+תַּ~you_f.שְׁמְטִ.נַהּ=it | shmt | C impf 2ms+3fs | you shall release it
+וְ=.תַ~you_f.רְטְשִׁ.נַהּ=it | rtsh | G impf 2ms+3fs | and abandon it
+וּ=.שְׁאָרְ.הוֹן=their | shear | n+3mp | and what they leave (lit. their remainder)
+לְ=with.כַרְמ.ָךְ=your | karma | n+2ms | with your vineyard
+לְ=with.זֵית.ָךְ=your | zayta | n+2ms | with your olive grove
+עוֹבָד.ָיךְ=your | ovada | n mp+2ms | your work
+תָּ~you_f.נוּחַ | nwh | G impf 2ms | you shall rest
+וְ=.חַמָר.ָךְ=your | hmara | n+2ms | and your donkey
+וְ=.יִשְּׁ~he_f.קוֹט | shqt | G impf 3ms | and (the son of your maidservant) may be refreshed (lit. rest)
+תִּ~ypl_f.סְתַּ~Dt.מְר.וּן~mp | shmr | Dt impf 2mp | you shall beware | the ת moves after the ס
+תִ~ypl_f.דְכְּר.וּן~mp | dkr | G impf 2mp | you shall (not) mention
+יִשְׁתְּ~passive (Ishtaf‘al).מַע | shm | Gt impf 3ms | (it shall not) be heard | the ת moves after the ש
+פּוּמְ.כוֹן=your | pum | n+2mp | your mouth
+תֵּ~you_f.חוֹג | hgg | G impf 2ms | you shall celebrate
+דְ=of.פַטִיר.ַיָא~emphp | patir | n mp emph | of matzos
+תִּ~you_f.טַר | ntr | G impf 2ms | you shall keep | the נ of נטר is absorbed
+דִ=as.פַקֵידִ.תָּךְ~I_p+you | pqd | D pf 1cs+2ms | as I commanded you
+דַ=of.אֲבִיב.ָא=emph | avviv | n emph | of the ripening (Aviv)
+נְפַקְ.תָּ~you_p | npq | G pf 2ms | you went out
+יִתְ~Gt.חֲז.וּן~mp | hzy | Gt impf 3mp | (they) shall appear
+רֵיקָנ.וּן~mp | reqan | a mp | empty-handed
+דַ=of.חֲצָד.ָא=emph | hatsad | n emph | of the harvest
+בִּכּוּר.ֵי~cs_pl | bikkura | n mp cs | the first fruits of
+דִ=of.כְנָשׁ.ָא=emph | kenasha | n emph | of the ingathering
+בְּ=at.מִ~inf.פְּק.ָא=emph | npq | !noun (infinitive form), emphatic | at the going out of (i.e. the end of) | the נ of נפק is absorbed
+בְּ=when.מִ~inf.כְנְשׁ.ָךְ=you | kns | G inf+2ms | when you gather in
+דְכוּר.ָךְ=your | dekhura | n+2ms | your males
+23:17> רִבּוֹן | ribbon | n cs | the Master of
+תִ~you_f.כּוֹס | nks | G impf 2ms | you shall (not) slaughter | the נ of נכס is absorbed
+פִּסְח.ִי=My | pasha | n+1cs | My Pesach (offering)
+יְ~they_f.בִית.וּן~mp | bwt | G impf 3mp | (they shall not) remain overnight
+תַּרְבּ.ֵי~cs_pl | tarba | n mp cs | the fats of
+תַּ~you_f.יְתִי | aty | C impf 2ms | you shall bring | the א of אתי becomes י
+מִקְדְשׁ.ָא=emph | maqdash | n emph | the Sanctuary of
+23:12> דִ=so that.יְ~he_f.נוּחַ | nwh | G impf 3ms | so that (your ox) may rest

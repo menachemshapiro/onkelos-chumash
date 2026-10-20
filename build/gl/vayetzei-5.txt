@@ -1,0 +1,115 @@
+# Vayetzei 30:28–31:16
+פָּרֵישׁ | prsh | D impv ms | specify (Hebrew: נָקְבָה)
+בְעִיר.ָךְ=your | beir | n+2ms | your livestock
+בְּדִיל.ִי=me | bdil | prep+1cs | for my sake
+אֵימָתַי | eimatai | adv | when
+אֶ~I_f.תֶּן | yhb | G impf 1cs | shall I give | the future of יְהַב is built from נתן
+תַּ~you_f.עְבֶּד | avad | G impf 2ms | you will do
+אֱ~I_f.תוּב | twv | G impf 1cs | I will again (lit. return)
+אֶ~I_f.רְעֵי | rey | G impf 1cs | I will tend
+עָנ.ָךְ=your | ana2 | n+2ms | your sheep
+אֶ~I_f.טָּר | ntr | G impf 1cs | I will guard | the נ of נטר is absorbed (the dot in ט)
+אֶ~I_f.עְבַּר | avr | G impf 1cs | I will pass
+הַ~C.עֲדֵי | dy_rm | C inf | removing (a variant reading)
+אַ~C.עְדִּי | dy_rm | C inf | removing (Hebrew: הָסֵר)
+אִמָּר | imra | n | lamb, sheep (Hebrew: שֶׂה)
+נְמוֹר | nemor | a ms | speckled
+וּ=.רְקוֹעַ | reqoa | a ms | and spotted
+שְׁחוּם | shhum | a ms | dark (brown)
+אִמְּר.ַיָּא=emphp | imra | n mp emph | the sheep (lambs)
+עִזּ.ַיָּא=emphp | iza | n fp emph | the goats
+וְ=.תַ~she_f.סְהֵד | shd2 | C impf 3fs | and (my righteousness) will testify
+זָכוּת.ִי=my | zakhu | n fs+1cs | my righteousness
+דִּ=of.מְחָר | mehar | adv | of tomorrow (= in the future)
+לֵית.וֹהִי=it, him | leit | part+3ms | is not (there is not in it)
+גְּנוּב.ָא=emph | gnv | Gp ptc ms | stolen
+כְ=like.פִתְגָּמ.ָךְ=your | pitgam | n+2ms | according to your word
+תְּיָשׁ.ַיָּא=emphp | tayasha | n mp emph | the he-goats
+רְגוֹל.ַיָּא=emphp | regol | a mp emph | the striped (ones)
+וּ=.רְקוֹע.ַיָּא=emphp | reqoa | a mp emph | and the spotted (ones)
+נְמוֹרְת.ָא=emph | nemor | a f emph | the speckled (ones)
+וּ=.רְקוֹעֲת.ָא=emph | reqoa | a f emph | and the spotted (ones)
+חִוָּר | hiwwar | a ms | white
+דִּ=that (is).שְׁחוּם | shhum | a ms | that is dark (brown)
+בְּ=into.יַד | yad | n cs | into the hand(s) of
+מַהֲלַךְ | mahalakh | n cs | a journey of
+בֵּינ.וֹהִי=him | bein | prep+3ms | between himself
+דְּ=that.אִ~Gt.שְׁתָּאֳר.ַן~they (fem.), past | shar | Gt pf 3fp | that were left | the passive ת moves after the ש
+חוּטְר.ִין=pl | hutra | n mp abs | rods
+רַטִּיב.ִין~mp | rattiv | a mp | fresh
+דִּ=of.לְבָן | livna | n | of poplar (Hebrew: לִבְנֶה)
+דִּ=of.דְלוּז | luz | n | of almond (Hebrew: וְלוּז) | CAL’s text reads וּדְלוּז, “and of almond”
+וְ=.דִ=of.דְלוּף | dulva | n | and of plane tree (Hebrew: וְעַרְמוֹן) | CAL’s text reads וְדִדְלוּב
+וְ=.קַלִיף | qlf | D pf 3ms | and (he) peeled
+קִלְפ.ִין=pl | qilfa | n mp abs | stripes (of peeled bark)
+חִוָּר.ִין~mp | hiwwar | a mp | white
+קִלוּף | qilluf | n cs | the laying bare of (Hebrew: מַחְשֹׂף)
+חוּטְר.ַיָּא=emphp | hutra | n mp emph | the rods
+וְ=.דַעֵיץ | dts | D pf 3ms | and (he) set (them) up (Hebrew: וַיַּצֵּג)
+קַלִּיף | qlf | D pf 3ms | (he) had peeled
+בִּ=in.רְהָט.ַיָּא=emphp | rahata | n mp emph | in the troughs
+שָׁקְי.ָא=emph | shaqya | n emph | of watering (בֵּית שָׁקְיָא = the watering place)
+דְּ=that.אָתְי.ָן~fp | aty | G ptc fp | where (the sheep) come
+30:38>דְּ=that.אָתְי.ָן~fp | aty | G ptc fp | where (the sheep) come (a variant reading)
+לְ=.קִבְל.ֵהוֹן=them | qbl | prep+3mp | facing them
+מִ~ptc.תְ~Dt.יַחֲמ.ָן~fp | yhm | Dt ptc fp | (they) would mate
+וּ=.מִ~ptc.תְ~Dt.יַחֲמ.ָן~fp | yhm | Dt ptc fp | and (they) would mate
+בְּ=.מֵיתֵי.הוֹן=their | meta | n+3mp | when they came (lit. in their coming)
+אִתְ~Dt.יַחֲמָ.א~they (fem.), past | yhm | Dt pf 3fp | (the sheep) mated
+וִ=.ילִיד.ָא~they (fem.), past | yld | G pf 3fp | and (the sheep) gave birth (to)
+רְגוֹל.ִין~mp | regol | a mp | striped
+נְמוֹר.ִין~mp | nemor | a mp | speckled
+וּ=.רְקוֹע.ִין~mp | reqoa | a mp | and spotted
+אַ~C.פְרֵשׁ | prsh | C pf 3ms | (he) separated
+דִּ=that (was).רְגוֹל | regol | a ms | that was striped
+עֲרֵבִ.נּוּן=them | rv | G pf 3ms+3mp | (he) mixed them
+מְ~ptcD.בַכַּרְתּ.ָא~fs | bkr | D ptc fs | the early-bearing (sheep) (Hebrew: הַמְקֻשָּׁרוֹת, the strong)
+לְ=.יַחָמוּתְ.הוֹן=their | yahamu | n fs+3mp | for their mating
+וּ=.בְ=.לַקִּישׁוּת | laqqishut | n fs cs | and at the late bearing of (Hebrew: וּבְהַעֲטִיף, when they were feeble)
+מְ~ptcD.שַׁוֵּי | shwy | D ptc ms | (he would not) place
+וּ=.מְ~ptcD.שַׁוִּי | shwy | D ptc ms | and (Yaakov) would place
+בְּ=at.רֵישׁ | resh | n cs | at the head of
+לַקְּשׁ.ַיָא=emphp | laqish | a mp emph | the late ones (Hebrew: הָעֲטֻפִים, the feeble)
+וּ=.בַכִּיר.ַיָּא=emphp | bakkir | a mp emph | and the early ones (Hebrew: הַקְּשֻׁרִים, the strong)
+עָן | aan | n | sheep
+סַגִּיא.ָן~fp | saggi | a fp | many
+וַ=.אַמְה.ָן=pl | amta | n fp abs | and maidservants
+דְּ=who (were).אָמְר.ִין~mp | amr | G ptc mp | saying
+נְסִיב | nsv | G pf 3ms | has taken
+קְנָא | qny | G pf 3ms | (he) acquired
+נִכְס.ַיָּא=emphp | nikhsin | n mp emph | the possessions (Hebrew: הַכָּבֹד, wealth)
+סְבַר | svar | n cs | the expression of (סְבַר אַפֵּי = the countenance of)
+כְּ=as.מֵ=from.אִתְמַלֵּי | itmali | adv | as (it was) yesterday (Hebrew: כִּתְמוֹל)
+כְּ=as.מֵ=from.אִתְמַלִּי | itmali | adv | as (it was) yesterday (Hebrew: כִּתְמוֹל)
+וּ=.מִדְּ=from.קַמּוֹהִי | qamohi | adv | and the day before (Hebrew: שִׁלְשֹׁם)
+תּוּב | twv | G impv ms | return
+וּ=.לְ=.יַלָּדְתּ.ָךְ=your | yalluta | n fs+2ms | and to your birthplace
+עָנ.ֵיהּ=his | ana2 | n+3ms | his sheep
+אֲבוּ.כֶן=your | av | n+2fp | your father
+וְ=.אַתִּין | attin | pron 2fp | and you (women)
+יְדַעְ.תִּין~you (fem. pl.), past | yd | G pf 2fp | know
+חֵיל.ִי=my | heil | n+1cs | my strength
+שְׁקַּר | shqr | D pf 3ms | (he) deceived
+שָׁבְקֵ.יהּ=him | shbq | G pf 3ms+3ms | (Hashem did not) let him
+לְ=.אַ~C.בְאָשׁ.ָא~inf_end | bsh | C inf | to do harm
+דַ=of.אֲבוּ.כוֹן=your | av | n+2mp | of your father
+וּ=.זְקָפ.ִית~I_p | zqf | G pf 1cs | and I lifted
+עַיְנַ.י=my | eina | n fp+1cs | my eyes
+וּ=.פַצִּיח.ִין~mp | patstsih | a mp | and spotted (Hebrew: וּבְרֻדִּים)
+עַיְנ.ָךְ=your | eina | n fp+2ms | your eyes
+דְּ=who.אִתְ~Gt.גְּלֵי.תִי~I_p | gly | Gt pf 1cs | who revealed Myself (Hebrew: הַנִּרְאֶה, who appeared)
+מְשַׁחְ.תָּא~you_p | mshh | G pf 2ms | you anointed
+קַיִּמְ.תָּא~you_p | qwm2 | D pf 2ms | you made (a vow)
+יַלָּדוּת.ָךְ=your | yalluta | n fs+2ms | of your birth
+וַ=.אֲ~C.תִיבַ.ת~she_p | twv | C pf 3fs | and (Rachel) answered (lit. brought back)
+וַ=.אֲמָר.ַן~they (fem.), past | amr | G pf 3fp | and they said
+הַ~question marker.עוֹד | od | adv | is there still
+חֳלָק | hulaq | n | a portion
+וְ=.אַחֲסָנ.ָא=emph | ahsanta | n emph | and an inheritance
+נוּכְרָא.ָן~fp | nukhrai | a fp | strangers
+אִתְ~Gt.חֲשַׁבְ.נָא~we_p | hshb2 | Gt pf 1cp | we have been considered
+זַבְּנָ.נָא=us | zvn | D pf 3ms+1cp | he sold us
+כַּסְפּ.ָנָא=our | kaspa | n+1cp | our money
+עוּתְר.ָא=emph | utra | n emph | the wealth
+דִּיל.ָנָא=our | dil | part+1cp | ours
+וּ=.לְ=.בָנָ.נָא=our | bnin | n mp+1cp | and (to) our children

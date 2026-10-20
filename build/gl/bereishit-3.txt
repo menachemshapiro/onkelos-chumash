@@ -1,0 +1,181 @@
+# Bereishit 2:20–3:21
+שְׁמָה.ָן=pl | shum | !noun, pl., absolute | names
+אַ~C.שְׁכַּח | shkh | C pf 3ms | (he) found
+סָמֵךְ | smakh | n abs | a helper (lit. support)
+וּ=.רְמָא | rmy | G pf 3ms | and (He) cast
+שִׁינְת.ָא=emph | shinta | n fs emph | a deep sleep
+וּ=.דְמֵךְ | dmkh | G pf 3ms | and (he) slept
+וּ=.נְסִיב | nsv | G pf 3ms | and (He) took
+חֲדָא | had | num f | one
+מֵ=.עִלְע.וֹהִי=his | ila | n mp+3ms | from his ribs
+וּ=.מְלֵי | mly | G pf 3ms | and (He) filled
+בִשְׂר.ָא=emph | bsr | n ms emph | flesh
+תְּחוֹת.ַהּ=it (fem.) | tehot | prep+3fs | in its place (lit. under it)
+וּ=.בְנָא | bny | G pf 3ms | and (He) built
+עִלְע.ָא=emph | ila | n ms emph | the rib
+דִּ=that.נְסִיב | nsv | G pf 3ms | that (He) took
+אִתְּת.ָא=emph | itta | n fs emph | the woman
+לְ=into.אִתְּת.ָא=emph | itta | n fs emph | into a woman; to the woman
+לְ=.אִיתְּת.ָא=emph | itta | n fs emph | to the woman
+וְ=.אַ~C.יְתַ.הּ=her | aty | C pf 3ms+3fs | and (He) brought her
+הָ=.אָדָם | adam | n | the man (Hebrew wording, kept)
+הֲדָא | hada | pron fs | this
+זִמְנ.ָא=emph | zman | n emph | time (הֲדָא זִמְנָא = this time)
+גַּרְמ.ָא=emph | garma | n emph | bone
+מִ=.גַּרְמ.ַי=my | garma | n mp+1cs | from my bones
+וּ=.בִסְר.ָא=emph | bsr | n emph | and flesh
+מִ=.בִּסְר.ִי=my | bsr | n+1cs | from my flesh
+לְ=.דָא | da | pron fs | this one (lit. to this)
+יִ~he_f.תְ~Gt.קְרֵי | qry | Gt impf 3ms | shall be called
+מִ=.בַּעְל.ָא=emph | bal | n emph | from (her) husband (Hebrew: מֵאִישׁ)
+נְסִיב.ָא~fs | nsv | Gp ptc fs | taken
+דָא | da | pron fs | this (one)
+כֵּן | ken | adv | so (עַל כֵּן = therefore)
+יִ~he_f.שְׁבּוֹק | shbq | G impf 3ms | shall leave
+גְּבַר | gvar | n abs | a man
+מִשְׁכְּבֵי | mishkav | n mp cs | the bed of (בֵּית מִשְׁכְּבֵי = the bedroom of)
+אַבוּ.הִי=his | av | n+3ms | his father
+וְ=.אִמּ.ֵהּ=his | em | n+3ms | and his mother
+וְ=.יִ~he_f.דְבַּק | dbq | G impf 3ms | and (he) shall cling
+בְּ=to.אִתְּת.ֵהּ=his | itta | n fs+3ms | to his wife
+לְ=into.בִסְר.ָא=emph | bsr | n emph | (into) flesh
+וַ=.הֲו.וֹ~they_p | hwy | G pf 3mp | and (they) were | last root letter י drops
+תַרְוֵי.הוֹן=of them | tren | num+3mp | the two of them, both of them
+עַרְטִילָא.ִין~mp | artilai | a mp abs | naked
+אִתְּת.ֵהּ=his | itta | n fs+3ms | his wife
+וְ=.אִתְּת.ֵהּ=his | itta | n fs+3ms | and his wife
+מִ~ptcGt.תְכַּלְמ.ִין~mp | klm | Dt ptc mp | ashamed | Itpa‘al participle: מִתְ‑
+וְ=.חִוְי.ָא=emph | hiwya | n emph | and the serpent
+חִוְי.ָא=emph | hiwya | n emph | the serpent
+לְ=.חִוְי.ָא=emph | hiwya | n emph | to the serpent
+חַכִּים | hkm | a ms | cunning, wise
+בְּ=.קוּשְׁט.ָא=emph | qushta | n emph | truly (lit. in truth)
+אֲמַר | amr | G pf 3ms | (He) said
+תֵ~ypl_f.יכְל.וּן~mp | akhal | G impf 2mp | you (pl.) shall eat | the א of אכל becomes י
+דְּ=that.תֵ~ypl_f.יכְל.וּן~mp | akhal | G impf 2mp | that you (pl.) eat | the א of אכל becomes י
+וַ=.אֲמָר.ַת~she_p | amr | G pf 3fs | and (she) said
+נֵ~we_f.יכוּל | akhal | G impf 1cp | we may eat | the א of אכל becomes י
+בִ=.מְצִיעוּת | mtsiut | n cs | in the midst of
+תְ~ypl_f.קַרְב.וּן~mp | qrb | D impf 2mp | you (pl.) shall touch (lit. come near)
+דִּילְמָא | dilma | conj | lest
+תְּ~ypl_f.מוּת.וּן~mp | mwt | G impf 2mp | you (pl.) will die
+מוּת | mwt | G inf | dying (לָא מוּת תְּמוּתוּן = you will surely not die)
+גַּלֵּי | gly | !verb, passive participle, masc. sing. | it is revealed | CAL’s text reads גְּלֵי
+וְ=.יִ~they_f.תְ~Dt.פַּתְּח.ַן~fp | ptH | Dt impf 3fp | and (they) will be opened
+עֵינֵי.כוֹן=your (pl.) | eina | n fp+2mp | your eyes
+וּ=.תְ~ypl_f.הוֹ.ן~mp | hwy | G impf 2mp | and you (pl.) will be
+כְּ=.רַבְרְב.ִין=pl | rav | a mp abs | like great ones (Hebrew: כֵּאלֹהִים)
+וַ=.חֲזַ.ת~she_p | hzy | G pf 3fs | and (she) saw
+אַסֵּי | asu | n | a cure, healing | CAL’s text reads אָסוּ
+לְ=for.עַיְנ.ִין=pl | eina | n fp abs | for the eyes
+וּ=.מְרַגֵּג | mraggeg | a ms | and desirable
+לְ=.אִסְ~Dt.תַּכָּל.ָא~inf_end | skl | Dt inf | to look | the passive ת moves after the ס
+וּ=.נְסֵיב.ַת~she_p | nsv | G pf 3fs | and (she) took
+מֵ=.אִבּ.ֵהּ=its | ibba | n+3ms | from its fruit
+וַ=.אֲכָל.ַת~she_p | akhal | G pf 3fs | and (she) ate
+וִ=.יהָב.ַת~she_p | yhb | G pf 3fs | and (she) gave
+אַף | af2 | adv | also
+עִמּ.ַהּ=her | im | prep+3fs | with her
+וַ=.אֲכָל | akhal | G pf 3ms | and (he) ate
+וְ=.אִתְ~Dt.פַּתָּח.ָא~they_p | ptH | Dt pf 3fp | and (they) were opened
+עֵינֵי | eina | n fp cs | the eyes of
+וִ=.ידָע.וּ~they_p | yd | G pf 3mp | and (they) knew
+אִינוּן | inun | pron 3mp | they (were)
+וְ=.חַטִּיט.וּ~they_p | hwt | D pf 3mp | and (they) sewed
+טַרְפֵי | tarpa | n mp cs | leaves of
+תְאֵנ.ִין=pl | teina | n fp abs | fig(s)
+וַ=.עֲבָד.וּ~they_p | avad | G pf 3mp | and (they) made
+זְרָז.ִין=pl | zraz | n mp abs | girdles (Hebrew: חֲגֹרֹת)
+וּ=.שְׁמָע.וּ~they_p | shm | G pf 3mp | and (they) heard
+קַל | qal | n cs | the voice of
+מֵימְר.ָא=emph | meimra | n emph | the Word of
+וְ=.אִי~Dt.טַמַּר | tmr | Dt pf 3ms | and (he) hid himself | the passive ת is absorbed into the ט (the dot in טּ)
+בְּ=.גוֹ | go | prep | among (lit. in the midst of)
+אָן | an | adv | where
+אָתְּ | att | pron 2ms | (are) you
+מֵימְר.ָךְ=your | meimra | n+2ms | Your Word
+שַׁמְע.ִית~I_p | shm | G pf 1cs | I heard
+וּ=.דְחֵיל.ִית~I_p | dhl | G pf 1cs | and I was afraid
+עַרְטִילַאי | artilai | a ms | naked
+אֲנָא | ana | pron 1cs | I (am)
+וְ=.אִי~Dt.טַמָּר.ִית~I_p | tmr | Dt pf 1cs | and I hid myself | the passive ת is absorbed into the ט (the dot in טּ)
+מָן | man | pron | who
+חַוֵי | hwy2 | D pf 3ms | told
+ל.ָךְ=you | le | prep+2ms | (to) you
+הֲ=is it?.מִן | min | !preposition, with the question marker הֲ | (is it) from
+דִּ=that.פַקֶּדְ.תָּ~I_p.ךְ=you | pqd | D pf 1cs+2ms | that I commanded you
+בְּדִיל | bdil | prep | in order (בְּדִיל דְּלָא = in order not)
+אֲכָלְ.תְּ~you_p | akhal | G pf 2ms | (have) you eaten
+דִּ=that.יהַבְ.תָּ~you_p | yhb | G pf 2ms | that You gave
+עִמּ.ִי=me | im | prep+1cs | with me
+הִיא | hi | pron 3fs | she
+יַהֲב.ַת~she_p | yhb | G pf 3fs | gave
+ל.ִי=me | le | prep+1cs | (to) me
+וַ=.אֲכָל.ִית~I_p | akhal | G pf 1cs | and I ate
+דָּא | da | pron fs | this
+עַבְד.ָת~you_p | avad | G pf 2fs | you (fem.) have done
+אַ~C.טְעַיָ.נִי=me | ty | C pf 3ms+1cs | led me astray
+עֲבַדְ.תָּ~you_p | avad | G pf 2ms | you have done
+דִּ=that.עֲבַדְ.תָּ~you_p | avad | G pf 2ms | that you did
+לִיט | lwt | Gp ptc ms | cursed
+אַתְּ | att | pron 2ms | (are) you
+וְ=.אַתְּ | att | pron 2ms | and you
+בָּר.ָא=emph | bara | n ms emph | the field (lit. the outside)
+מְע.ָךְ=your | mea | n+2ms | your belly
+תֵּ~you_f.יזִיל | azl | G impf 2ms | you shall go | the א of אזל becomes י
+יוֹמֵי | yom | n mp cs | the days of
+חַיָּי.ךְ=your | hayyin | n mp+2ms | your life
+וּ=.דְבָבוּ | dvavu | n fs abs | and enmity
+אֱ~I_f.שַׁוֵּי | shwy | D impf 1cs | I will put
+בֵּינ.ָךְ=you | bein | prep+2ms | between you
+בְּנ.ָךְ=your | bnin | n mp+2ms | your sons, your children
+בְּנָ.הַהּ=her | bnin | n mp+3fs | her sons, her children
+דְּכִיר | dkr | Gp ptc ms | remembering
+תְּ~you_f.הֵא | hwy | G impf 2ms | you will be (or: she will be)
+נָטִיר | ntr | Gp ptc ms | watching for (lit. keeping)
+לְ=at.סוֹפ.ָא=emph | sof | n emph | at the end
+אַ~C.סְגָּא.ָה~inf_end | sgy | C inf | greatly (lit. to increase; אַסְגָּאָה אַסְגֵּי = I will greatly increase)
+אַ~I_f.סְגֵּי | sgy | C impf 1cs | I will increase
+צַעֲר.ַיְכִי=your (fem.) | tsar | n mp+2fs | your sorrows
+וְ=.עִדּוּי.ַיְכִי=your (fem.) | iddui | n mp+2fs | and your pregnancies
+בְּ=in.צְעַר | tsar | n abs | in pain
+תֵּ~you_f.לְד.ִי~fs | yld | G impf 2fs | you (fem.) will bear | the י of ילד drops
+בְנ.ִין=pl | bnin | n mp abs | children
+בַּעְל.ִךְ=your (fem.) | bal | n+2fs | your husband
+תִּאוּבְתּ.ִיךְ=your (fem.) | tiuvta | n fs+2fs | your desire
+יִ~he_f.שְׁלַט | shlt | G impf 3ms | (he) will rule
+בּ.ִךְ=you (fem.) | be | prep+2fs | over you
+קַבֵּילְ.תָּ~you_p | qbl2 | D pf 2ms | you listened (lit. accepted)
+לְ=.מֵימַר | meimra | n cs | to the word of
+אִתְּת.ָךְ=your | itta | n fs+2ms | your wife
+וַ=.אֲכַלְ.תָּ~you_p | akhal | G pf 2ms | and you ate
+פַקֵּידְ.תָּ~I_p.ךְ=you | pqd | D pf 1cs+2ms | I commanded you
+לִיט.ָא~fs | lwt | Gp ptc fs | cursed
+בְּדִיל.ָךְ=you | bdil | prep+2ms | because of you
+בַּ=in.עֲמַל | amal | n abs | with toil
+תִּ~you_f.יכְלִי.נַהּ=it (fem.) | akhal | G impf 2ms+3fs | you shall eat (from) it | the א of אכל becomes י
+לְמֵימַר | amr | G inf | saying
+וְ=.כוּב.ִין=pl | kuva | n mp abs | and thorns
+וְ=.אַטְדּ.ִין=pl | atad | n mp abs | and thistles
+תַּ~she_f.צְמַח | tsmh | C impf 3fs | (it) will make grow
+בְּ=.זִעֲת.ָא=emph | zeita | n fs emph | in the sweat
+דְ=of.אַפּ.ָךְ=your | anpin | n+2ms | of your face
+לַחְמ.ָא=emph | lahma | n emph | bread
+דְּ=that.תִ~you_f.יתוּב | twv | G impf 2ms | (until) that you return
+דְּ=that.מִנּ.ַהּ=it (fem.) | min | prep+3fs | for from it
+אִתְ~Gt.בְּרֵי.תָא~you_p | bra | Gt pf 2ms | you were created
+תְּ~you_f.תוּב | twv | G impf 2ms | you shall return
+חַוָּה | name | name | Chavah (Eve)
+אִמּ.ָא=emph | em | n emph | the mother
+בְּנֵי | bnin | n mp cs | the children of
+אֱנָשׁ.ָא=emph | enash | n emph | mankind
+וּ=.לְ=.אִתְּת.ֵהּ=his | itta | n fs+3ms | and for his wife
+לְבוּשׁ.ִין=pl | levush | n mp abs | garments
+דִּ=of.יקָר | yqr | n abs | of honour (Hebrew: כָּתְנוֹת עוֹר, “garments of skin”)
+מְשַׁךְ | meshakh | n cs | the skin of
+בִּשְׂר.ֵיהוֹן=their | bsr | n+3mp | their flesh
+וְ=.אַ~C.לְבִּישׁ.ִינוּן=them | lbsh | C pf 3ms+3mp | and (He) clothed them
+בֵּית | beit | n cs | the house of
+2:24> בֵּית | beit | n cs | the house of (בֵּית מִשְׁכְּבֵי = the bedroom of)
+לְ=.בַעְל.ַהּ=her | bal | n+3fs | to her husband
+לִ=at.מְ~inf.נַח | nwh | G inf | at the resting (of the day), i.e. toward evening

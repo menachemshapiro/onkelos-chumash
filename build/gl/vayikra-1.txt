@@ -1,0 +1,232 @@
+# Vayikra (batch for the whole parsha): Vayikra 1:1–5:26
+יְ~he_f.קָרֵיב | qrb | D impf 3ms | (a man) brings near (i.e. offers)
+יְ~he_f.קָרֵב | qrb | D impf 3ms | he shall offer
+וִ=and.י~he_f.קָרֵב | qrb | D impf 3ms | and he shall offer
+וִ=and.י~he_f.קָרֵיב | qrb | D impf 3ms | and he shall offer
+תְּ~ypl_f.קָרְב.וּן~mp | qrb | D impf 2mp | you shall offer
+תְ~ypl_f.קָרְב.וּן~mp | qrb | D impf 2mp | you shall offer
+תְּ~you_f.קָרֵיב | qrb | D impf 2ms | you offer
+וִ=and.י~they_f.קָרְב.וּן~mp | qrb | D impf 3mp | and (they) shall offer
+וִ=and.י~they_f.קַרְב.וּן~mp | qrb | D impf 3mp | and (they) shall offer
+יְ~he_f.קָרְבִ.נֵּיהּ=it | qrb | D impf 3ms+3ms | he shall offer it
+וִ=and.י~he_f.קָרְבִ.נֵּיהּ=it | qrb | D impf 3ms+3ms | and he shall offer it
+וִ=and.י~he_f.קָרְבִ.נֵיהּ=it | qrb | D impf 3ms+3ms | and he shall offer it
+יְ~he_f.קָרְבִ.ינֵיהּ=it | qrb | D impf 3ms+3ms | he shall offer it
+וִ=and.י~he_f.קַרְבִ.ינָה=it | qrb | D impf 3ms+3fs | and he shall bring it
+וִ=and.י~he_f.קַרְבִ.נַּהּ=it | qrb | D impf 3ms+3fs | and he shall bring it near
+קֻרְבַּנְ.כוֹן=your | qurbana | n+2mp | your offering
+קֻרְבָּנ.ֵיהּ=his | qurbana | n+3ms | his offering
+קֻרְבָּנ.ָךְ=your | qurbana | n+2ms | your offering
+קֻרְבַּן | qurbana | n cs | an offering of
+קֻרְבָּן | qurbana | n | an offering
+קֻרְבְּנ.ַיָּא~emphp | qurbana | n mp emph | the offerings of
+וְ=.יִתְ~Gt.רְעֵי | ry2 | Gt impf 3ms | and it shall be accepted (lit. found pleasing)
+וְ=.יִ~he_f.כּוֹס | nks | G impf 3ms | and he shall slaughter | the נ of נכס is absorbed
+דְּ=where.יִ~he_f.כּוֹס | nks | G impf 3ms | where (they) slaughter | the נ of נכס is absorbed
+יִ~he_f.כּוֹס | nks | G impf 3ms | he shall slaughter | the נ of נכס is absorbed
+וְ=.יִ~they_f.זְרְק.וּן~mp | zrq | G impf 3mp | and they shall sprinkle
+וִ=and.י~he_f.פַלֵּג | plg | D impf 3ms | and he shall cut up
+לְ=into.אֶבְרָ.הָא=its | evra | n mp+3fs | into its pieces
+אֶבְר.ַיָּא~emphp | evra | n mp emph | the pieces
+וִ=and.י~they_f.סַדְּר.וּן~mp | sdr | D impf 3mp | and they shall arrange
+וְ=.יַ~he_f.סְדַּר | sdr | G impf 3ms | and he shall arrange
+יְ~he_f.חַלֵּל | hll3 | D impf 3ms | he shall rinse
+וְ=.יַ~he_f.סֵּק | slq | C impf 3ms | and (the priest) shall burn (lit. bring up) | the ל of סלק is absorbed
+יַ~he_f.סֵּק | slq | C impf 3ms | he shall burn (lit. bring up) | the ל of סלק is absorbed
+וְ=.יַ~he_f.סְּקִ.נֵּיהּ=it | slq | C impf 3ms+3ms | and he shall burn it | the ל of סלק is absorbed
+וְ=.יַ~he_f.סְּקִ.נּוּן=them | slq | C impf 3ms+3mp | and he shall burn them | the ל of סלק is absorbed
+וְ=.יַ~he_f.סֵּקִ.נּוּן=them | slq | C impf 3ms+3mp | and he shall burn them | the ל of סלק is absorbed
+יִתַּ~Ct.סְּק.וּן~mp | slq | Ct impf 3mp | they shall (not) be offered (lit. brought up) | the passive ת merges
+כּוֹל.ָא=emph | kol | n emph | the whole (of it)
+תַּרְבּ.ֵיהּ=its | tarba | n+3ms | its fat
+תַּרְבּ.ַהּ=its | tarba | n+3fs | its fat
+תַּרְְבּ.ָא=emph | tarba | n emph | the fat
+תְּרַב | tarba | n cs | the fat of
+תְרַב | tarba | n cs | the fat of
+כִּ=like.תְרַב | tarba | n cs | like the fat of
+שַׁפְנִינ.ַיָּא~emphp | shafnina | n mp emph | the young doves
+שַׁפְנִינ.ִין~pl | shafnina | n mp abs | young doves
+וְ=.יִ~he_f.מְלוֹק | mlq | G impf 3ms | and he shall pinch off
+וְ=.יִתִּ~Gt.מְצֵי | mtsy | Gt impf 3ms | and (its blood) shall be drained out | the passive ת merges
+יִתִּ~Gt.מְצֵי | mtsy | Gt impf 3ms | shall be drained out | the passive ת merges
+כּוֹתֶל | kotla | n cs | the wall of (as in the Hebrew)
+כֹּתֶל | kotla | n cs | the wall of
+זְפָק.ֵיהּ=its | zefaq | n+3ms | its crop
+וְ=.יִ~he_f.רְמֵי | rmy | G impf 3ms | and he shall throw
+דְּ=where.מוֹשְׁד.ִין~mp | shd | G ptc mp | where (they) pour out (the ashes) | the א of אשד becomes ו
+קִטְמ.ָא=emph | qitma | n emph | the ashes
+וִ=and.י~he_f.פָרֵיק | prq | D impf 3ms | and he shall tear it open (Hebrew: וְשִׁסַּע)
+בְּ=by.גַדְפ.וֹהִי=its | gadfa | n mp+3ms | by its wings
+יַ~C.פְרֵישׁ | prsh | C impf 3ms | he shall (not) separate
+וְ=.יַ~C.פְרֵישׁ | prsh | C impf 3ms | and he shall separate
+יַ~C.פְרֵשׁ | prsh | C impf 3ms | he shall separate
+מִתַּ~ptcGt.פְרַשׁ | prsh | Ct ptc ms | is separated | the passive ת merges
+סוּלְתּ.ָא=emph | solta | n fs emph | fine flour
+וִ=and.י~he_f.רִיק | ryq | C impf 3ms | and he shall pour
+עֲלָ.הּ=it | al | prep+3fs | on it
+לְבוֹנְתּ.ָא=emph | levunta | n fs emph | frankincense
+לְבֻנְתּ.ָא=emph | levunta | n fs emph | frankincense
+לְבוֹנְתּ.ָהּ=its | levunta | n fs+3fs | its frankincense
+וְ=.יַ~he_f.יְתִ.נָּהּ=it | aty | C impf 3ms+3fs | and he shall bring it | the א of אתי becomes י
+וִ=and.י~he_f.יְתִ.נַּהּ=it | aty | C impf 3ms+3fs | and he shall bring it | the א of אתי becomes י
+יַ~he_f.יְתִ.נַּהּ=it | aty | C impf 3ms+3fs | he shall bring it | the א of אתי becomes י
+וְ=.יִ~he_f.קְמוֹץ | qmts | G impf 3ms | and he shall take a handful
+קֻמְצ.ֵיהּ=his | qumtsa | n+3ms | his handful
+וּ=.מִ=from.מִּשְׁח.ַהּ=its | mishha | n+3fs | and of its oil
+אַדְכַּרְתּ.ָהּ=its | adkarta | n fs+3fs | its memorial portion
+אַדְכַּרְתּ.ָה=its | adkarta | n fs+3fs | its memorial portion
+אִדְכַּרְתּ.ַהּ=its | adkarta | n fs+3fs | its memorial portion
+קוֹדֶשׁ | qudsha | n cs | the holy (of) (as in the Hebrew)
+מַאֲפֵה | maafe | n cs | baked (in)
+תַנּוּר.ָא=emph | tanur | n emph | an oven
+וְ=.אַסְפּוֹג.ִין~pl | espog | n mp abs | and wafers
+מַסְרֵית.ָא=emph | masreita | n fs emph | a griddle
+בְּצַע | btsa | G impv 2ms | break!
+יָתָ.הּ=it | yat | part+3fs | it
+בִּיצוּע.ִין~pl | bitsua | n mp abs | (into) pieces
+דְ=of.רַדְתּ.ָא=emph | radta | n fs emph | of the deep pan
+קַדְמ.ַי~pl | qadmai | ord mp | the first (fruits)
+מִנְחָת.ָךְ=your | minhta | n fs+2ms | your meal offering
+בְּ=with.מִלְח.ָא=emph | milha | n emph | with salt
+מִלְח.ָא=emph | milha | n emph | the salt of
+מְלַח | milha | n | salt
+תִ~you_f.מְלַח | mlh | G impf 2ms | you shall salt
+תְ~you_f.בַטֵּל | btl | D impf 2ms | you shall (not) omit (lit. make cease)
+בִּכּוּר.ִין~pl | bikkura | n mp abs | first fruits
+אָבִיב | avviv | a | ripe (grain in the ear)
+קְלֵי | qly | Gp ptc ms | parched
+פֵּירוֹכ.ָן~pl | peirukh | n mp | groats (crushed grain)
+מִ=from.פֵּרוּכ.ַהּ=its | peirukh | n+3fs | from its groats
+רַכִּיכ.ָן~pl | rakkikh | a mp | tender (ones)
+נוּקְב.ָא=emph | nuqva | n emph | female
+נֻקְבּ.ָא=emph | nuqva | n emph | female
+נְקוּבְת.ָא=emph | nuqva | n fs emph | a female
+וְ=.יִ~he_f.כְּסִ.נֵּיהּ=it | nks | G impf 3ms+3ms | and he shall slaughter it | the נ of נכס is absorbed
+גִּסְס.ַיָּא~emphp | gisa | n mp emph | the flanks
+חַצְר.ָא=emph | hitsra | n emph | the lobe
+כָּלְיֵת.ָא=emph | kolya | n fp emph | the kidneys
+יַ~he_f.עֲדִּ.נָּהּ=it | dy_rm | C impf 3ms+3fs | he shall remove it
+יֶ~he_f.עְדִנַּ.הּ=it | dy_rm | C impf 3ms+3fs | he shall remove it
+יֶ~he_f.עְדִּנַּ.הּ=it | dy_rm | C impf 3ms+3fs | he shall remove it
+יֶ~he_f.עְדֵּי | dy_rm | C impf 3ms | he shall remove
+מִתַּ~ptcGt.עְדָּא | dy_rm | Ct ptc ms | is removed | the passive ת merges
+אִימָר | imra | n | a lamb
+אִימַר | imra | n | a lamb
+אִמְּרָת.ָא=emph | imra | n fs emph | a ewe lamb
+אֲלִית.ָא=emph | alita | n fs emph | the fat tail
+שְׁלִימְתּ.ָא=emph | shlim | a fs emph | whole
+שְׁלֶמְתּ.ָא=emph | shlim | a fs emph | unblemished
+שְׁזַרְתּ.ָא=emph | shzarta | n fs emph | the backbone
+יֵ~he_f.חוֹב | hwb | G impf 3ms | (a soul) sins
+וְ=.יֵ~he_f.חוֹב | hwb | G impf 3ms | and sins
+וִ=and.י~they_f.חוֹב.וּן~mp | hwb | G impf 3mp | and they sin
+חָב | hwb | G pf 3ms | he sinned
+וְ=.חָב | hwb | G pf 3ms | and he is guilty
+חָב.וּ~they_p | hwb | G pf 3mp | they sinned
+לְ=.מֵי~inf.חַב | hwb | G inf | so as to sin
+פִּקּוּד.ַיָּא~emphp | piqqud | n mp emph | the commandments
+מִ=from.פִּקּוּד.ַיָּא~emphp | piqqud | n mp emph | of the commandments
+פִּקּוֹד.ַיָּא~emphp | piqqud | n mp emph | the commandments
+כַשְׁר.ִין~mp | kshr | a mp | proper (to be done)
+לְ=for.חוֹבַת | hovta | n fs cs | for the guilt of
+חוֹבְת.ֵיהּ=his | hovta | n fs+3ms | his sin
+מֵ=from.חוֹבְת.ֵיהּ=his | hovta | n fs+3ms | from his sin
+דְ=of.חוֹבְת.ֵיהּ=his | hovta | n fs+3ms | of his sin
+חוֹבְת.ָא=emph | hovta | n fs emph | the sin
+חוֹב.ֵיהּ=his | hova | n+3ms | his sin
+קָדֳם | qodam | prep | before
+וְ=.יִ~he_f.טְבּוֹל | tvl | G impf 3ms | and he shall dip
+אֶצְבְּע.ֵיהּ=his | etsba | n+3ms | his finger
+אִצְבְּע.ֵיהּ=his | etsba | n+3ms | his finger
+בְּ=with.אֶצְבְּע.ֵיהּ=his | etsba | n+3ms | with his finger
+פָּרוּכְתּ.ָא=emph | parokhta | n fs emph | the dividing curtain
+יֵ~he_f.שׁוּד | shd | G impf 3ms | he shall pour | the א of אשד becomes י
+יֵ~he_f.שׁוֹד | shd | G impf 3ms | he shall pour | the א of אשד becomes י
+מֵ=at.ישַׁד | shd | G inf | at the pouring place of | the א of אשד becomes י
+וְ=.יַ~he_f.פֵּק | npq | C impf 3ms | and he shall take out | the נ of נפק is absorbed
+וְ=.יוֹ~he_f.קִיד | yqd | C impf 3ms | and he shall burn | the י of יקד becomes ו
+וְ=.אוֹ~C.קִיד | yqd | C pf 3ms | (as) he burned | the י of יקד becomes ו
+אוֹ~C.קִיד | yqd | C pf 3ms | he burned | the י of יקד becomes ו
+יִתּוֹ~Ct.קָד | yqd | Ct impf 3ms | it shall be burned | the passive ת merges; the י becomes ו
+יִשְׁתְּ~passive (Ishtaf‘al).ל.וּן~mp | shly | Gt impf 3mp | (the congregation) errs | the ת moves after the ש
+דְּ=.אִשְׁתְּ~passive (Ishtaf‘al).לִי | shly | Gt pf 3ms | that he erred | the ת moves after the ש
+שָׁלוּת.ֵיהּ=his | shalu | n+3ms | his error
+וְ=.תִתְ~Dt.יְדַע | yd | Dt impf 3fs | and (the sin) becomes known
+לְ=.מִ=from.בָּר.ָא=emph | bara | adv | outside (lit. to outside)
+דִ=of.צְפִיר.ָא=emph | tsfir | n emph | of the goat
+צְפִירַת | tsfir | n fs cs | a she-goat of
+בְּ=in.מֶ~inf.עְבְּד.ַהּ=it | avad | G inf+3fs | in doing it
+מִ=from.דְמ.ַהּ=its | dam | n+3fs | of its blood
+וְ=.יִ~he_f.שְׁמַע | shm | G impf 3ms | and he hears
+מוֹמֵי | ymy | !noun / participle | an oath (lit. adjuring)
+יְ~he_f.חַוִּי | hwy2 | D impf 3ms | he tells
+מְ~ptcD.סָאָב | sav | Dp ptc ms | impure
+מְ~ptcD.סָאָב.ָא=emph | sav | Dp ptc emph | impure
+בְ=with.נִבְלַת | nevela | n fs cs | with the carcass of
+בְּ=with.נִבְלַת | nevela | n fs cs | with the carcass of
+בְּ=with.סוֹאֲבַת | sovta | n fs cs | with the impurity of
+סוֹבְת.ֵיהּ=his | sovta | n fs+3ms | his impurity
+יִסְתָּ~passive (Ishtaf‘al).אַב | sav | Gt impf 3ms | he becomes impure | the ת moves after the ס
+יָדַע | yd | G ptc ms | (he) knows
+יְ~he_f.קַיֵּם | qwm2 | D impf 3ms | he swears (lit. confirms)
+לְ=.פָרָשׁ.ָא~inf_end | prsh | D inf | to declare (lit. pronounce clearly)
+בְ=with.סִפְוָ.ן~pl | sifwan | n | with (his) lips
+יְ~he_f.פָרֵשׁ | prsh | D impf 3ms | (a person) pronounces
+בְּ=with.קִיּוּם | qiyyum | n | with an oath
+וִ=and.י~he_f.וַדִּי | ydy | D impf 3ms | and he shall confess
+אַשְׁמ.ֵיהּ=his | ashma | n+3ms | his guilt offering
+אַשְׁמ.ַהּ=his | ashma | n+3fs | his guilt offering
+לַ=for.אֲשָׁמ.ָא=emph | ashma | n emph | as a guilt offering
+דַ=of.אֲשָׁמ.ָא=emph | ashma | n emph | of the guilt offering
+אֲשָׁמ.ָא=emph | ashma | n emph | a guilt offering
+תִ~she_f.מְטֵי | mty | C impf 3fs | (his hand) can (not) reach (i.e. afford)
+שֵׂית.ָא=emph | seita | n fs emph | a lamb
+קַדְמֵית.ָא=emph | qadmeita | n fs emph | the first
+קְדָל.ֵיהּ=its | qdal | n+3ms | its neck
+כִּ=according to.דְ=what.חָזֵי | hzy | G ptc ms | as is fitting (lit. as one sees)
+תַ~she_f.דְבֵּק | dbq | C impf 3fs | (his hand) does (not) reach
+מֵ=from.חֲדָא | had | num | (in) one of
+יְ~he_f.שַׁקַּר | shqr | D impf 3ms | (a person) acts falsely
+וִ=and.י~he_f.שַׁקַּר | shqr | D impf 3ms | and acts falsely
+בְּ=in.פֻרְסָנ.ֵיהּ=its | pursan | n+3ms | according to its valuation
+חֻמְשׁ.ֵיהּ=its | humsha | n+3ms | its fifth
+וְ=.חֻמְשׁ.ֵיהּ=its | humsha | n+3ms | and its fifth
+וִ=and.י~he_f.כַדֵב | kdv | D impf 3ms | and he denies
+וִ=and.י~he_f.כַדֵּב | kdv | D impf 3ms | and he denies
+בּ=in.פִקְּדוֹנ.ָא=emph | piqdona | n emph | in a deposit
+פִּקְּדוֹנ.ָא=emph | piqdona | n emph | the deposit
+בְ=in.שֻׁתָּפוּת | shutafut | n | in a partnership (lit. a joint holding)
+בִ=in.גְזֵל.ָא=emph | gezela | n emph | in robbery
+גְּזֵל.ָא=emph | gezela | n emph | the stolen thing
+גְזַל | gzl | G pf 3ms | he robbed
+אַנִּיס | ans | D pf 3ms | he defrauded (lit. seized by force)
+אֲבֵדְתּ.ָא=emph | avedta | n fs emph | a lost thing
+וְ=.אִשְׁתְּ~passive (Ishtaf‘al).בַע | shtba | Sht pf 3ms | and he swore | the ת moves after the ש
+יִשְׁתְּ~passive (Ishtaf‘al).בַע | shtba | Sht impf 3ms | he swore | the ת moves after the ש
+שִׁקְר.ָא=emph | shiqra | n emph | falsely
+יֶ~he_f.חֱטֵי | hty | G impf 3ms | he sins
+עֻשְׁק.ָא=emph | usqa | n emph | the withheld (thing)
+עֲשַׁק | ashq | G pf 3ms | he withheld (by oppression)
+אִתְ~Dt.פָּקַּד | pqd | Dt pf 3ms | was entrusted
+יִ~he_f.תְּנִ.נֵּיהּ=it | yhb | G impf 3ms+3ms | he shall give it | the future of יְהַב comes from נתן
+1:6> וְ=.יַ~he_f.שְׁלַח | shlh2 | C impf 3ms | and he shall flay (lit. strip off)
+וּ=.כְרָע.ַיָּא~emphp | kera | n mp emph | and the legs
+1:16> וְ=.יַ~he_f.עֲדֵּי | dy_rm | C impf 3ms | and he shall remove
+2:1> וְ=.יִ~he_f.תֵּן | yhb | G impf 3ms | and he shall put | the future of יְהַב comes from נתן
+1:7> וְ=.יִ~they_f.תְּנ.וּן~mp | yhb | G impf 3mp | and they shall put | the future of יְהַב comes from נתן
+מִנְחַת | minhta | n fs cs | a meal offering of
+מְ~ptcD.קָרֵב | qrb | D ptc ms | offers (lit. brings near)
+וְ=.יַ~they_f.סְק.וּן~mp | slq | C impf 3mp | and (they) shall burn (lit. bring up) | the ל of סלק is absorbed
+4:6> וְ=.יַ~he_f.דִּי | ndy | C impf 3ms | and he shall sprinkle | the נ of נדי is absorbed
+4:17> וְ=.יַ~he_f.דִּי | ndy | C impf 3ms | and he shall sprinkle | the נ of נדי is absorbed
+4:13> מְ~ptcD.כַסָּ.א~emph | ksy | Dp ptc ms | (the matter) is hidden
+4:20> לְ=with.תוֹר.ָא=emph | tor | n emph | with the bull
+4:30> דְּמ.ַהּ=its | dam | n+3fs | its blood
+4:34> דְּמ.ַהּ=its | dam | n+3fs | its blood
+5:4> לְ=.אוֹטָב.ָא~inf_end | twv2 | C inf | to do good
+5:16> בְּ=with.דִכְר.ָא=emph | dikhra | n emph | with the ram
+5:18> בְּ=with.דִכְר.ָא=emph | dikhra | n emph | with the ram
+5:23> וְ=.יָ~he_f.תֵב | twv | C impf 3ms | then he shall return (it) | Af‘el of תוב
+5:24> בְּ=.רֵישׁ.ֵיהּ=its | resh | n+3ms | its principal (lit. its head)
+5:15> מִ=of.קוּדְשׁ.ַיָּא~emphp | qudsha | n mp emph | of the holy things
+5:21> בְּ=against.חַבְר.ֵיהּ=his | havra | n+3ms | against his fellow

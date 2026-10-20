@@ -1,0 +1,70 @@
+# Vayigash 45:28–46:27
+אֱ~I_f.זֵיל | azl | G impf 1cs | I will go | the א of אזל becomes י
+וְ=.אֶ~I_f.חֱזִ.נֵּיהּ=him | hzy | G impf 1cs+3ms | and see him
+אֵ~I_f.מוּת | mwt | G impf 1cs | I die
+וּ=.דְבַח | dbh | G pf 3ms | and (he) sacrificed
+דִּבְח.ִין=pl | divha | n mp abs | sacrifices
+בְּ=in.חֶזְוֵי | hezu | n mp cs | in visions of
+אֲ~I_f.שַׁוִּ.נָּךְ=you | shwy | D impf 1cs+2ms | I will make you
+אַ~I_f.סֵּקִ.נָּךְ=you | slq | C impf 1cs+2ms | I will bring you up | the ל of סלק is absorbed (the dot in ס)
+אַ~C.סָּק.ָא~inf_end | slq | C inf | (I will surely) bring up | an infinitive after the verb strengthens it
+יְ~he_f.שַׁוֵּי | shwy | D impf 3ms | will place
+עֵינ.ָיךְ=your | eina | n fp+2ms | your eyes
+בַּ=in.עֲגַלְתּ.ָא=emph | agalta | n fp emph | in the wagons
+זַרְע.ֵיהּ=his | zera | n+3ms | his offspring
+כְּנַעֲנֵיתָא | name | name | the Canaanite woman
+בְרַתּ.ֵהּ=his | bnat | n fs+3ms | his daughter
+נֶפֶשׁ | nafsha | n | souls (= persons)
+שִׁית | shet6 | num | six
+עֶשְׂרֵי | asra | num | ten (שִׁית עֶשְׂרֵי = sixteen)
+עֲשָׂר | asar | num | ten (אַרְבְּעָה עֲשָׂר = fourteen)
+שִׁבְעָא | shava | num | seven
+דְּ=that.עַלָּא | ill | G ptc fs | that came
+מִ=from.לְּ=.מֵ~inf.יחַת | nht | G inf | to go down (lit. from going down)
+פַלּוּא | name | name | Pallu
+חֶצְרֹן | name | name | Chetzron
+כַרְמִי | name | name | Karmi
+יְמוּאֵל | name | name | Yemuel
+יָמִין | name | name | Yamin
+אֹהַד | name | name | Ohad
+יָכִין | name | name | Yakhin
+גֵּרְשׁוֹן | name | name | Gershon
+קְהָת | name | name | Kehat
+מְרָרִי | name | name | Merari
+פֶרֶץ | name | name | Peretz
+חָמוּל | name | name | Chamul
+תּוֹלָע | name | name | Tola
+פֻוָּה | name | name | Puvah
+יוֹב | name | name | Yov
+שִׁמְרוֹן | name | name | Shimron
+סֶרֶד | name | name | Sered
+אֵלוֹן | name | name | Elon
+יַחְלְאֵל | name | name | Yachle‘el
+צִפְיוֹן | name | name | Tzifyon
+חַגִּי | name | name | Chaggi
+שׁוּנִי | name | name | Shuni
+אֶצְבּוֹן | name | name | Etzbon
+עֵרִי | name | name | Eri
+אֲרוֹדִי | name | name | Arodi
+אַרְאֵלִי | name | name | Areli
+יִמְנָה | name | name | Yimnah
+יִשְׁוָה | name | name | Yishvah
+יִשְׁוִי | name | name | Yishvi
+בְרִיעָה | name | name | Beriah
+שֶׂרַח | name | name | Serach
+חֶבֶר | name | name | Chever
+מַלְכִּיאֵל | name | name | Malkiel
+בֶכֶר | name | name | Bekher
+אַשְׁבֵּל | name | name | Ashbel
+גֵּרָא | name | name | Gera
+נַעֲמָן | name | name | Naaman
+אֵחִי | name | name | Echi
+רֹאשׁ | name | name | Rosh
+מֻפִּים | name | name | Muppim
+חֻפִּים | name | name | Chuppim
+אָרְדְּ | name | name | Ard
+חֻשִׁים | name | name | Chushim
+יַחְצְאֵל | name | name | Yachtze‘el
+גוּנִי | name | name | Guni
+יֵצֶר | name | name | Yetzer
+שִׁלֵּם | name | name | Shillem

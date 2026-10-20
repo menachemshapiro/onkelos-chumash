@@ -1,0 +1,90 @@
+# Toldot 27:28–28:4
+מִ=from.טַּלּ.ָא=emph | talla | n emph | of the dew
+וּ=.מִ=from.טַּלּ.ָא=emph | talla | n emph | and from the dew
+וּ=.מִ=from.טּוּב.ָא=emph | tuva | n emph | and of the bounty
+מִ=from.טּוּב.ָא=emph | tuva | n emph | from the bounty
+וּ=.סְגִיאוּת | sgiut | n fs cs | and an abundance of
+וְ=.סַגְיוּת | sgiut | n fs cs | and an abundance of (a variant reading)
+עִיבוּר | ibbur | n | grain
+וְ=.עִיבוּר | ibbur | n | and grain
+יִ~they_f.פְלְחֻ.נָּךְ=you | plh | G impf 3mp+2ms | (nations) will serve you
+וְ=.יִ~they_f.שְׁתַּעְבְּד.וּן~mp | shabed | !verb, Ishtaf‘al, imperfect, 3rd masc. pl. | and (kingdoms) will be subject | the passive ת moves after the ש
+הֱוֵי | hwy | G impv ms | be
+לְ=over.אַח.ָיךְ=your | ah | n mp+2ms | over your brothers
+וְ=.יִ~they_f.סְגְּד.וּן~mp | sgd | G impf 3mp | and (they) will bow
+אִמּ.ָךְ=your | em | n+2ms | your mother
+דְ=of.אִמּ.ָךְ=your | em | n+2ms | of your mother
+מְ~ptcD.לַטְט.ָיךְ=you | lwt | D ptc mp+2ms | those who curse you
+לִיט.ִין~mp | lwt | Gp ptc mp | cursed
+וּ=.מְ~ptcD.בָרֲכ.ָיךְ=you | brk | D ptc mp+2ms | and those who bless you
+בְּרִיכ.ִין~mp | brk | Gp ptc mp | blessed
+שֵׁיצִי | shetsi | Q pf 3ms | had finished
+יְ~he_f.קוּם | qwm | G impf 3ms | let (my father) rise | the form יָקוּם
+יָ~he_f.קוּם | qwm | G impf 3ms | let (my father) rise
+וּ=.תְוָה | twh | G pf 3ms | and (he) trembled
+תִּוְה.ָא=emph | tiwha | n emph | a trembling
+דְּ=who.צָד | tswd | G pf 3ms | who hunted
+וּ=.בָרֵכִ.תֵּיהּ=him | brk | D pf 1cs+3ms | and I blessed him
+וּ=.צְוַח | tswh | G pf 3ms | and (he) cried out
+צִוְח.ָא=emph | tsiwha | n emph | a cry
+וּ=.מְרִיר.ָא=emph | merir | a emph | and bitter
+בָּרֵכְ.נִי=me | brk | D impv ms+1cs | bless me
+בָּרֵךְ | brk | D impv ms | bless
+יְ~he_f.בָרֵךְ | brk | D impf 3ms | will bless
+בְּ=with.חָכְמְת.ָא=emph | hokhmta | n fs emph | with cunning (lit. wisdom)
+בִּרְכְּת.ָךְ=your | birkta | n fs+2ms | your blessing
+בִּרְכְּת.ִי=my | birkta | n fs+1cs | my blessing
+בִּרְכְּת.ָא=emph | birkta | n fs emph | a blessing, the blessing
+הֲ=?.בִרְכְּת.ָא=emph | birkta | n fs emph | (is it) one blessing
+יָאוּת | yaut | adv | rightly
+וְ=.חַכְּמַ.נִי=me | hkm2 | D pf 3ms+1cs | and he has outwitted me
+זִמְנ.ִין=pl | zimna | n mp abs | times
+בְּכֵירוּת.ִי=my | bekhoruta | n fs+1cs | my birthright
+27:36> נְסִיב | nsv | G pf 3ms | (he) took
+27:46> נְסִיב | nsv | G ptc ms | (if Yaakov) takes
+שְׁבַקְ.תָּ~you_p | shbq | G pf 2ms | have you (not) left
+שַׁוִּ.תֵּיהּ=him | shwy | D pf 1cs+3ms | I have made him
+עִלַּו.ָךְ=you | illawi | prep+2ms | over you (a variant reading)
+סְעִדְ.תֵּיהּ=him | sd | G pf 1cs+3ms | I have sustained him
+וְ=.ל.ָךְ=you | le | prep+2ms | and for you
+אֶ~I_f.עְבֵּיד | avad | G impf 1cs | can I do
+וַ=.אֲ~C.רֵים | rwm | C pf 3ms | and (Esav) raised
+27:38> וּ=.בְכָא | bky | G pf 3ms | and (he) wept
+מוֹתְב.ָךְ=your | motav | n+2ms | your dwelling
+חַרְבּ.ָךְ=your | harba | n fs+2ms | your sword
+תֵּ~you_f.יחֵי | hyy | G impf 2ms | you will live
+תִּ~you_f.פְלָח | plh | G impf 2ms | you will serve
+יַ~they_f.עְבְּר.וּן~mp | avr | G impf 3mp | (they) transgress
+אוֹרַיְת.ָא=emph | oraita | n fs emph | the Torah
+וְ=.תַ~you_f.עְדֵּי | dy_rm | C impf 2ms | and you will remove
+נִיר.ֵיהּ=his | nira | n+3ms | his yoke
+דְּבָבוּ | dvavu | n fs | hatred (lit. enmity)
+בָרְכ.ֵיהּ=him | brk | D pf 3ms+3ms | (his father) blessed him
+יִ~they_f.קְרְב.וּן~mp | qrb | G impf 3mp | (they) will come near
+אֶבְלֵי | evla | n mp cs | the mourning of
+דְ=of.אַבָּא | av | n | of (my) father
+וְ=.אֶ~I_f.קְטוֹל | qtl | G impf 1cs | and I will kill
+וְ=.אִתְ~Dt.חַוָּה | hwy2 | Dt pf 3ms | and it was told
+וּ=.שְׁלָח.ַת~she_p | shlh | G pf 3fs | and (she) sent
+כְּמִן | kmn | G ptc ms | (is) lying in wait
+לְ=.מִ~inf.קְטְל.ָךְ=you | qtl | G inf+2ms | to kill you
+אִ~cmd.זֵיל | azl | G impv ms | go
+27:44> וְ=.תֵ~you_f.תֵיב | ytv | G impf 2ms | and you shall stay | the י of יתב drops
+זְעֵיר.ִין~mp | zeir | a mp abs | a few (lit. small)
+דִּ=that.י~he_f.תוּב | twv | G impf 3ms | (until) it subsides (lit. returns)
+וְ=.יִ~he_f.תְ~Gt.נְשֵׁי | nshy | Gt impf 3ms | and (it) will be forgotten
+וְ=.אֶ~I_f.שְׁלַח | shlh | G impf 1cs | and I will send
+וְ=.אֶ~I_f.דְבְּרִ.נָּךְ=you | dbr | G impf 1cs+2ms | and I will take you
+אֶ~I_f.תְ~Gt.כַל | tkl | Gt impf 1cs | shall I be bereft
+תַּרְוֵי.כוֹן=of you (pl.) | tren | num+2mp | of both of you
+עָקִ.ית~I_p | qt | G pf 1cs | I am weary
+בְּ=of.חַיּ.ַי=my | hayyin | n mp+1cs | of my life
+חַיִּים | hayyim | n mp | life
+כְ=like.אִלֵּין | illein | pron pl | like these
+לְ=to.פַדַּן | name | name | to Paddan (Aram)
+וּ=.פַקְּד.ֵיהּ=him | pqd | D pf 3ms+3ms | and (he) commanded him
+וְ=.יַ~he_f.פְּשׁ.ָךְ=you | push | C impf 3ms+2ms | and He will make you fruitful | the נ of נפשׁ is absorbed (the dot in פּ)
+וְ=.יַ~he_f.סְגִּ.נָּךְ=you | sgy | C impf 3ms+2ms | and He will multiply you
+לְ=into.כִנְשַׁת | kenishta2 | n fs cs | into an assembly of
+שִׁבְט.ִין=pl | shivta | n mp abs | tribes
+לְ=.מֵ~inf.ירְת.ָךְ=you | yrt | G inf+2ms | for you to inherit

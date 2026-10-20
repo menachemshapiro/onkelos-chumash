@@ -1,0 +1,60 @@
+# Shemot 19:20–20:14
+אַ~C.סְהֵיד | shd2 | C impv 2ms | warn (lit. testify to)
+אַ~C.סְהֵדְ.תָּ~you_p | shd2 | C pf 2ms | You warned
+תַ~you_f.סְהֵד | shd2 | C impf 2ms | you shall (not) testify
+יְ~they_f.פַגְר.וּן~mp | pgr | D impf 3mp | they break through
+וְ=.יִ~he_f.פֵּל | npl | G impf 3ms | and (many) will fall | the נ of נפל is absorbed
+כָּהֲנ.ַיָא~emphp | kahana | n mp emph | the priests
+דִ=who.קְרִיב.ִין~mp | qrb | Gp ptc mp | who are near (i.e. who serve)
+לְ=.שַׁמָשׁ.ָא~inf_end | shmsh | D inf | to minister
+יִ~they_f.תְ~Dt.קַדְשׁ.וּן~mp | qdsh | Dt impf 3mp | let them sanctify themselves
+יִ~he_f.קְטוֹל | qtl | G impf 3ms | He will kill (i.e. strike)
+יִ~he_f.כּוֹל | ykl | G impf 3ms | (the people) can (not)
+וְ=.תִ~you_f.סַק | slq | G impf 2ms | and you shall go up | the ל of סלק is absorbed
+תַּחִים | thm | D impv 2ms | set bounds!
+וְ=.קַדֵשְׁ.הִי=it | qdsh | D impv 2ms+3ms | and sanctify it
+אַפֵּיקְ.תָּ~I_p.ךְ=you | npq | C pf 1cs+2ms | (Who) brought you out | the נ of נפק is absorbed
+צְלֵם | tselem | n | an image
+תִ~you_f.סְגֻד | sgd | G impf 2ms | you shall (not) bow down
+תִ~you_f.פְלְחִ.נוּן=them | plh | G impf 2ms+3mp | (nor) shall you serve them
+קַנ.ָא=emph | qanna | a emph | jealous
+מַ~ptcC.סְעַר | sar | C ptc ms | visiting (i.e. bringing to account)
+מָרָד.ִין~mp | mrd | G ptc mp | rebellious
+דַר | dar | n cs | the generation (of)
+תְּלִיתַי | telitai | ord | third
+רְבִיעַי | reviai | ord | fourth
+לְ=.שָׂנְא.ָי=Me | sny | G ptc mp+1cs | of those who hate Me
+לְ=to.אַלְפ.ֵי~cs_pl | alaf | num | to thousands of
+לְ=to.רַחֲמ.ַי=Me | rhm | G ptc mp+1cs | to those who love Me
+וּ=.לְ=to.נָטְר.ֵי~cs_pl | ntr | G ptc mp cs | and to those who keep
+פִקוֹד.ָי=My | piqqud | n mp+1cs | My commandments
+תֵ~you_f.ימֵי | ymy | G impf 2ms | you shall (not) swear | the י of ימי
+לְ=.מַגָנ.ָא=emph | maggan | adv | in vain
+יִ~he_f.זַכֵּי | zky | D impf 3ms | (Hashem) will (not) hold guiltless
+דִ=who.יֵ~he_f.ימֵי | ymy | G impf 3ms | who swears
+לְ=.שִׁקְר.ָא=emph | shiqra | n emph | falsely
+דְ=of.שִׁקְר.ָא=emph | shiqra | n emph | of falsehood
+לְ=.קַדָשׁוּת.ֵהּ=it | qdsh | D inf+3ms | to sanctify it
+עִבִדְתּ.ָךְ=your | avidta | n fs+2ms | your work
+עִבִדְתּ.ָא=emph | avidta | n fs emph | work
+וְ=.גִיוֹר.ָךְ=your | giyora | n+2ms | and your convert (Hebrew: וְגֵרְךָ)
+בְ=in.קִרְו.ָךְ=your | qirya | n mp+2ms | in your cities
+וְ=.קַדְשׁ.ֵהּ=it | qdsh | D pf 3ms+3ms | and (He) sanctified it
+יַקַר | yqr2 | D impv 2ms | honor!
+דְ=so that.יוֹ~they_f.רְכ.וּן~mp | ork | C impf 3mp | so that (your days) may be long | the א of ארך becomes ו
+יוֹמ.ָיךְ=your | yom | n mp+2ms | your days
+תְ~you_f.גוּף | gwf | G impf 2ms | you shall (not) commit adultery
+תִ~you_f.גְנוּב | gnv | G impf 2ms | you shall (not) steal
+בְּ=against.חַבְר.ָךְ=your | havra | n+2ms | against your fellow
+חַבְר.ָךְ=your | havra | n+2ms | your fellow
+תַ~you_f.חְמֵד | hmd | G impf 2ms | you shall (not) covet
+וְ=.אַמְת.ֵהּ=his | amta | n+3ms | and his maidservant
+וְ=.תוֹר.ֵהּ=his | tor | n+3ms | and his ox
+וַ=.חֲמָר.ֵהּ=his | hmara | n+3ms | and his donkey
+20:4> דְמוּת | dmut | n fs | likeness
+20:5> מְ~ptcD.שַׁלְמ.ִין~mp | shlm | D ptc mp | continue (lit. complete)
+20:6> וְ=.עָבֵד | avad | G ptc ms | and doing
+20:14> וְ=.עַבְד.ֵהּ=his | eved | n+3ms | and his servant
+19:21> בְּ=.עַמ.ָא=emph | amma2 | n emph | the people
+20:7> בִ=in.שְׁמ.ֵהּ=His | shum | n+3ms | in His name
+19:20> לְ=to.רֵישׁ | resh | n cs | to the top of

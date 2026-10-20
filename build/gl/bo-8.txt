@@ -1,0 +1,9 @@
+# Shemot 13:14–16
+יִ~he_f.שְׁאֲלִ.נָךְ=you | shl | G impf 3ms+2ms | (your son) asks you
+אַ~C.פְּקָ.נָא=us | npq | C pf 3ms+1cp | (Hashem) brought us out | the נ of נפק is absorbed
+לְ=.שַׁלָחוּתָ.נָא=us | shlh | D inf+1cp | to send us away
+דָבַח | dbh | G ptc ms | sacrifice (lit. am sacrificing)
+אֶ~I_f.פְרוֹק | prq | G impf 1cs | I redeem
+וְ=.לִ=as.תְפִלִּ.ין~pl | tefillin | n mp abs | and as tefillin
+13:14> בִּ=with.תְקוֹף | tqof | n cs | with the strength of (a hand)
+13:16> בִּ=with.תְקוֹף | tqof | n cs | with the strength of (a hand)

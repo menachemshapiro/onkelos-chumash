@@ -1,0 +1,28 @@
+# Shemot 4:18–31
+יֶתֶר | name | name | Yeter (= Yitro)
+יִתְרוֹ | name | name | Yitro
+דִ=who.בְע.וֹ~they_p | bay | G pf 3mp | who sought
+וְ=.אַ~C.רְכְּבִ.נוּן=them | rkv | C pf 3ms+3mp | and (he) set them (riding)
+דְ=through which.אִתְ~Gt.עֲבִיד.וּ~they_p | avad | Gt pf 3mp | (miracles) were done
+נִס.ִין=pl | nissa | n mp abs | miracles
+בִּ=when.מְ~inf.הָכ.ָךְ=you | hlk2 | G inf+2ms | when you go
+מוֹפְת.ַיָא=emphp | mofta | n mp emph | the wonders
+וְ=.תַ~you_f.עְבְּדִ.נוּן=them | avad | G impf 2ms+3mp | and you shall perform them
+אַ~I_f.תְקֵיף | tqf | C impf 1cs | I will harden (lit. strengthen)
+וְ=.יִ~he_f.פְלַח | plh | G impf 3ms | that he may serve
+סָרִיב | srv | D ptc ms | refuse
+לְ=.שַׁלָחוּת.ֵהּ=him | shlh | D inf+3ms | to send him (away)
+לְ=.מִ~inf.קְטְל.ֵהּ=him | qtl | G inf+3ms | to kill him
+טִנָר.ָא=emph | tinara | n emph | a flint
+וּ=.גְזָרַ.ת~she_p | gzr | G pf 3fs | and (she) cut off
+עָרְלַת | orla | n fs cs | the foreskin of
+דִ=of.מְהֻלְתּ.ָא=emph | mehulta | n fs emph | of the circumcision
+אִתְ~Gt.יְהֵב | yhb | Gt pf 3ms | has been given (back)
+וְ=.נָח | nwh | G pf 3ms | and (the angel) let go (lit. rested)
+אִלוּלֵי | ilula | conj | were it not for
+אִתְ~Dt.חַיַב | hwb | Dt pf 3ms | would have been liable (to)
+וְ=.עַרְע.ֵהּ=him | ra | D pf 3ms+3ms | and (he) met him
+שַׁלְח.ֵהּ=him | shlh | D pf 3ms+3ms | (Hashem) sent him
+פַקְד.ֵהּ=him | pqd | D pf 3ms+3ms | (Hashem) commanded him
+וְ=.הֵ~C.ימִן | hymn | C pf 3ms | and (the people) believed
+שִׁעְבּוּדְ.הוֹן=their | shibbud | n+3mp | their servitude

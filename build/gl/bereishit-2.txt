@@ -1,0 +1,106 @@
+# Bereishit 2:4–2:19
+אִלֵּין | illein | pron pl | these
+תּוּלְדַת | toldot | n fs cs | the history of (Hebrew: תּוֹלְדוֹת)
+כַּד | kad | conj | when
+אִתְ~Gt.בְּרִיא.וּ~they_p | bra | Gt pf 3mp | (they) were created
+אֱלֹהִים | elohim | !the Divine Name, as in the Hebrew | Elohim
+אִילָנֵי | ilan | n mp cs | the trees of (Hebrew: שִׂיחַ, plants)
+חַקְל.ָא=emph | haqla | n ms emph | the field
+עַד | ad | prep | until (עַד לָא = not yet)
+לָא | la | neg | not
+הֲו.וּ~they_p | hwy | G pf 3mp | (they) were | last root letter י drops
+צְמָח | tsmh | G pf 3ms | (had) sprouted
+אָ~C.חִית | nht | C pf 3ms | (had) brought down | the נ of נחת is absorbed
+מִטְר.ָא=emph | mitra | n ms emph | rain
+וְ=.אֱנַשׁ | enash | n ms abs | and a man
+לֵית | leit | neg | there was no (one)
+לְ=.מִ~inf.פְלַח | plh | G inf | to work
+אַדְמְת.ָא=emph | adamta | n fs emph | the ground
+וַ=.עֲנָנ.ָא=emph | anana | n ms emph | and a mist (lit. cloud; Hebrew: אֵד)
+הֲוָה | hwy | G pf 3ms | was
+סָלֵיק | slq | G ptc ms | rising (הֲוָה סָלֵיק = would rise)
+וְ=.אַ~C.שְׁקֵי | shqy | C pf 3ms | and (it) watered
+עַפְר.ָא=emph | afra | n ms emph | dust
+וּ=.נְפַח | nfh | G pf 3ms | and (He) blew
+בְּ=into.אַפּ.וֹהִי=his | anpin | n mp+3ms | into his nostrils (lit. his face)
+נִשְׁמְת.ָא=emph | nishmeta | n fs emph | the breath
+דְ=of.חַיֵּי | hayyin | n mp | of life
+לְ=into.רוּחַ | ruah | n fs abs | into a spirit
+מְ~ptcD.מַלְל.ָא~fs | mll | D ptc fs | speaking
+וּ=.נְצִיב | nsb | G pf 3ms | and (He) planted
+גִּינְת.ָא=emph | ginta | n fs emph | a garden / the garden
+עֵדֶן | eden | name | Eden
+בְ=.עֵדֶן | eden | name | in Eden
+מִ=from.לְּ=.קַדְמִין | qdm | !adverb (מִן + לְ + קַדְמִין) | from before (Hebrew: מִקֶּדֶם; Onkelos reads it as “earlier”, not “in the east”)
+וְ=.אַ~C.שְׁוֵי | shwy | C pf 3ms | and (He) placed
+תַמָּן | taman | adv | there
+וְ=.אַ~C.צְמַח | tsmh | C pf 3ms | and (He) made grow
+דִּ=that (is).מְרַגֵּג | mraggeg | a ms | that is pleasant
+לְ=.מֶ~inf.חֱזֵי | hzy | G inf | to look at
+לְ=.מֵ~inf.יכַל | akhal | G inf | to eat (= for food) | the א of אכל becomes י
+חַיּ.ָא=emph | hayyin | n emph | of life (אִילַן חַיָּא = the Tree of Life)
+דְּ=that.אָכְל.ִין~mp | akhal | G ptc mp | that (those who) eat
+פֵּיר.וֹהִי=its | peira | n mp+3ms | its fruit
+חַכִּימ.ִין~mp | hkm | a mp abs | (become) wise, knowing
+טַב | tav | a ms | good
+לְ=.בִישׁ | bish | a ms | and evil (בֵּין … לְ… = between … and …)
+וְ=.נַהֲר.ָא=emph | nahar | n ms emph | and a river
+נָפִיק | npq | G ptc ms | going out (הֲוָה נָפִיק = went out)
+מֵ=.עֵדֶן | eden | name | from Eden
+לְ=.אַ~C.שְׁקָא.ָה~inf_end | shqy | C inf | to water
+וּ=.מִ=.תַּמָּן | taman | adv | and from there
+יִ~he_f.תְ~Gt.פָּרִשׁ | prsh | Gt impf 3ms | it would divide (lit. be divided)
+וַ=.הֲוֵי | hwy | G ptc ms | and became
+לְ=into.אַרְבְּעָה | arba | num m | into four
+רֵישֵׁי | resh | n mp cs | heads of (= sources of)
+נַהֲר.ִין=pl | nahar | n mp abs | rivers
+שׁוּם | shum | n cs | the name of
+פִּישׁוֹן | name | name | Pishon
+הוּא | hu | pron 3ms | it
+מַ~ptcC.קִּיף | nqf | C ptc ms | surrounds | the נ of נקף is absorbed (the dot in קּ)
+אֲרַע | ara | n fs cs | the land of
+דַּ=of.חֲוִילָה | name | name | of Chavilah
+דַּהֲב.ָא=emph | dahava | n ms emph | gold
+הַהִיא | hahu | pron fs | that
+תַּמָן | taman | adv | there
+בְּדָלְח.ָא=emph | bdolha | n emph | bdellium
+וְ=.אַבְנֵי | avna | n fp cs | and stones of
+בוּרְל.ָא=emph | burla | n emph | beryl (Hebrew: הַשֹּׁהַם)
+נַהֲר.ָא=emph | nahar | n ms emph | the river
+תִנְיָנ.ָא=emph | tinyan | ord ms emph | the second
+גִּיחוֹן | name | name | Gichon
+דְ=of.כוּשׁ | name | name | of Kush
+תְּלִיתָאָה | telitai | ord emph | the third
+דִּיגְלַת | name | name | Diglas (Hebrew: חִדֶּקֶל, the Tigris)
+מְ~ptcD.הַלֵּךְ | hlk | D ptc ms | walking, going
+2:14> מְ~ptcD.הַלֵּךְ | hlk | D ptc ms | flows (lit. goes)
+לְ=.מַדִּינְח.ָא=emph | madinha | n emph | to the east
+דְ=of.אַתּוּר | name | name | of Ashur
+רְבִיעָאָה | reviai | ord emph | the fourth
+פְרָת | name | name | P’ras (the Euphrates)
+וּ=.דְבַר | dbr | G pf 3ms | and (He) took
+וְ=.אַ~C.שְׁרֵי.הּ=him | shry | C pf 3ms+3ms | and (He) settled him (Hebrew: וַיַּנִּחֵהוּ)
+לְ=.מִ~inf.פְלְח.ַהּ=it (fem.) | plh | G inf+3fs | to work it
+וּ=.לְ=.מִ~inf.טְר.ַהּ=it (fem.) | ntr | G inf+3fs | and to guard it | the נ of נטר drops
+וּ=.פַקִּיד | pqd | D pf 3ms | and (He) commanded
+מֵ~inf.יכַל | akhal | G inf | eating (מֵיכַל תֵּיכוּל = you may surely eat) | the א of אכל becomes י
+תֵּ~you_f.יכוּל | akhal | G impf 2ms | you may eat | the א of אכל becomes י
+תֵ~you_f.יכוּל | akhal | G impf 2ms | you shall eat | the א of אכל becomes י
+וּ=.מֵ=.אִילָן | ilan | n ms abs | but from the tree
+מִנּ.ֵהּ=it | min | prep+3ms | from it
+מֵ~inf.ימַת | mwt | G inf | dying (מֵימַת תְּמוּת = you will surely die)
+תְּ~you_f.מוּת | mwt | G impf 2ms | you will die
+לְ=.מֶ~inf.הֱוֵי | hwy | G inf | to be
+בִּ=.לְחוֹד.וֹהִי=him | lhod | adv+3ms | alone (lit. by himself)
+אַ~I_f.עֲבֵד | avad | G impf 1cs | I will make
+ל.ֵהּ=him | le | prep+3ms | for him
+סְמַךְ | smakh | n abs | a helper (lit. support)
+לְ=.קִבְל.ֵהּ=him | qbl | prep+3ms | corresponding to him (Hebrew: כְּנֶגְדּוֹ)
+וְ=.אַ~C.יְתֵ.הּ=it | aty | C pf 3ms+3ms | and (He) brought (them; lit. it)
+לְוַת | lwat | prep | to
+מַה | ma | pron | what
+יִּ~he_f.קְרֵי | qry | G impf 3ms | he would call
+קָרֵי | qry | G ptc ms | called (lit. calling; הֲוָה קָרֵי = would call)
+שְׁמ.ֵהּ=its | shum | n ms+3ms | its name
+2:19> בְּר.ָא=emph | bara | n ms emph | of the field (lit. the outside; Hebrew: הַשָּׂדֶה)
+כֹל | kol | n | all, every

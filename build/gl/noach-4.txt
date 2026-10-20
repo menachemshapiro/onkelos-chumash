@@ -1,0 +1,62 @@
+# Noach 8:15–9:7
+כֹּלָּא | kol | n emph | everything, all
+וּ=.מַלֵּיל | mll2 | D pf 3ms | and (He) spoke
+פּוּק | npq | G impv ms | go out | the נ of נפק drops
+אַ~C.פֵּיק | npq | C impv ms | bring out | the נ of נפק is absorbed (the dot in פּ)
+וְ=.יִ~they_f.תְ~Dt.יַלְּד.וּן~mp | yld | Dt impf 3mp | and let them breed
+וְ=.יִ~they_f.פְּשׁ.וּן~mp | push | G impf 3mp | and let them increase | the נ of נפשׁ is absorbed (the dot in פּ)
+וְ=.יִ~they_f.סְגּ.וּן~mp | sgy | G impf 3mp | and let them multiply
+לְ=by.זַרְעֲיָת.ְהוֹן=their | zaraya | n fp+3mp | by their families
+נְפָק.וּ~they_p | npq | G pf 3mp | (they) went out
+מַדְבְּח.ָא=emph | madbha | n emph | an altar
+בְּ=on.מִדְבְּח.ָא=emph | madbha | n emph | on the altar
+דְכֵי | dakhi | a ms | clean
+וְ=.אַ~C.סֵּיק | slq | C pf 3ms | and (he) offered up | the ל of סלק is absorbed (the dot in סּ)
+עֲלָו.ָן=pl | alawan | n fp abs | burnt offerings
+וְ=.קַבִּיל | qbl2 | D pf 3ms | and (He) accepted
+קוּרְבָּנ.ֵיהּ=his | qurbana | n+3ms | his offering
+אוֹ~I_f.סֵף | ysf | C impf 1cs | I will (no longer) | Af‘el of יסף: “add”
+לְ=.מֵ~inf.ילַט | lwt | G inf | to curse
+חוֹבֵי | hova | n mp cs | the sins of
+לִבּ.ָא=emph | lev | n emph | the heart
+מִ=.זְּעִיר.ֵיהּ=his | zeir | a+3ms | from his youth (lit. from his smallness)
+לְ=.מִ~inf.מְחֵי | mhy | G inf | to strike, to wipe out
+דְ=that.עָבְד.ִית~I_p | avad | G pf 1cs | that I have done
+זְרוֹע.ָא=emph | zrua | n emph | sowing
+וַ=.חֲצָד.ָא=emph | hatsad | n emph | and harvest
+וְ=.קוֹר.ָא=emph | qor | n emph | and cold
+וְ=.חוֹמ.ָא=emph | hom | n emph | and heat
+וְ=.קַיְט.ָא=emph | qayta | n emph | and summer
+וְ=.סִתְו.ָא=emph | sitwa | n emph | and winter
+וִ=.ימָם | imam | n abs | and day
+יִ~they_f.בְטְל.וּן~mp | btl | G impf 3mp | (they) will cease
+וְ=.דַחֲלַתְ.כוֹן=your (pl.) | dahalta | n fs+2mp | and the fear of you
+וְ=.אֵימַתְ.כוֹן=your (pl.) | eima | n fs+2mp | and the dread of you
+תְּ~she_f.הֵי | hwy | G impf 3fs | shall be
+וְ=.עַל | al | prep | and on
+תַ~she_f.רְחֵישׁ | rhsh | C impf 3fs | (the earth) brings forth (in swarms)
+נוּנֵי | nun | n mp cs | the fish of
+בְּ=into.יֶדְ.כוֹן=your (pl.) | yad | n fs+2mp | into your hand(s)
+מְסִיר.ִין~mp | msr | Gp ptc mp | handed over
+חַי | hay | a ms | alive
+עִשְׂבּ.ָא=emph | isba | n emph | herbage
+בְּרַם | beram | adv | but, only
+וּ=.בְרַם | beram | adv | and only, but
+בְּ=with.נַפְשׁ.ֵיהּ=its | nafsha | n fs+3ms | with its life (lit. soul)
+9:4> דְּמ.ֵיהּ=its | dam | n+3ms | its blood
+9:6> דְּמ.ֵיהּ=his | dam | n+3ms | his blood
+תֵ~ypl_f.כְל.וּן~mp | akhal | G impf 2mp | you (pl.) shall eat | the א of אכל drops
+דִּמְ.כוֹן=your (pl.) | dam | n+2mp | your blood
+לְ=of.נַפְשָׁת.ֵיכוֹן=your (pl.) | nafsha | n fp+2mp | of your lives
+אֶ~I_f.תְבַּע | tba | G impf 1cs | I will demand
+אֶ~I_f.תְבְּעִ.נֵּיהּ=it | tba | G impf 1cs+3ms | I will demand it
+מִ=.יַּד | yad | n fs cs | from the hand of
+וּ=.מִ=.יַּד | yad | n fs cs | and from the hand of
+דְּ=that.יֵ~he_f.שׁוֹד | shd | G impf 3ms | who sheds | CAL: ʾšd, Pe‘al “to pour”; the א drops
+דְּמ.ָא=emph | dam | n emph | the blood
+בְּ=by.סַהֲד.ִין=pl | sahid | n mp abs | by witnesses
+מֵימַר | meimra | n cs | the word (= sentence) of
+דַּ=of.יָּנ.ַיָּא=emphp | dayyan | n mp emph | the judges
+יִ~he_f.תְּ~Gt.שָׁד | shd | Gt impf 3ms | shall be shed | the א drops; the passive ת is doubled
+וְ=.אַתּוּן | atun | pron 2mp | and you (pl.)
+בַ.הּ=it (fem.) | be | prep+3fs | in it

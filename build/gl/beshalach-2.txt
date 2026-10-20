@@ -1,0 +1,18 @@
+# Shemot 14:9–14
+שָׁר.ָן~mp | shry | G ptc mp | (they) were encamped
+סוּסָוַת | susya | n fp cs | the horses of
+וּ=.פָרָשׁ.וֹהִי=his | parasha | n mp+3ms | and his horsemen
+נַטְל.ִין~mp | ntl2 | G ptc mp | were journeying (after them)
+הֲ~question marker.מִ=because.דְ=.לֵית | leit | neg | is it because there are no (graves)?
+קִבְר.ִין~pl | qivra | n mp abs | graves
+דְבַרְ.תָּ~you_p.נָא=us | dbr | G pf 2ms+1cp | you have taken us
+לְ=.אַפָּקוּתָ.נָא=us | npq | C inf+1cp | to bring us out
+מַלֵלְ.נָא~we_p | mll | D pf 1cp | we spoke
+מִ=than.דִ=that.נְ~we_f.מוּת | mwt | G impf 1cp | than that we die
+אִתְ~Dt.עַתָּד.וּ~cmd_pl | td | Dt impv 2mp | stand ready!
+פּוּרְקָנ.ָא=emph | purqan | n emph | the salvation
+יְ~he_f.גִיחַ | gwh | C impf 3ms | will wage (war)
+תִּ~ypl_f.שְׁתְּק.וּן~mp | shtq | G impf 2mp | you shall be silent
+וְ=.אַ~C.דְבִּיק.וּ~they_p | dbq | C pf 3mp | and (they) overtook
+14:9> וּ=.רְדָפ.וּ~they_p | rdf | G pf 3mp | and (the Egyptians) pursued
+14:13> דְ=that.יַ~he_f.עְבֵּד | avad | G impf 3ms | that (Hashem) will do

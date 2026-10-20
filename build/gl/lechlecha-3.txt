@@ -1,0 +1,63 @@
+# Lech Lecha 13:5–13:18
+דְּ=that.אָזֵיל | azl | G ptc ms | who went
+סוֹבָר.ַת~she_p | svr | Q pf 3fs | (the land) could bear | CAL: swbr, 4-letter verb “to carry, bear”
+לְ=.מִ~inf.יתַב | ytv | G inf | to dwell | the י of יתב merges with the מִ
+כַּחֲדָא | kahada | adv | together
+יְכִיל.וּ~they_p | ykl | G pf 3mp | (they) were able
+מַצּוּת.ָא=emph | matsuta | n fs emph | a quarrel
+בְּעִיר.ֵיהּ=his | beir | n+3ms | the cattle of (lit. his cattle)
+פְרִזָּאָה | name | name | the Perizzite(s)
+יָתִיב | ytv | G ptc ms | dwelling
+יָתֵב | ytv | G ptc ms | dwelt (lit. dwelling)
+בֵּינ.ָא=me | bein | prep+1cs | between me
+רַעֲוָת.ִי=my | rey | n mp+1cs | my shepherds
+רַעֲוָת.ָךְ=your | rey | n mp+2ms | your shepherds
+גוּבְר.ִין=pl | gvar | n mp abs | men
+אַח.ִין=pl | ah | n mp abs | brothers
+אֲנָחְנָא | anahna | pron 1cp | (are) we
+אִתְ~Gt.פְּרַשׁ | prsh | Gt impv ms | separate yourself
+דְּ=that.אִתְ~Gt.פָּרֶשׁ | prsh | Gt pf 3ms | (after) that (Lot) separated
+כְּעַן | kean | adv | now (here: please)
+מִ=from.לְּ=.וָת.ִי=me | lwat | prep+1cs | from me
+מִ=from.לְּ=.וַת | lwat | prep | from (beside)
+לְ=to.צִפּוּנ.ָא=emph | tsippuna | n emph | to the north
+וּ=.זְקַף | zqf | G pf 3ms | and (he) lifted
+זְקוֹף | zqf | G impv ms | lift
+עֵינ.וֹהִי=his | eina | n fp+3ms | his eyes
+עֵינ.ָךְ=your | eina | n fp+2ms | your eyes
+מֵישַׁר | meishar | n cs | the plain of
+מֵישְׁר.ָא=emph | meishar | n emph | the plain
+בְּ=in.מֵישְׁרֵי | meishar | n mp cs | in the plains of
+יַרְדְּנ.ָא=emph | yarden | name | the Yarden (Jordan)
+כֻלּ.ַהּ=it (fem.) | kol | n+3fs | all of it
+שַׁקְי.ָא=emph | shaqya | n emph | irrigation (בֵּית שַׁקְיָא = well-watered land)
+חַבָּלוּת | habbaluta | n fs cs | the destruction (by)
+סְדוֹם | name | name | Sedom
+עֲמֹרָה | name | name | Amorah (Gomorrah)
+לְ=to.צֹעַר | name | name | to Tzoar
+וּ=.בְחַר | bhr | G pf 3ms | and (he) chose
+וּ=.נְטַל | ntl2 | G pf 3ms | and (he) journeyed
+בְּ=in.קִירְוֵי | qirya | n fp cs | in the towns of
+וּ=.פְרַס | prs | G pf 3ms | and (he) pitched (his tent; lit. spread)
+וַ=.אֲנָשֵׁי | enash | n mp cs | and the men of
+13:13>וַ=.אֲנָשֵׁי | enash | n mp cs | and the men of (a variant reading)
+בִּישׁ.ִין~mp | bish | a mp abs | evil
+בְּ=with.מָמוֹנ.ְהוֹן=their | mamon | n+3mp | with their wealth
+וְ=.חַיָּב.ִין~mp | hayyav | a mp abs | and guilty
+בִּ=with.גְוִיָּת.ְהוֹן=their | gwiya | n fp+3mp | with their bodies
+וַ=.חֲזֵי | hzy | G impv ms | and see
+חָזֵי | hzy | G ptc ms | see (lit. seeing)
+אַתְר.ָא=emph | atar | n emph | the place
+וּ=.לְ=.מַעֲרָב.ָא=emph | maarav | n emph | and to the west
+אֶ~I_f.תְּנִ.נַּהּ=it (fem.) | yhb | G impf 1cs+3fs | I will give it | the future of יְהַב comes from נתן
+סַגִּיא.ִין~mp | saggi | a mp abs | many
+אֶפְשַׁר | efshar | adv | possible
+לְ=.מִ~inf.מְנֵי | mny | G inf | to count
+יִ~they_f.תִּ~Gt.מְנ.וּן~mp | mny | Gt impf 3mp | will be counted
+קוּם | qwm | G impv ms | arise
+הַלִּיךְ | hlk | D impv ms | walk
+לְ=.אָרְכּ.ַהּ=its (fem.) | orka | n+3fs | through its length
+וַ=.אֲתָא | aty | G pf 3ms | and (he) came
+וִ=.יתֵב | ytv | G pf 3ms | and (he) dwelt
+מַמְרֵא | name | name | Mamre
+בְ=in.חֶבְרוֹן | name | name | in Chevron

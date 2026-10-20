@@ -1,0 +1,363 @@
+# Behar + Bechukotai, all in one batch (other aliyah files are stubs)
+וְ=and.תַשְׁמֵט | shmt | C impf 3fs | and (the land) shall rest (lit. be released)
+שְׁמִטְּתָא | shmitta | n emph | a release (Sabbatical rest)
+תִּכְסַח | ksh | G impf 2ms | you shall prune
+כַּרְמָ.ךְ=your | karma | n+2ms | your vineyard
+שְׁבִיעֲתָא | shevia | num fs emph | the seventh
+נְיַח | nyaha | n cs | a rest of
+דְּ=that.תַשְׁמֵט | shmt | C impf 3fs | that (the land) shall rest
+תִכְסָח | ksh | G impf 2ms | you shall prune
+כַּתֵּי | kata | n fp cs | the aftergrowth of
+תֶחֱצַד | hsd | G impf 2ms | you shall reap
+עִנְּבֵי | inba | n mp cs | the grapes of
+שִׁבְקָ.ךְ=your | shbq | G inf+2ms | your leaving (untended; Hebrew: נְזִירֶךָ)
+תִקְטוֹף | qtf | G impf 2ms | you shall pick
+שְׁנַת | shna | n cs | a year of
+שְׁמִטַּת | shmitta | n cs | the release (Sabbatical produce) of
+וְ=and.לַ=for.אֲגִירָ.ךְ=your | agira | n+2ms | and for your hired worker
+וּ=and.לְ=for.תוֹתָבָ.ךְ=your | totav | n+2ms | and for your resident
+דְּ=who.דָיְר.ִין~mp | dwr | G ptc mp | who dwell
+שְׁמִט.ִּין=pl | shmitta | n fp | Sabbatical cycles (lit. releases)
+וְ=and.תַעֲבַר | avr | C impf 2ms | and you shall sound (lit. pass round)
+שׁוֹפַר | shofar | n cs | a shofar of
+תַּעַבְּרוּן | avr | C impf 2mp | you shall sound (lit. pass round)
+וּ=and.תְקַדְּשׁוּן | qdsh | D impf 2mp | and you shall sanctify
+וְ=and.תַקְרוּן | qry | G impf 2mp | and you shall proclaim (lit. call)
+יוֹבֵלָא | yovla | n emph | the Jubilee
+וּ=and.תְתוּבוּן | twv | G impf 2mp | and you shall return
+לְ=to.אַחֲסַנְתֵּ.יהּ=his | ahsanta | n+3ms | to his possession
+לְ=to.זַרְעִיתֵ.יהּ=his | zaraya | n+3ms | to his family
+תְּתוּבוּן | twv | G impf 2mp | you shall return
+תִזְרְעוּן | zra | G impf 2mp | you shall sow
+תַחְצְדוּן | hsd | G impf 2mp | you shall reap
+כַּתָּ.הָא=its | kata | n fp+3fs | its aftergrowth
+תִקְטְפוּן | qtf | G impf 2mp | you shall pick
+שִׁבְקָ.הָא=its | shbq | G inf+3fs | its (untended) growth (lit. its leaving)
+דְ=of.יוֹבֵלָא | yovla | n emph | of the Jubilee
+תְזַבֵּן | zvn | D impf 2ms | you sell
+זְבִינ.ִין=pl | zevin | n mp | a sale (lit. sales)
+תִזְבֵּן | zvn | G impf 2ms | you buy
+תִּזְבֵּן | zvn | G impf 2ms | you shall buy
+יְזַבֶּן | zvn | D impf 3ms | he shall sell
+תַּסְגֵּי | sgy | C impf 2ms | you shall increase
+זְעֵרוּת | zeirut | n cs | the fewness of (lit. smallness)
+תַּזְעֵר | zr | C impf 2ms | you shall decrease
+מְזַבֵּן | zvn | D ptc ms | (he) is selling
+לְ=in.רָחְצָן | rahtsan | n | in security
+אִבַּ.הּ=its | ibba | n+3fs | its fruit
+לְ=to.מִ~inf.שְׂבָּע | sva | G inf | to satiety (lit. to be satisfied)
+נִזְרָע | zra | G impf 1cp | we sow
+נִכְנוֹשׁ | kns | G impf 1cp | we gather
+עֲלַלְתָּ.נָא=our | alalta | n fs+1cp | our produce
+בִּרְכָתִ.י=my | birkta | n+1cs | My blessing
+שְׁתִיתֵתָא | shetitai | num fs emph | the sixth
+תְמִינֵתָא | tmin | num fs emph | the eighth
+תְשִׁיעֵתָא | tsha | num fs emph | the ninth
+תִזְדַּבַּן | zvn | Dt impf 3fs | shall be sold
+לַ=for.חֲלוּטִין | haluta | n mp | permanently
+וְ=and.תוֹתָב.ִין=pl | totav | n mp | and residents
+אַחֲסַנְתְּ.כוֹן=your | ahsanta | n+2mp | your possession
+פֻּרְקָנָא | purqan | n emph | redemption
+יְתְמַסְכַּן | mskn | Dt impf 3ms | becomes poor
+מֵ=from.אַחֲסַנְתֵּ.הּ=his | ahsanta | n+3ms | from his possession
+פָרִיקֵ.יהּ=his | prq | G ptc ms+3ms | his redeemer
+וְ=and.יִפְרוֹק | prq | G impf 3ms | and he shall redeem
+פָּרִיק | prq | G ptc ms | a redeemer
+פֻּרְקָנֵ.הּ=his | purqan | n+3ms | his redemption
+וִ=and.יחַשֵּׁב | hshb | D impf 3ms | and he shall reckon
+זַבֶּן | zvn | D pf 3ms | he sold
+לְ=to.אַחֲסַנְתֵּ.הּ=his | ahsanta | n+3ms | to his possession
+אֲתֵב | twv | C pf 3ms | he can afford (lit. bring back)
+בְּ=in.יוֹבֵלָא | yovla | n emph | in the Jubilee
+מוֹתַב | motav | n cs | a dwelling (house) of
+מַקְּפָא | nqf | C ptc fs | surrounded (with)
+פֻרְקָנֵ.יהּ=its | purqan | n+3ms | its redemption
+יִתְפָּרַק | prq | Gt impf 3ms | is redeemed
+שׁוּרָא | shura | n emph | the wall
+לְ=for.דָרוֹ.הִי=its | dar | n mp+3ms | for its generations
+פַצְח.ַיָּא=pl | patsha | n mp emph | the unwalled villages
+יִתְחַשָּׁב | hshb | Dt impf 3ms | shall be reckoned
+וּ=and.בְ=in.יוֹבֵלָא | yovla | n emph | and in the Jubilee
+יִפְרוֹק | prq | G impf 3ms | he shall redeem
+זְבִין | zvn | Gp pf 3ms | was sold
+אַחֲסַנְתֵּ.יהּ=his | ahsanta | n+3ms | his possession
+קִרְוֵ.יהוֹן=their | qirya | n mp+3mp | their cities
+יִזְדַּבָּן | zvn | Dt impf 3ms | shall be sold
+יִתְמַסְכַּן | mskn | Dt impf 3ms | becomes poor
+וּ=and.תְמוּט | mwt3 | G impf 3fs | and (his means) fail (lit. his hand totters)
+דַּיַּר | dayyar | n | a sojourner
+וְ=and.תוֹתָב | totav | n | and a resident
+וְ=and.רִבִּיתָא | ribbita | n emph | and increase (interest)
+וּ=and.בְ=for.רִבִּיתָא | ribbita | n emph | and for increase (interest)
+יִפְלַח | plh | G impf 3ms | he shall serve
+אֲבָהָת.וֹהִי=his | av | n mp+3ms | his fathers
+עַבְדַּ.י=my | eved | n mp+1cs | My servants
+יִזְדַּבְּנוּן | zvn | Dt impf 3mp | they shall be sold
+זְבוּן | zevin | n cs | the sale of
+בְ=.סַחֲרָנֵ.יכוֹן=your | sahran | n mp+2mp | around you
+תִּקְנוּן | qny | G impf 2mp | you shall buy (lit. acquire)
+תוֹתָב.ַיָּא=pl | totav | n mp emph | the residents
+עָרְל.ַיָּא=pl | arel | a mp emph | the uncircumcised (non-Jewish residents)
+וּ=and.מִ=from.זַּרְעִיתְ.הוֹן=their | zaraya | n+3mp | and from their family
+וְ=and.תַחְסְנוּן | hsn | C impf 2mp | and you shall bequeath (them)
+לִ=as.ירוּתַת | yerutta | n cs | as an inheritance of
+וּ=and.בְ=over.אַחֵ.יכוֹן=your | ah | n mp+2mp | and over your brothers
+עָרֵל | arel | a ms | an uncircumcised (man)
+וְ=and.יִתְמַסְכַּן | mskn | Dt impf 3ms | and (he) becomes poor
+לְ=to.עָרֵל | arel | a ms | to an uncircumcised (man)
+תּוֹתָב | totav | n | a resident
+לְ=to.אַרְמַי | aramai | n | to an idolater (lit. an Aramean; Hebrew: עֵקֶר)
+זַרְעִית | zaraya | n cs | the family of
+דְּ=that.יִזְדַּבַּן | zvn | Dt impf 3ms | that he was sold
+יִפְרְקִ.נֵּיהּ=him | prq | G impf 3ms+3ms | shall redeem him
+מִ=from.זַּרְעִיתֵ.יהּ=his | zaraya | n+3ms | from his family
+וְ=and.יִתְפָּרָק | prq | Gt impf 3ms | and he shall be redeemed
+זָבְנֵ.יהּ=him | zvn | G ptc ms+3ms | (the one who) bought him
+דְּ=that.אִזְדַּבַּן | zvn | Dt pf 3ms | that he was sold
+סְגִיּוּת | sgiut | n cs | many (lit. an abundance of)
+לְ=by.פוּמְ.הֵן=them | pum | n+3fp | according to them (lit. to their mouth)
+פֻּרְקָנֵ.יהּ=his | purqan | n+3ms | his redemption
+זְעֵר | zeir | a | few (lit. small)
+שְׁנ.וֹהִי=its | shna | n fp+3ms | its years
+כַּ=like.אֲגִיר | agira | n | like a hired worker
+אֲפֵּיקִית | npq | C pf 1cs | I brought out
+וְ=and.צֶלֶם | tselem | n | and an image
+תְקִימוּן | qwm | C impf 2mp | you shall set up
+סָגְדָא | sgd | G ptc fs | for bowing (Hebrew: מַשְׂכִּית)
+מַטְרֵ.יכוֹן=your | mitra | n+2mp | your rains
+בְּ=in.עִדָּנְ.הוֹן=their | iddan | n+3mp | in their time
+וִ=and.יעָרַע | ra | D impf 3ms | and (the threshing) shall reach
+דְּיָשָׁא | daysha | n emph | the threshing
+קְטָפָא | qetafa | n emph | the grape harvest
+וּ=and.קְטָפָא | qetafa | n emph | and the grape harvest
+יְעָרַע | ra | D impf 3ms | shall reach
+לְ=to.אַפּוֹקֵי | npq | C inf | to bringing out (i.e. sowing time)
+לַחְמְ.כוֹן=your | lahma | n+2mp | your bread
+דְּ=who.מָנִיד | nwd | C ptc ms | who makes (you) afraid
+וֶ=and.אֱבַטֵּל | btl | D impf 1cs | and I will remove (lit. make cease)
+וּ=and.דְ=who.קָטְל.ִין~mp | qtl | G ptc mp | and those who kill
+וְ=and.תִרְדְּפוּן | rdf | G impf 2mp | and you shall pursue
+דְבָבֵ.יכוֹן=your | dvavu | n+2mp | your enemies (בַּעֲלֵי דְבָבֵיכוֹן = lit. masters of your enmity)
+וְ=and.יִפְּלוּן | npl | G impf 3mp | and (they) shall fall
+וְ=and.יִרְדְּפוּן | rdf | G impf 3mp | and (they) shall pursue
+לְ=.רִבּוֹתָא | ribbo | num emph | ten thousand
+יֵעִירְקוּן | rq | C impf 3mp | they shall put to flight
+וְ=and.אֶתְפְּנִי | pny | Gt impf 1cs | and I will turn
+דְּ=that.עַתִּיק | attiq | a ms | that is old
+תְּפַנּוּן | pny2 | D impf 2mp | you shall clear out
+יְרַחֵק | rhq2 | D impf 3ms | shall reject
+שְׁכִינְתִּ.י=my | shekhinta | n+1cs | My Presence
+וְ=and.תַבָּרִית | tvr | D pf 1cs | and I broke
+נִיר | nira | n cs | the yoke of
+וְ=and.דַבָּרִית | dbr | D pf 1cs | and I led
+תְּקוֹצוּן | qwts | G impf 2mp | you despise
+תְּרַחֵק | rhq2 | D impf 3fs | (your soul) rejects
+נַפְשְׁ.כוֹן=your | nafsha | n+2mp | your soul
+לְ=to.אַשְׁנָיוּתְ.כוֹן=your | shny | C inf+2mp | (so as) to your breaking
+אֶעְבַּד | avad | G impf 1cs | I will do
+בַּהֶלְתָּא | bahalta | n emph | terror
+שַׁחֶפְתָּא | shahefta | n emph | consumption
+קַדַּחְתָּא | qadahta | n emph | fever
+מְחַשְּׁכ.ָן~fp | hshk | D ptc fp | that darken
+וּ=and.מַפְּח.ַן~fp | nfh | C ptc fp | and make (the soul) languish (lit. breathe out)
+זַרְעֲ.כוֹן=your | zera | n+2mp | your seed
+וְ=and.יִרְדּוּן | rdy | G impf 3mp | and (they) shall rule over (Hebrew: וְרָדוּ)
+סַנְאֵ.כוֹן=your | sana | n mp+2mp | your enemies (lit. those who hate you)
+וְ=and.תֵעִירְקוּן | rq | G impf 2mp | and you shall flee
+דְּ=who.רָדִיף | rdf | G ptc ms | who pursues
+לְ=to.מִ~inf.רְדֵּי | rdy | G inf | to chastise
+יָת.כוֹן=you | yat | obj+2mp | you
+תָּקְפְּ.כוֹן=your | tqof | n+2mp | your strength
+עִלָּוֵ.יכוֹן=you | illawi | prep+2mp | above you
+כְּ=like.פַרְזְלָא | parzla | n emph | like iron
+דִ=that.תְחוֹתֵ.יכוֹן=you | tehot | prep+2mp | that is beneath you
+חֲסִינָא | hasin | a fs emph | hard
+וִ=and.יסוּפוּן | swf | G impf 3mp | and shall be spent
+לְ=in.רֵיקָנוּ | reqanu | n | in vain
+תֵיבוּן | avy | G impf 2mp | you are willing
+לֶ=to.אֱתָאָה | aty | C inf | to bring
+וֶ=and.אֱגָרֵי | gry2 | D impf 1cs | and I will set loose
+וּ=and.תְתַכֵּל | tkl | D impf 3fs | and it shall bereave
+וְ=and.תַזְעֵר | zr | C impf 3fs | and (it) shall diminish
+וִ=and.יצַדְיָן | tsdy | G impf 3fp | and shall be desolate
+אוֹרְחָתְ.כוֹן=your | orah | n fp+2mp | your roads
+תִתְרְדוּן | rdy | Gt impf 2mp | you accept discipline
+וְ=and.אֵהַךְ | hlk2 | G impf 1cs | and I will go (walk)
+וְ=and.אַלְקֵי | lqy | C impf 1cs | and I will smite
+דְּ=who.קָטְל.ִין~mp | qtl | G ptc mp | who kill
+וְ=and.יִתְפָּרְעוּן | pra | Gt impf 3mp | and (they) shall exact punishment
+פֻּרְעֲנוּתָא | purenuta | n emph | punishment
+וְ=and.תִתְכַּנְּשׁוּן | kns | Dt impf 2mp | and you shall gather
+לְ=to.קִרְוֵ.יכוֹן=your | qirya | n mp+2mp | into your cities
+מוֹתָנָא | motana | n emph | pestilence
+וְ=and.תִתְמַסְּרוּן | msr | Dt impf 2mp | and you shall be handed over
+בִּ=when.דְ=that.אִתְּבַר | tvr | Gt pf 3ms | when (I) break (lit. when there is broken)
+סָעִיד | sd | G ptc ms | the support of (lit. supporting)
+וְ=and.יָפְי.ָן~fp | afy | G ptc fp | and (they) shall bake
+וְ=and.תוֹכְלוּן | akhal | G impf 2mp | and you shall eat
+וְ=and.אִרְדֵּי | rdy | G impf 1cs | and I will chastise
+וּ=and.בְשַׁר | bsr | n cs | and the flesh of
+בָּמָתֵ.יכוֹן=your | bamta | n fp+2mp | your high places
+וֶ=and.אֱקַצֵּץ | qtsts | D impf 1cs | and I will cut down
+חֲנִיסְנְסֵ.יכוֹן=your | hanisnisa | n mp+2mp | your pagan shrines
+פִּגְרֵ.יכוֹן=your | pigra | n mp+2mp | your corpses
+פִּגּוּר | pigur | n cs | the ruin of (other texts: the corpses of)
+טַעֲוָתְ.כוֹן=your | taawa | n fp+2mp | your idols
+וִ=and.ירַחֵק | rhq2 | D impf 3ms | and (My Word) shall reject
+קִרְוֵ.יכוֹן=your | qirya | n mp+2mp | your cities
+צָדָא | tsdy | G ptc fs | desolate
+וְ=and.אֶצְדֵּי | tsdy | C impf 1cs | and I will lay waste
+מַקְדְּשֵׁ.יכוֹן=your | maqdash | n mp+2mp | your sanctuaries
+כְּנִשָּׁתְ.כוֹן=your | kenishta | n fp+2mp | your assemblies
+וִ=and.יצָרְיוּן | tsdy | G impf 3mp | and (your enemies) shall be desolate (i.e. appalled; CAL reads וְיִצְדּוּן)
+וְ=and.יָתְ.כוֹן=you | yat | obj+2mp | and you
+אֲבַדַּר | bdr | D impf 1cs | I will scatter
+וְ=and.קִרְוֵ.יכוֹן=your | qirya | n mp+2mp | and your cities
+חָרְבָּא | harba | n emph | destroyed (Hebrew: חָרְבָּה)
+תַּרְעֵי | ry | G impf 3fs | (the land) shall be appeased for (Hebrew: תִּרְצֶה)
+שְׁמִטָּ.הָא=its | shmitta | n fp+3fs | its Sabbatical years
+צְדִיאַת | tsdy | G pf 3fs | it lies desolate
+תַּשְׁמֵט | shmt | C impf 3fs | (the land) shall rest
+וְ=and.תַרְעֵי | ry | G impf 3fs | and (the land) shall be appeased for
+שְׁמֵטַת | shmt | C pf 3fs | it rested
+בִּ=in.שְׁמִטֵּ.יכוֹן=your | shmitta | n fp+2mp | in your Sabbatical years
+וּ=and.דְ=who.יִשְׁתַּאֲרוּן | shar | Gt impf 3mp | and those who are left
+וְ=and.יִרְדּוֹף | rdf | G impf 3ms | and (it) shall pursue
+טַרְפָּא | tarpa | n emph | a leaf
+דְ=that.שַׁקִּיף | shqf | Gp ptc ms | that is blown (about)
+וְ=and.יֵעַרְקוּן | rq | G impf 3mp | and they shall flee
+כְּ=as.מֵ~inf.עִירוֹק | rq | G inf | as (in) fleeing
+וְ=and.יִתַּקְלוּן | tql | Gt impf 3mp | and they shall stumble
+כְּ=as.מִ=from.קָּדָם | qodam | prep | as (fleeing) from before
+דְ=who.קָטְל.ִין~mp | qtl | G ptc mp | who kill
+וְ=and.רָדִיף | rdf | G ptc ms | and a pursuer
+לָיִת | leit | neg | there is not
+תְּקוּמָה | tequma | n | standing (power to stand)
+וְ=and.תֵבְדוּן | abd | G impf 2mp | and you shall perish
+וּ=and.תְגַמַּר | gmr2 | D impf 3fs | and (it) shall consume (lit. finish)
+וּ=and.דְ=who.יִשְׁתָּאֲרוּן | shar | Gt impf 3mp | and those who are left
+יִתִּמְסוּן | msy | Gt impf 3mp | they shall waste away
+אֲבָהַתְ.הוֹן=their | av | n mp+3mp | their fathers
+דַּ=that.אֲחִיד.ִין~mp | ahd | Gp ptc mp | that are held
+וִ=and.יוַדּוּן | ydy | D impf 3mp | and they shall confess
+בְּ=in.שִׁקְרְ.הוֹן=their | shiqra | n+3mp | in their falsehood
+דְּ=that.שַׁקָּר.וּ~they_p | shqr | D pf 3mp | that they dealt falsely
+אֱהַךְ | hlk2 | G impf 1cs | I will go (walk)
+דְבָבֵ.יהוֹן=their | dvavu | n+3mp | their enemies (בַּעֲלֵי דְבָבֵיהוֹן)
+טַפְשָׁא | tafsha | a ms emph | dull (of heart)
+יַעֲקוֹב | name | name | Yaakov
+דָכִיר | dkr | G ptc ms | remembering
+תִתְרְטֵשׁ | rtsh | Gt impf 3fs | (the land) shall be abandoned
+בְּ=when.דִ=that.צְדִיאַת | tsdy | G pf 3fs | when it lies desolate
+קָצ.וּ~they_p | qwts | G pf 3mp | they despised
+רְחֵק.ַת~she_p | rhq2 | G pf 3fs | (their soul) rejected
+נַפְשְׁ.הוֹן=their | nafsha | n+3mp | their soul
+בְּ=while.מֵ~inf.הֱוֵ.יהוֹן=their | hwy | G inf+3mp | while they are (lit. in their being)
+אַרְטֵשִׁ.נּוּן=them | rtsh | C impf 1cs+3mp | I will abandon them
+אַרְחֵקִ.נּוּן=them | rhq2 | C impf 1cs+3mp | I will reject them
+לְ=to.שֵׁיצָיוּתְ.הוֹן=them | shetsi | Sh inf+3mp | to destroy them
+לְ=to.אַשְׁנָאָה | shny | C inf | to break
+וְ=and.אוֹרָיָתָא | oraita | n fp emph | and the laws (lit. teachings)
+נְדַר | nidra | n cs | a vow of
+בְּ=by.פֻרְסַן | pursan | n cs | by the valuation of
+פֻרְסָנֵ.יהּ=his | pursan | n+3ms | his valuation
+פֻרְסָנַ.הּ=her | pursan | n+3fs | her valuation
+מִ=from.פֻּרְסָנֵּ.יהּ=his | pursan | n+3ms | than his valuation
+וִ=and.יקִימִ.נֵּיהּ=him | qwm | C impf 3ms+3ms | and he shall stand him
+וְ=and.יִפְרוֹס | prs3 | G impf 3ms | and (the priest) shall value
+דְ=of.נוֹדֵרָא | ndr | G ptc ms emph | of the one who vows
+יִפְרְסִ.נֵּיהּ=him | prs3 | G impf 3ms+3ms | shall value him
+יְחַלְּפִ.נֵּיהּ=it | hlf | D impf 3ms+3ms | he shall exchange it
+חַלָּפָא | hlf | D inf abs | (indeed) exchanging
+יְחַלֵּף | hlf | D impf 3ms | he exchanges
+וְ=and.חִלּוּפֵ.יהּ=its | hilufa | n+3ms | and its substitute
+כְּ=as.פֻרְסָנָא | pursan | n emph | as the valuation
+יִפְרְקֻ.נַּהּ=it | prq | G impf 3ms+3fs | he redeems it
+פֻּרְסָנֵ.יהּ=its | pursan | n+3ms | its valuation
+יַקְדֵּשׁ | qdsh | C impf 3ms | consecrates
+וְ=and.יִפְרְסִ.נֵּיהּ=it | prs3 | G impf 3ms+3ms | and he shall value it
+יִפְרוֹס | prs3 | G impf 3ms | shall value
+חֹמֶשׁ | humsha | n | a fifth (as in the Hebrew)
+יַקְדִּישׁ | qdsh | C impf 3ms | consecrates
+כּוּר | kor | n cs | a kor of
+שְׂעוֹר.ִין=pl | saarta | n fp | barley
+כְּ=as.פֻרְסָנֵ.יהּ=its | pursan | n+3ms | as its valuation
+דְּ=that.אִשְׁתָּאָר.ָן~they_p | shar | Gt pf 3fp | that remain
+מִ=from.פֻּרְסָנֵ.יהּ=its | pursan | n+3ms | from its valuation
+יִתְפָּרָק | prq | Gt impf 3ms | shall be redeemed
+חֶרְמָא | herma | n emph | devoted (property)
+וִ=and.יחַשֶּׁב | hshb | D impf 3ms | and he shall reckon
+פֻּרְסָנֵּ.יהּ=its | pursan | n+3ms | its valuation
+לְ=to.דִ=whom.זְבָנֵ.יהּ=it | zvn | G pf 3ms+3ms | to (the one) from whom he bought it
+יִתְבַּכַּר | bkr | Dt impf 3ms | is born first (as a firstling)
+יַחֲרֵם | hrm | C impf 3ms | devotes
+יִזְדַּבַּן | zvn | Dt impf 3ms | shall be sold
+יִתַּחְרַם | hrm | Itta impf 3ms | is devoted
+מִ=from.מַּעַשְׂרֵ.יהּ=his | asra | n+3ms | (some) of his tithe
+יְבַקַּר | bqr | D impf 3ms | he shall inspect
+# overrides for wrong derivations
+25:7>וּ=and.לְ=for.חַיְתָא | heiva | n emph | and for the (wild) beasts
+25:8>וְ=and.תִמְנֵי | mny | G impf 2ms | and you shall count
+25:9>בְּ=on.עַשְׂרָא | asar | num | on the tenth (lit. on ten)
+25:16>לְ=by.פוּם | pum | n cs | according to (lit. to the mouth of)
+27:16>לְ=by.פוּם | pum | n cs | according to (lit. to the mouth of)
+25:16>וּ=and.לְ=by.פוּם | pum | n cs | and according to (lit. to the mouth of)
+25:17>וְ=and.תִדְחַל | dhl | G impf 2ms | and you shall fear
+25:36>וְ=and.תִדְחַל | dhl | G impf 2ms | and you shall fear
+25:43>וְ=and.תִדְחַל | dhl | G impf 2ms | and you shall fear
+25:18>וְ=and.תַעְבְּדוּן | avad | G impf 2mp | and you shall do
+26:3>וְ=and.תַעְבְּדוּן | avad | G impf 2mp | and you shall do
+25:19>וְ=and.תִתֵּן | yhb | G impf 3fs | and (the land) shall give
+26:4>וְ=and.תִתֵּן | yhb | G impf 3fs | and (the land) shall give
+25:21>וְ=and.תַעְבֵּד | avad | G impf 3fs | and it shall produce (lit. make)
+25:25>וְ=and.יֵיתֵי | aty | G impf 3ms | and (his redeemer) shall come
+25:25>דְּ=who.קָרִיב | qariv | a ms | who is close (to him)
+25:49>מִ=from.קָּרִיב | qariv | a ms | (one) of the close relatives (lit. from close)
+25:26>וְ=and.תַדְבֵּק | dbq | C impf 3fs | and (his hand) attains
+25:49>דְ=or.תַדְבֵּק | dbq | C impf 3fs | (if his hand) attains
+25:27>וְ=and.יָתֵב | twv | C impf 3ms | and he shall return
+25:28>וְ=and.יִפּוֹק | npq | G impf 3ms | and he (it) shall go out (free)
+25:33>וְ=and.יִפּוֹק | npq | G impf 3ms | and he (it) shall go out (free)
+25:41>וְ=and.יִפּוֹק | npq | G impf 3ms | and he (it) shall go out (free)
+25:54>וְ=and.יִפּוֹק | npq | G impf 3ms | and he (it) shall go out (free)
+25:29>מִ~inf.שְׁלַם | shlm | G inf | the completing of
+25:30>מִ~inf.שְׁלַם | shlm | G inf | the completing of
+25:35>וְ=and.תַתְקֵף | tqf | C impf 2ms | and you shall strengthen (lit. hold strongly)
+25:40>כַּ=like.אֲגִירָא | agira | n emph | like a hired worker
+25:50>מִ=from.שַּׁתָּא | shna | n emph | from the year
+27:17>מִ=from.שַּׁתָּא | shna | n emph | from the year
+26:6>וְ=and.לֵית | leit | neg | and there is none (no one)
+26:17>וְ=and.לֵית | leit | neg | and there is none (no one)
+26:36>וְ=and.לֵית | leit | neg | and there is none (no one)
+26:9>לְ=to.אוֹטָבָא | ytv2 | C inf | to do good
+26:13>מִ=from.לְּ=to.מֶ~inf.הֱוֵי | hwy | G inf | from being
+26:16>לְ=in.רֵיקָנוּן | reqanu | n | in vain
+26:17>וְ=and.תִתַּבְּרוּן | tvr | Dt impf 2mp | and you shall be broken (defeated)
+26:19>וְ=and.אֶתְבַּר | tvr | G impf 1cs | and I will break
+26:19>מִ=from.לַּ=to.אֲחָתָא | nht | C inf | from bringing down
+26:25>דַּ=that.עֲבַרְתּוּן | avr | G pf 2mp | that you transgressed
+26:36>בְּ=into.לִבְּ.הוֹן=their | lev | n+3mp | into their heart
+26:36>דְּ=of.סַנְאֵ.יהוֹן=their | sana | n mp+3mp | of their enemies
+26:41>וּ=and.בְכֵן | bekhen | adv | and then
+26:43>דִּ=that.בְ=.דִינַ.י=my | din2 | n mp+1cs | that My laws
+26:45>לְ=before.עֵינֵי | eina | n mp cs | before the eyes of
+27:3>מִ=from.בַּר | bar | n cs | from (age) (lit. from a son of)
+27:5>מִ=from.בַּר | bar | n cs | from (age) (lit. from a son of)
+27:6>מִ=from.בַּר | bar | n cs | from (age) (lit. from a son of)
+27:7>מִ=from.בַּר | bar | n cs | from (age) (lit. from a son of)
+27:13>מִ~inf.פְרַק | prq | G inf abs | (indeed) redeem
+27:19>מִ~inf.פְרַק | prq | G inf abs | (indeed) redeem
+27:31>מִ~inf.פְרַק | prq | G inf abs | (indeed) redeem
+27:13>וְ=and.יוֹסֵף | ysf | C impf 3ms | and he shall add
+27:15>וְ=and.יוֹסֵף | ysf | C impf 3ms | and he shall add
+27:19>וְ=and.יוֹסֵף | ysf | C impf 3ms | and he shall add
+27:27>וְ=and.יוֹסֵף | ysf | C impf 3ms | and he shall add
+27:15>דְּ=who.אַקְדֵּשׁ | qdsh | C pf 3ms | who consecrated
+27:19>דְּ=who.אַקְדֵּשׁ | qdsh | C pf 3ms | who consecrated
+27:18>וְ=and.יִתִּמְנַע | mna | Itpe impf 3ms | and it shall be deducted (lit. held back)
+27:23>וְ=and.יִתֵּן | yhb | G impf 3ms | and he shall give
+27:24>לְ=to.דְ=whom.דִילֵ.יהּ=his | dil | pron+3ms | to the one whose it is
+27:30>מַעְשְׂרָא | asra | n emph | the tithe
+27:32>מַעֲשַׂר | asra | n cs | the tithe of
+27:32>דְּ=that.יֵעִבַּר | avr | G impf 3ms | that passes (under the rod)
+26:43>וְ=and.אִנּוּן | inun | pron | and they

@@ -1,0 +1,65 @@
+# Vayera 22:1–22:19
+נַסִּי | nsy | D pf 3ms | tested
+בְּר.ָךְ=your | bar | n+2ms | your son
+יְחִיד.ָךְ=your | yhid | a ms+2ms | your only one
+רְחַמְ.תָּ~you_p | rhm | G pf 2ms | you love
+פּוּלְחָנ.ָא=emph | pulhana | n emph | of worship (Hebrew: הַמֹּרִיָּה)
+וְ=.אַ~C.סְק.ֵיהּ=him | slq | C impv ms+3ms | and offer him up
+לַ=as.עֲלָת.ָא=emph | alawan | n fs emph | as a burnt offering
+דַ=of.עֲלָת.ָא=emph | alawan | n fs emph | of the burnt offering
+אֵ~I_f.ימָר | amr | G impf 1cs | I will say
+וְ=.זָרֵז | zrz | D pf 3ms | and (he) saddled (lit. made ready)
+חֲמָר.ֵיהּ=his | hmara | n+3ms | his donkey
+חֲמָר.ָא=emph | hmara | n emph | the donkey
+עוּלֵימ.וֹהִי=his | ulema | n mp+3ms | his young men
+לְ=to.עוּלֵימ.וֹהִי=his | ulema | n mp+3ms | to his young men
+וְ=.צַלַּח | tslh | D pf 3ms | and (he) split
+אָעֵי | a | n mp cs | wood for (lit. the wood of)
+אָע.ַיָּא=emphp | a | n mp emph | the wood
+וְ=.אָע.ַיָּא=emphp | a | n mp emph | and the wood
+וְ=.אָזַל | azl | G pf 3ms | and (he) went
+מֵ=from.רָחִיק | rahiq | a ms | from afar
+אוֹ~C.רִיכ.וּ~cmd_pl | ork | C impv mp | wait
+נִ~we_f.תְ~Gt.מְטֵי | mty | Gt impf 1cp | we will go (lit. reach)
+כָּא | ka | adv | there (עַד כָּא = up to there)
+וְ=.נִ~we_f.סְגּוּד | sgd | G impf 1cp | and we will bow down
+וּ=.נְ~we_f.תוּב | twv | G impf 1cp | and we will return
+לְוַת.ְכוֹן=you (pl.) | lwat | prep+2mp | to you (pl.)
+אֶשָּׁת.ָא=emph | eshta | n fs emph | the fire
+סַכִּינ.ָא=emph | sakkina | n emph | the knife
+בַּתְרָא | batar | adv | together (a variant reading; lit. after)
+אִימְר.ָא=emph | imra | n emph | the lamb
+וְ=.אָת.וּ~they_p | aty | G pf 3mp | and (they) came
+וְ=.סַדַּר | sdr | D pf 3ms | and (he) arranged
+וַ=.עֲקַד | qd | G pf 3ms | and (he) bound
+עֵיל | eil2 | adv | above
+וְ=.אוֹ~C.שֵׁיט | wsht | C pf 3ms | and (he) stretched out
+תוֹ~you_f.שֵׁיט | wsht | C impf 2ms | (do not) stretch out
+לְ=.מֵ~inf.יכַס | nks | G inf | to slaughter | the נ of נכס becomes י
+מִדָּעָם | midaam | pron | anything
+יְדַע.ְנָא=I | yd | G ptc ms+1cs | I know (יָדַע + אֲנָא)
+דַחֲל.ָא=emph | dahla | a ms emph | one who fears
+מְנַעְ.תָּ~you_p | mna | G pf 2ms | you have withheld
+מְנַעְ.תָּא~you_p | mna | G pf 2ms | you have withheld
+מִנּ.ִי=me | min | prep+1cs | from Me
+דִכְר.ָא=emph | dikhra | n emph | a ram
+דִּכְר.ָא=emph | dikhra | n emph | the ram
+אֲחִיד | ahd | Gp ptc ms | caught (lit. held)
+בְּ=by.קַרְנ.וֹהִי=his | qarna | n fp+3ms | by its horns
+22:14> וּ=.פְלַח | plh | G pf 3ms | and (he) worshipped
+פַּלְח.ַן~fp | plh | G ptc mp | worship (lit. worshipping)
+פְּלָח | plh | G pf 3ms | worshipped
+דָּר.ַיָּא=emphp | dar | n mp emph | the generations
+יִ~he_f.תְ~Dt.אַמַּר | amr | Dt impf 3ms | it will be said
+תִּנְיָנוּת | tinyanut | adv | a second time
+בְּ=by.מֵימְר.ֵי=my | meimra | n+1cs | by My Word
+בָרָכ.ָא~inf_end | brk | D inf | blessing (= I will surely bless)
+אֲ~I_f.בָרְכִ.נָּךְ=you | brk | D impf 1cs+2ms | I will bless you
+כְּ=like.כוֹכְבֵי | kokhav | n mp cs | like the stars of
+וּ=.כְ=like.חָל.ָא=emph | hala2 | n emph | and like the sand
+כֵּיף | keif | n cs | the shore of
+וְ=.יִ~they_f.רְת.וּן~mp | yrt | G impf 3mp | and (they) will inherit
+סַנְא.ֵיהוֹן=their | sny | G ptc mp+3mp | their enemies
+קַבֵּלְ.תָּא~you_p | qbl2 | D pf 2ms | you listened (lit. accepted)
+לִ=to.בְאֵר | name | name | to Be'er (Sheva)
+22:13> בְּ=in.אִילָנ.ָא=emph | ilan | n emph | in the tree

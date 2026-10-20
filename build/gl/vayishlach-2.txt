@@ -1,0 +1,47 @@
+# Vayishlach 32:14–30
+תִּקְרֻבְתּ.ָא=emph | tiqruvta | n fs emph | a gift (offering)
+רְחֵל.ִין=pl | rehela | n fp abs | ewes
+גַּמְלֵי | gamla | n mp cs | camels (of)
+מֶנְקָת.ָא=emph | meneqta | n fp emph | nursing
+וּ=.בְנֵי.הוֹן=their | bnin | n mp+3mp | and their young
+תּוֹרְת.ָא=emph | tor | n fp emph | cows
+אַתְנ.ָן=pl | atana | n fp abs | she-donkeys
+וְ=.עִירֵי | ira | n mp cs | and foals
+עֶדְר.ָא=emph | edra | n emph | flock (עֶדְרָא עֶדְרָא = each flock)
+עִבָּר.וּ~cmd_pl | avr | G impv mp | pass on
+וּ=.רְוָח.ָא=emph | rewaha | n emph | and space
+תְּ~ypl_f.שַׁוּ.וּן~mp | shwy | D impf 2mp | you shall put
+יְ~he_f.עַרְעִ.נָּךְ=you | ra | D impf 3ms+2ms | (Esav) meets you
+וּ=.שְׁאֵלִ.נָּךְ=you | shl | G pf 3ms+2ms | and asks you
+דִּ=that.מְ~ptcD.שַׁלְּח.ָא~fs | shlh | D ptc fs | that is sent
+בַתְרָ.נָא=us | batar | prep+1cp | behind us
+תְּ~ypl_f.מַלְּל.וּן~mp | mll2 | D impf 2mp | you shall speak
+תַּ~ypl_f.שְׁכְּח.וּן~mp | shkh | C impf 2mp | you find
+אַ~I_f.נְחִ.נֵּיהּ=it | nwh | C impf 1cs+3ms | I will calm (lit. put to rest) (Hebrew: אֲכַפְּרָה, I will appease)
+לְ=.רוּגְז.ֵיהּ=his | rugza | n+3ms | his anger
+דְּ=that.אָזְלַ.ת~fs | azl | G ptc fs | that goes
+יִ~he_f.סַּב | nsv | G impf 3ms | he will lift (יִסַּב אַפַּי = he will forgive me, lit. lift my face) | the נ of נסב is absorbed (the dot in ס)
+אַפּ.ָי=my | anpin | n mp+1cs | my face
+וַ=.עֲבָרַ.ת~she_p | avr | G pf 3fs | and (the gift) passed
+בָת | bwt | G pf 3ms | spent the night (Hebrew: לָן)
+לְחֵינָת.ֵיהּ=his | lhena | n fp+3ms | his concubines (handmaids)
+מַעֲבַר | maavar | n cs | the crossing of
+יוּבְקָא | name | name | the Yabbok
+וּ=.דְבָרִ.נּוּן=them | dbr | G pf 3ms+3mp | and (he) took them
+וְ=.עַבָּרִ.נּוּן=them | avr | D pf 3ms+3mp | and brought them across
+נַחְל.ָא=emph | nahla | n emph | the stream
+וְ=.אִ~Dt.שְׁתַּדֵּל | shdl | Dt pf 3ms | and (a man) wrestled | the passive ת moves after the ש
+דִּ=that.סְלֵק | slq | G pf 3ms | (until) the dawn rose
+בִּ=.פְתֵי | ptay | n cs | the hip (lit. breadth) of
+יַרְכּ.ֵיהּ=his | yarka | n+3ms | his thigh
+וְ=.זָע | zwa | G pf 3ms | and (it) was dislocated (lit. moved)
+פְּתֵי | ptay | n cs | the hip (lit. breadth) of
+בְּ=.אִשְׁתַּדָּלוּת.ֵיהּ=his | ishtaddaluta | n fs+3ms | as he wrestled (lit. in his wrestling)
+אֲ~I_f.שַׁלְּחִ.נָּךְ=you | shlh | D impf 1cs+2ms | I will (not) let you go
+בֵּרַכְ.תָּ~you_p.נִי=me | brk | D pf 2ms+1cs | you have blessed me
+יִשְׂרָאֵל | name | name | Yisrael
+רַבְרְבַ.ת~you_p | rvrv | Q pf 2ms | you have become great (a prince) (Hebrew: שָׂרִיתָ)
+וִ=.יכָלְ.תָּא~you_p | ykl | G pf 2ms | and you prevailed
+וּ=.שְׁאֵל | shl | G pf 3ms | and (Yaakov) asked
+שָׁאֵל | shl | G ptc ms | asking
+לִ=about.שְׁמ.ִי=my | shum | n+1cs | (about) my name

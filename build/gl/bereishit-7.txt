@@ -1,0 +1,46 @@
+# Bereishit 5:25–6:4
+וְ=.תַמְנ.ִין=pl | tmane | num | and eighty
+שְׁבַע | shava | num | seven
+וּ=.תְשַׁע | tsha | num | and nine
+בָּר | bar | n | a son
+נֹחַ | name | name | Noach
+יְ~he_f.נַחֲמִ.נָּנָא=us | nhm | D impf 3ms+1cp | will comfort us
+מֵ=.עוֹבָד.ָנָא=our | ovada | n+1cp | from our work
+וּ=.מִ=.לֵּאוּת | leut | n fs cs | and from the toil of
+יְד.ָנָא=our | yad | n+1cp | our hands
+לַטְט.ַהּ=it (fem.) | lwt | !verb, Pa‘el-type (doubled ט), past, 3rd masc. sing. + pronoun suffix, 3rd fem. sing. | (He) cursed it
+חֲמֵשׁ | hmesh | num | five
+וְ=.שַׁבְע.ִין=pl | shavin | num | and seventy
+שֵׁם | name | name | Shem
+חָם | name | name | Cham
+יָפֶת | name | name | Yefet
+שְׁרִיא.וּ~they_p | shry | G pf 3mp | began
+לְ=.מִ~inf.סְגֵּי | sgy | G inf | to multiply
+וּ=.בְנָת.ָא=emph | bnat | n fp emph | and daughters
+אִתְ~Gt.יְלִיד.וּ~they_p | yld | Gt pf 3mp | were born
+וַ=.חֲז.וֹ~they_p | hzy | G pf 3mp | and (they) saw
+בְּנַת | bnat | n fp cs | the daughters of
+שַׁפִּיר.ָן~fp | shapir | a fp abs | beautiful
+אִנוּן | inun | pron 3mp | (were) they
+וּ=.נְסִיב.וּ~they_p | nsv | G pf 3mp | and (they) took
+אִתְ~Gt.רְעִיא.וּ~they_p | ry | Gt pf 3mp | (they) chose (lit. were pleased with)
+יִ~he_f.תְ~Dt.קַיַם | qwm2 | Dt impf 3ms | shall endure
+דָר.ָא=emph | dar | n emph | the generation
+בִישׁ.ָא=emph | bish | a ms emph | evil
+הָדֵין | hadein | pron ms | this
+לְ=.עַלָם | alam | n abs | forever
+דְ=that.אִנוּן | inun | pron 3mp | since they (are)
+וְ=.עוֹבָד.ֵיהוֹן=their | ovada | n mp+3mp | and their deeds
+בִּישַׁי.ָא=emph | bish | a mp emph | (are) evil
+אַרְכ.ָא=emph | arka | n fs emph | a reprieve (Hebrew: וְהָיוּ יָמָיו, “his days shall be”)
+יְהִיב.ַת~she_p | yhb | Gp pf 3fs | was given
+וְ=.עַשְׂר.ִין=pl | asar | num | and twenty
+יְ~they_f.תוּב.וּן~mp | twv | G impf 3mp | they repent (lit. return)
+גִּבָּר.ַיָּא=emphp | gibbar | n mp emph | the mighty men
+הֲו.וֹ~they_p | hwy | G pf 3mp | were | last root letter י drops
+בְּ=.יוֹמ.ַיָּא=emphp | yom | n mp emph | in the days
+הָאִנּוּן | haillein | pron mp | those
+יַ~they_f.עֲל.וּן~mp | ill | G impf 3mp | would come in
+וִ=.ילִיד.ָן~they_p | yld | G pf 3fp | and (they) bore
+דִּ=that (are).מֵ=from.עָלְמ.ָא=emph | alma | n emph | that (were) of old (lit. from the world)
+אֱנָשׁ.ִין=pl | enash | n mp abs | men

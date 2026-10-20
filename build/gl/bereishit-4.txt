@@ -1,0 +1,152 @@
+# Bereishit 3:22–4:18
+יְחִידַי | yhidai | a ms | unique, alone
+בְּ=.עַלְמ.ָא=emph | alma | n emph | in the world
+מִנּ.ֵהּ=him | min | prep+3ms | by himself (lit. from him)
+לְ=.מִ~inf.ידַע | yd | G inf | to know | the first י of ידע merges with the מִ
+וּ=.בִישׁ | bish | a ms | and evil
+וּ=.כְעַן | kean | adv | and now
+יוֹ~he_f.שִׁיט | wsht | C impf 3ms | he will stretch out | Af‘el: the ו of ושט shows as וֹ
+יְד.ֵהּ=his | yad | n fs+3ms | his hand
+וְ=.יִ~he_f.סַּב | nsv | G impf 3ms | and (he will) take | the נ of נסב is absorbed (the dot in סּ)
+מֵ=.אִילָן | ilan | n ms abs | from the tree
+חַיָּי.א=emph | hayyin | n emph | of life
+וְ=.יֵ~he_f.כוּל | akhal | G impf 3ms | and (he will) eat | the א of אכל drops
+וִ=.י~he_f.חֵי | hyy | G impf 3ms | and live
+לְ=.עָלָם | alam | n abs | forever
+וְ=.שַׁלְּח.ֵהּ=him | shlh | D pf 3ms+3ms | and (He) sent him away
+יַת | yat | part | (marks the object)
+דְּ=that.אִתְ~Gt.בְּרִי | bra | Gt pf 3ms | that he was created
+וְ=.תָרִךְ | trk | D pf 3ms | and (He) drove out
+וְ=.אַ~C.שְׁרֵי | shry | C pf 3ms | and (He) stationed
+כְּרוּב.ַיָּא=emphp | kruv | n mp emph | the cherubim
+שְׁנַן | shnan | n cs | the sharp edge of
+חַרְבּ.ָא=emph | harba | n fs emph | the sword
+דְּ=that.מִ~ptcGt.תְהַפְּכ.ָא~fs | hpk | Dt ptc fs | that turns about
+לְ=.מִ~inf.יטַר | ntr | G inf | to guard | the נ of נטר becomes י
+אוֹרַח | orah | n cs | the way to
+יְדַע | yd | G pf 3ms | knew
+וְ=.עַדִּיא.ַת~she_p | dy | G pf 3fs | and (she) conceived
+וִ=.ילִיד.ַת~she_p | yld | G pf 3fs | and (she) bore
+קַיִן | name | name | Kayin
+וַ=.אֲמֶר.ֶת~she_p | amr | G pf 3fs | and (she) said
+קָנִיתִי | qny | !verb, past, 1st person sing. (the Hebrew word, kept) | I have acquired
+גַּבְר.ָא=emph | gvar | n emph | a man
+וְ=.אוֹ~C.סִיפ.ַת~she_p | ysf | C pf 3fs | and (she) again (lit. added)
+לְ=.מֵ~inf.ילַד | yld | G inf | to give birth
+אֲחוֹ.הִי=his | ah | n+3ms | his brother
+אַחוֹ.הִי=his | ah | n+3ms | his brother
+הָבֶל | name | name | Hevel (Abel)
+הֶבֶל | name | name | Hevel (Abel)
+רָעֵי | rey | G ptc ms cs | a shepherd of (lit. tending)
+עָנ.ָא=emph | ana2 | n fs emph | sheep, flock
+פָלַח | plh | G ptc ms | working (הֲוָה פָלַח = was a worker)
+מִ=.סּוֹף | sof | n cs | at the end of (lit. from the end of)
+וְ=.אַ~C.יְתִי | aty | C pf 3ms | and (he) brought
+אַ~C.יְתִי | aty | C pf 3ms | brought
+מֵ=.אִבּ.ָא=emph | ibba | n emph | from the fruit
+תִּקְרוּבְתּ.ָא=emph | tiqruvta | n fs emph | an offering
+מִ=.בַּכִּירֵי | bakkir | n mp cs | from the firstlings of
+עָנ.ֵהּ=his | ana2 | n+3ms | his flock
+וּ=.מִ=.שַׁמִּנְ.הוֹן=their | shamen | a mp+3mp | and from their fattest
+רַעֲו.ָא=emph | raava | n emph | favour, acceptance
+בְּ=with.הֶבֶל | name | name | with Hevel
+וּ=.בְּ=with.קוּרְבָּנ.ֵהּ=his | qurbana | n+3ms | and with his offering
+וּ=.בְּ=with.קַיִן | name | name | and with Kayin
+וּ=.תְקֵף | tqf | G pf 3ms | and it grieved (lit. it was strong)
+לְ=.קַיִן | name | name | to Kayin
+לְ=.קָיִן | name | name | to Kayin
+וְ=.אִתְ~Gt.כְּבִישׁ.וּ~they_p | kvsh | Gt pf 3mp | and (they) fell (lit. were pressed down)
+אִתְ~Gt.כְּבִישׁ.וּ~they_p | kvsh | Gt pf 3mp | (they) fell (lit. were pressed down)
+אַפּ.וֹהִי=his | anpin | n mp+3ms | his face
+אַפּ.ָיךְ=your | anpin | n mp+2ms | your face
+לְמָא | lema | adv | why
+וּ=.לְמָא | lema | adv | and why
+תְּקִיף | tqf | a ms | (is it) grievous (lit. strong)
+הֲלָא | hala | part | surely (lit. is it not)
+אִם | im2 | conj | if
+וְ=.אִם | im2 | conj | and if
+תּוֹ~you_f.טִיב | twv2 | C impf 2ms | you improve | Af‘el: the ו of טוב shows as וֹ after the prefix
+עוֹבָד.ָךְ=your | ovada | n+2ms | your deeds
+יִ~he_f.שְׁתְּ~Gt.בֵק | shbq | Gt impf 3ms | it will be forgiven | the passive ת moves after the ש
+לְ=for.יוֹם | yom | n cs | for the day of
+דִּינ.ָא=emph | dina | n emph | judgment
+חֶטְא.ָךְ=your | hta | n+2ms | your sin
+נְטִיר | ntr | Gp ptc ms | is kept
+דִי=that.עֲתִיד | atid | a ms | that is destined
+לְ=.אִתְ~Gt.פָּרְע.ָא~inf_end | pra | Gt inf | to be punished (lit. to exact payment)
+מִנּ.ָךְ=you | min | prep+2ms | from you
+תְ~you_f.תוּב | twv | G impf 2ms | you repent (lit. return)
+לְ=.הֶבֶל | name | name | to Hevel
+בְּ=when.מֶ~inf.הֱוֵי.הוֹן=they | hwy | G inf+3mp | when they were (lit. in their being)
+וְ=.קָם | qwm | G pf 3ms | and (he) rose
+וְ=.קַטְל.ֵהּ=him | qtl | G pf 3ms+3ms | and killed him
+אָחוּ.ךְ=your | ah | n+2ms | your brother
+דְּ=of.אָחוּ.ךְ=your | ah | n+2ms | of your brother
+יָדַע.ֲנָא=I | yd | G ptc ms+1cs | I know (יָדַע + אֲנָא)
+הֲ=is?.נָטֵר | ntr | G ptc ms | am (I) the keeper (lit. guarding)
+אָח.ִי=my | ah | n+1cs | my brother
+מֶה | ma | pron | what
+עֲבַדְ.תָּא~you_p | avad | G pf 2ms | have you done
+דַם | dam | n cs | the blood of
+זַרְע.ִין=pl | zera | n mp abs | offspring (lit. seeds)
+דִ=that.עֲתִיד.ִין~mp | atid | a mp abs | that were destined
+לְ=.מֵ~inf.פַק | npq | G inf | to come out | the נ of נפק drops
+קַבְל.ִין~mp | qbl3 | G ptc mp | cry out (lit. complain)
+קֳדָמ.ַי=me | qodam | prep+1cs | before Me
+דִּ=that.פְתָח.ַת~she_p | ptH | G pf 3fs | that opened
+פּוּמ.ַהּ=her | pum | n+3fs | its mouth
+וְ=.קַבִּיל.ַת~she_p | qbl2 | D pf 3fs | and received
+4:11> דְּ=.מ.ֵהּ=his | dam | n+3ms | the blood (lit. his blood) | דְּמֵהּ דְּאָחוּךְ = the blood of your brother
+יְד.ָךְ=your | yad | n fs+2ms | your hand
+תִ~you_f.פְלַח | plh | G impf 2ms | you work
+תוֹ~you_f.סִיף | ysf | C impf 2ms | (you will) continue | Af‘el: the י of יסף shows as וֹ
+לְ=.מִ~inf.תַּן | yhb | G inf | to give | the infinitive of יְהַב comes from נתן
+חֵיל.ַהּ=its (fem.) | heil | n+3fs | its strength
+מִטַלְטֵל | mtltl | a ms | homeless, wandering
+וְ=.גָלֵי | gly | G ptc ms | and exiled
+סַגִּי | saggi | a ms | great
+חוֹב.ִי=my | hova | n+1cs | my sin
+מִ=from.לְּ=.מִ~inf.שְׁבָּק | shbq | G inf | (too great) to be forgiven (lit. from forgiving)
+תָרִיכְ.תָּא~you_p | trk | D pf 2ms | You have driven out
+יָת.ִי=me | yat | part+1cs | me
+דֵּין | dein | pron | this (יוֹמָא דֵּין = today)
+וּ=.מִן | min | prep | and from
+קֳדָמ.ָךְ=You | qodam | prep+2ms | before You
+אֶפְשָׁר | efshar | adv | possible
+לְ=.אִ~Dt.טַּמָּר.ָא~inf_end | tmr | Dt inf | to hide | the passive ת is absorbed into the ט (the dot in טּ)
+וָ=.אֱ~I_f.הִי | hwy | G impf 1cs | and I will be
+מְטַלְטֵל | mtltl | a ms | homeless, wandering
+דְּ=that.יִ~he_f.שְׁכְּחִ.נַנִי=me | shkh | C impf 3ms+1cs | that finds me
+יִ~he_f.קְטְלִי.נַנִי=me | qtl | G impf 3ms+1cs | will kill me
+קָטִיל | qtl | G ptc ms | who kills
+לְ=to.שַׁבְעָא | shava | num | to seven
+דָּר.ִין=pl | dar | n mp abs | generations
+יִ~he_f.תְ~Gt.פְּרַע | pra | Gt impf 3ms | (punishment) will be exacted
+וְ=.שַׁוִּי | shwy | D pf 3ms | and (He) set
+אָת.ָא=emph | at | n emph | a sign
+לְ=.מִ~inf.קְטַל | qtl | G inf | to kill
+דִ=that.יִ~he_f.שְׁכְּחֻ.נֵהּ=him | shkh | C impf 3ms+3ms | that finds him
+וּ=.נְפַק | npq | G pf 3ms | and (he) went out
+וִ=.יתֵיב | ytv | G pf 3ms | and (he) dwelt
+גָּלֵי | gly | G ptc ms | exiled
+וּ=.מִטַּלְטַל | mtltl | a ms | and homeless
+עֲבִיד.ָא~fs | avad | Gp ptc fs | made
+עֲל.וֹהִי=him | al | prep+3ms | for him (lit. upon him)
+4:16> דְּ=that.גִינְת.ָא=emph | ginta | n fs emph | (to the east) of the garden
+וִ=.ידַע | yd | G pf 3ms | and (he) knew
+וִ=.ילֵיד.ַת~she_p | yld | G pf 3fs | and (she) bore
+חֲנוֹךְ | name | name | Chanokh (Enoch)
+בָּנֵי | bny | G ptc ms | building
+קַרְתּ.ָא=emph | qarta | n fs emph | a city
+שְׁמ.ָא=emph | shum | n emph | the name
+דְ=of.קַרְתּ.ָא=emph | qarta | n fs emph | of the city
+בְּר.ֵהּ=his | bar | n+3ms | his son
+וְ=.אִתְ~Gt.יְלִיד | yld | Gt pf 3ms | and was born
+לַ=to.חֲנוֹךְ | name | name | to Chanokh
+עִירָד | name | name | Irad
+אוֹ~C.לִיד | yld | C pf 3ms | fathered (lit. caused to be born) | Af‘el: the י of ילד shows as וֹ
+מְחוּיָאֵל | name | name | Mechuyael
+וּ=.מְחִיָּיאֵל | name | name | and Mechiyael
+מְתוּשָׁאֵל | name | name | Metushael
+לָמֶךְ | name | name | Lamekh
+בְּכֵן | bekhen | adv | therefore (lit. thus)

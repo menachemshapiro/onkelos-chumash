@@ -1,0 +1,49 @@
+# Miketz 41:1–14
+חָלֵם | hlm | G ptc ms | was dreaming
+סָלְק.ָן~fp | slq | G ptc fp | coming up
+תּוֹר.ָן=pl | tor | n fp abs | cows
+פַּטִּימ.ָן~fp | pattim | a fp | fat
+פַּטִּימָת.ָא=emph | pattim | a fp emph | the fat (ones)
+בְּשָׂר | bsr | n | (in) flesh
+רָעְי.ָן~fp | rey | G ptc fp | grazing
+בְּ=in.אַחֲוָה | ahwa | n | in the meadow (Hebrew: בָּאָחוּ)
+אָחֳרָנְי.ָן~fp | ohoran | a fp | other
+בַּתְר.ֵיהוֹן=them | batar | prep+3mp | after them
+בִּישׁ.ָן~fp | bish | a fp | bad
+חֲסִיר.ַן~fp | hsr | Gp ptc fp | lacking (in flesh) (= lean)
+חֲסִיר.ָן~fp | hsr | Gp ptc fp | lacking (in flesh) (= lean)
+וְ=.קָמ.ָן~fp | qwm | G ptc fp | and (they) stood
+לְ=.קִבְל.ֵיהוֹן=them | qbl | prep+3mp | beside them
+וַ=.אֲכָל.ַן~they (fem.), past | akhal | G pf 3fp | and (the cows) ate
+וַ=.אֲכָל.ָן~they (fem.), past | akhal | G pf 3fp | and (the cows) ate
+וּ=.דְמוּךְ | dmkh | G pf 3ms | and (he) slept
+שֻׁבְּל.ַיָּא=emphp | shubbalta | n fp emph | ears (of grain)
+בְּ=on.קַנְי.ָא=emph | qanya | n emph | on a stalk
+לָקְי.ָן~fp | lqy | G ptc fp | blighted (lit. struck)
+לָקְיָת.ָא=emph | lqy | G ptc fp | the blighted (ones)
+שְׁקִיפ.ָן~fp | shqf | Gp ptc fp | beaten (by)
+קִדּוּם | qiddum | n | the east wind
+צָמְח.ָן~fp | tsmh | G ptc fp | sprouting
+וּ=.בְלָעָ.א~they (fem.), past | bla | G pf 3fp | and (they) swallowed
+וּ=.בְלָע.ָן~they (fem.), past | bla | G pf 3fp | and (they) swallowed
+וּ=.מָלְיָת.ָא=emph | malei | a fp emph | and full
+וּ=.מִ~ptc.טַּרְפ.ָא~fs | trf2 | Gt ptc fs | and (his spirit) was troubled | the passive ת becomes ט (the dot in ט)
+רוּח.ֵיהּ=his | ruah | n fs+3ms | his spirit
+חָרָשֵׁי | harash | n mp cs | the magicians of
+לַ=to.חֲרָשׁ.ַיָּא=emphp | harash | n mp emph | to the magicians
+חַכִּימָ.הָא=its | hkm | a mp+3fs | its wise men
+סָרְחָנ.ִי=my | surhan | n+1cs | my offenses
+רְגֵז | rgz | G pf 3ms | was angry
+כְּ=according to.פִשְׁרַן | pushran | n cs | according to the interpretation of
+עוּלֵם | ulema | n | a youth
+וְ=.אִ~Dt.שְׁתָּעֵי.נָא~we_p | shy2 | Dt pf 1cp | and we told | the passive ת moves after the ש
+חֶלְמ.ָנָא=our | helma | n mp+1cp | our dreams
+פָּשָׁר | pshr | G pf 3ms | he interpreted
+שִׁמּוּשׁ.ִי=my | shimmush | n+1cs | my position
+וְ=.יָת.ֵיהּ=him | yat | part+3ms | and him
+וְ=.אַ~C.רְהִיט.וֹהִי=him | rht | C pf 3mp+3ms | and (they) rushed him
+וְ=.שַׁנִּי | shny | D pf 3ms | and (he) changed
+כְסוּת.ֵיהּ=his | kesuta | n fs+3ms | his clothes
+מַ~ptcC.דְכַּר | dkr | C ptc ms | am mentioning (lit. causing to remember)
+וְ=.סַפַּר | spr2 | D pf 3ms | and (he) cut his hair (Hebrew: וַיְגַלַּח, shaved)
+41:10> בְּ=in.מַטְּרַת | mattara | n fs cs | in the custody of

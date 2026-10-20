@@ -1,0 +1,44 @@
+# Shemot 9:17–33
+לְ=.שַׁלָּחוּתְ.הוֹן=them | shlh | D inf+3mp | to send them away
+מָ~ptcC.חֵית | nht | C ptc ms | (I am) bringing down | the נ of נחת is absorbed
+בַּרְד.ָּא=emph | barda | n emph | hail
+בַרְד.ָּא=emph | barda | n emph | the hail
+וּ=.בַרְד.ָּא=emph | barda | n emph | and hail
+דִ=.כְוָת.ֵיהּ=it | kwat | prep+3ms | (the) like of it
+לְ=.מִן | min | prep | from (the day)
+דְ=that.אִשְׁתַּ~passive (Ishtaf‘al).כְלָל.ַת~she_p | kol | !verb, Ishtaf‘al, past, 3rd fem. sing. | (Egypt) was founded | from כלל, “to complete”
+כְּנוֹשׁ | kns | G impv 2ms | gather (in)!
+יִ~he_f.תְ~Gt.כְּנֵשׁ | kns | Gt impf 3ms | (and) is (not) gathered
+שְׁבַק | shbq | G pf 3ms | (he) left
+עֶסְבּ.ָא=emph | isba | n emph | the herbage
+חֻטְר.ֵיהּ=his | hutra | n+3ms | his staff
+קָל.ִין~pl | qal | n mp abs | thunder (lit. sounds)
+קָל.ַיָּא~emphp | qal | n mp emph | the thunder
+וְ=.קָל.ַיָּא~emphp | qal | n mp emph | and the thunder
+מִשְׁתַּלְהָב.ַת~fs | shalhovit | !verb, Ishtaf‘al participle, fem. sing. | flaming
+לְ=.עָם | amma2 | n abs | (became) a nation
+מְחָא | mhy | G pf 3ms | (the hail) struck
+תְּבַר | tvr | G pf 3ms | (the hail) broke
+הֲוָא | hwy | G pf 3ms | there was (no hail)
+רְוַח | rewaha | n | relief
+דִּ=of.לְוַט | lwt | !noun, construct | of curse
+לְ=.אִתְ~Dt.עַכָּב.ָא~inf_end | kv | Dt inf | to stay (lit. delay)
+כְּ=when.מִ~inf.פְּק.ִי=I | npq | G inf+1cs | when I go out | the נ of נפק is absorbed
+אֶ~I_f.פְרוֹשׂ | prs2 | G impf 1cs | I will spread out
+יִ~they_f.תְ~Dt.מַנְּע.וּן~mp | mna | Dt impf 3mp | will cease (lit. be held back)
+וְ=.יִ~they_f.תְ~Dt.מַנְּע.וּן~mp | mna | Dt impf 3mp | and (the thunder) ceased
+אִתְ~Gt.כְּנַע.ְתּוּן~ypl_p | kna | Gt pf 2mp | you (pl.) have (not) humbled yourselves
+וְ=.כִתָּנ.ָא=emph | kittana | n emph | and the flax
+וְ=.סַעֲר.ֵי~cs_pl | saarta | n fp | and the barley
+סַעְרַנְ.יָא~emphp | saarta | n fp emph | the barley
+לְקוֹ | lqy | G pf 3mp | were struck (lit. smitten)
+אַבִּיב.ִין~pl | avviv | a mp | (was) ripe
+גַּבְעוֹל.ִין~pl | gavol | n mp abs | (was) in bud
+וְ=.חִטָּא.ָה=emph | hitta | n emph | and the wheat
+וְ=.כֻנְתּ.ַיָּא~emphp | kunta | n fp emph | and the spelt
+אֲפִילָת.ָא=emph | afila | a fp emph | late (ripening)
+כְּבֵישׁ.ַת=you | kvsh | !participle (Pe‘al) + “you” | you are trampling (lit. pressing down)
+וְ=.יֵ~he_f.חוֹת | nht | G impf 3ms | and (the hail) will come down | the נ of נחת drops out
+וְ=.סַגִּי | saggi | a | and (there is) much (relief)
+וְ=.אוֹ~C.סֵף | ysf | C pf 3ms | and (Pharaoh) continued
+וּ=.פְרַשׂ | prs2 | G pf 3ms | and (he) spread out
