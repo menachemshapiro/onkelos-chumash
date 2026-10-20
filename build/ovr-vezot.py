@@ -1,0 +1,37 @@
+import json
+O = {
+"33:1": {"e":["before his death"]},
+
+"33:4": {"t":["מסרה"], "e":["is the"]},
+
+"33:8": {"t":["תמיא","די","בחנתוהי"], "e":["Your tumim","whom You","You brought"]},
+
+"33:10": {"e":["and Your Torah","let them","and totally"]},
+"33:11": {"e":["and accept","shatter"]},
+"33:12": {"t":["רחימא","ישרי","יהי מגן","ובארעיה"], "e":["Adonoy’s friend","let him","He hovers","and He resides"]},
+"33:13": {"t":["מברכא","מטלא דשמיא","ותהומין"], "e":["Blessed by","with the","and the [wellsprings"]},
+"33:14": {"e":["and with the delight"]},
+"33:16": {"t":["רעי","יתין","ולגניא"], "e":["and the favor","let [all","and upon"]},
+
+"33:19": {"t":["תמן","ארי","וסימא"], "e":["there will","for by","and the hidden"]},
+"33:21": {"t":["ארי תמן","והוא","זכון","ודינוהי"], "e":["for there","he marched","he acted","and His laws"]},
+"33:22": {"t":["דן תקיף","ארעיה"], "e":["Don is","bounding"]},
+"33:23": {"t":["נפתלי שבע","ומלי","מערב"], "e":["Naftoli’s","and he is full","occupy"]},
+"33:24": {"e":["May Asher","he shall be","and immerse"]},
+"33:25": {"e":["As the days"]},
+
+"33:27": {"t":["במימריה","ותריך"], "e":["[Whose word","He banished"]},
+"33:28": {"t":["לארעא","אף"]},
+"33:29": {"t":["תקיף","ודמן","ויכדבון","ואת"], "e":["the shield","and who","and your enemies","while you"]},
+"34:1": {"t":["ריש רמתא","די","ואחזייה"], "e":["the peak","that faces","and Adonoy"]},
+"34:2": {"e":["and the land","and all the land","until"]},
+"34:4": {"e":["I will give","I have shown","but you"]},
+"34:6": {"e":["facing","and no man","till this"]},
+"34:7": {"t":["לא כהת"], "e":["his appearance"]},
+"34:8": {"e":["[after which]"]},
+"34:9": {"t":["ארי","וקבילו","כמא"], "e":["because Moshe","Bnei Yisroel listened","and acted"]},
+"34:10": {"e":["whom Adonoy","face-to-face"]},
+"34:11": {"e":["in the land","to Pharoah"]},
+"34:12": {"e":["and for the entire","[manifestations]","in view"]},
+}
+json.dump(O, open('ovr-vezot.json','w'), ensure_ascii=False, indent=0)

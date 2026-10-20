@@ -1,0 +1,138 @@
+# Chumash with Onkelos — Compromises and Decisions
+
+Updated Oct 20, 2026 · Menachem
+
+## Hebrew clause splitting rule
+
+Each pasuk is split into clauses by its te'amim, using one fixed rule:
+
+- It always breaks at **etnachta**, **segolta** and **shalshelet**.
+- It breaks at **zakef** (katon or gadol) only when at least 2 words fall on each side.
+- It does not break at lesser disjunctives (revia, tipcha, pashta and so on).
+
+Where this rule gave a clause that the Targum or the English couldn't follow, the clauses were joined. The next section lists those pesukim.
+
+## Hebrew clauses joined, by parsha
+
+In these pesukim, two or more clauses from the rule were shown as a single line. Usually this was because the Targum or the English could not be split at the same point.
+
+| Parsha | Pesukim |
+| --- | --- |
+| Bereishit | 4:7, 4:20, 4:21, 4:26, 5:1, 6:2, 6:3; the ages in ch. 5 (5:5, 7, 8, 10, 11, 13, 14, 16, 17, 20, 23, 26, 27, 30, 31) |
+| Noach | 7:4, 7:6, 7:10, 7:12, 8:10, 8:12, 9:28, 9:29, 10:18, 11:7, 11:13, 11:15, 11:17 |
+| Lech Lecha | 12:7, 15:3, 15:17, 16:8, 17:1, 17:26 |
+| Vayera | 18:25, 18:28, 18:33, 20:10, 20:13, 20:14, 21:5, 21:16, 21:30, 22:1 |
+| Chayei Sarah | 23:6, 24:8 |
+| Toldot | 25:23, 26:18, 26:24, 27:6, 27:11, 27:30, 27:34, 28:2 |
+| Vayetzei | 29:8, 29:13, 29:17, 30:14, 30:22, 30:29, 31:6, 31:47, 31:53 |
+| Vayishlach | 32:20, 34:4, 34:13, 34:19, 35:5, 35:29, 36:13, 36:32 |
+| Vayeshev | 39:6, 39:19 |
+| Miketz | 41:4, 41:7, 41:20, 41:24, 41:26, 41:27, 41:43, 42:21, 44:8, 44:17 |
+| Vayigash | 44:19, 44:33, 47:5 |
+| Vayechi | 47:28, 48:9, 48:20, 48:21, 49:31, 50:4, 50:25 |
+| Shemot | 1:1, 1:14 |
+| Bo | 12:40, 12:41 |
+| Beshalach | 16:16 |
+| Yitro | 18:17, 20:19 |
+| Mishpatim | 22:8, 24:13 |
+| Terumah | 25:26, 25:27, 26:2, 26:5, 26:8, 26:25 |
+| Tetzaveh | 28:23, 29:36 |
+| Ki Tisa | 32:8, 34:4, 34:10, 34:35 |
+| Vayakhel | 36:9, 36:10, 36:12, 36:15, 36:26, 36:30, 37:13, 37:14, 38:17 |
+| Pekudei | 39:6, 40:3, 40:31 |
+| Vayikra | 3:6, 4:28 |
+| Tzav | 7:12, 7:17 |
+| Shemini | 10:16 |
+| Tazria | 13:57 |
+| Acharei Mot | 16:5 |
+| Kedoshim | 19:2, 19:4, 19:28 |
+| Emor | 21:8, 21:12, 23:14, 24:5 |
+| Behar | 25:9, 25:41 |
+| Bechukotai | 26:14, 26:32, 26:38 |
+| Bamidbar | 1:25, 2:15, 3:21, 3:46 |
+| Behaalotecha | 10:5, 11:14, 11:24 |
+| Shelach | 15:11, 15:22, 15:33 |
+| Korach | 17:17, 17:18, 18:21 |
+| Chukat | 20:4, 20:10, 20:21, 21:24 |
+| Balak | 22:3, 22:17, 23:26 |
+| Pinchas | 27:20, 28:4, 28:17 |
+| Matot | 30:9, 31:31, 31:36, 31:40, 31:43, 31:46, 32:11, 32:15, 32:18 |
+| Masei | 33:40, 35:24, 35:30, 35:33 |
+| Devarim | 1:32, 3:6 |
+| Vaetchanan | 4:5, 4:14, 5:22, 6:14, 6:16, 6:17 |
+| Eikev | 7:20, 9:11 |
+| Re'eh | 12:26, 14:1, 15:21, 16:1 |
+
+No clauses were joined in Vaera, Metzora, Naso, Shoftim, Ki Teitzei, Ki Tavo, Nitzavim, Vayeilech, Ha'azinu or Vezot Haberachah.
+
+## Hand-set split points
+
+3,583 pesukim have Onkelos and/or English break points that were set by hand: 885 in Bereishit and 2,698 in Shemot through Devarim. In those pesukim, the automatic word-count alignment put a break in the wrong place.
+
+- 1:1–10 were aligned entirely by hand.
+- In the rest of the Chumash, the automatic splits were checked against a full printout of each parsha. They were corrected only where a line clearly didn't match its Hebrew clause.
+- Each English line starts where its first few words are found in the pasuk. When those words were too short (for example, just "said"), they could match an earlier spot and start the line in the wrong place. In those cases more words were used so the line starts in the right place, for example "The servant said" instead of "said". Other examples: "They will kill", "His father rebuked" (Vayeshev 37:10), "the sons of Eliphaz", "[Eisov] said".
+
+## Where the English can't match the Hebrew
+
+In some pesukim, the English line cannot line up exactly with its Hebrew clause:
+
+- **Word order.** English word order sometimes places a word in the neighbouring clause. The split follows the English sentence rather than breaking it mid-phrase. Examples: 21:30 ("Take"), 3:12, 29:24, 29:29, 37:2.
+- **Long bracketed Onkelos renderings.** Short bracketed glosses stay whole. Where a long bracket covered several Hebrew clauses, it was cut at the Targum's own clause breaks and each piece placed after the English it matches, so every line shows the Hebrew, Targum and English of the same clause. Only the order of the English words changed; a check confirms none were added or lost. These pesukim have a **Show original** button on the page. This was done in 33 pesukim: Ha'azinu 32:12, 13, 14, 15, 19, 22, 32, 34, 36, 41; Vezot Haberachah 33:2, 3, 6, 7, 9, 17, 18, 26; Noach 11:5; Lech Lecha 13:16, 14:17; Vayera 20:16, 21:22, 22:14; Vayetzei 31:39; Vayechi 49:9, 49:11, 49:17; Vaera 8:22; Beshalach 15:11, 17:16; Behaalotecha 12:12; Balak 23:19. In Vayechi 49:9, 11 and 17, Hebrew clauses that had been joined were split again. About 40 other pesukim have a long bracket that already sits with its own clause, and were left as they are.
+
+## Changes to the English text
+
+The Metsudah English was changed only in the places listed in the table. Everything else is as in the source.
+
+| Change | Where |
+| --- | --- |
+| Spaced dashes made into proper dashes | Bereishit 3:12, 13:17, 19:4, 19:11, 19:12, 19:24, 20:7, 22:2, 24:7, 24:16, 26:15, 27:23, 29:27, 30:31, 32:12, 34:14, 34:24, 34:29, 35:6, 37:25, 38:30, 39:1, 39:17, 45:10, 48:13; Shemot through Devarim: every dash, done automatically |
+| "transgr ession" → "transgression" | Bereishit 50:17 |
+| Stray "û" → "—" | Bereishit 49:17 |
+| "Burnt — offering" → "Burnt-offering" | Shemot 31:9 |
+| "of of Eliav" → "of Eliav" | Bamidbar 7:29 |
+| "Adonoy, El him" → "Adonoy, Elohim" | Devarim 3:24 |
+| "nd you inherit" → "and you inherit" | Devarim 26:1 |
+| "of these these happenings" → "of these happenings" (reported on the page) | Bereishit 24:28 |
+| Italic glosses shown in bold | Throughout |
+
+**Clear typos were corrected** throughout the Chumash (66 in all): misspellings such as "Angles" → "Angels" (Bereishit 32:31), "Sidal" → "Tidal" (14:9, as in 14:1), "divid", "rasied", "testimonoy", "exept", "promished", "seperate", "bretheren", "stubborness", "annointing", "annihalate", "inquities" and "persued"; doubled or wrong words such as "the the midst", "the their land", "your are", "to do perform" and "such a think"; and words broken across a line, such as "congrega-tion" and "compen-sation". Unusual but deliberate wording (archaic spellings, transliterations, words like "doublefold" and "grainstalks") was left as it is. "Chazak" at the end of Bereishit 50:26 and Devarim 34:12 was kept.
+
+## Display decisions
+
+- **Glosses:** italic glosses in the English get the same highlight as the bold ones.
+- **Targum variant notes** (נ״י / נ״א / ס״א) appear in small grey type.
+- **Ketiv/qere** is shown as in the source, with the qere in brackets, e.g. אהלה [אהלו].
+- **Mid-pasuk parsha break:** the petucha inside 35:22 is shown inline as {פ}.
+- **Verse numbers** are in Hebrew letters, with טו / טז for 15 and 16.
+- **Te'amim toggle:** turning it off removes the cantillation marks, meteg and paseq, and keeps the niqqud (from v16).
+- **Transliterated words:** Hebrew terms written in English letters in the translation (kohein, matzos, Shabbos, mishkan, shemitah, Amein and so on) are not highlighted. Only bracketed glosses are marked as places where the Onkelos departs from the plain meaning.
+- **Go-to box:** the box at the end of the location bar jumps to a pasuk, e.g. `32:13`, `לב יג`, `Vayechi 49:11` or `שמות טו יא`. With numbers only, it searches the current parsha first, then the rest of that sefer. Links to a pasuk (`#parsha/perek:pasuk`) work only when the page is opened outside claude.ai, because claude.ai doesn't pass the link's `#` part into the page.
+- **Report:** every pasuk has a small Report button. A report records the pasuk, which part needs fixing and a note, and is saved with the page so Claude can read the list and fix them.
+
+## Aliyot
+
+- The aliyah divisions follow Hebcal's full-kriyah (Shabbos) schedule.
+- Maftir overlaps the end of shevi'i, so "(מפטיר)" appears inside shevi'i rather than starting a separate section.
+- Exporting the shevi'i aliyah therefore runs to the end of the parsha, including the maftir pesukim.
+- **Double parshiyot** (Vayakhel-Pekudei, Tazria-Metzora, Acharei Mot-Kedoshim, Behar-Bechukotai, Chukat-Balak, Matot-Masei, Nitzavim-Vayeilech) each have their own entry, with Hebcal's combined aliyah breaks rather than the breaks of the two separate parshiyot.
+- Where two aliyot start on the same pasuk, they share one label, e.g. "שביעי ומפטיר" in Eikev.
+- Vezot Haberachah has seven aliyot and no maftir, following Hebcal.
+
+## Rashi
+
+- Niqqud is stripped from Rashi to match the usual Rashi script presentation.
+- Doubled punctuation marks from the source were cleaned up.
+- On the page, Rashi sits under its pasuk in columns: 1, 2, 3 or 4, chosen under Typography → Rashi → Columns. The default is 3 on a computer and 1 on a phone.
+
+## Export
+
+| Format | Decision or limitation |
+| --- | --- |
+| All | Rashi columns (1–4) are chosen in the Export panel and apply to PDF, Word and HTML; the choice starts at the page's own Typography setting. In Word, the comments are split, in order, into columns of about equal length. |
+| Word (.docx) | Uses the font names from the Typography panel, so those fonts must be installed on the computer that opens the file. |
+| Word (.docx) | Needs an internet connection, because the Word library loads from a CDN on first use. |
+| Page loading | The page holds no verse text itself; each parsha's text and Rashi is a separate file fetched when that parsha is opened (about 45 KB compressed each), so the page opens quickly. Only the four default fonts are waited for; the Typography panel's other fonts load in the background. |
+| PDF | Saved as a real .pdf file, built in the page (works on phones, where printing is blocked). Each page is a picture of the text, so it looks exactly like the page but the text can't be selected or searched; for selectable text, export Word or HTML. If the PDF can't be built, it falls back to a print-ready HTML file. |
+| HTML | Fonts are embedded, so the file looks the same offline. |
+| All | The viewer asks you to confirm each save before the file downloads. |
