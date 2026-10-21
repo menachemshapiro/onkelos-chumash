@@ -30,6 +30,12 @@ def resolve(rid, depth=0):
             if r != rid and hw(E[r]) == re.sub(r'\s+[IVX]+$', '', tgt) or (r != rid and cons(hw(E[r])) == cons(tgt)):
                 return resolve(r, depth + 1)
     return rid
+def dangling(rid):
+    """a bare cross-reference ("v. X") whose target entry was not downloaded"""
+    e = E[rid]
+    defs = ' '.join(s_.get('definition', '') for s_ in e.get('content', {}).get('senses', []) if isinstance(s_, dict))
+    plain = re.sub(r'<[^>]+>', '', defs).strip(' ,.;')
+    return bool(re.match(r'^(?:same,?\s*)?(?:v\.|=)\s*(?:sub\s+)?[\u0590-\u05ff*]', plain)) and len(plain) < 45 and resolve(rid) == rid
 def verbal(e):
     d = json.dumps(e.get('content', {}), ensure_ascii=False)
     return bool(re.search(r'<i>\s*to |binyan|"Pa\.|Pa\. |Af\. |Ithpa', d[:1500]))
@@ -63,6 +69,11 @@ for k, v in lex.items():
     seen = []
     for x in sc:
         if x[2] not in seen: seen.append(x[2])
+    if sc and not (glosses(E[sc[0][2]]) & ew(v.get('g'))):
+        # the best guess shares no meaning with the glossary; if the word itself is only a pointer to an entry we don't have,
+        # show that pointer (it names the right entry) rather than an unrelated homograph
+        ptr = [r for r in cands if cons(hw(E[r])) == cons(v['h']) and dangling(r)]
+        if ptr: out[k] = {'rid': ptr[0], 'kind': 'word', 'also': [x for x in seen if x != ptr[0]][:2]}; stat['pointer'] += 1; continue
     if sc: out[k] = {'rid': sc[0][2], 'kind': sc[0][1], 'also': seen[1:3]}; stat[sc[0][1]] += 1
     else: stat['none'] += 1
 json.dump(out, open(SP + 'build/jas-map.json', 'w', encoding='utf8'), ensure_ascii=False)
