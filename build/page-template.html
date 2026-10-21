@@ -144,6 +144,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-body span[dir="rtl"], .jas-body a[dir="rtl"] { font-family: var(--tg-font); font-size: 1.08em; }
 .jas-body a { color: var(--targum); text-decoration: none; }
 .jas-body a:hover { text-decoration: underline; }
+.jas-body a.jonk { border-bottom: 1px dotted currentColor; }
 .jas-body a.jhere { background: var(--mark); color: var(--mark-ink); border-radius: 3px; padding: 0 .15em; }
 .jas-body .jn, .jas-body .jg { color: var(--targum); }
 .jas-also { margin-top: 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: .8rem; color: var(--muted); }
@@ -884,6 +885,16 @@ async function jasRender(rid){
   if (rid !== C.rid) note.push("Another related entry. The one matched to this word is the highlighted tab, marked “this word”.");
   document.getElementById("jas-note").textContent = note.join(" ");
   body.innerHTML = e.html;
+  // Onkelos citations open the pasuk here (the parsha is found from the glossary's chapter ranges)
+  body.querySelectorAll('a[href*="sefaria.org/Onkelos_"]').forEach(a => {
+    const m = a.getAttribute("href").match(/Onkelos_(\w+)\.(\d+)\.(\d+)$/); if (!m) return;
+    const book = Object.keys(BOOK_EN).find(h => BOOK_EN[h] === m[1]), c = +m[2], vv = +m[3], x = c * 1000 + vv;
+    const pid = Object.keys(GLOSS_RANGES).find(id => parOf(id).book === book && GLOSS_RANGES[id].some(([c1, v1, c2, v2]) => x >= c1 * 1000 + v1 && x <= c2 * 1000 + v2));
+    if (!pid) return;
+    a.href = "#" + pid + "/" + c + ":" + vv; a.removeAttribute("target"); a.classList.add("jonk");
+    a.title = "Open " + parOf(pid).en + " " + c + ":" + vv + " on this page";
+    a.dataset.p = pid; a.dataset.c = c; a.dataset.v = vv;
+  });
   if (C.here) body.querySelectorAll(`a[href*='${C.here.slice(0, -1)}']`).forEach(a => { if (a.getAttribute("href").endsWith(C.here.slice(0, -1))) a.classList.add("jhere"); });
   jasPop.querySelector(".jas-card").scrollTop = 0;
   document.getElementById("jas-src").href = "https://www.sefaria.org/" + encodeURI("Jastrow,_" + e.h + ".1");
@@ -891,6 +902,12 @@ async function jasRender(rid){
   if (others) document.getElementById("jas-also").innerHTML = "Other possible entries: " + others + (rid !== C.rid && !C.tabs.includes(rid) ? "" : "");
   if (!C.tabs.includes(rid) && rid !== C.rid) document.getElementById("jas-also").innerHTML += ` <button type="button" data-r="${C.rid}" dir="rtl">↩ back</button>`;
 }
+document.getElementById("jas-body").addEventListener("click", ev => {
+  const a = ev.target.closest("a.jonk"); if (!a) return;
+  if (ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button === 1) return;   // let a new tab open (works outside claude.ai)
+  ev.preventDefault(); jasPop.hidden = true; closeGloss();
+  jump(a.dataset.p, +a.dataset.c, +a.dataset.v);
+});
 document.getElementById("jas-tabs").addEventListener("click", ev => { const b = ev.target.closest("button[data-r]"); if (b) jasRender(b.dataset.r); });
 document.getElementById("jas-also").addEventListener("click", ev => { const b = ev.target.closest("button[data-r]"); if (b) jasRender(b.dataset.r); });
 document.getElementById("jas-x").addEventListener("click", () => { jasPop.hidden = true; });
