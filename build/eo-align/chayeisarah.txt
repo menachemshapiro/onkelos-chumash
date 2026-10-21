@@ -116,6 +116,7 @@ M: and prostrated himself | before | Adonoy
 E: Who has not abandoned His <b>goodness</b> and truth [in dealing] with my master.
 M: Who | not | has abandoned | His goodness | and truth | with | my master
 + in dealing
+! מְנַע is literally "withheld".
 E: I am still on the <b>straight</b> road and Adonoy has led me
 M: I am still | on the road | straight | and has led me | Adonoy
 
@@ -186,6 +187,7 @@ M: Our sister | you | may become | thousands | and myriads
 = same
 E: the <b>cities</b> of his foes.
 M: - | the cities of | his foes
+! סַנְאֵיהוֹן is plural, "their enemies".
 
 @ 24:62
 = same
@@ -197,6 +199,7 @@ M: for he | lived | in the land of | the south
 @ 24:63
 E: Yitzchok went out to <b>pray</b> in the field towards evening.
 M: went out | Yitzchok | to pray | in the field | towards | evening
+! לְמִפְנֵי is literally "at the turning of" the evening.
 
 @ 24:64
 = same

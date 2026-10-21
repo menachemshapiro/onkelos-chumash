@@ -65,6 +65,7 @@ M: not | you must work | him | like | slaves
 @ 25:43
 E: You must not <b>make him work</b> to crush him
 M: not | You must make … work | him | to crush him
+! בְּקַשְׁיוּ is literally "with hardness": harshly.
 
 @ 25:45
 E: Also, from the children of the <b>uncircumcised</b> sojourners who reside with you from them you may purchase [slaves],
@@ -77,6 +78,7 @@ M: Also | from the children of | the sojourners | uncircumcised | who reside | w
 = same
 E: you must not <b>make him work</b> to crush him.
 M: not | you must make … work | him | to crush him
+! בְּקַשְׁיוּ is literally "with hardness": harshly.
 
 @ 25:47
 E: If <b>an uncircumcised one</b> or resident <b>with you</b> acquires means
@@ -97,6 +99,7 @@ M: Either | brother | his father’s | or | the son of | brother | his father’
 = same
 E: he shall not <b>make him work</b> to crush him before your eyes.
 M: not | he shall make … work | him | to crush him | before your eyes
+! בְּקַשְׁיוּ is literally "with hardness": harshly.
 
 @ 26:1
 E: You shall not make <b>false</b> idols for yourselves and graven images and memorial stones you shall not raise up for yourselves,

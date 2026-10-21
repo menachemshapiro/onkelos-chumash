@@ -11,6 +11,7 @@ M: And so that | you may relate | before | your son | and grandson | ^ | - | the
 = same
 E: Send My people out that they may worship <b>before</b> Me.
 M: Send out | My people | that they may worship | before Me
+! וְיִפְלְחוּן is literally "and they will serve".
 
 @ 10:5
 E: They will cover the <b>eye of the sun</b> of the land
@@ -21,6 +22,7 @@ M: They will cover | - | the eye of | the sun | of the land
 = same
 E: “Go worship <b>before</b> Adonoy, your God.
 M: Go | worship | before | Adonoy | your God
+! פְלָחוּ is literally "serve".
 
 @ 10:9
 = same
@@ -42,6 +44,7 @@ E: This is not right. [Only] the [adult] men should go and worship <b>before</b>
 M: not | This is right | should go | - | the men | and worship | before | Adonoy
 + Only
 + adult
+! וּפְלָחוּ is literally "and serve".
 
 @ 10:15
 E: They covered the <b>eye of the sun</b> of the entire land so that the land was darkened.
@@ -72,6 +75,7 @@ M: after | will be removed | the darkness of | the night
 @ 10:24
 E: Pharaoh called to Moshe, and he said, “Go! Worship <b>before</b> Adonoy.
 M: called | Pharaoh | to Moshe | and he said | Go | Worship | before | Adonoy
+! פְּלָחוּ is literally "serve".
 
 @ 10:25
 = same
@@ -86,6 +90,7 @@ M: also | Our own flocks | will go | with us | Not | will remain | a single thin
 = same
 E: to worship <b>before</b> Adonoy our God;
 M: to worship | before | Adonoy | our God
+! לְמִפְלַח is literally "to serve".
 E: since we do not know with what [animals] we will worship <b>before</b> Adonoy
 M: since we | not | do | know | with what | we will worship | before | Adonoy
 + animals
@@ -216,6 +221,7 @@ M: from the first-born son | of Pharaoh | who is destined | to sit | upon | the 
 E: Go worship <b>before</b> Adonoy as you have said [requested].
 M: Go | worship | before | Adonoy | as | you have | said
 + requested
+! פְלָחוּ is literally "serve".
 
 @ 12:32
 = same
@@ -252,6 +258,7 @@ M: in group | one | It must be eaten
 @ 12:48
 E: When a proselyte dwells with you and wants to make the Pesach-offering <b>before</b> Adonoy,
 M: When | dwells | with you | a proselyte | and wants to make | the Pesach-offering | before | Adonoy
+! יִתְגַיַר is literally "converts", not "dwells".
 
 @ 13:2
 E: “Sanctify <b>before</b> Me all the first-born, that [is the first to] open the womb among the B’nei Yisrael,
@@ -277,6 +284,7 @@ M: you must pass on | every one | that open | the womb | before | Adonoy
 + At that time
 + set aside
 + is first to
+! וְתַעְבַּר is literally "and you shall set apart".
 E: Every firstling that is dropped [born] by animals that belong to you, the males shall <b>be consecrated before</b> Adonoy.
 M: Every | firstling | that is dropped | by animals | that | belong | to you | the males | shall be consecrated | before | Adonoy
 + born

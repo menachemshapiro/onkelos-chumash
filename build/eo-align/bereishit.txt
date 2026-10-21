@@ -7,6 +7,7 @@ E: and darkness <b>was spread</b> over the surface of the abyss.
 M: and darkness | was spread | over | the surface of | the abyss
 E: The breath <b>from before</b> Elohim <b>blew</b> above the surface of the water.
 M: The breath | from | before | Elohim | blew | above | the surface of | the water
+! וְרוּחָא is "and a wind": Onkelos reads a wind blowing over the water.
 
 @ 1:6
 = same
@@ -282,6 +283,7 @@ M: then | for Lemech | his son | seventy | seven
 + for
 + generations
 ! The Targum here has no word for "generations"; it carries over from the line before.
+! הֲלָא is literally "is it not", a rhetorical question.
 
 @ 4:26
 = same
@@ -307,6 +309,7 @@ M: and he was no longer | for | put to death | him | Elohim
 = same
 E: This one will bring us rest from our work and the <b>toil</b> of our hands,
 M: This one | will bring us rest | from our work | and the toil of | our hands
+! יְנַחֲמִנָּנָא is literally "will comfort us".
 
 @ 6:2
 = same

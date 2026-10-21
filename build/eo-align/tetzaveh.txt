@@ -177,6 +177,7 @@ E: Take the breast from Aharon’s ram <b>of offering</b>
 M: Take | - | the breast | from ram of | offering | - | Aharon’s
 E: and wave it as wave-offering <b>before</b> Adonoy.
 M: and wave | it | as wave-offering | before | Adonoy
+! וּתְרִים is literally "and you shall lift up", as an uplifted offering.
 
 @ 29:27
 = same
@@ -226,6 +227,7 @@ E: and by sprinkling [its blood] on the altar you will <b>elevate</b> it [the al
 M: you will elevate | on | the altar | and by sprinkling | it
 + its blood
 + the altar
+! בְּכַפָּרוּתָךְ is literally "when you make atonement".
 
 @ 29:41
 = same

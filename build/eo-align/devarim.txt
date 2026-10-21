@@ -108,6 +108,7 @@ M: and with the pillar of | cloud | by day
 @ 1:34
 E: <b>Before</b> Adonoy <b>was</b> heard the intent of your words
 M: was heard | Before | Adonoy | - | the intent | of your words
+! קַל is literally "the voice of" your words.
 
 @ 1:36
 = same
@@ -154,6 +155,7 @@ M: He did not | hearken | to your words
 @ 1:46
 E: You lived in <b>Rekam</b> many years,
 M: You lived | in Rekam | years | many
+! יוֹמִין is literally "days".
 
 @ 2:7
 = same
@@ -169,6 +171,7 @@ M: It is now | forty | years | the word of | Adonoy | your God | has aided you
 = same
 E: and do not intimidate <b>to make</b> war <b>with them</b>.
 M: and do not | intimidate | to make | with them | war
+! תִתְגָּרֵי is literally "stir yourself up" against them, provoke.
 = same
 = same
 E: have I given <b>Lechoyas</b> as inheritance.
@@ -208,6 +211,7 @@ M: You | are … crossing | today | ^ | - | the border of | Moav | - | at Lechoy
 = same
 E: do not besiege them and do not intimidate <b>to make war with them</b>,
 M: do not | besiege | them | and do not | intimidate | to make | with them | war
+! תִתְגָּרֵי is literally "stir yourself up" against them, provoke.
 
 @ 2:20
 = same

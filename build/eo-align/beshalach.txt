@@ -198,6 +198,7 @@ M: and they went out | into the desert | of Cheger
 E: He [Moshe] <b>prayed before</b> Adonoy, Adonoy <b>instructed him concerning</b> a tree
 M: He prayed | before | Adonoy | instructed him concerning | Adonoy | a tree
 + Moshe
+! אָעָא is literally "wood", a piece of wood.
 = same
 E: and the water became <b>pleasing</b>.
 M: and became pleasing | the water
@@ -208,6 +209,7 @@ M: There | He established | for them | statutes | and ordinances | and there | H
 E: He said [to them,] “If you vigilantly obey the <b>Word</b> of Adonoy, your God, and do what is upright <b>before Him</b>,
 M: He said | If | vigilantly | you obey | the Word | of Adonoy | your God | and what is upright | before Him | do
 + to them
+! קַבָּלָא תְקַבֵּל is literally "if you will truly accept".
 
 @ 16:3
 E: The B’nei Yisrael said to them, “If only we had died <b>before</b> Adonoy in the land of Egypt,
@@ -357,6 +359,7 @@ M: crushed | Yehoshua | - | Amaleik | and | his people | with the word | of the 
 = same
 E: and repeat it <b>before Yehoshua</b>,
 M: and repeat it | before | Yehoshua
+! וְשַׁוִי is literally "and put" (it in Yehoshua's ears).
 
 @ 17:15
 = same

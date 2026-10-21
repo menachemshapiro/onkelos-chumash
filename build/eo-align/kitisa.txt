@@ -311,6 +311,7 @@ M: and it will be revealed | before You | that | Your people | nation | this is
 E: “My <b>Shechina</b> will go [with you] and I will accede to you[r request].”
 M: My Shechina | will go | and I will accede | to you[r request]
 + with you
+! וְאָנִיחַ is literally "and I will give you rest".
 
 @ 33:15
 E: And he [Moshe] said <b>before</b> Him,

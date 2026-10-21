@@ -66,6 +66,7 @@ E: I will <b>become revealed</b> now and <b>judge</b>,
 M: I will become revealed | now | and judge
 E: if their wailing which has come <b>before</b> Me is indicative of their conduct; <b>I will destroy them</b>.
 M: if | their wailing | which has come | before Me | is indicative of their conduct | I will | them | destroy
+! עֲבָדוּ is literally "they have done".
 E: <b>If they will repent, I will not punish them.</b>
 M: If | they will repent | not | I will punish them
 
@@ -313,6 +314,7 @@ E: and go to the land of <b>worship</b>.
 M: and go | - | to the land | of worship
 E: Sacrifice him <b>before me</b> as a burnt-offering
 M: Sacrifice him | before me | - | as a burnt-offering
+! וְאַסְקֵיהּ is literally "and bring him up" as an offering.
 
 @ 22:8
 = same
@@ -350,3 +352,4 @@ M: - | Because of | your children
 = same
 E: because you heeded My <b>Word</b>.
 M: because | ^ | you heeded | My Word
+! קַבֵּלְתָּא is literally "you accepted" (My word).

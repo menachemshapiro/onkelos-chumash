@@ -109,6 +109,7 @@ M: to look | at the side of | the Glory of | Elohim
 = same
 E: “The suffering of My people that are in Egypt <b>has indeed been revealed before Me</b>.
 M: indeed | has been revealed | before Me | - | The suffering of | My people | that are | in Egypt
+! שִׁעְבּוּד is "the servitude of".
 E: <b>Their</b> cry <b>is heard before Me</b> because [of the harshness] of their slave-masters,
 M: - | Their cry | is heard | before Me | because | ^ | of their slave-masters
 + of the harshness
@@ -223,6 +224,7 @@ E: for I am <b>heavy of speech</b> and clumsy [slow] of tongue [language].”
 M: for | heavy | of speech | and clumsy | of tongue | I am
 + slow
 + language
+! וְעַמִיק is literally "and deep": hard of speech.
 
 @ 4:12
 = same
@@ -295,6 +297,7 @@ M: He went | and met him | at the mountain | upon which was revealed | ^ | the G
 = same
 E: When they heard that Adonoy was mindful of the B’nei Yisrael, and that their suffering <b>was revealed before Him</b>,
 M: When they heard | that | was mindful | Adonoy | - | of the B’nei | Yisrael | and that | was revealed | before Him | - | their suffering
+! שִׁעְבּוּדְהוֹן is "their servitude".
 
 @ 5:1
 = same
@@ -329,6 +332,7 @@ M: We want to go | sacrifice | before | our God
 = same
 E: Let them not <b>be occupied with</b> false ideas.”
 M: Let not | them be occupied | with | false ideas
+! בְּטֵלִין is literally "idle" words.
 
 @ 5:13
 = same

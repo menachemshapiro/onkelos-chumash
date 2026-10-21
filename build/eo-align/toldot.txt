@@ -25,6 +25,7 @@ M: serving | in the house of | study
 E: Eisov said to Yaakov, <b>Now</b> give me a swallow of this red [pottage],
 M: said | Eisov | to Yaakov | give me a swallow | Now | of | red | ^ | this
 + pottage
+! אַטְעֵמְנִי is literally "let me taste".
 
 @ 25:31
 = same
@@ -50,6 +51,7 @@ M: and will be | My Word | your support | and I will bless you
 = same
 E: <b>Because of</b> your descendants shall be blessed
 M: shall be blessed | Because of | your descendants
+! בְּנָךְ is literally "your children".
 
 @ 26:5
 E: [All this is] because Avraham <b>accepted</b> My <b>Word</b>,
@@ -74,6 +76,7 @@ M: Whoever injures | man | this | or his wife | shall die | ^
 = same
 E: and in that year he reaped a hundred fold <b>more than that which they estimated</b>,
 M: and he reaped | in year | that | - | fold | a hundred | more than that which they estimated
+! וְאַשְׁכַּח is literally "and he found".
 
 @ 26:13
 = same
@@ -208,6 +211,7 @@ M: and he received | your blessing
 E: [Eisov] said, <b>He is</b> rightly called Yaakov. He has deceived me twice;
 M: said | rightly | He is called | - | Yaakov | He has deceived me | - | twice | ^
 + Eisov
+! וְחַכְּמַנִי is literally "he outwitted me", a milder word than "deceived".
 = same
 E: and now he has <b>received</b> my blessing.
 M: and | now | he has received | my blessing

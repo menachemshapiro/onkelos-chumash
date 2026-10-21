@@ -249,6 +249,7 @@ M: You will eat | the offspring | of your womb | the flesh of | your sons | and 
 E: [even] he will look askance at his brother and at the wife of his <b>covenant</b>
 M: he will look askance | ^ | at his brother | and at the wife of | his covenant
 + even
+! תִּבְאֵשׁ עֵינֵיהּ is literally "his eye will be evil".
 
 @ 28:56
 E: The soft female among you and the indulged one the sole of whose foot never experienced <b>being put</b> on the ground
@@ -256,6 +257,7 @@ M: The soft female | among you | and the indulged one | whose | never | experien
 = same
 E: her eye will begrudge the husband of her <b>covenant</b>,
 M: will begrudge | her eye | the husband of | her covenant
+! תַּבְאֵשׁ is literally "will be evil", of her eye.
 
 @ 28:57
 E: And her <b>little children who emerge from her</b>, and her children whom she bears,

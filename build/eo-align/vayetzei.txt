@@ -11,10 +11,12 @@ M: And behold | the Glory of | Adonoy | stood | over him | and said
 @ 28:14
 E: Your descendants shall be <b>many</b> as the dust of the earth.
 M: shall be | Your descendants | many | as the dust | of the earth
+! בְּנָךְ is literally "your children".
 E: You shall <b>be strong</b> to the west, to the east, to the north and to the south.
 M: You shall be strong | to the west | to the east | to the north | and to the south
 E: <b>Because of</b> you shall be blessed all the families of the earth, and <b>because of</b> your descendants.
 M: shall be blessed | Because of you | all | the families of | the earth | and because of | your descendants
+! בְּנָךְ is literally "your children".
 
 @ 28:15
 E: Behold, <b>My Word is your support</b>, and I will guard you <b>every place</b> you go,
@@ -83,6 +85,7 @@ M: and He allowed | her | to conceive
 = same
 E: as she said, my affliction <b>was revealed before</b> Adonoy;
 M: as | she said | - | was revealed | before | Adonoy | my affliction
+! עֻלְבּוֹנִי is literally "my humiliation".
 
 @ 29:33
 = same
@@ -125,6 +128,7 @@ M: Praise | is | mine | because | from now | will praise me | women
 = same
 E: <b>Now</b> give me some of your son’s jasmine flowers.
 M: give | Now | me | some of jasmine flowers | your son’s
+! יַבְרוּחֵי are mandrakes. Metsudah's "jasmine flowers" follows Rashi.
 
 @ 30:17
 E: Elohim <b>accepted</b> Leah’s <b>prayer</b>.
@@ -314,6 +318,7 @@ M: I would have sent you away | - | with joy | and with song | with drums | and 
 = same
 E: but why did you <b>take</b> my gods?
 M: but why | did you take | - | my gods
+! דַּחַלְתִּי is literally "what I revere". Onkelos does not call Lavan's idols "gods".
 
 @ 31:32
 = same

@@ -42,6 +42,7 @@ M: and every one of | the people | - | we saw | in it | are men | of stature
 @ 13:33
 E: There we saw the giants, the sons of <b>Anok</b>, of the <b>giants</b>,
 M: There | we saw | - | the giants | the sons of | Anok | of | the giants
+! גִּבָּרַיָּא is literally "the mighty men".
 E: and we were like grasshoppers in our <b>own</b> eyes,
 M: and we were | in … eyes | our own | like grasshoppers
 
@@ -75,6 +76,7 @@ E: <b>Your Shechina dwells</b> among this people,
 M: Your Shechina | dwells | among | people | this
 E: <b>who with their eyes have seen the glorious Shechina of</b> Adonoy; Your Cloud stands over them,
 M: who | with their eyes | have seen | the … Shechina of | glorious | Adonoy | Your Cloud | stands | over them
+! מַטֵּל is literally "shades": the cloud shades them.
 E: in a Pillar of Cloud You <b>lead</b> them daily
 M: in a Pillar of | Cloud | You | lead | them | daily
 

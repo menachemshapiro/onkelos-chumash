@@ -83,6 +83,7 @@ M: The blood of | their heroes | was spilled | like water
 @ 32:15
 E: <b>Yisroel</b> grew fat and rebelled,
 M: grew fat | Yisroel | and rebelled
+! וּבְעַט is literally "and kicked".
 E: <b>He was very successful and wealthy</b>
 M: He was … successful | very | and | wealthy
 E: he forsook <b>the service of</b> the God who made him,
@@ -107,6 +108,7 @@ M: no | had … dealings | with them | your forefathers
 @ 32:18
 E: <b>The fear of</b> the Rock Who bore you, you disregarded;
 M: The fear of | the Rock | Who bore you | you disregarded
+! דִּבְרָאָךְ is literally "Who created you". אִתְנְשֵׁיתָא is literally "you forgot".
 E: you forsook <b>the service of</b> the Almighty Who <b>made</b> you.
 M: you forsook | the service of | the Almighty | Who made you
 
@@ -272,6 +274,7 @@ M: and … calamity | wreak | on His enemies
 @ 32:44
 E: Moshe came and he spoke all the words of this song <b>before</b> the people;
 M: came | Moshe | and he spoke | - | all | the words of | song | this | before | the people
+! תֻשְׁבַּחְתָּא is literally "praise".
 
 @ 32:51
 E: Because you were <b>untrue</b> to <b>My word</b> amid Bnei Yisroel

@@ -202,6 +202,7 @@ E: who sees the vision <b>from before</b> the Almighty;
 M: who sees the vision | from | before | the Almighty
 E: <b>he sees</b>, fallen, <b>and it is apparent to him</b>.
 M: he sees | fallen | and it is apparent | to him
+! שְׁכִיב is literally "lying down".
 
 @ 24:5
 E: How goodly <b>is your land</b>, Yaakov,
@@ -261,6 +262,7 @@ M: the declaration of | the man | who … well | sees
 = same
 E: <b>he sees</b>, fallen, <b>and it is apparent to him</b>.
 M: he sees | fallen | and it is apparent | to him
+! שְׁכִיב is literally "lying down".
 
 @ 24:17
 = same
@@ -310,6 +312,7 @@ E: <b>groups will beg help from Rome</b>
 M: groups | will beg help | from Rome
 E: and destroy Ashur, and <b>will enslave those beyond Peras</b>,
 M: and destroy | Ashur | and will enslave | those beyond | Peras
+! וִיעַנּוּן is literally "and they will afflict".
 
 @ 25:2
 = same

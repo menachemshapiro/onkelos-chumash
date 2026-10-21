@@ -45,6 +45,7 @@ M: and | bring | - | - | the[ir] problems | before | God
 @ 18:21
 E: You must seek out from among all the people capable, God-fearing men, men of truth, who despise <b>accepting</b> gain.
 M: - | You must seek out | from among all | the people | men | capable | God-fearing | ^ | men | of truth | who despise | accepting | gain
+! מָמוֹן is literally "money".
 
 @ 18:22
 E: <b>They shall</b> judge the people at all times.
@@ -178,6 +179,7 @@ M: not | You must have | - | any gods | other | besides | Me
 E: I am cognizant of the sins of fathers for <b>rebellious</b> children, to the third and fourth [generations] of My enemies, <b>when the children complete the sinning after their fathers</b>.
 M: I am cognizant of | the sins of | fathers | for | children | rebellious | to | - | the third | and | - | fourth | of My enemies | when | complete | the children | the sinning | after | their fathers
 + generations
+! מַסְעַר is literally "visiting": bringing to account.
 
 @ 20:6
 E: But I do [acts of] <b>goodness</b> for thousands [of generations]

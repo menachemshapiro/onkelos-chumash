@@ -96,6 +96,7 @@ M: by witnesses | according to | the word of | judges | his blood | shall be spi
 @ 9:12
 E: Elohim said, This is the sign of the covenant that I pledge between <b>My Word</b> and you,
 M: said | Elohim | This is | the sign of | the covenant | that | I | pledge | between | My Word | and you
+! יָהֵב is literally "am giving".
 
 @ 9:13
 = same
@@ -194,6 +195,7 @@ E: They said one to another, Come, let us <b>throw</b> bricks
 M: They said | one | to another | Come | let us throw | bricks
 E: and bake them <b>in a fire</b>.
 M: and bake them | in a fire
+! וְנִשְׂרְפִנּוּן is literally "and let us burn them".
 
 @ 11:4
 E: Then they said, Come, we will build ourselves a city, and a tower whose top will reach the <b>height of the</b> heavens.

@@ -73,6 +73,7 @@ M: and the land | which is beneath you | as powerful | as copper | producing no 
 @ 26:21
 E: If you walk contrary <b>before</b> Me
 M: If | you walk | before Me | contrary
+! בְּקַשְׁיוּ is literally "with hardness": stubbornly, harshly.
 E: and have no desire to <b>accept My Word</b>,
 M: and no | have desire | to accept | My Word
 E: I will increase <b>to bring</b> the blows upon you
@@ -89,6 +90,7 @@ M: If | after these | not | you have been disciplined | to My Word
 + to listen
 E: and walk contrary <b>before</b> Me,
 M: and walk | before Me | contrary
+! בְּקַשְׁיוּ is literally "with hardness": stubbornly, harshly.
 
 @ 26:25
 E: I will bring upon you <b>people who kill with a</b> sword, <b>and they will avenge from you a vengeance for transgressing the words of the Torah</b>
@@ -108,6 +110,7 @@ M: If | of this | not | you will accept | My Word
 + still
 E: and you will walk contrary <b>before</b> Me,
 M: and you will walk | before Me | contrary
+! בְּקַשְׁיוּ is literally "with hardness": stubbornly, harshly.
 
 @ 26:30
 = same
@@ -173,6 +176,7 @@ E: in the <b>dishonesty</b> with which they were <b>dishonest before</b> Me,
 M: in the dishonesty | with which they were dishonest | before Me
 E: and also for walking contrary <b>before</b> Me.
 M: and also | for | walking | before Me | contrary
+! בְּקַשְׁיוּ is literally "with hardness": stubbornly, harshly.
 
 @ 26:41
 = same

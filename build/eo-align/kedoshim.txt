@@ -62,6 +62,7 @@ M: He shall bring | - | his guilt-offering | before | Adonoy
 = same
 E: you shall regard its fruit as <b>separated</b>.
 M: you shall regard | as separated | - | its fruit
+! וּתְרַחֲקוּן is literally "and you shall keep (it) distant".
 E: [For] three years it shall be <b>separated</b> to you, <b>to be destroyed</b>; it shall not be eaten.
 M: three | years | it shall be | to you | separated | to be destroyed | not | it shall be eaten
 + For
@@ -119,6 +120,7 @@ M: the people of the | House of | Israel | shall stone him to death | ^
 @ 20:4
 E: If the people of the <b>House of Israel</b> will hide their eyes from that person,
 M: If | ^ | will hide | the people of the | House of | Israel | - | their eyes | from | person | that
+! יִכְבְּשׁוּן is literally "press down", as in shutting their eyes.
 
 @ 20:5
 E: I shall set My wrath against that man and his <b>supporters</b>;

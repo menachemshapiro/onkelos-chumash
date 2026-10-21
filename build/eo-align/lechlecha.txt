@@ -86,6 +86,7 @@ M: before | Adonoy | exceedingly
 @ 13:16
 E: I will make your descendants <b>numerous</b> as the dust of the earth;
 M: I will make | - | your descendants | numerous | as the dust | of the earth
+! בְּנָךְ is literally "your children".
 E: <b>just as it is impossible for</b> a man <b>to</b> count the dust of the earth,
 M: just as | ^ | it is impossible | ^ | for a man | to count | - | the dust | of the earth
 E: <b>so</b> too your descendants <b>will not be countable</b>.
@@ -309,10 +310,12 @@ E: and I will make you into <b>assemblies</b>;
 M: and I will make you | into assemblies
 E: and kings <b>who rule over nations</b> will descend from you.
 M: and kings | who rule | over nations | from you | will descend
+! יִפְקוּן is literally "will go out".
 
 @ 17:7
 E: I will sustain My covenant between <b>My Word</b> and you, and between your descendants after you throughout their generations as an eternal covenant,
 M: I will sustain | - | My covenant | between | My Word | and you | and between | your descendants | after you | throughout their generations | as covenant | an eternal
+! וַאֲקֵים is literally "I will establish".
 
 @ 17:10
 E: This is My covenant which you must preserve between <b>My Word</b> and you,
