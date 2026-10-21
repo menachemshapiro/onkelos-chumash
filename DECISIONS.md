@@ -170,3 +170,11 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 ## Targum highlights filled in
 
 - Bereishis 49 and Vayikra 25–27 have no highlight marks in the source Targum. There, the highlights are filled in from the word-by-word match: a Targum word is highlighted when the English used for it includes Onkelos's own (bold) wording. Checked against the chapters that do have source marks, this rule agrees about 92% of the time on what to highlight and finds about 91% of the marked words. The rule is in `build/tg_hl.py` and runs in `eo_merge.py`.
+
+## Jastrow pop-up
+
+- **What it is.** On a glossary card, *Jastrow → Open entry* shows the word's entry from Jastrow's *Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the Midrashic Literature* (1903, public domain), as published on Sefaria. Citations link to the source on Sefaria.
+- **Where the entries came from.** `build/jastrow/fetch_jastrow.py` looked up each glossary headword once with Sefaria's dictionary API (about 3,100 lookups, run on Menachem's computer, Oct 21). Sefaria's bulk text export does not include its dictionaries.
+- **Matching.** `build/jas_match.py` picks, for each glossary entry, the Jastrow entry whose headword has the same letters (preferring the same vowels), that is Aramaic, cites the Targum, has the same part of speech, and shares words with the glossary meaning. Bare cross-references ("v. X") are followed to the entry they point to. If no entry for the word itself fits, a verb is matched to its root's entry, and the pop-up says so. A match with neither the same vowels nor any shared meaning is dropped. About 1,840 of the 2,160 glossary entries have a Jastrow entry (1,570 for the word itself, 265 for its root). Where other entries also fit, they are offered as "Other possible entries".
+- **Beta.** The matching is automatic, so some entries will be the wrong homograph; the pop-up says so.
+- **Files.** `j/index.json` maps glossary entries to Jastrow entries; `j/<letter>.json` holds the entries, loaded only when one is opened. On the home-screen app each letter file is kept for offline use once it has been opened.

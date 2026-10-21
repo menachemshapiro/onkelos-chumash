@@ -139,6 +139,24 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .rep-msg.err { color: #c0392b; }
 .rep-act { display: flex; justify-content: flex-end; gap: 8px; }
 .rep-act button { font: inherit; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: 8px; padding: 7px 14px; cursor: pointer; }
+.jas-hw { font-family: var(--tg-font); font-size: 1.6rem; font-weight: 700; color: var(--targum); }
+.jas-note { font-size: .8rem; color: var(--muted); margin: -4px 0 6px; }
+.jas-note:empty { display: none; }
+.jas-body { font-family: var(--en-font); font-size: .98rem; line-height: 1.55; }
+.jas-body p { margin: 0 0 .5em; }
+.jas-body .jhead { color: var(--muted); font-size: .9rem; }
+.jas-body .jsub { margin-inline-start: 1em; }
+.jas-body .jsub p { margin: .2em 0; }
+.jas-body span[dir="rtl"], .jas-body a[dir="rtl"] { font-family: var(--tg-font); font-size: 1.08em; }
+.jas-body a { color: var(--targum); text-decoration: none; }
+.jas-body a:hover { text-decoration: underline; }
+.jas-body .jn, .jas-body .jg { color: var(--targum); }
+.jas-also { margin-top: 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: .8rem; color: var(--muted); }
+.jas-also:empty { display: none; }
+.jas-also button, .gl-jas { font: inherit; color: var(--targum); background: none; border: 1px solid var(--rule); border-radius: 999px; padding: 2px 10px; cursor: pointer; }
+.jas-also button { font-family: var(--tg-font); font-size: 1rem; }
+.jas-foot { margin-top: 12px; padding-top: 8px; border-top: 1px solid var(--rule); font-size: .72rem; color: var(--muted); line-height: 1.45; }
+.jas-foot a { color: var(--targum); }
 .na-p { margin: 4px 0 14px; line-height: 1.5; }
 .help-card { width: min(620px, 100%); max-height: min(85vh, 760px); overflow: auto; }
 .help-pop { align-items: center; }
@@ -323,6 +341,7 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
       <li><b>Targum Onkelos:</b> Sifsei Chachomim Chumash, Metsudah Publications, 2009, via <a href="https://www.sefaria.org/Onkelos_Genesis" target="_blank" rel="noopener">Sefaria</a>. License: <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC</a>.</li>
       <li><b>English:</b> Metsudah Chumash, Metsudah Publications, 2009 [with Onkelos translation], via <a href="https://www.sefaria.org/Onkelos_Genesis" target="_blank" rel="noopener">Sefaria</a>. License: <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC</a>.</li>
       <li><b>Rashi:</b> Sefaria's merged text of <a href="https://www.sefaria.org/Rashi_on_Genesis" target="_blank" rel="noopener">Rashi</a>, drawn from <i>Pentateuch with Rashi's Commentary</i>, ed. M. Rosenbaum and A.M. Silbermann, 1929–1934 (public domain); Rashi Chumash, Metsudah Publications, 2009 (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY</a>); and <i>On Your Way</i> (ובלכתך בדרך, public domain).</li>
+      <li><b>Jastrow:</b> Marcus Jastrow, <i>A Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the Midrashic Literature</i> (London, 1903; public domain), via Sefaria. Entries are matched to the glossary automatically.</li>
       <li><b>Fonts:</b> Mekorot Rashi (LPPL 1.3c) and Mekorot Vilna (GPL), based on Culmus fonts; other fonts from Google Fonts (SIL Open Font License).</li>
     </ul>
     <p><b>Changes from the sources:</b> each pasuk is divided into clauses and the Hebrew, Targum and English set side by side; in some pesukim the English was reordered so each bracketed Onkelos rendering sits beside its own clause; clear typos in the English were corrected; aliyah and perek markings were added. Pesukim with changed English have a <i>Show original</i> button with the source wording.</p>
@@ -352,7 +371,8 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
       <li><b>Word by word</b> adds an <i>Onkelos word by word</i> drop-down under each line. It shows which English renders each Aramaic word, with short notes where something needs explaining.</li>
     </ul>
     <h3>The Targum glossary (beta)</h3>
-    <ul><li>Tap any Aramaic word for a card with its parts (prefixes, the word, endings), root, grammatical form, meaning in this pasuk, and dictionary entry. The glossary is new and will have mistakes.</li></ul>
+    <ul><li>Tap any Aramaic word for a card with its parts (prefixes, the word, endings), root, grammatical form, meaning in this pasuk, and dictionary entry. The glossary is new and will have mistakes.</li>
+      <li>Where the card shows <b>Jastrow</b>, tap <i>Open entry</i> to read the word's entry in Jastrow's dictionary. It was matched automatically, so now and then it may be the wrong entry.</li></ul>
     <h3>Look and export</h3>
     <ul>
       <li><b>Aa</b> sets fonts, sizes and layout. Your choices are saved in this browser.</li>
@@ -365,6 +385,13 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
       <li>On an iPhone, open the page in Safari and choose <i>Share → Add to Home Screen</i> to use it as an app. It also works offline.</li>
     </ul>
   </div>
+</div></div>
+<div class="rep-pop help-pop" id="jas" hidden dir="ltr" lang="en"><div class="rep-card help-card jas-card" role="dialog" aria-modal="true" aria-labelledby="jas-t">
+  <div class="rep-h"><b id="jas-t" class="jas-hw" dir="rtl"></b><button type="button" id="jas-x" class="help-x" aria-label="Close">×</button></div>
+  <div id="jas-note" class="jas-note"></div>
+  <div id="jas-body" class="jas-body"></div>
+  <div id="jas-also" class="jas-also"></div>
+  <div class="jas-foot">Jastrow, <i>A Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the Midrashic Literature</i> (1903), via <a id="jas-src" href="https://www.sefaria.org/" target="_blank" rel="noopener">Sefaria</a>. Matched to this word automatically, so it may be the wrong entry.</div>
 </div></div>
 <div class="gl-pop" id="gl" hidden><div class="gl-card" role="dialog" aria-label="Word" id="gl-card"></div></div>
 <div class="rep-pop" id="rep" hidden dir="ltr" lang="en"><div class="rep-card" role="dialog" aria-modal="true" aria-labelledby="rep-t">
@@ -820,10 +847,44 @@ async function showGloss(span){
       ${g.sn && !short ? `<dt>Note</dt><dd>${esc(g.sn)}</dd>` : ""}
       ${L.r ? `<dt>Root</dt><dd><span class="heb" dir="rtl">${esc(rootFmt(L.r))}</span></dd>` : ""}
       ${L.h ? `<dt>Dictionary</dt><dd><span class="heb" dir="rtl">${esc(L.h)}</span> — ${esc(L.p || "")}: ${esc(L.g || "")}</dd>` : ""}
+      <dt class="gl-jrow" hidden>Jastrow</dt><dd class="gl-jrow" hidden><button type="button" class="gl-jas" data-l="${esc(g.l)}">Open entry ›</button></dd>
     </dl>
     <div class="gl-foot"><span>${esc(parOf(v.pr).en)} ${v.c}:${v.v}<span class="gl-beta"><b>Beta</b> · the glossary is new and will have mistakes</span></span><button type="button" class="gl-rep">Report a problem</button></div>`;
+  markJas(glCard);
+}
+// ---------- Jastrow: the dictionary entry for the word (j/index.json maps glossary entries to Jastrow entries) ----------
+let JIDX = null; const JGRP = {};
+const loadJ = path => fetch(path).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+function jIndex(){ return JIDX || (JIDX = loadJ("j/index.json").catch(e => { JIDX = null; throw e; })); }
+function jGroup(rid){ const k = rid[0]; return JGRP[k] || (JGRP[k] = loadJ("j/" + k + ".json").catch(e => { delete JGRP[k]; throw e; })); }
+const jasPop = document.getElementById("jas");
+async function showJas(rid, kind, also){
+  const body = document.getElementById("jas-body");
+  document.getElementById("jas-t").textContent = ""; document.getElementById("jas-note").textContent = "";
+  document.getElementById("jas-also").innerHTML = ""; body.textContent = "Loading…"; jasPop.hidden = false;
+  let e; try { e = (await jGroup(rid))[rid]; } catch (err) { body.textContent = "Couldn't load the dictionary. Check your connection."; return; }
+  if (!e) { body.textContent = "Entry not found."; return; }
+  document.getElementById("jas-t").textContent = e.h;
+  document.getElementById("jas-note").textContent = kind === "root" ? "Jastrow has no entry for this exact word, so this is the entry for its root." : "";
+  body.innerHTML = e.html; body.scrollTop = 0; jasPop.querySelector(".jas-card").scrollTop = 0;
+  document.getElementById("jas-src").href = "https://www.sefaria.org/" + encodeURI("Jastrow,_" + e.h + ".1");
+  if (also && also.length) {
+    const g = await Promise.all(also.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
+    document.getElementById("jas-also").innerHTML = "Other possible entries: " + also.map((r, k) => g[k] ? `<button type="button" data-r="${r}" dir="rtl">${g[k].h.replace(/[&<>]/g, "")}</button>` : "").join("");
+    document.getElementById("jas-also").onclick = ev => { const b = ev.target.closest("button[data-r]"); if (b) showJas(b.dataset.r, "word", [rid, ...also.filter(x => x !== b.dataset.r)]); };
+  }
+}
+document.getElementById("jas-x").addEventListener("click", () => { jasPop.hidden = true; });
+jasPop.addEventListener("click", ev => { if (ev.target === jasPop) jasPop.hidden = true; });
+addEventListener("keydown", ev => { if (ev.key === "Escape" && !jasPop.hidden) { jasPop.hidden = true; ev.stopImmediatePropagation(); } }, true);
+async function markJas(card){
+  const b = card.querySelector(".gl-jas"); if (!b) return;
+  let idx; try { idx = await jIndex(); } catch (e) { return; }
+  if (idx[b.dataset.l]) card.querySelectorAll(".gl-jrow").forEach(x => x.hidden = false);
 }
 glCard.addEventListener("click", ev => {
+  const jb = ev.target.closest(".gl-jas");
+  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2]); }); return; }
   if (ev.target.closest(".gl-x")) closeGloss();
   else if (ev.target.closest(".gl-rep") && glOn) {
     const sec = glOn.closest(".verse"), w = glOn.textContent; closeGloss();
