@@ -1,0 +1,392 @@
+# "As Onkelos reads it", parsha Miketz
+
+@ 41:3
+= same
+= same
+E: and they stood <b>opposite</b> the cows that were [already] on the bank of the river.
+M: and they stood | opposite | the cows that were | on | the bank of | the river
++ already
+
+@ 41:6
+= same
+E: <b>smitten</b> and <b>beaten</b> by the east wind,
+M: smitten | and beaten | by the east wind
+
+@ 41:7
+E: The seven <b>smitten</b> ears
+M: - | The seven ears | smitten
+! "swallowed" (וּבְלָעָא) is printed on the next line.
+
+@ 41:8
+E: In the morning, <b>his spirit was beaten</b>.
+M: - | In the morning | was beaten | his spirit
+
+@ 41:14
+= same
+E: They hurried him out of the <b>prison</b>,
+M: They hurried him | out of | the | prison
+E: but [Yoseif first] <b>trimmed his hair</b> and changed his clothes.
+M: but trimmed his hair | and changed | his clothes
++ Yoseif first
+
+@ 41:16
+E: Yoseif answered Pharaoh, saying, Not <b>from my wisdom</b>,
+M: answered | Yoseif | - | Pharaoh | saying | Not | from | my wisdom
+E: <b>but from before</b> God <b>will there be a response</b> to the peace of Pharaoh.
+M: but | from | before | God | will there be a response | - | the peace of | Pharaoh
++ to
+
+@ 41:23
+= same
+E: shriveled, <b>smitten</b> and <b>beaten</b> by the east wind,
+M: shriveled | smitten | and beaten | by the east wind
+
+@ 41:24
+E: The <b>smitten</b> ears swallowed the seven good ears.
+M: swallowed | The ears | smitten | - | the seven | ears | good
+
+@ 41:27
+= same
+E: and the seven <b>smitten</b>, east wind—<b>beaten</b> ears,
+M: and the seven | ears | smitten | beaten | east wind
+
+@ 41:32
+= same
+E: it is because the thing stands ready <b>from</b> before God,
+M: it is because | stands ready | the thing | from | before | God
+
+@ 41:34
+= same
+E: appoint <b>faithful men</b> over the land,
+M: appoint | faithful men | over | the land
+
+@ 41:35
+E: Let them gather in all the <b>grain</b> during these good years
+M: Let them gather in | - | all | the grain | during these years | good
+= same
+E: and let them store up grain under the hand [jurisdiction] of Pharaoh. Let the <b>grain</b> be [kept] in the cities, and let them safeguard it.
+M: and let them store up | grain | under | the hand | of Pharaoh | Let the grain be | in the cities | and let them safeguard it
++ jurisdiction
++ kept
+
+@ 41:36
+E: The <b>grain</b> will be <b>stored away</b> for the land,
+M: will be | The grain | stored away | for the land
+= same
+= same
+E: Let the <b>people of the</b> land not be cut off by the famine.
+M: not | Let be cut off | the people | of the land | by the famine
+
+@ 41:38
+= same
+= same
+E: a man who has <b>the spirit of prophecy from before God</b> in him?
+M: a man | who has | the spirit of | prophecy | from | before | God | in him
+
+@ 41:40
+E: You shall be <b>appointed</b> over my house,
+M: You | shall be | appointed | over | my house
+= same
+E: Only by [virtue of] the throne <b>of this kingdom</b> will I be <b>more honored</b> than you.
+M: Only by | the throne | of kingdom | this | will I be | more honored | than you
++ virtue of
+
+@ 41:43
+= same
+E: and they proclaimed before him, <b>“This is the associate of the king”</b>.
+M: and they proclaimed | before him | This is | the associate | of the king
+
+@ 41:44
+= same
+E: but without <b>your permission</b>, no man will lift his hand <b>to carry a sword</b> or his foot <b>to ride upon a horse</b> in the entire land of Egypt.
+M: but without | your permission | no | will lift | man | - | his hand | to carry | a sword | or | his foot | to ride | upon | a horse | in the entire | land | of Egypt
+
+@ 41:45
+E: Pharaoh gave Yoseif the name <b>the man to whom hidden things are revealed</b>,
+M: gave | Pharaoh | the name | Yoseif | the man | to whom hidden things | are revealed | ^
+E: and he gave him Osnas, the daughter of Poti Phera, <b>chief</b> of On as a wife.
+M: and he gave | him | - | Osnas | the daughter of | Poti | Phera | chief | of On | as a wife
+
+@ 41:47
+E: <b>The inhabitants of the land stored up</b>
+M: stored up | The inhabitants of | the land
+= same
+E: <b>grain for store-houses</b>.
+M: grain | for store-houses
+
+@ 41:48
+E: He gathered in all the <b>grain</b> of the seven years [that was produced] in the land of Egypt,
+M: He gathered in | - | all | the grain of | the seven | years | - | - | in the land | of Egypt
++ that was produced
+E: and placed the <b>grain</b> in the cities.
+M: and placed | the grain | in the cities
+E: The <b>grain</b> of the fields surrounding each city was placed within [the city].
+M: The grain | of the fields | each city | - | surrounding | was placed | within
++ the city
+
+@ 41:50
+= same
+= same
+= same
+E: the daughter of Poti Phera, <b>chief</b> of On.
+M: the daughter of | Poti | Phera | chief | of On
+
+@ 41:52
+= same
+E: Because Elohim has made me fruitful in the land of my <b>servitude</b>.
+M: Because | has made me fruitful | Elohim | in the land | of my servitude
+
+@ 41:53
+E: The seven years of abundance <b>were completed</b>,
+M: were completed | The seven | years of | abundance
+
+@ 41:55
+= same
+= same
+E: Pharaoh said to all <b>the Egyptians</b>, Go to Yoseif.
+M: said | Pharaoh | to all | the Egyptians | Go | to | Yoseif
+
+@ 41:56
+= same
+= same
+E: Yoseif opened everything that held grain, and sold [grain] to <b>Egypt</b>.
+M: opened | Yoseif | - | everything | that | held | grain | and sold | to Egypt
++ grain
+
+@ 41:57
+E: All <b>inhabitants</b> of the land came to Egypt
+M: All | inhabitants of | the land | came | to Egypt
+
+@ 42:1
+= same
+E: that <b>grain</b> was being sold in Egypt.
+M: that | was | grain | being sold | in Egypt
+
+@ 42:2
+= same
+E: that there is <b>grain</b> for sale in Egypt.
+M: that | there is | grain | for sale | in Egypt
+
+@ 42:4
+= same
+= same
+= same
+E: <b>Death</b> might befall him.
+M: - | might befall him | Death
+
+@ 42:5
+= same
+E: to buy <b>grain</b> among the others who came,
+M: to buy | grain | among | the others who came
+
+@ 42:6
+= same
+E: he was the one who sold <b>grain</b> to all the people of the land.
+M: he was the one | who sold | grain | to all | the people | of the land
+
+@ 42:7
+= same
+E: but he <b>considered what he should say</b> to them. He spoke harshly to them, and said to them, Where did you come from?
+M: but he considered | what | he should say | to them | He spoke | to them | harshly | and said | to them | Where | did you come from
+E: They said, From the land of Canaan to buy <b>grain</b>.
+M: They said | From the land | of Canaan | to buy | grain
+
+@ 42:9
+= same
+= same
+= same
+= same
+E: You have come to see <b>the defective part of the land</b>.
+M: to see | - | the defective part | of the land | You have come
+
+@ 42:10
+= same
+E: Your servants have come to buy <b>grain</b>.
+M: Your servants | have come | to buy | grain
+
+@ 42:12
+= same
+E: No, You have come to see <b>the defective part of the land</b>.
+M: No | - | the defective part | of the land | You have come | to see
+
+@ 42:16
+= same
+= same
+= same
+E: whether <b>you speak</b> any truth.
+M: whether you | speak any truth
+
+@ 42:18
+= same
+= same
+E: I fear <b>from before</b> God.
+M: from | before | God | I | fear
+
+@ 42:19
+= same
+= same
+= same
+= same
+E: <b>grain that is lacking in your</b> households.
+M: grain | that is lacking | in your households
+
+@ 42:21
+= same
+E: We saw the anguish of his soul when he pleaded with us and we did not <b>obey him</b>.
+M: - | We saw | the anguish of | his soul | when | ^ | he pleaded | with us | and not | we did obey | him
+
+@ 42:22
+E: Reuvein answered them saying, Did I not say to you to the following: Do not sin against the lad, but you did not <b>obey</b>;
+M: answered | Reuvein | them | saying | Did not | I say | to you | to the following | not | Do sin | against the lad | but not | you did obey
+
+@ 42:28
+= same
+= same
+E: <b>The understanding of their</b> hearts <b>left</b> them and they trembled, saying one to another,
+M: left them | The understanding of | their hearts | and they trembled | one | to another | saying
+
+@ 42:33
+= same
+= same
+= same
+= same
+E: and take <b>grain that is lacking in your</b> households and go.
+M: and | grain | that is lacking | in your households | take | and go
+
+@ 42:36
+= same
+= same
+E: Yoseif is no more, Shimon is <b>not here</b>,
+M: Yoseif | is no more | Shimon | is not | ^ | here
+! Metsudah places the bracket "not here" after Yoseif; the Aramaic הָכָא ("here") belongs to Shimon.
+
+@ 42:38
+= same
+E: for his brother is dead, and only he remains. Should <b>death</b> befall him on the way you are going,
+M: for | his brother | is dead | and he | only | remains | Should befall him | death | on the way | - | you are going | ^
+
+@ 43:2
+E: When they had <b>entirely consumed</b> the <b>grain</b>
+M: - | When | they had entirely | consumed | - | the grain
+= same
+= same
+E: Go back and buy a little <b>grain</b> for us.
+M: Go back | and buy | for us | a little | grain
+
+@ 43:4
+= same
+E: we will go down and buy <b>grain</b> for you.
+M: we will go down | and buy | for you | grain
+
+@ 43:9
+= same
+= same
+= same
+E: I will <b>be a sinner</b> to you for all time.
+M: I will be | a sinner | to you | for all | time
+
+@ 43:16
+= same
+= same
+= same
+= same
+E: for these men shall dine with me at <b>the morning meal</b>.
+M: for | with me | shall dine | these men | at the morning meal
+
+@ 43:18
+= same
+= same
+= same
+E: that he may <b>act as a lord over</b> us and <b>libel</b> us,
+M: that he may act as a lord over | us | and libel | us
+E: and <b>acquire</b> us for slaves <b>and take</b> our donkeys.
+M: and acquire | us | for slaves | and take | - | our donkeys
+
+@ 43:20
+= same
+E: we came down the first time to buy <b>grain</b>.
+M: - | we came down | the first time | to buy | grain
+
+@ 43:22
+E: We have [also] brought other money in our hand to buy <b>grain</b>.
+M: money | other | We have brought | in our hand | to buy | grain
++ also
+
+@ 43:25
+= same
+E: when Yoseif came <b>to the morning meal</b>,
+M: when | came | Yoseif | to the morning meal
+
+@ 43:29
+= same
+= same
+= same
+E: He [then] said, <b>Graciousness from before</b> Elohim <b>be upon</b> you my son.
+M: He said | from | before | Elohim | Graciousness be | upon you | my son
++ then
+
+@ 43:30
+= same
+= same
+E: He went into [his] <b>bed</b>room and wept there.
+M: He went | into | ^ | bedroom | and wept | there
++ his
+
+@ 43:32
+= same
+= same
+= same
+E: because <b>the animal that the</b> Egyptians <b>worship, the Hebrews eat</b>.
+M: because | the animal | that the Egyptians | worship | ^ | the Hebrews | eat
+
+@ 43:33
+E: They <b>reclined</b> before him,
+M: They reclined | before him
+
+@ 43:34
+E: He had portions carried from before him <b>before</b> them.
+M: He had carried | portions | from | before him | before them
+
+@ 44:1
+= same
+E: Fill the men’s bags with as much <b>grain</b>
+M: Fill | - | bags | the men’s | with as much grain
+
+@ 44:5
+= same
+E: He uses it for <b>investigating</b>.
+M: He | uses for investigating | ^ | it
+
+@ 44:7
+= same
+= same
+= same
+E: <b>May your servants be spared</b>
+M: May be spared | your servants
+E: <b>from doing</b> such a thing.
+M: from doing | such a thing | ^
+
+@ 44:8
+= same
+= same
+E: How then could we have stolen silver <b>vessels</b> or gold <b>vessels</b> from your master’s house?
+M: How then | could we have stolen | from house | your master’s | silver vessels | or | gold vessels
+
+@ 44:15
+= same
+= same
+= same
+E: that a man like me is an expert <b>investigator</b>?
+M: that | is an expert | investigator | a man | - | like me
+
+@ 44:16
+= same
+= same
+E: <b>From before</b> God <b>has been</b> found the iniquity of your servants.
+M: From | before | God | has been found | - | the iniquity | of your servants
+
+@ 44:17
+E: He [Yoseif] said [to them], <b>May I be spared from doing</b> such a thing.
+M: He said | May be spared | I | from doing | such a thing
++ Yoseif
++ to them

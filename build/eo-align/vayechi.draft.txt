@@ -1,0 +1,839 @@
+# DRAFT for vayechi: made by auto_eo.py; "?" lines need a look.
+
+@ 49:2
+= same
+E: <b>accept chastisement from</b> Yisrael, your father.
+וְקַבִּילוּ = accept
+אוּלְפַן = 
+מִן = 
+יִשְׂרָאֵל = from Yisrael
+אֲבוּכוֹן = your father
++ chastisement
+? check: Aramaic with no English: אוּלְפַן מִן · English with no Aramaic: chastisement
+
+@ 49:3
+= same
+E: you are my strength, and the beginning of my <b>power</b>;
+חֵילִי = you are my strength
+וְרֵישׁ = and the beginning
+תָּקְפִּי = 
++ of
++ my
++ power
+? check: Aramaic with no English: תָּקְפִּי · English with no Aramaic: power
+E: <b>it would have been right for you to take three portions—the birthright, the priesthood, and the kingship</b>.
+לָךְ = 
+הֲוָה = 
+חָזֵי = 
+לְמִסַּב = for you to take
+תְּלָתָא = three
+חוּלָקִין = portions
+בְּכֵירוּתָא = the birthright
+כְּהֻנְתָּא = the priesthood
+וּמַלְכוּתָא = and the kingship
++ it
++ would
++ have
++ been
++ right
+? check: Aramaic with no English: לָךְ הֲוָה חָזֵי · English with no Aramaic: right
+
+@ 49:4
+E: , <b>However, because you went towards your anger like flowing water, you will not benefit, you will not receive an additional portion,</b>
+עַל = 
+דַּאֲזַלְתָּא = because you went
+לָקֳבֵל = 
+אַפָּיךְ = 
+הָא = 
+כְמַיָּא = like flowing water
+בְּרַם = However
+לָא = 
+אַהֲנֵיתָא = you will not benefit
+חוֹלָק = portion
+יַתִּיר = 
+לָא = 
+תִסָּב = 
++ towards
++ your
++ anger
++ you
++ will
++ not
++ receive
++ an
++ additional
+? check: Aramaic with no English: עַל לָקֳבֵל אַפָּיךְ הָא לָא יַתִּיר לָא תִסָּב · English with no Aramaic: towards anger receive additional
+E: for you have <b>to the place of</b> your father’s bed.
+אֲרֵי = 
+סְלֶקְתָּא = 
+בֵּית = for you have to the place
+מִשְׁכְּבֵי = bed
+אָבוּךְ = of your father’s
+? check: Aramaic with no English: אֲרֵי סְלֶקְתָּא · English with no Aramaic: -
+E: You profaned He Who went up on my couch<b>, my son, you went up</b>.
+בְּכֵן = 
+אֲחֶלְתָּא = You profaned
+לְשִׁוּוּיִי = up on my couch
+בְּרִי = my son
+סְלֶקְתָּא = He Who went
++ you
++ went
++ up
+? check: Aramaic with no English: בְּכֵן · English with no Aramaic: went
+
+@ 49:5
+E: Shimon and Levi are brothers<b>, mighty men</b>.
+שִׁמְעוֹן = Shimon
+וְלֵוִי = and Levi
+אַחִין = are brothers
+גַּבְרִין = men
+גִּבָּרִין = mighty
+E: . <b>In the land of their residence they did mighty deeds.</b>
+בְּאַרַע = In the land
+תּוֹתָבוּתְהוֹן = 
+עֲבָדוּ = 
+גְבוּרָא = they did mighty deeds
++ of
++ their
++ residence
+? check: Aramaic with no English: תּוֹתָבוּתְהוֹן עֲבָדוּ · English with no Aramaic: residence
+
+@ 49:6
+E: My soul will not <b>was not in</b> their secret council,
+בְּרָזְהוֹן = will not was not in their secret council
+לָא = 
+הֲוַת = 
+נַפְשִׁי = My soul
+? check: Aramaic with no English: לָא הֲוַת · English with no Aramaic: -
+E: <b>when they gathered to go to war against Shechem I did not descend from my honor and join them</b>.
+בְּאִתְכַּנְּשֵׁהוֹן = when they gathered
+לִמְהַךְ = to go
+לָא = 
+נְחָתִית = I did not descend
+מִן = 
+יְקָרִי = from my honor
++ to
++ war
++ against
++ Shechem
++ and
++ join
++ them
+? check: Aramaic with no English: לָא מִן · English with no Aramaic: war against Shechem join
+E: For in their anger they killed a <b>”dead”</b> man,
+אֲרֵי = 
+בְרָגְזְהוֹן = For in their anger
+קְטָלוּ = they killed
+קְטוֹל = 
++ a
++ dead
++ man
+? check: Aramaic with no English: אֲרֵי קְטוֹל · English with no Aramaic: dead man
+E: and <b>demolished the enemy’s wall</b>.
+וּבִרְעוּתְהוֹן = 
+תַּרָעוּ = 
+שׁוּר = wall
+סַנְאָה = the enemy’s
++ and
++ demolished
+? check: Aramaic with no English: וּבִרְעוּתְהוֹן תַּרָעוּ · English with no Aramaic: demolished
+
+@ 49:8
+E: Yehudah, your <b>you confessed, and you were not ashamed. Your brothers will acknowledge you.</b>
+יְהוּדָה = Yehudah
+אַתְּ = 
+אוֹדֵיתָא = your you confessed
+וְלָא = 
+בְהֵיתְתָא = you were not ashamed
+בָּךְ = 
+יוֹדוּן = will acknowledge
+אַחָיךְ = Your brothers
++ and
++ you
+? check: Aramaic with no English: אַתְּ וְלָא בָּךְ · English with no Aramaic: -
+E: Your hand will be on the <b>overpower</b> your enemies. <b>Your haters will be dispersed. They will turn the back of their necks to you.</b>
+יְדָךְ = Your hand
+תִּתְקֵף = 
+עַל = will be on the overpower
+בַּעֲלֵי = 
+דְבָבָךְ = 
+יִתְבַּדְּרוּן = 
+סַנְאָךְ = your enemies
+יְהוֹן = 
+מְחַזְּרִין = They will turn the back
+קְדַל = of their necks
+קֳדָמָךְ = 
++ Your
++ haters
++ will
++ be
++ dispersed
++ to
++ you
+? check: Aramaic with no English: תִּתְקֵף בַּעֲלֵי דְבָבָךְ יִתְבַּדְּרוּן יְהוֹן קֳדָמָךְ · English with no Aramaic: haters dispersed
+E: Your father’s sons will <b>greet you first</b>.
+וִיהוֹן = 
+מְקַדְּמִין = will greet you first
+לְמִשְׁאַל = 
+בִּשְׁלָמָךְ = 
+בְּנֵי = sons
+אָבוּךְ = Your father’s
+? check: Aramaic with no English: וִיהוֹן לְמִשְׁאַל בִּשְׁלָמָךְ · English with no Aramaic: -
+
+@ 49:9
+E: . <b>He will be a ruler at the beginning, and at the end, a king will be anointed from the house of Yehudah.</b>
+שִׁלְטוֹן = He will be a ruler
+יְהֵי = 
+בְשֵׁרוּיָא = at the beginning
+וּבְסוֹפָא = and at the end
+יִתְרַבָּא = will be anointed
+מַלְכָּא = a king
+מִדְּבֵית = from the house
+יְהוּדָה = of Yehudah
+? check: Aramaic with no English: יְהֵי · English with no Aramaic: -
+E: You have risen. <b>For from the judgment of death, my son, you removed yourself.</b>
+אֲרֵי = 
+מִדִּין = For from the judgment
+קַטְלָא = of death
+בְּרִי = my son
+נַפְשָׁךְ = 
+סְלֶקְתָּא = You have risen
++ you
++ removed
++ yourself
+? check: Aramaic with no English: אֲרֵי נַפְשָׁךְ · English with no Aramaic: removed yourself
+E: He,, <b>He will rest and dwell in strength like a lion.</b>
+יְנוּחַ = He He will rest
+יִשְׁרֵי = dwell
+בִתְקוֹף = in strength
+כְּאַרְיָא = like a lion
++ and
+E: like an,? <b>there is no kingdom that can make him tremble.</b>
+וּכְלֵיתָא = like
+וְלֵית = 
+מַלְכוּ = an there is no kingdom
+דִתְזַעְזְעִנֵּיהּ = 
++ that
++ can
++ make
++ him
++ tremble
+? check: Aramaic with no English: וְלֵית דִתְזַעְזְעִנֵּיהּ · English with no Aramaic: make tremble
+
+@ 49:10
+E: The <b>of the ruler</b> will not <b>the house of</b> Yehudah,
+לָא = 
+יַעֲדֵי = 
+עָבֵד = 
+שָׁלְטַן = The of the ruler
+מִדְּבֵית = will not the house
+יְהוּדָה = of Yehudah
+? check: Aramaic with no English: לָא יַעֲדֵי עָבֵד · English with no Aramaic: -
+E: nor a <b>nor a scribe from his children’s children forever</b>,
+וְסַפְרָא = nor a nor a scribe
+מִבְּנֵי = from his children’s children
+בְנוֹהִי = 
+עַד = 
+עָלְמָא = 
++ forever
+? check: Aramaic with no English: בְנוֹהִי עַד עָלְמָא · English with no Aramaic: forever
+E: until <b>the Moshiach will come, for his is the kingship</b>,
+עַד = until
+דְּיֵיתֵי = will come
+מְשִׁיחָא = 
+דְּדִילֵיהּ = for his is the kingship
+הִיא = 
+מַלְכוּתָא = 
++ the
++ Moshiach
+? check: Aramaic with no English: מְשִׁיחָא הִיא מַלְכוּתָא · English with no Aramaic: Moshiach
+E: and to him shall be an <b>nations will listen</b>.
+וְלֵיהּ = 
+יִשְׁתַּמְּעוּן = 
+עַמְמַיָּא = to him shall be an nations
++ and
++ will
++ listen
+? check: Aramaic with no English: וְלֵיהּ יִשְׁתַּמְּעוּן · English with no Aramaic: listen
+
+@ 49:11
+E: He, <b>He will bring Israel from all around to his city, the nation who will build his Temple.</b>
+יַסְחַר = 
+יִשְׂרָאֵל = Israel
+לְקַרְתֵּיהּ = to his city
+עַמָּא = the nation
+יִבְנוּן = who will build
+הֵיכְלֵיהּ = his Temple
++ He
++ He
++ will
++ bring
++ from
++ all
++ around
+? check: Aramaic with no English: יַסְחַר · English with no Aramaic: bring around
+E: and his. <b>The righteous will congregate around the Moshiach, and those who engage in Torah will study with him.</b>
+יְהוֹן = 
+צַדִּיקַיָּא = his The righteous
+סְחוֹר = around
+סְחוֹר = 
+לֵיהּ = 
+וְעָבְדֵי = 
+אוֹרַיְתָא = in Torah
+בְּאוּלְפַן = will study
+עִמֵּיהּ = 
++ and
++ will
++ congregate
++ the
++ Moshiach
++ and
++ those
++ who
++ engage
++ with
++ him
+? check: Aramaic with no English: יְהוֹן סְחוֹר לֵיהּ וְעָבְדֵי עִמֵּיהּ · English with no Aramaic: congregate Moshiach engage
+E: He, <b>May his garments be of fine purple cloth,</b>
+יְהֵי = 
+אַרְגְּוָן = purple
+טַב = 
+לְבוּשׁוֹהִי = He May his garments
++ be
++ of
++ fine
++ cloth
+? check: Aramaic with no English: יְהֵי טַב · English with no Aramaic: fine cloth
+E: and his <b>and his clothes of fine wool colored in scarlet and other colors</b>.
+כְּסוּתֵיהּ = his clothes
+מֵילָא = of fine wool
+מֵילָא = 
+צְבַע = colored
+זְהוֹרִי = in scarlet
+וְצִבְעוֹנִין = colors
++ and
++ his
++ and
++ and
++ other
+? check: Aramaic with no English: מֵילָא · English with no Aramaic: other
+
+@ 49:12
+E: His, <b>His mountains will become red with his vineyards, / His winepresses will be flowing with wine,</b>
+יְסַמְּקוּן = red
+טוּרוֹהִי = His His mountains
+בְּכַרְמוֹהִי = with his vineyards
+יְטוּפוּן = will be flowing
+נַעֲווֹהִי = His winepresses
+בַּחֲמָר = with wine
++ will
++ become
+? check: Aramaic with no English: - · English with no Aramaic: become
+E: and his teeth are white [from an abundance of] <b>His valleys will appear white from the abundance of grain and sheep</b>.
+יְחַוְּרָן = are white
+בִּקְעֲתֵיהּ = of His valleys
+בְּעִיבוּר = of grain
+וּבְעֶדְרֵי = 
+עָנָא = sheep
++ and
++ his
++ teeth
++ from
++ an
++ abundance
++ will
++ appear
++ white
++ from
++ the
++ abundance
++ and
+? check: Aramaic with no English: וּבְעֶדְרֵי · English with no Aramaic: teeth abundance appear white abundance
+
+@ 49:13
+= same
+E: he will be a harbor for <b>conquer the borders with ships</b>; <b>he will consume the best of the sea</b>
+וְהוּא = 
+יְכַבֵּשׁ = for conquer
+מְחוֹזִין = he will be a harbor
+בִּסְפִינַן = with ships
+וְטוּב = the best
+יַמָּא = of the sea
+יֵיכוּל = 
++ the
++ borders
++ he
++ will
++ consume
+? check: Aramaic with no English: וְהוּא יֵיכוּל · English with no Aramaic: borders consume
+= same
+
+@ 49:14
+E: Yissachar is a <b>rich in property</b>,
+יִשָּׂשׂכָר = Yissachar
+עַתִּיר = is a rich
+בְּנִכְסִין = in property
+E: <b>and his inheritance is</b> between the borders.
+וְאַחֲסַנְתֵּיהּ = and his inheritance
+בֵּין = is between
+תְּחוּמַיָּא = the borders
+
+@ 49:15
+E: He saw that <b>his portion</b> is good,
+וַחֲזָא = He saw
+חוּלָקָא = that his portion
+אֲרֵי = 
+טַב = is good
+? check: Aramaic with no English: אֲרֵי · English with no Aramaic: -
+E: and that the land is <b>produces fruit</b>;
+וְיָת = 
+אַרְעָא = that the land
+אֲרֵי = 
+מְעַבְּדָא = is produces
+פֵירִין = fruit
++ and
+? check: Aramaic with no English: אֲרֵי · English with no Aramaic: -
+E: he <b>and he will conquer territories of peoples and destroy their inhabitants</b>;
+וִיכַבֵּשׁ = and he will conquer
+מָחוֹזֵי = 
+עַמְמַיָּא = of peoples
+וִישֵׁיצֵי = and destroy
+יָת = 
+דַּיָּרֵיהוֹן = their inhabitants
++ he
++ territories
+? check: Aramaic with no English: מָחוֹזֵי · English with no Aramaic: territories
+E: and <b>and those that remain will become workers to him and bring taxes</b>.
+וּדְאִשְׁתַּאֲרוּן = and those that remain
+בְּהוֹן = 
+יְהוֹן = will become
+לֵיהּ = 
+פַּלְחִין = workers
+וּמַסְּקֵי = and bring
+מַסִּין = taxes
++ and
++ to
++ him
+? check: Aramaic with no English: בְּהוֹן לֵיהּ · English with no Aramaic: -
+
+@ 49:16
+E: <b>From the house of Dan a man will be chosen and will arise, in his day his people will be delivered</b>,
+מִדְּבֵית = From the house
+דָּן = of Dan
+יִתְבְּחַר = will be chosen
+וִיקוּם = a man
+גַּבְרָא = 
+בְּיוֹמוֹהִי = in his day
+יִתְפְּרֵק = 
+עַמֵּיהּ = his people
++ and
++ will
++ arise
++ will
++ be
++ delivered
+? check: Aramaic with no English: גַּבְרָא יִתְפְּרֵק · English with no Aramaic: arise delivered
+E: as one of the <b>and in his years the tribes of Israel will rest together</b>.
+וּבִשְׁנוֹהִי = and in his years
+יְנוּחוּן = will rest
+כַּחֲדָא = together
+שִׁבְטַיָּא = the tribes
+דְיִשְׂרָאֵל = of Israel
++ as
++ one
++ of
++ the
+
+@ 49:17
+E: <b>The man that will be chosen and will arise from the house of Dan — his terror will fall upon the peoples, and his smiting will be strong against the Pelishtim. Like a viper he will lie on the way,</b>
+יְהֵי = 
+גַבְרָא = The man
+דְּיִתְבְּחַר = that will be chosen
+וִיקוּם = and will arise
+מִדְּבֵית = from the house
+דָּן = of Dan
+אֵימְתֵיהּ = his terror
+תִּתְרְמֵי = 
+עַל = 
+עַמְמַיָּא = upon the peoples
+וּמְחָתֵיהּ = will be strong
+תִּתְקֵף = 
+בִּפְלִשְׁתָּאֵי = the Pelishtim
+כְּחִיוֵי = Like
+חוּרְמָן = a viper
+יִשְׁרֵי = 
+עַל = 
+אָרְחָא = on the way
++ will
++ fall
++ and
++ his
++ smiting
++ against
++ he
++ will
++ lie
+? check: Aramaic with no English: יְהֵי תִּתְרְמֵי עַל תִּתְקֵף יִשְׁרֵי עַל · English with no Aramaic: fall smiting against lie
+E: a <b>and like an old snake he will ambush on the path</b>,
+וּכְפִתְנָא = and like
+יִכְמוֹן = 
+עַל = 
+שְׁבִילָא = on the path
++ a
++ an
++ old
++ snake
++ he
++ will
++ ambush
+? check: Aramaic with no English: יִכְמוֹן עַל · English with no Aramaic: old snake ambush
+E: that <b>He will kill the mighty of the camp of the Plishtim / the horsemen with the infantry / He will uproot the horses and chariots</b>
+יְקַטֵּל = that He will kill
+גִּבָּרֵי = the mighty
+מַשִּׁרְיַת = of the camp
+פְּלִשְׁתָּאֵי = 
+פָּרָשִׁין = the horsemen
+עִם = 
+רַגְלָאִין = 
+יְעַקֵּר = He will uproot
+סוּסָוָן = the horses
+וּרְתִכִּין = and chariots
++ of
++ the
++ Plishtim
++ with
++ the
++ infantry
+? check: Aramaic with no English: פְּלִשְׁתָּאֵי עִם רַגְלָאִין · English with no Aramaic: Plishtim infantry
+E: so that the <b>and he will cause their riders to fall backward</b>.
+וִימַגֵּר = 
+רוֹכְבֵיהוֹן = their riders
+לַאֲחוֹרָא = backward
++ so
++ that
++ the
++ and
++ he
++ will
++ cause
++ to
++ fall
+? check: Aramaic with no English: וִימַגֵּר · English with no Aramaic: cause fall
+
+@ 49:19
+E: <b>From the house of</b> Gad will be an <b>armed</b> troop<b>s will pass over the Jordan before their brothers to war</b>;
+מִדְּבֵית = From the house
+גָּד = of Gad
+מַשִּׁרְיַת = 
+מְזַיְּנִין = will be an armed
+כַּד = 
+יַעַבְרוּן = will pass
+יָת = 
+יַרְדְּנָא = the Jordan
+קֳדָם = before
+אֲחֵיהוֹן = their brothers
+לִקְרָבָא = to war
++ troops
++ over
+? check: Aramaic with no English: מַשִּׁרְיַת כַּד · English with no Aramaic: troops over
+E: he will be a <b>and they will return to their land with much property</b>.
+וּבְנִכְסִין = property
+סַגִּיאִין = with much
+יְתוּבוּן = they will return
+לְאַרְעֲהוֹן = to their land
++ he
++ will
++ be
++ a
++ and
+
+@ 49:20
+E: From <b>The land of Asher is good</b>,
+דְּאָשֵׁר = of Asher
+טָבָא = is good
+אַרְעֵיהּ = From The land
+E: he will <b>it produces</b> delicacies for the king.
+וְהוּא = 
+מְרַבְיָא = he will it produces
+בְּתַפְנוּקֵי = delicacies
+מַלְכִין = for the king
+? check: Aramaic with no English: וְהוּא · English with no Aramaic: -
+
+@ 49:21
+E: <b>The lot of Naftali will fall on a good land. His inheritance will yield fruit,</b>
+נַפְתָּלִי = of Naftali
+בְּאַרַע = land
+טָבָא = on a good
+יִתְרְמֵי = will fall
+עַדְבֵיהּ = The lot
+וְאַחֲסַנְתֵּיהּ = His inheritance
++ will
++ yield
++ fruit
+? check: Aramaic with no English: - · English with no Aramaic: yield fruit
+E: he <b>they will give thanks and blessings over them</b>.
+תְּהֵי = 
+מְעַבְּדָא = 
+פֵירִין = 
+יְהוֹן = 
+מוֹדַן = he they will give thanks
+וּמְבָרְכִין = and blessings
+עֲלֵיהוֹן = over
++ them
+? check: Aramaic with no English: תְּהֵי מְעַבְּדָא פֵירִין יְהוֹן · English with no Aramaic: -
+
+@ 49:22
+E: A, <b>Yoseif is a son who will increase,</b>
+בְּרִי = is a son
+דְיִסְגֵּי = 
+יוֹסֵף = A Yoseif
++ who
++ will
++ increase
+? check: Aramaic with no English: דְיִסְגֵּי · English with no Aramaic: increase
+E: a fruitful son at the well [source] <b>a son who will be blessed like a vine planted by a spring of water</b>.
+בְּרִי = son
+דְיִתְבָּרַךְ = who will be blessed
+כְּגֹפֶן = like a vine
+דִּנְצֵיב = planted
+עַל = 
+עֵינָא = by a spring
+דְמַיָּא = of water
++ a
++ fruitful
++ at
++ the
++ well
++ source
++ a
++ son
+? check: Aramaic with no English: עַל · English with no Aramaic: fruitful well source son
+E: . <b>Two tribes will emerge from his sons, they will receive a portion and an inheritance.</b>
+תְּרֵין = Two
+שִׁבְטִין = tribes
+יִפְּקוּן = 
+מִבְּנוֹהִי = from his sons
+יְקַבְּלוּן = they will receive
+חוּלָקָא = a portion
+וְאַחֲסַנְתָּא = and an inheritance
++ will
++ emerge
+? check: Aramaic with no English: יִפְּקוּן · English with no Aramaic: emerge
+
+@ 49:23
+E: They <b>they avenged themselves on him</b>.
+וְאִתְמַרְרוּ = 
+יָתֵיהּ = 
+וְנַקְּמוֹהִי = 
++ They
++ they
++ avenged
++ themselves
++ on
++ him
+? check: Aramaic with no English: וְאִתְמַרְרוּ יָתֵיהּ וְנַקְּמוֹהִי · English with no Aramaic: avenged themselves
+E: . <b>Mighty men, those who have half, afflicted him.</b>
+וְאָעִיקוּ = 
+לֵיהּ = 
+גֻּבְרִין = men
+גִּבָּרִין = Mighty
+בַּעֲלֵי = 
+פַלְגּוֹתָא = 
++ those
++ who
++ have
++ half
++ afflicted
++ him
+? check: Aramaic with no English: וְאָעִיקוּ לֵיהּ בַּעֲלֵי פַלְגּוֹתָא · English with no Aramaic: half afflicted
+
+@ 49:24
+E: His, <b>His prophecy was fulfilled in them, because he secretly kept the Torah. He placed his trust in the Almighty,</b>
+וְתָבַת = 
+בְּהוֹן = 
+נְבִיאוּתֵיהּ = His His prophecy
+עַל = 
+דְּקַיַּם = was fulfilled
+אוֹרַיְתָא = the Torah
+בְּסִתְרָא = he secretly
+וְשַׁוִּי = He placed
+בְתוּקְפָא = 
+רוֹחֲצָנֵיהּ = his trust
++ in
++ them
++ because
++ kept
++ in
++ the
++ Almighty
+? check: Aramaic with no English: וְתָבַת בְּהוֹן עַל בְתוּקְפָא · English with no Aramaic: because kept Almighty
+E: his, <b>therefore, gold was placed on his arms / and he inherited kingship and power.</b>
+בְּכֵן = his therefore
+יִתְרְמָא = was placed
+דְהַב = gold
+עַל = 
+דְּרָעוֹהִי = on his arms
+וְאַחֲסִין = and he inherited
+מַלְכוּתָא = kingship
+וּתְקֵיף = and power
+? check: Aramaic with no English: עַל · English with no Aramaic: -
+E: by the <b>This was for him from before the Mighty God of Yaakov</b>;
+דָּא = 
+הֲוַת = 
+לֵיהּ = 
+מִן = 
+קֳדָם = by the This was for him from before
+אֵל = God
+תַּקִּיפָא = the Mighty
+דְיַעֲקֹב = of Yaakov
+? check: Aramaic with no English: דָּא הֲוַת לֵיהּ מִן · English with no Aramaic: -
+E: from there he became the shepherd [the provider], <b>who by His Word sustained</b> the <b>the fathers and sons of the seed of Israel</b>.
+דִּי = 
+בְמֵימְרֵיהּ = who by His Word
+זַן = sustained
+אֲבָהָן = the the fathers
+וּבְנִין = and sons
+זַרְעָא = of the seed
+דְיִשְׂרָאֵל = of Israel
++ from
++ there
++ he
++ became
++ the
++ shepherd
++ the
++ provider
+? check: Aramaic with no English: דִּי · English with no Aramaic: became shepherd provider
+
+@ 49:25
+E: From the <b>The Word of the God</b> of your father and He will <b>will be your support</b>, and Shaddai Who will bless you
+מֵימַר = From the The Word of the God
+אֱלָהָא = 
+דְאָבוּךְ = of your father
+יְהֵי = 
+בְסַעְדָּךְ = He will will be your support
+וְיָת = 
+שַׁדַּי = Shaddai
+וִיבָרְכִנָּךְ = Who will bless
++ and
++ and
++ you
+? check: Aramaic with no English: אֱלָהָא יְהֵי · English with no Aramaic: -
+E: with the blessings of <b>that descend from the dew of the</b> heaven from above,
+בִּרְכַן = with the blessings
+דְּנַחֲתָן = 
+מִטַּלָּא = from the dew
+דִשְׁמַיָּא = of the heaven
+מִלְּעֵלָּא = from above
++ of
++ that
++ descend
+? check: Aramaic with no English: דְּנַחֲתָן · English with no Aramaic: descend
+E: blessings <b>that flow</b> of <b>from</b> the depths <b>of the earth</b> that lie below,
+בִּרְכַן = blessings
+דְּנַגְדַּן = that flow
+מִמַּעֲמַקֵּי = of from the depths
+אַרְעָא = of the earth
+מִלְּרָע = below
++ that
++ lie
+? check: Aramaic with no English: - · English with no Aramaic: lie
+E: blessings of <b>your father and your mother</b>.
+בִּרְכְּתָא = blessings
+דְאָבוּךְ = of your father
+וּדְאִמָּךְ = and your mother
+
+@ 49:26
+E: The blessings that <b>of</b> your father [received] are <b>will be in addition to</b> the blessings <b>with which</b> my forebears [received] <b>blessed me</b>
+בִּרְכְּתָא = The blessings
+דְאָבוּךְ = that of your father
+יִתּוֹסְפָן = 
+עַל = 
+בִּרְכְּתָא = to the blessings
+דִילִי = 
+בָּרִיכוּ = blessed
+אֲבָהָתַי = 
++ received
++ are
++ will
++ be
++ in
++ addition
++ with
++ which
++ my
++ forebears
++ received
++ me
+? check: Aramaic with no English: יִתּוֹסְפָן עַל דִילִי אֲבָהָתַי · English with no Aramaic: received addition forebears received
+E: <b>for which the righteous of the earth longed</b>;
+דַּחֲמִידוּ = longed
+לְהֶן = 
+רַבְרְבַיָּא = 
+דְּמִן = 
+עָלְמָא = 
++ for
++ which
++ the
++ righteous
++ of
++ the
++ earth
+? check: Aramaic with no English: לְהֶן רַבְרְבַיָּא דְּמִן עָלְמָא · English with no Aramaic: righteous earth
+E: they <b>all these</b> shall be on Yoseif’s head,
+יֶהֶוְיַן = 
+כָּל = 
+אִלֵּין = 
+לְרֵישָׁא = head
+דְיוֹסֵף = they all these shall be on Yoseif’s
+? check: Aramaic with no English: יֶהֶוְיַן כָּל אִלֵּין · English with no Aramaic: -
+E: on the <b>and on the man who was separated from his brothers</b>.
+וּלְגַבְרָא = and on the man
+פָּרִישָׁא = who was separated
+דַאֲחוֹהִי = from his brothers
++ on
++ the
+
+@ 49:27
+E: Binyamin is. <b>: the Shechina will dwell in his land, and in his inheritance the Temple will be built.</b>
+בִּנְיָמִין = Binyamin
+בְּאַרְעֵיהּ = in his land
+תִּשְׁרֵי = will dwell
+שְׁכִנְתָּא = is the Shechina
+וּבְאַחֲסַנְתֵּיהּ = and in his inheritance
+יִתְבְּנֵי = will be built
+מַקְדְּשָׁא = the Temple
+E: In the morning <b>and towards evening</b> he will, <b>the Cohanim will offer sacrifices,</b>
+בְּצַפְרָא = In the morning
+וּבְפַנְיָא = evening
+יְהוֹן = 
+מְקָרְבִין = will offer
+כַּהֲנַיָּא = 
+קָרְבָּנָא = sacrifices
++ and
++ towards
++ he
++ will
++ the
++ Cohanim
+? check: Aramaic with no English: יְהוֹן כַּהֲנַיָּא · English with no Aramaic: towards Cohanim
+E: and in the <b>and in the evening-time they will divide their left over share from other sacred things</b>.
+וּבְעִדַּן = time
+רַמְשָׁא = in the evening
+יְהוֹן = 
+מְפַלְּגִין = they will divide
+מוֹתַר = 
+חוּלְקְהוֹן = share
+מִשְּׁאַר = 
+קָדְשַׁיָּא = sacred
++ and
++ in
++ the
++ and
++ their
++ left
++ over
++ from
++ other
++ things
+? check: Aramaic with no English: יְהוֹן מוֹתַר מִשְּׁאַר · English with no Aramaic: left over other things

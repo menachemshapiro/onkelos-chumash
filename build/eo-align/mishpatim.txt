@@ -1,0 +1,361 @@
+# "As Onkelos reads it", parsha Mishpatim
+
+@ 21:2
+E: If you buy a Hebrew slave <b>who is a son of a Hebrew</b>,
+M: If | you buy | a Hebrew slave | who is a son of | a Hebrew
+
+@ 21:6
+E: His master must bring him <b>before</b> the judges.
+M: must bring him | His master | before | the judges
+= same
+= same
+= same
+E: He <b>will be a working servant for him,</b> forever.
+M: He will be | for him | a servant | working | forever
+
+@ 21:8
+E: If she is displeasing to her master, <b>for otherwise he would have designated</b> her as his wife, he must allow her to be redeemed.
+M: If | she is displeasing | to | her master | for otherwise he would have designated her | as his wife | he must allow her to be redeemed
+E: He has no power [right] to sell her to <b>another man</b> for he has <b>controlled</b> her.
+M: to man | another | He has no | ^ | power | to sell her | for he has controlled | her
++ right
+
+@ 21:9
+= same
+E: he must grant her exactly the same rights as daughters <b>of Yisrael</b>.
+M: exactly the same rights as | daughters | of Yisrael | he must grant | her
+
+@ 21:13
+= same
+E: but <b>from before</b> God <b>he was</b> brought to his hand,
+M: but from | before | God | he was brought | to his hand
+
+@ 21:16
+E: Whoever steals [kidnaps] a <b>person from B’nei Yisrael</b> and sells him, if he is found in his hand, he shall be put to death.
+M: Whoever steals | a person | from | B’nei | Yisrael | and sells him | if he is found | in his hand | he shall be | put to death
++ kidnaps
+
+@ 21:18
+= same
+= same
+= same
+E: and he [the victim] does not die but <b>falls to idleness</b>,
+M: and does not | die | but falls | to idleness
++ he the victim
+
+@ 21:19
+= same
+E: Still he must pay for his loss of work, and must pay <b>the doctor’s fee</b>.
+M: Still | for his loss of work | he must pay | and fee | the doctor’s | must pay
+
+@ 21:20
+E: If a man strikes his male or female slave with a rod,
+M: If | strikes | a man | - | his male | or | - | female slave | with a rod
+! Metsudah's bracket "power" is the literal meaning of בְּשָׁלְטָן; here it means a rod.
+= same
+E: [the death] must be <b>judged</b>.
+M: must be | judged
++ the death
+
+@ 21:21
+= same
+E: [his death] is not <b>judged</b>,
+M: is not | judged
++ his death
+
+@ 21:25
+= same
+= same
+E: [of] a <b>beating</b> for a <b>beating</b>.
+M: a beating | for | a beating
++ of
+
+@ 21:31
+E: Whether it is a son [a minor lad] <b>of Yisrael</b> that <b>the ox gores</b> or a daughter [a minor girl] <b>of Yisrael</b> that it gored,
+M: Whether | a son | of Yisrael | that gores | the ox | or | a daughter | of Yisrael | that it gored
++ it is
++ a minor lad
++ a minor girl
+
+@ 21:32
+= same
+E: he must give thirty silver <b>selaim</b> to their master,
+M: silver | thirty | selaim | he must give | to their master
+
+@ 22:2
+E: If <b>eyes of witnesses fell upon him</b>, there is liability for his blood.
+M: If | eyes | of witnesses | fell | upon him | his blood | there is liability for
+
+@ 22:3
+E: If the stolen article is found in his hand [possession], whether it is an ox, donkey or sheep <b>that is alive</b>,
+M: If | ^ | is found | in his hand | the stolen article | whether it is an ox | - | donkey | or | sheep | that | is | alive
++ possession
+
+@ 22:7
+= same
+= same
+E: [to swear] that he did not lay a hand on <b>that which his neighbor handed over to him</b>.
+M: that | not | he did lay | a hand | on | that which handed over | to him | his neighbor
++ to swear
+
+@ 22:8
+= same
+E: the claims of both parties must be brought <b>before</b> the judges.
+M: before | the judges | must be brought | the claims of | both parties
+
+@ 22:10
+= same
+E: that he [the watcher] did not lay his hand on <b>that which his neighbor handed over to him</b>.
+M: that | not | he did lay | his hand | on | that which handed over | to him | his neighbor
++ the watcher
+
+@ 22:12
+E: If it was torn apart [killed by wild beasts], he [the watcher] must provide witnesses <b>that it was torn apart</b>.
+M: If | ^ | it was torn apart | he must provide | witnesses
++ killed by wild beasts
++ the watcher
++ that it was torn apart
+! The doubled verb אִתְּבָרָא יִתְּבַר is read as "that it was torn apart".
+
+@ 22:15
+= same
+E: he must <b>establish</b> her as his wife.
+M: - | he must establish her | ^ | as his wife
+
+@ 22:19
+E: Whoever slaughters to <b>false gods of the peoples</b> must be condemned [to die].
+M: Whoever slaughters | to false gods of | the peoples | must be condemned
++ to die
+E: [Sacrifices may be offered] to <b>the Name of</b> Adonoy alone.
+M: - | to the Name of | Adonoy | alone
++ Sacrifices may be offered
+
+@ 22:22
+= same
+E: when he cries out <b>before</b> Me,
+M: - | when | ^ | he cries out | before Me
+E: I will indeed <b>accept</b> his cry.
+M: indeed | I will accept | his cry
+
+@ 22:24
+= same
+= same
+E: Do not place <b>an injury</b> upon him.
+M: Do not | place | upon him | an injury
+
+@ 22:26
+= same
+= same
+= same
+E: If it happens that he cries out <b>before</b> Me,
+M: If it happens | that | he cries out | before Me
+E: I will <b>accept</b> [his cry] for I am gracious.
+M: I will accept | his cry | for | gracious | I am
+
+@ 22:28
+= same
+E: The first-born of your sons, you shall <b>separate before</b> Me.
+M: The first-born | of your sons | you shall separate | before Me
+
+@ 22:29
+= same
+= same
+E: On the eighth day you must <b>separate it before</b> Me.
+M: On the day | eighth | you must separate it | before Me
+
+@ 22:30
+E: You shall be men of holiness <b>before</b> Me,
+M: men | of holiness | You shall be | before Me
+E: and you must not eat flesh that was torn off <b>from a living animal</b>.
+M: and flesh | that was torn off | from | animal | a living | not | you must eat
+
+@ 23:1
+= same
+E: Do not join hands with a wicked man to be <b>for him</b>
+M: Do not | join | hands | with | a wicked man | to be | for him
+E: a corrupt [false] witness.
+M: a witness | corrupt
++ false
+
+@ 23:2
+= same
+E: <b>Do not refrain from teaching what is proper in your eyes regarding a judgment</b>. It must be decided by the majority.
+M: Do not | refrain | from teaching | what is proper | in your eyes | regarding | a judgment | by the majority | ^ | It must be decided | ^
+
+@ 23:3
+E: Do not show favor [even] to the poor in his <b>judgment</b>.
+M: to | the poor | Do not | show favor | in his judgment
++ even
+
+@ 23:5
+= same
+E: and you might <b>stop yourself from abandoning</b> him,
+M: and you might stop yourself | from abandoning | him
+E: [you should] <b>abandon what is in your heart against him and unload with him</b>.
+M: abandon | ^ | what | is in your heart | against him | and unload | with him
++ you should
+
+@ 23:7
+= same
+E: Do not kill <b>one who is</b> innocent <b>or one who goes out innocent from judgment</b>,
+M: one who is innocent | or one who | goes out innocent | from | judgment | Do not | kill
+
+@ 23:8
+= same
+E: for bribery blinds the <b>eyes of the wise</b>,
+M: for | bribery | blinds | the eyes of | the wise
+
+@ 23:13
+= same
+E: Do not mention the name of <b>false</b> gods <b>of the peoples</b>.
+M: the name of | false gods | of the peoples | Do not | mention
+
+@ 23:14
+= same
+E: you are to celebrate <b>before</b> Me.
+M: you are to celebrate | before Me | -
+
+@ 23:15
+= same
+= same
+= same
+E: Do not appear <b>before Me</b> empty-handed.
+M: Do not | appear | before Me | empty-handed
+
+@ 23:17
+= same
+= same
+E: before the <b>Master of the world</b>, Adonoy.
+M: before the | Master | of the world | Adonoy
+
+@ 23:18
+= same
+E: You must not allow to remain overnight <b>off the Altar</b> — the fat<b>s</b> of <b>the</b> festival-offering — until morning.
+M: You must not | allow to remain overnight | off | ^ | the Altar | the fats of | the offering | festival- | until | morning
+
+@ 23:19
+= same
+E: must be brought to <b>the Sanctuary of</b> Adonoy, your God.
+M: must be brought | to | the Sanctuary of | Adonoy | your God
+E: You must not <b>eat meat with milk</b>.
+M: not | You must eat | meat | with milk
+
+@ 23:21
+E: Be careful in his presence and heed [obey] his <b>word</b>. Do not rebel against him;
+M: Be careful | in | his presence | and heed | his word | not | Do rebel | against him
++ obey
+= same
+E: <b>for His word is in</b> My Name.
+M: for | in My Name | His word is
+
+@ 23:22
+E: But if you truly listen to [obey] his <b>word</b>,
+M: But | if | truly | you listen to | his word
++ obey
+
+@ 23:24
+E: You must not prostrate yourself to their <b>false</b> gods, nor serve [sacrifice to] them.
+M: not | You must prostrate yourself | to their false gods | nor | serve them
++ sacrifice to
+
+@ 23:25
+E: You must serve <b>before</b> Adonoy, your God,
+M: You must serve | before | Adonoy | your God
+E: and He will bless your <b>food</b> and your <b>drink</b>.
+M: and He will bless | - | your food | and | your drink
+E: I will eliminate <b>bad</b> sickness from your midst.
+M: I will eliminate | sickness | bad | from your midst
+
+@ 23:27
+= same
+= same
+E: among whom you will come <b>to fight against</b>.
+M: among whom you | will come | to fight | against
+E: I will make all your enemies turn their backs <b>before</b> you.
+M: I will make | - | all | your enemies | ^ | before you | turn | their backs
+
+@ 23:32
+E: Do not make a pact with them or with their <b>false</b> gods.
+M: Do not | make | with them | or with their false gods | a pact
+
+@ 23:33
+= same
+E: since they may cause you to sin <b>before</b> Me;
+M: since | they may cause to sin | you | before Me
+E: that you [might] worship their <b>false</b> gods,
+M: that | you worship | - | their false gods
++ might
+
+@ 24:1
+E: He [God] had said to Moshe, ‘Go up <b>before</b> Adonoy, you, Aharon, Nadav, Avihu,
+M: to Moshe | He had said | Go up | before | Adonoy | you | Aharon | Nadav | Avihu
++ God
+
+@ 24:2
+E: Moshe alone shall approach <b>before</b> Adonoy,
+M: shall approach | Moshe | alone | before | Adonoy
+
+@ 24:4
+= same
+= same
+E: and built an altar <b>at the foot of</b> the mountain,
+M: and built | an altar | at the foot of | the mountain
+
+@ 24:5
+= same
+= same
+E: and sacrificed oxen as peace-offerings <b>before</b> Adonoy.
+M: and sacrificed | as peace- | offerings | before | Adonoy | oxen
+
+@ 24:7
+= same
+E: and read it <b>before</b> the people.
+M: and read it | before | the people
+E: They said, “All that Adonoy has spoken, we will do and we will <b>obey</b>.”
+M: They said | All | that | has spoken | Adonoy | we will do | and we will obey
+
+@ 24:8
+= same
+E: and cast it on the <b>Altar to atone on behalf of the</b> people,
+M: and cast it | on | the Altar | to atone | on behalf of | the people
+
+@ 24:10
+E: They saw [a vision of] the <b>Glory of the</b> God of Yisrael,
+M: They saw | - | the Glory of the | God | of Yisrael
++ a vision of
+E: and under <b>the throne of His Glory</b> [there was something] like a brickwork of <b>precious stone</b>,
+M: and under | the throne of | His Glory | like a brickwork of | stone | precious
++ there was something
+E: and it was like the <b>image</b> of heaven in purity.
+M: and it was like the image | of heaven | in purity
+
+@ 24:11
+= same
+E: <b>there was no damage</b>.
+M: no | there was | damage
+E: They <b>saw the Glory of</b> God,
+M: They saw | - | the Glory of | God
+E: and they <b>rejoiced in their sacrifices which were accepted graciously as if they</b> ate and drank.
+M: and they | rejoiced | in their sacrifices | which were accepted | graciously | as if they | ate | and drank
+
+@ 24:12
+E: Adonoy then said to Moshe, “Come up <b>before</b> Me to the mountain and remain there.
+M: then said | Adonoy | to Moshe | Come up | before Me | to the mountain | and remain | there
+
+@ 24:13
+= same
+E: but [only] Moshe went up to the mountain <b>upon which the Glory</b> of God <b>was revealed</b>.
+M: but went up | Moshe | to the mountain | upon which was revealed | ^ | the Glory | of God
++ only
+
+@ 24:14
+= same
+= same
+= same
+E: Whoever has a claim can approach <b>before</b> them.”
+M: Whoever | has | ^ | a claim | can approach | before them
+
+@ 24:17
+= same
+E: <b>the appearance of</b> a consuming flame at the top to the mountain;
+M: the appearance of | a flame | consuming | at the top | to the mountain

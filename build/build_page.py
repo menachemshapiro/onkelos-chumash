@@ -67,6 +67,7 @@ for o, r in zip(V, R): by.setdefault(o['pr'], ([], []))[0].append(o); by[o['pr']
 for pid, (vv, rr) in by.items():
     json.dump({'V': vv, 'R': rr}, open(SP + f'p/{pid}.json', 'w'), ensure_ascii=False, separators=(',', ':'))
     META[pid] = [vv[0]['c'], vv[0]['v'], vv[-1]['c'], vv[-1]['v']]
+import eo_merge; eo_merge.merge()   # English as Onkelos reads it (build/eo/), added to the parsha files
 src = src[:a] + 'const VERSES = [\n];' + src[b:]
 a = src.index('const RASHI = '); b = src.index('\n', a)
 src = src[:a] + 'const RASHI = [];' + src[b:]

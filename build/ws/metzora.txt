@@ -1,0 +1,231 @@
+@ 14:2
+ *1 T: דָּא=this · תְהֵי=shall be · אוֹרַיְתָא=the Torah · דִסְגִירָא=of the one afflicted with tzara'at  [4]
+    E: This shall be the law regarding the person with tzoraas [{’confinement’}]
+  2 T: בִּיוֹמָא דְדָכוּתֵיהּ
+    E: on the day of his purification,
+  3 T: וְיִתֵּתֵי לְוָת כַּהֲנָא
+    E: he shall be brought to the kohein.
+@ 14:3
+  1 T: וְיִפּוֹק כַּהֲנָא
+    E: The kohein shall go out
+  2 T: לְמִבָּרָא לְמַשְׁרִיתָא
+    E: beyond the encampment.
+  3 T: וְיֶחֱזֵי כַהֲנָא
+    E: The kohein shall see;
+ *4 T: וְהָא=and behold · אִתַּסִּי=it has healed · מַכְתַּשׁ=plague, blow · סְגִירוּתָא=the tzara'at · מִן=from · סְגִירָא=the one afflicted with tzara'at  [6]
+    E: and behold! the skin-eruption of tzoraas [{’confinement’}] has healed from the person with tzoraas [{’confinement’}].
+@ 14:4
+  1 T: וִיפַקֵּד כַּהֲנָא
+    E: The kohein shall command
+  2 T: וְיִסַּב לְמִדַּכֵּי תַּרְתֵּין צִפְּרִין חַיִּין דָּכְיָן
+    E: to take for the person undergoing purification two live, pure [kosher] birds,
+  3 T: וְאָעָא דְאַרְזָא
+    E: cedar wood,
+ *4 T: וּצְבַע=and dyed (lit. the dye of) · זְהוֹרִי=scarlet · וְאֵזוֹבָא=and hyssop  [3]
+    E: crimson [{colored}] thread and hyssop.
+@ 14:6
+  1 T: יָת צִפְּרָא חַיְתָא יִסַּב יָתַהּ
+    E: [As for] the living bird, he shall take it;
+ *2 T: וְיָת=and (marks the object) · אָעָא=wood · דְאַרְזָא=of cedar · וְיָת=and (marks the object) · צְבַע=dyed (lit. the dye of) · זְהוֹרִי=scarlet · וְיָת=and (marks the object) · אֵזוֹבָא=hyssop  [8]
+    E: and the cedar wood, the crimson [{colored}] thread and the hyssop
+  3 T: וְיִטְבּוֹל יָתְהוֹן וְיָת צִפְּרָא חַיְתָא בִּדְמָא דְּצִפְּרָא דִּנְכִיסָא
+    E: and immerse them and the live bird in the blood of the slaughtered bird,
+  4 T: עַל מֵי מַבּוּעַ
+    E: over the running water.
+@ 14:7
+ *1 T: וְיַדִּי=and he shall sprinkle · עַל=on, over · דְּמִדַּכֵּי=who is being purified · מִן=from · סְגִירוּתָא=the tzara'at · שְׁבַע=seven · זִמְנִין=times  [7]
+    E: He shall sprinkle on the person undergoing purification from the tzoraas [{’confinement’}], seven times
+  2 T: וִידַכִּנֵּיהּ וִישַׁלַּח יָת צִפְּרָא חַיְתָא עַל אַפֵּי חַקְלָא
+    E: and make him pure; and send the live bird into the open field.
+@ 14:12
+  1 T: וְיִסַּב כַּהֲנָא יָת אִמְּרָא חֲדָא וִיקָרֵב יָתֵיהּ לַאֲשָׁמָא וְיָת לֻגָּא דְמִשְׁחָא
+    E: The kohein shall take one lamb and bring it as a guilt-offering, and (with) the log of oil
+ *2 T: וִירִים=and he shall lift (them) up · יָתְהוֹן=them · אֲרָמָא=an uplifted (offering) · קֳדָם=before · יְיָ=Hashem  [5]
+    E: and wave [{lift}] them [{up}] as a wave-offering [{an uplifted offering}] before Adonoy.
+@ 14:14
+  1 T: וְיִסַּב כַּהֲנָא מִדְּמָא דַאֲשָׁמָא
+    E: The kohein shall take from the blood of the guilt-offering
+  2 T: וְיִתֵּן כַּהֲנָא
+    E: and the kohein shall put
+ *3 T: עַל=on, over · רוּם=the tip of (lit. height) · אוּדְנָא=the ear (of) · דְמִדַּכֵּי=who is being purified · דְּיַמִּינָא=of the right  [5]
+    E: it on the middle ridge [{upper part}] of the right ear of the person being purified,
+  4 T: וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא
+    E: and on the thumb of his right hand
+  5 T: וְעַל אִלְיוֹן רַגְלֵיהּ דְּיַמִּינָא
+    E: and on the big toe of his right foot.
+@ 14:17
+ *1 T: וּמִשְּׁאָר=and from the remnant of · מִשְׁחָא=oil · דִּי=that, which · עַל=on, over · יְדֵיהּ=his hand · יִתֵּן=will give, will put · כַּהֲנָא=the priest · עַל=on, over · רוּם=the tip of (lit. height) · אוּדְנָא=the ear (of) · דְּמִדַּכֵּי=who is being purified · דְּיַמִּינָא=of the right  [12]
+    E: From the remaining oil that is on his palm, the kohein shall put on the middle ridge [{upper part}] of the right ear of the person being purified,
+  2 T: וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא
+    E: and on the thumb of his right hand,
+  3 T: וְעַל אִלְיוֹן רַגְלֵיהּ דְּיַמִּינָא
+    E: and on the big toe of his right foot;
+  4 T: עַל דְּמָא דַאֲשָׁמָא
+    E: on [over] the blood of the guilt-offering.
+@ 14:21
+  1 T: וְאִם מִסְכֵּן הוּא וְלֵית יְדֵיהּ מַדְבְּקָא
+    E: If he is poor and his means are not sufficient,
+ *2 T: וְיִסַּב=and (he will) take · אִמַּר=a lamb · חַד=one · אֲשָׁמָא=a guilt offering · לַאֲרָמָא=to raise (it) · לְכַפָּרָא=to atone · עֲלוֹהִי=for him (lit. upon him)  [7]
+    E: he shall take one lamb as a guilt-offering, for a wave-offering [{an uplifted offering}] to atone for him
+  3 T: וְעִסְרוֹנָא סֻלְתָּא חַד דְּפִיל בִּמְשַׁח לְמִנְחָא וְלֻגָּא דְמִשְׁחָא
+    E: and one tenth fine flour mixed with oil, as a meal-offering and a log of oil.
+@ 14:24
+  1 T: וְיִסַּב כַּהֲנָא יָת אִמְּרָא דַאֲשָׁמָא וְיָת לֻגָּא דְמִשְׁחָא
+    E: The kohein shall take the guilt-offering sheep and the log of oil
+ *2 T: וִירִים=and he shall lift (wave) · יָתְהוֹן=them · כַּהֲנָא=the priest · אֲרָמָא=an uplifted (offering) · קֳדָם=before · יְיָ=Hashem  [6]
+    E: and the kohein shall wave [{lift}] them [{up}] as a wave-offering [{an uplifted offering}] before Adonoy.
+@ 14:25
+  1 T: וְיִכּוֹס יָת אִמְּרָא דַאֲשָׁמָא
+    E: He shall slaughter the guilt-offering lamb.
+  2 T: וְיִסַּב כַּהֲנָא מִדְּמָא דַאֲשָׁמָא
+    E: The kohein shall take some blood of the guilt-offering
+ *3 T: וְיִתֵּן=and he shall give (put) · עַל=on, over · רוּם=the tip of (lit. height) · אוּדְנָא=the ear (of) · דְמִדַּכֵּי=who is being purified · דְּיַמִּינָא=of the right  [6]
+    E: and put it on the middle ridge [{upper part}] of the right ear of the person undergoing purification,
+  4 T: וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא
+    E: and on the thumb of his right hand
+  5 T: וְעַל אִלְיוֹן רַגְלֵיהּ דְּיַמִּינָא
+    E: and the big toe of his right foot.
+@ 14:28
+ *1 T: וְיִתֵּן=and he shall give (put) · כַּהֲנָא=the priest · מִן=from · מִשְׁחָא=oil · דִּי=that, which · עַל=on, over · יְדֵיהּ=his hand · עַל=on, over · רוּם=the tip of (lit. height) · אוּדְנָא=the ear (of) · דְמִדַּכֵּי=who is being purified · דְּיַמִּינָא=of the right  [12]
+    E: The kohein shall put some of the oil that is on his palm, on the middle ridge [{upper part}] of the right ear of the person undergoing purification,
+  2 T: וְעַל אִלְיוֹן יְדֵיהּ דְּיַמִּינָא
+    E: and on the thumb of his right hand
+  3 T: וְעַל אִלְיוֹן רַגְלֵיהּ דְיַמִּינָא
+    E: and on the big toe of his right foot,
+  4 T: עַל אֲתַר דְּמָא דַאֲשָׁמָא
+    E: on the place of the blood of the guilt-offering.
+@ 14:32
+  1 T: דָּא אוֹרַיְתָא
+    E: This is the law
+ *2 T: דִּי=that, which · בֵיהּ=in it · מַכְתַּשׁ=plague, blow · סְגִירוּ=tzara'at  [4]
+    E: of whoever has the skin-eruption of tzoraas [{’confinement’}]
+  3 T: דִּי לָא תַדְבֵּק יְדֵיהּ בְּדָכוּתֵיהּ
+    E: whose means are not sufficient in his purification.
+@ 14:34
+  1 T: אֲרֵי תֵעֲלוּן לְאַרְעָא דִכְנַעַן
+    E: When you will come into the land of Canaan
+  2 T: דִּי אֲנָא יָהֵב לְכוֹן לְאַחֲסָנָא
+    E: that I will give to you for a possession,
+ *3 T: וְאֶתֵּן=and I will give · מַכְתַּשׁ=plague, blow · סְגִירוּ=tzara'at  [3]
+    E: and I shall put the eruption of tzoraas [{’confinement’}]
+  4 T: בְּבֵית אַרְעָא אַחֲסְנְתְּכוֹן
+    E: in the house of the land of your possession.
+@ 14:37
+  1 T: וְיֶחֱזֵי יָת מַכְתָּשָׁא וְהָא מַכְתָּשָׁא בְּכָתְלֵי בֵיתָא
+    E: He shall see the eruption and behold! The eruption is in the walls of the house;
+  2 T: פַּחֲתִין=depressions · יַרְקָן=an emerald (פִּטְדָה)  [2]
+    E: impressions, of greenest green
+ *3 T: אוֹ=or · סַמְקָן=a ruby (אֹדֶם)  [2]
+    E: or of reddest red [{green or red}]
+  4 T: וּמֶחֱזֵיהוֹן מַכִּיךְ מִן כָּתְלָא
+    E: and they appear to be lower than the [surface of] the wall.
+@ 14:39
+  1 T: וִיתוּב כַּהֲנָא בְּיוֹמָא שְׁבִיעָאָה
+    E: The kohein shall return on the seventh day
+ *2 T: וְיֶחֱזֵי=and he shall see · וְהָא=and behold · אוֹסִיף=(he did not) again · מַכְתָּשָׁא=the affliction · בְּכָתְלֵי=in the walls of · בֵיתָא=the house(hold)  [6]
+    E: and shall see; and behold! the eruption has spread [{increased}] in the walls of the house.
+@ 14:44
+  1 T: וְיֵיעוֹל כַּהֲנָא
+    E: the kohein shall come and see;
+ *2 T: וְיֶחֱזֵי=and he shall see · וְהָא=and behold · אוֹסֵף=I will (no longer) · מַכְתָּשָׁא=the affliction · בְּבֵיתָא=in the house(hold)  [5]
+    E: and behold! the eruption has spread [{increased}] in the house;
+ *3 T: סְגִירוּת=the tzara'at of · מְחַסְרָא=harmful · הִיא=she · בְּבֵיתָא=in the house(hold) · מְסָאָב=impure · הוּא=it  [6]
+    E: prickly tzoraas [{’confinement’ of loss}] is in the house, it is impure.
+@ 14:48
+ *1 T: וְאִם=and if · מֵעַל=from upon (off) · יֵיעוֹל=he shall come in · כַּהֲנָא=the priest · וְיֶחֱזֵי=and he shall see · וְהָא=and behold · לָא=not · אוֹסֵף=I will (no longer) · מַכְתָּשָׁא=the affliction · בְּבֵיתָא=in the house(hold)  [10]
+    E: If the kohein shall come and see; and behold! the eruption did not spread [{increase}] in the house
+  2 T: בָּתַר דְּאִתְּשַׁע יָת בֵּיתָא
+    E: after the house was plastered,
+  3 T: וִידַכֵּי כַהֲנָא יָת בֵּיתָא
+    E: the kohein shall pronounce the house [to be] pure,
+  4 T: אֲרֵי אִתַּסִּי מַכְתָּשָׁא
+    E: for the eruption has been healed.
+@ 14:49
+  1 T: וְיִסַּב לְדַכָּאָה יָת בֵּיתָא תַּרְתֵּין צִפְּרִין
+    E: He shall take, to purify the house, two birds,
+  2 T: וְאָעָא דְאַרְזָא
+    E: cedar wood,
+ *3 T: וּצְבַע=and dyed (lit. the dye of) · זְהוֹרִי=scarlet · וְאֵזוֹבָא=and hyssop  [3]
+    E: crimson [{colored}] thread and hyssop.
+@ 14:51
+ *1 T: וְיִסַּב=and (he will) take · יָת=(marks the object) · אָעָא=wood · דְאַרְזָא=of cedar · וְיָת=and (marks the object) · אֵזוֹבָא=hyssop · וְיָת=and (marks the object) · צְבַע=dyed (lit. the dye of) · זְהוֹרִי=scarlet · וְיָת=and (marks the object) · צִפֲּרָא=the bird · חַיְתָא=living  [12]
+    E: He shall take the cedar wood, the hyssop, the crimson [{colored}] thread and the live bird
+  2 T: וְיִטְבּוֹל יָתְהוֹן בִּדְמָא דְּצִפֲּרָא דִנְכִיסָא
+    E: and immerse them in the blood of the slaughtered bird
+  3 T: וּבְמֵי מַבּוּעַ
+    E: and in the running water,
+  4 T: וְיַדִּי לְבֵיתָא שְׁבַע זִמְנִין
+    E: and sprinkle the house seven times.
+@ 14:52
+  1 T: וִידַכֵּי יָת בֵּיתָא
+    E: He shall purify the house
+  2 T: בִּדְמָא דְּצִפֲּרָא
+    E: with the blood of the bird,
+  3 T: וּבְמֵי מַבּוּעַ
+    E: and with the running water,
+ *4 T: וּבְצִפֲּרָא=and with the bird · חַיְתָא=living · וּבְאָעָא=and in wood · דְאַרְזָא=of cedar · וּבְאֵזוֹבָא=and in hyssop · וּבִצְבַע=and in dyed (lit. the dye of) · זְהוֹרִי=scarlet  [7]
+    E: and with the live bird, the cedar wood, the hyssop and the crimson [{colored}] thread.
+@ 14:54
+  1 T: דָּא אוֹרַיְתָא
+    E: This is the law
+ *2 T: לְכָל=to all (of) · מַכְתַּשׁ=plague, blow · סְגִירוּתָא=the tzara'at · וּלְנִתְקָא=and for the bald spot  [4]
+    E: for all the eruptions of tzoraas [{’confinement’}] and for the nesek.
+@ 14:55
+ *1 T: וְלִסְגִירוּת=and for tzara'at · לְבוּשָׁא=the garment · וּלְבֵיתָא=and to the house(hold)  [3]
+    E: For tzoraas [{’confinement’}] of the garment and of the house.
+@ 14:56
+ *1 T: וּלְעַמְקָא=and for the (sunken) lesion · וּלְעַדְיָא=and for the scab · וּלְבַהֲרָא=and for the bright spot  [3]
+    E: For the spot [{deeply}] white as wool, for the spot that is nearly as white and for the spot white as snow.
+@ 14:57
+  1 T: לְאַלָּפָא בְּיוֹמָא מְסָאָבָא וּבְיוֹמָא דַכְיָא
+    E: To teach [the law] of the day of becoming impure and of the day of becoming pure;
+ *2 T: דָּא=this · אוֹרַיְתָא=the Torah · דִּסְגִירוּתָא=of tzara'at  [3]
+    E: this is the law of tzoraas [{’confinement’}].
+@ 15:19
+  1 T: וְאִתְּתָא אֲרֵי תְהֵי דָיְבָא
+    E: When a woman has a discharge
+  2 T: דָּם יְהֵי דוֹבַהּ בְּבִשְׂרַהּ
+    E: [and] the discharge will be blood in her body,
+ *3 T: שִׁבְעָא=seven · יוֹמִין=days · תְּהֵי=shall be · בְרִיחוּקַהּ=in her separation  [4]
+    E: for seven days she will be in [the state of] her menstrual impurity [{’separation’}].
+  4 T: וְכָל דְּיִקְרַב בַּהּ יְהֵי מְסָאָב עַד רַמְשָׁא
+    E: Anyone who touches her will be impure until the evening.
+@ 15:20
+ *1 T: וְכֹל=and all, every · דִּי=that, which · תִשְׁכּוּב=she lies · עֲלוֹהִי=for him (lit. upon him) · בְּרִחוּקַהּ=in her separation · יְהֵי=will be; let there be · מְסָאָב=impure  [7]
+    E: Everything that she sleeps on, during her menstrual impurity [{’separation’}], will become impure
+  2 T: וְכֹל דִּי תֵיתֵב עֲלוֹהִי יְהֵי מְסָאָב
+    E: and everything that she sits on will be impure.
+@ 15:24
+ *1 T: וְאִם=and if · מִשְׁכַּב=the bed of · יִשְׁכּוּב=he will lie · גְּבַר=a man · יָתַהּ=it · וּתְהֵי=and shall be · רִחוּקַהּ=her separation · עֲלוֹהִי=for him (lit. upon him)  [8]
+    E: If a man will lie conjugally with her, her menstrual impurity [{’separation’}] will be on him
+  2 T: וִיהֵי מְסָאָב שִׁבְעַת יוֹמִין
+    E: and he is impure for seven days.
+  3 T: וְכָל מִשְׁכְּבָא דִּי יִשְׁכּוּב עֲלוֹהִי יְהֵי מְסָאָב
+    E: Anything used for sleeping — if he should sleep on it — it will be impure.
+@ 15:25
+ *1 T: וְאִתְּתָא=and the woman · אֲרֵי=that · יְדוּב=(her blood) flows · דּוֹב=the discharge of · דְּמַהּ=her blood · יוֹמִין=days · סַגִּיאִין=many · בְּלָא=not in (the time of) · עִדַּן=a time · רִחוּקַהּ=her separation  [10]
+    E: When a woman discharges her blood-flow, many days outside her menstrual cycle [{period of ‘separation’}],
+ *2 T: אוֹ=or · אֲרֵי=that · תְדוּב=she has a discharge · עַל=on, over · רִחוּקַהּ=her separation  [5]
+    E: or if it flows after her menstrual cycle [{’separation’}],
+ *3 T: כָּל=every, all · יוֹמֵי=the days of · דּוֹב=the discharge of · סוֹבְתַהּ=her impurity · כְּיוֹמֵיהּ=like the days of (lit. its days) · רִחוּקַהּ=her separation · תְּהֵי=shall be · מְסָאֳבָא=impure · הִיא=she  [9]
+    E: all the days of her discharge-impurity shall be as her days of menstrual impurity [{’separation’}]; she is impure.
+@ 15:26
+  1 T: כָּל מִשְׁכְּבָא דִּי תִשְׁכּוּב עֲלוֹהִי כָּל יוֹמֵי דוֹבַהּ
+    E: Anything used for sleeping upon which she will lie [on] any of her discharge-impurity-days,
+ *2 T: כְּמִשְׁכַּב=like the bed of · רִחוּקַהּ=her separation · יְהֵי=will be; let there be · לַהּ=(to) her  [4]
+    E: as the bed of her menstrual impurity [{’separation’}] it shall be to her.
+  3 T: וְכָל מָנָא דִּי תֵתֵב עֲלוֹהִי
+    E: Every vessel upon which she sits
+  4 T: מְסָאָב יְהֵי
+    E: will be impure,
+ *5 T: כְּסוֹאֲבַת=like the impurity of · רִחוּקַהּ=her separation  [2]
+    E: just as [is] her menstrual-impurity [{the impurity of her ‘separation’}].
+@ 15:33
+ *1 T: וְלִדְסָאוּבְתָּא=and for her who is impure · בְּרִיחוּקַהּ=beyond her separation  [2]
+    E: For the menstruant [{woman who is impure}] during her period of separation
+  2 T: וְלִדְדָאִיב יָת דּוֹבֵיהּ
+    E: and for one who has a discharge
+  3 T: לִדְכַר וּלְנֻקְבָּא
+    E: for a male and for a female;
+  4 T: וְלִגְבַר דִּי יִשְׁכּוּב עִם מְסָאָבָא
+    E: and for the man that will lie conjugally with an impure woman.

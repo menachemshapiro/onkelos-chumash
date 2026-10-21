@@ -1,0 +1,144 @@
+@ 25:2
+  1 T: מַלֵּיל עִם בְּנֵי יִשְׂרָאֵל וְתֵימַר לְהוֹן
+    E: Speak to Bnei Yisroel and say to them,
+  2 T: אֲרֵי תֵעֲלוּן לְאַרְעָא
+    E: when you come to the land
+  3 T: דִּי אֲנָא יָהֵב לְכוֹן
+    E: which I give to you
+  4 T: וְתַשְׁמֵט אַרְעָא שְׁמִטְּתָא
+    E: the land shall be at rest —
+ *5 T: קֳדָם=before · יְיָ=Hashem  [2]
+    E: a Shabbos for [{rest before}] Adonoy.
+@ 25:4
+ *1 T: וּבְשַׁתָּא=and in the year · שְׁבִיעֲתָא=the seventh · נְיַח=a rest of · שְׁמִטְּתָא=a release (Sabbatical rest) · יְהֵי=will be; let there be · לְאַרְעָא=to the earth, the land  [6]
+    E: But the seventh year shall be a Shabbos of [{complete}] rest for the land,
+ *2 T: דְּתַשְׁמֵט=that (the land) shall rest · קֳדָם=before · יְיָ=Hashem  [3]
+    E: a Shabbos for [{rest before}] Adonoy,
+  3 T: חַקְלָךְ לָא תִזְרַע
+    E: you shall not plant your field
+  4 T: וְכַרְמָךְ לָא תִכְסָח
+    E: and you shall not prune your vineyard.
+@ 25:6
+ *1 T: וּתְהֵי=and shall be · שְׁמִטַּת=the release (Sabbatical produce) of · אַרְעָא=the earth, the land · לְכוֹן=to you, for you · לְמֵיכַל=to eat  [5]
+    E: The [produce] [{rest}] of the lands Shabbos[-year] [{land}] shall be for yourselves, for food,
+  2 T: לָךְ וּלְעַבְדָּךְ וּלְאַמְתָךְ
+    E: for you, your servant and your maidservant,
+  3 T: וְלַאֲגִירָךְ וּלְתוֹתָבָךְ
+    E: for your hired hand and your resident sojourner
+  4 T: דְּדָיְרִין עִמָּךְ
+    E: who reside with you.
+@ 25:8
+ *1 T: וְתִמְנֵי=and you shall count · לָךְ=(to) you · שְׁבַע=seven · שְׁמִטִּין=Sabbatical cycles (lit. releases) · דִּשְׁנִין=of years  [5]
+    E: You shall count for yourself seven sabbatical years [{of rest}],
+  2 T: שְׁבַע שְׁנִין שְׁבַע זִמְנִין
+    E: seven years, seven times
+ *3 T: וִיהוֹן=and (they) will be · לָךְ=(to) you · יוֹמֵי=the days of · שְׁבַע=seven · שְׁמִטִּין=Sabbatical cycles (lit. releases) · דִּשְׁנִין=of years  [6]
+    E: and it shall be for you, the days (period) of the seven sabbatical years [{of rest}],
+  4 T: אַרְבְּעִין וְתֵשַׁע שְׁנִין
+    E: forty-nine years.
+@ 25:9
+ *1 T: וְתַעֲבַר=and you shall sound (lit. pass round) · שׁוֹפַר=a shofar of · יַבָּבָא=(shofar) blasts · בְּיַרְחָא=in the month · שְׁבִיעָאָה=the seventh · בְּעַשְׂרָא=on the tenth (lit. on ten) · לְיַרְחָא=of the month  [7]
+    E: You shall make a proclamation [{crying}] with the shofor on the tenth day of the seventh month.
+  2 T: בְּיוֹמָא דְכִפּוּרַיָּא
+    E: On Yom Kippur
+  3 T: תַּעַבְּרוּן שׁוֹפָרָא בְּכָל אַרְעֲכוֹן
+    E: shall this shofor-proclamation be made. throughout all your land.
+@ 25:23
+  1 T: וְאַרְעָא לָא תִזְדַּבַּן לַחֲלוּטִין
+    E: The land shall not be sold in perpetuity,
+  2 T: אֲרֵי דִילִי אַרְעָא
+    E: for the land is Mine,
+ *3 T: אֲרֵי=that · דַיָּרִין=strangers · וְתוֹתָבִין=and residents · אַתּוּן=(are) you · קֳדָמַי=before Me  [5]
+    E: for, you are [merely as] foreigners [{foreign resident}] and resident aliens [{residents}] before Me.
+@ 25:29
+ *1 T: וּגְבַר=and a man · אֲרֵי=that · יְזַבֵּן=(a man) sells · בֵּית=the house of · מוֹתַב=a dwelling (house) of · קַרְתָּא=a city · מַקְּפָא=surrounded (with) · שׁוּר=the wall of  [8]
+    E: If a man shall sell a residential home [that is] within [{surrounded by}] a walled city,
+  2 T: וּתְהֵי פֻרְקָנֵיהּ
+    E: the time allotted for its redemption shall be
+  3 T: עַד מִשְׁלַם שַׁתָּא דִזְבִינוֹהִי
+    E: until the end of one year after he sold it.
+  4 T: עִדָּן בְּעִדָּן תְּהֵי פֻרְקָנֵיהּ
+    E: He has the days [of a full year] in which to redeem it.
+@ 25:31
+ *1 T: וּבָתֵּי=and the houses of · פַצְחַיָּא=the unwalled villages · דִּי=that, which · לֵית=there was no (one) · לְהוֹן=to them · שׁוּר=the wall of · מַקַּף=a border (lit. surrounding) of · סְחוֹר=around  [8]
+    E: The houses of open cities which are not surrounded by a [{an encircling}] wall
+  2 T: סְחוֹר עַל חֲקַל אַרְעָא יִתְחַשָּׁב
+    E: shall be considered as a field of the land.
+  3 T: פֻּרְקָנָא תְּהֵי לֵיהּ
+    E: It shall have a redemption
+  4 T: וּבְיוֹבֵלָא יִפּוֹק
+    E: and it is released by the jubilee.
+@ 25:35
+  1 T: וַאֲרֵי יִתְמַסְכַּן אָחוּךְ
+    E: If your brother becomes impoverished
+  2 T: וּתְמוּט יְדֵיהּ עִמָּךְ
+    E: and his hand (assets) become shaky among you,
+  3 T: וְתַתְקֵף בֵּיהּ
+    E: you must support him,
+ *4 T: דַּיַּר=a sojourner · וְתוֹתָב=and a resident · וִיחֵי=and live · עִמָּךְ=with you  [4]
+    E: [so too] the proselyte [{foreign resident}] and the sojourner, [so] that he shall live with you.
+@ 25:39
+  1 T: וַאֲרֵי יִתְמַסְכַּן אָחוּךְ עִמָּךְ וְיִזְדַּבַּן לָךְ
+    E: If your brother becomes impoverished and is sold to you,
+ *2 T: לָא=not · תִפְלַח=you work · בֵּיהּ=in it · פָּלְחַן=the labor of · עַבְדִּין=slaves  [5]
+    E: you must not work him like a slave [{slaves}].
+@ 25:43
+ *1 T: לָא=not · תִפְלַח=you work · בֵּיהּ=in it · בְּקַשְׁיוּ=harshly (lit. with hardness)  [4]
+    E: You must not rule over him [{make him work}] to crush him
+  2 T: וְתִדְחַל מֵאֱלָהָךְ
+    E: and you shall fear your God.
+@ 25:45
+ *1 T: וְאַף=and also · מִבְּנֵי=from the children of · תוֹתָבַיָּא=the residents · עָרְלַיָּא=the uncircumcised (non-Jewish residents) · דְּדָיְרִין=who dwell · עִמְּכוֹן=with you · מִנְּהוֹן=from them · תִּקְנוּן=you shall buy (lit. acquire)  [8]
+    E: Also, from the children of the [{uncircumcised}] sojourners who reside with you from them you may purchase [slaves],
+  2 T: וּמִזַּרְעִיתְהוֹן דְּעִמְּכוֹן
+    E: and from their families that live among you
+  3 T: דִּי אִתְיְלִידוּ בְּאַרְעֲכוֹן
+    E: that were born in your land.
+  4 T: וִיהוֹן לְכוֹן לְאַחֲסָנָא
+    E: [All these] shall be your permanent possession.
+@ 25:46
+  1 T: וְתַחְסְנוּן יָתְהוֹן לִבְנֵיכוֹן בַּתְרֵיכוֹן לִירוּתַת אַחֲסָנָא
+    E: You shall will them as inheritance to your children after you as hereditary property;
+  2 T: לְעָלָם בְּהוֹן תִּפְלְחוּן
+    E: you shall keep them in servitude permanently.
+  3 T: וּבְאַחֵיכוֹן בְּנֵי יִשְׂרָאֵל גְּבַר בַּאֲחוּהִי
+    E: However regarding your brethren, Bnei Yisroel, man over his brother,
+ *4 T: לָא=not · תִפְלַח=you work · בֵּיהּ=in it · בְּקַשְׁיוּ=harshly (lit. with hardness)  [4]
+    E: you must not rule over him [{make him work}] to crush him.
+@ 25:47
+ *1 T: וַאֲרֵי=and that · תַדְבֵּק=(his hand) reaches · יַד=the hand of · עָרֵל=an uncircumcised (man) · וְתוֹתָב=and a resident · עִמָּךְ=with you  [6]
+    E: If a foreigner [{an uncircumcised one}] or resident acquires means
+  2 T: וְיִתְמַסְכַּן אָחוּךְ עִמֵּיהּ
+    E: while your brother becomes impoverished by him,
+ *3 T: וְיִזְדַּבַּן=then he shall be sold · לְעָרֵל=to an uncircumcised (man) · תּוֹתָב=a resident · עִמָּךְ=with you  [4]
+    E: and is sold to a [{an uncircumcised}] resident foreigner who resides with you or
+ *4 T: אוֹ=or · לְאַרְמַי=to an idolater (lit. an Aramean; Hebrew: עֵקֶר) · זַרְעִית=the family of · גִּיּוֹרָא=a convert  [4]
+    E: to the offspring [{a non-Jew}] of a foreign [{proselyte}] family.
+@ 25:49
+ *1 T: אוֹ=or · אַח=the brother of · אֲבוּהִי=his father · אוֹ=or · בַר=has (lit. “son of”) · אַח=the brother of · אֲבוּהִי=his father · יִפְרְקִנֵּיהּ=shall redeem him  [8]
+    E: Either his uncle [{father’s brother}] or his uncles son [{the son of his father’s brother}] (cousin) shall redeem him
+  2 T: אוֹ מִקָּרִיב בִּשְׂרֵיהּ מִזַּרְעִיתֵיהּ יִפְרְקִנֵּיהּ
+    E: or the closest (other) family relative shall redeem him.
+  3 T: אוֹ דְתַדְבֵּק יְדֵיהּ וְיִתְפָּרָק
+    E: If he obtains sufficient means of his own he may be redeemed [on his own.]
+@ 25:53
+  1 T: כַּאֲגִיר שְׁנָא בִּשְׁנָא יְהֵי עִמֵּיהּ
+    E: As a hired hand [working] on a yearly basis shall he be considered with him;
+ *2 T: לָא=not · יִפְלַח=he shall serve · בֵּיהּ=in it · בְּקַשְׁיוּ=harshly (lit. with hardness) · לְעֵינָיךְ=before your eyes  [5]
+    E: he shall not rule over him [{make him work}] to crush him before your eyes.
+@ 26:1
+ *1 T: לָא=not · תַעְבְּדוּן=you (pl.) shall (not) do · לְכוֹן=to you, for you · טַעֲוָן=idols · וְצֶלֶם=and an image · וְקָמָא=and a pillar · לָא=not · תְקִימוּן=you shall set up · לְכוֹן=to you, for you  [9]
+    E: You shall not make [{false}] idols for yourselves and graven images and memorial stones you shall not raise up for yourselves,
+  2 T: וְאֶבֶן סָגְדָא לָא תִתְּנוּן בְּאַרְעֲכוֹן
+    E: and a prostration stone you shall not set in your land
+  3 T: לְמִסְגֻּד עֲלַהּ
+    E: upon which to prostrate oneself,
+  4 T: אֲרֵי אֲנָא יְיָ אֱלָהָכוֹן
+    E: for I am Adonoy, your God.
+@ 26:2
+ *1 T: יָת=(marks the object) · יוֹמֵי=the days of · שַׁבַּיָּא=My Sabbaths · דִילִי=mine · תִטְּרוּן=you (pl.) shall keep  [5]
+    E: You shall keep [{the days of}] My Shabbosos
+ *2 T: וּלְבֵית=and to the house of · מַקְדְּשִׁי=My Sanctuary · תְּהוֹן=you will be  [3]
+    E: and you shall fear (revere) [{the House of}] My Sanctuary,
+  3 T: דָּחֲלִין אֲנָא יְיָ
+    E: I am Adonoy.

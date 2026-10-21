@@ -1,0 +1,308 @@
+@ 13:19
+  1 T: וּמָא אַרְעָא דִּי הוּא יָתֵב בַּהּ
+    E: and how is the land in which they live,
+  2 T: הֲטָבָא הִיא אִם בִּישָׁא
+    E: is it good, or bad?
+  3 T: וּמָא קִרְוַיָּא דִּי הוּא יָתֵב בְּהוֹן
+    E: And how are the cities in which they reside;
+ *4 T: הַבְּפַצְחִין=in unwalled towns · אִם=if · בִּכְרַכִּין=in walled cities  [3]
+    E: are they open, or are they fortified [{walled-in}]?
+@ 13:22
+  1 T: וּסְלִיקוּ בִדְרוֹמָא וַאֲתָא עַד חֶבְרוֹן
+    E: They went up, into the southern part [of the land] and [he] came to Chevron;
+  2 T: וְתַמָּן אֲחִימָן שֵׁשַׁי וְתַלְמַי
+    E: and there, were Achiman, Sheshai and Talmai,
+ *3 T: בְּנֵי=the children of · גִּבָּרַיָּא=the mighty men  [2]
+    E: the offspring of the giant[{s}].
+  4 T: וְחֶבְרוֹן שְׁבַע שְׁנִין אִתְבְּנִיאַת
+    E: [The city of] Chevron was built seven years before
+ *5 T: קֳדָם=before · טָנַס=Tanis · דְּמִצְרָיִם=of Mitzrayim  [3]
+    E: the city of Tzo’an [{Tonas}] in Egypt.
+@ 13:26
+ *1 T: וַאֲזָלוּ=and (they) went · וַאֲתוֹ=and (they) came · לְוַת=to · משֶׁה=Moshe · וּלְוָת=and to · אַהֲרֹן=Aharon · וּלְוַת=and to · כָּל=every, all · כְּנִשְׁתָּא=the congregation · דִבְנֵי=of the children of · יִשְׂרָאֵל=Yisrael · לְמַדְבְּרָא=to the wilderness · דְפָארָן=of Paran · לִרְקָם=to Rekam  [14]
+    E: They went and came to Moshe and Aharon and to the entire congregation of Bnei Yisroel [that came] to the desert of Paran, in Kadeish [{to Rekom}].
+  2 T: וַאֲתִיבוּ יָתְהוֹן פִּתְגָּמָא וְיָת כָּל כְּנִשְׁתָּא
+    E: They brought word back to them, and to the entire congregation,
+  3 T: וְאַחֲזִיאֻנּוּן יָת אִבָּא דְאַרְעָא
+    E: and they showed them the fruit of the land.
+@ 13:28
+  1 T: לְחוֹד אֲרֵי תַקִּיף עַמָּא
+    E: However, the nation is mighty,
+  2 T: דְּיָתֵב בְּאַרְעָא
+    E: those who inhabit the land,
+  3 T: וְקִרְוַיָּא כְּרִיכַן רַבְרְבַן לַחֲדָא
+    E: and the cities are greatly fortified to the utmost,
+ *4 T: וְאַף=and also · בְּנֵי=the children of · גִבָּרַיָּא=the mighty men · חֲזֵינָא=we have seen · תַמָּן=there  [5]
+    E: and we also saw the offspring of the giant[{s}] over there.
+@ 13:32
+  1 T: וְאַפִּיקוּ שׁוּם בִּישׁ עַל אַרְעָא דִּי אַלִּילוּ יָתַהּ
+    E: They spread slander about the land that they had scouted,
+  2 T: לְוַת בְּנֵי יִשְׂרָאֵל
+    E: to Bnei Yisroel, saying:
+ *3 T: לְמֵימָר=saying (lit. “to say”) · אַרְעָא=the earth, the land · דִּי=that, which · עֲבַרְנָא=we passed through · בַהּ=in it · לְאַלָּלָא=to spy out · יָתַהּ=it · אַרְעָא=the earth, the land · מְקַטְּלַת=that kills · יַתְבָהָא=its inhabitants · הִיא=she  [11]
+    E: “The land through which we have passed to scout it, is a land which consumes [{slaughters}] its inhabitants;
+ *4 T: וְכָל=and all · עַמָּא=a people · דִּי=that, which · חֲזֵינָא=we have seen · בְגַוָּהּ=within it · אֱנָשִׁין=men · דְּמִשְׁחָן=of (great) size (lit. measures)  [7]
+    E: and every one of the people we saw in it, are men of dimensions [{stature}].
+@ 13:33
+ *1 T: וְתַמָּן=and there · חֲזֵינָא=we have seen · יָת=(marks the object) · גִּבָּרַיָּא=the mighty men · בְּנֵי=the children of · עֲנָק=Anak · מִן=from · גִּבָּרַיָּא=the mighty men  [8]
+    E: There we saw the giants, the sons of the giant [{Anok}], of the Nephilim [{giants}],
+ *2 T: וַהֲוֵינָא=and we were · בְּעֵינֵי=in the eyes of · נַפְשָׁנָא=our soul · כְּקַמְצִין=like grasshoppers  [4]
+    E: and we were like grasshoppers in our [{own}] eyes,
+  3 T: וְכֵן הֲוֵינָא בְּעֵינֵיהוֹן
+    E: and so we appeared in their eyes.”
+@ 14:8
+  1 T: אִם רַעֲוָא בָנָא קֳדָם יְיָ
+    E: If Adonoy desires us,
+  2 T: וְיָעֵל יָתָנָא לְאַרְעָא הָדָא
+    E: He will bring us into this land
+  3 T: וְיִתְּנִנַהּ לָנָא
+    E: and give it to us,
+ *4 T: אַרְעָא=the earth, the land · דִּי=that, which · הִיא=she · עָבְדָא=producing · חֲלַב=milk · וּדְבָשׁ=and honey  [6]
+    E: a land which flows with [{produces}] milk and honey.
+@ 14:9
+ *1 T: בְּרַם=but, only · בְּמֵימְרָא=in the Word of · דַיְיָ=of Hashem · לָא=not · תִמְרְדוּן=you shall rebel  [5]
+    E: However, do not rebel against [{the word of}] Adonoy
+  2 T: וְאַתּוּן לָא תִדְחֲלוּן מִן עַמָּא דְאַרְעָא
+    E: and you do not be afraid of the nation of the land,
+ *3 T: אֲרֵי=that · בִידָנָא=in our hands · מְסִירִין=handed over · אִנּוּן=(were) they  [4]
+    E: for they are [as] our bread [{delivered into our hands}],
+ *4 T: עֲדָא=passed · תָקְפְּהוֹן=their strength · מִנְּהוֹן=from them · וּמֵימְרָא=and the Word of · דַיְיָ=of Hashem · בְּסַעְדָּנָא=is with us (lit. in our support) · לָא=not · תִדְחֲלוּן=(do not) fear · מִנְּהוֹן=from them  [9]
+    E: their protection [{strength}] is removed from them, and [{the word of}] Adonoy is with [{supports}] us; do not be afraid of them.”
+@ 14:11
+  1 T: וַאֲמַר יְיָ לְמשֶׁה
+    E: Adonoy said to Moshe:
+ *2 T: עַד=until · אֵימָתַי=when · יְהוֹן=(they) will be; let there be · מְרַגְּזִין=(they) provoke · קֳדָמַי=before Me · עַמָּא=a people · הָדֵין=this  [7]
+    E: “Until where will this people provoke [{before}] Me,
+ *3 T: וְעַד=and until · אֵימָתַי=when · לָא=not · יְהֵימְנוּן=they will believe · בְּמֵימְרִי=in My Word  [5]
+    E: and how much longer will they have no faith in Me [{my word}],
+  4 T: בְּכֹל אָתַיָּא
+    E: despite all the signs
+  5 T: דִּי עֲבָדִית בֵּינֵיהוֹן
+    E: which I have done in their midst.
+@ 14:14
+  1 T: וְיֵמְרוּן לְיָתֵב אַרְעָא הָדָא
+    E: They will say concerning the inhabitants of this land,
+  2 T: דִּשְׁמָעוּ אֲרֵי אַתְּ יְיָ
+    E: they have heard that You, Adonoy,
+ *3 T: דִּשְׁכִנְתָּךְ=of Your Presence · שַׁרְיַת=dwells · בְּגוֹ=among (lit. in the midst of) · עַמָּא=a people · הָדֵין=this  [5]
+    E: are [{Your Shechinah dwells}] among this people,
+ *4 T: דִּי=that, which · בְעֵינֵיהוֹן=in their eyes · חֲזַן=(they) see · שְׁכִינַת=the Presence of · יְקָרָא=the Glory · דַיְיָ=of Hashem · וַעֲנָנָךְ=and Your cloud · מַטֵּל=shades · עִלָּוְהוֹן=over them  [9]
+    E: Who appears to them eye to eye (face to face) [{who have seen Your glorious Shechinah}], You, Adonoy; Your Cloud stands over them,
+ *5 T: וּבְעַמּוּדָא=and in the pillar of · דַעֲנָנָא=of clouds (lit. the cloud) · אַתְּ=(are) you · מְדַבַּר=led (lit. leading) · קֳדָמֵיהוֹן=before them · בִּימָמָא=by day  [6]
+    E: in a Pillar of Cloud You go before [{lead}] them daily
+  6 T: וּבְעַמּוּדָא דְאֶשָּׁתָא בְּלֵילְיָא
+    E: and in a Pillar of Fire, nightly.
+@ 14:15
+  1 T: וּתְקַטַּל יָת עַמָּא הָדֵין כְּגַבְרָא חָד
+    E: If You kill this nation like a single man,
+  2 T: וְיֵמְרוּן עַמְמַיָּא
+    E: the nations will say —
+ *3 T: דִּי=that, which · שְׁמָעוּ=they heard · יָת=(marks the object) · שְׁמַע=(he) heard · גְּבֻרְתָּךְ=Your might · לְמֵימָר=saying (lit. “to say”)  [6]
+    E: they who have heard of Your reputation [{the fame of Your power}] — as follows:
+@ 14:16
+  1 T: מִדְּלֵית יוּכְלָא קֳדָם יְיָ לְאָעָלָא יָת עַמָּא הָדֵין
+    E: “It is because of Adonoy’s inability to bring this people
+  2 T: לְאַרְעָא דִּי קַיֵּם לְהוֹן
+    E: into the land that He swore to them,
+ *3 T: וְקַטְּלִנוּן=and He killed them · בְּמַדְבְּרָא=in the wilderness  [2]
+    E: that he slaughtered [{killed}] them in the desert.”
+@ 14:17
+ *1 T: וּכְעַן=and now · סַגִּי=great · כְעַן=now (here: please) · חֵילָא=the power · קֳדָם=before · יְיָ=Hashem  [6]
+    E: Now, please, let my Master’s power be enhanced [{before Hashem}]
+  2 T: כְּמָא דְמַלֵּילְתָּא לְמֵימָר
+    E: as You spoke, saying;
+@ 14:18
+ *1 T: יְיָ=Hashem · מַרְחֵק=(who) puts far off (i.e. slow to) · רְגַז=anger · וּמַסְגֵּי=and abundant (lit. increasing) · לְמֶעְבַּד=to make · טַבְוָן=the good things  [6]
+    E: Adonoy, slow to [{distances}] anger and abounding in [{performing}] kindness,
+ *2 T: שָׁבֵק=forgiving · לַעֲוָיָן=iniquities · וְלִמְרוֹד=and rebellion · וּלְחוֹבִין=and to sins, guilt  [4]
+    E: forgiving iniquity, [{rebellion}] and transgression;
+ *3 T: סַלַּח=forgiving · לִדְתַיְבִין=to those who repent (lit. return) · לְאוֹרַיְתֵיהּ=to His Torah · וּדְלָא=and that not · תַיְבִין=repent (lit. return) · לָא=not · מְזַכֵּי=acquit  [7]
+    E: Who does not completely acquit [{pardoning those who return to His Torah, but to those who do not return, He does not acquit}],
+ *4 T: מַסְעַר=visiting (i.e. bringing to account) · חוֹבֵי=the sins of · אֲבָהָן=fathers · עַל=on, over · בְּנִין=children · מְרָדִין=rebellious  [6]
+    E: Who will visit the iniquities of the fathers upon their [{rebellious}] children,
+  5 T: עַל דַּר תְּלִיתָאֵי וְעַל דַּר רְבִיעָאֵי
+    E: to the third [generation] and to the fourth [generation.]
+@ 14:22
+  1 T: אֲרֵי כָל גֻּבְרַיָּא דַּחֲזוֹ יָת יְקָרִי וְיָת אַתְוָתַי
+    E: For, all the people who see My glory and My signs
+  2 T: דִּי עֲבָדִית בְּמִצְרַיִם וּבְמַדְבְּרָא
+    E: which I have done in Egypt and in the desert,
+ *3 T: וְנַסִּיאוּ=and they tested · קֳדָמַי=before Me · דְּנַן=these · עֲשַׂר=-teen · זִמְנִין=times  [5]
+    E: and they have tested [{before}] Me these ten times
+ *4 T: וְלָא=and not · קַבִּילוּ=(they) accepted · בְּמֵימְרִי=in My Word  [3]
+    E: and they have not listened to My voice [{word}].
+@ 14:23
+  1 T: אִם יֶחֱזוּן יָת אַרְעָא
+    E: If they will see the land
+  2 T: דִּי קַיֵּמִית לַאֲבָהַתְהוֹן
+    E: that I have sworn to their fathers;
+ *3 T: וְכָל=and all · דְּאַרְגִּיזוּ=who provoked · קֳדָמַי=before Me · לָא=not · יֶחֱזֻנַּהּ=shall see it  [5]
+    E: all those who angered [{before}] Me will not see it.
+@ 14:24
+  1 T: וְעַבְדִּי כָלֵב חֲלַף דַּהֲוָה רוּחַ אוֹחֲרִי עִמֵּיהּ
+    E: My servant Caleiv, because he possessed in him a different spirit,
+ *2 T: וְאַשְׁלֵם=and (seven days) were completed · בָּתַר=after · דַּחַלְתִּי=my god (lit. what I revere)  [3]
+    E: and followed Me fully [{in fear of Me}],
+  3 T: וְאַעְלִנֵּיהּ לְאַרְעָא דִּי עַל לְתַמָּן
+    E: I shall bring him into the land to which he came,
+  4 T: וּבְנוֹהִי יְתַרְכִנַּהּ
+    E: and his children will cast [its inhabitants] from it.
+@ 14:27
+  1 T: עַד אֵימָתַי לִכְנִשְׁתָּא בִישְׁתָא הָדָא
+    E: “Until when will this wicked congregation [exist],
+  2 T: דִּי אִנּוּן מִתְרַעֲמִין עֲלָי
+    E: those who provoke Me?
+ *3 T: יָת=(marks the object) · תֻּרְעֲמַת=the complaint of · בְּנֵי=the children of · יִשְׂרָאֵל=Yisrael · דִּי=that, which · אִנּוּן=(were) they · מִתְרַעֲמִין=are complaining · עֲלַי=upon me · שְׁמִיעַ=(it) has been heard · קֳדָמָי=before Me  [10]
+    E: The complaints of Bnei Yisroel, which they complain against Me, I have heard [{before Me}].
+@ 14:28
+  1 T: אֱמַר לְהוֹן קַיָּם אֲנָא אֲמַר יְיָ
+    E: Say to them: “As I live, says Adonoy,
+ *2 T: אִם=if · לָא=not · כְּמָא=as · דִי=that, which · מַלֶּלְתּוּן=you spoke · קֳדָמָי=before Me  [6]
+    E: if I do not [do to you] as you have spoken in My ears [{before Me}];
+  3 T: כֵּן אֶעְבֵּד לְכוֹן
+    E: so I shall do to you.
+@ 14:30
+  1 T: אִם אַתּוּן תֵּעֲלוּן לְאַרְעָא
+    E: Surely you shall [not] come into the land
+ *2 T: דִּי=that, which · קַיֵּמִית=I have sworn · בְּמֵימְרִי=in My Word  [3]
+    E: to which I raised My Hand [to swear] [{sworn by My word}]
+  3 T: לְאַשְׁרָאָה יָתְכוֹן בַּהּ
+    E: that I would cause you to live in it;
+  4 T: אֶלָּהֵן כָּלֵב בַּר יְפֻנֶּה
+    E: except for Caleiv the son of Yefuneh
+  5 T: וִיהוֹשֻׁעַ בַּר נוּן
+    E: and Yehoshua the son of Nun.
+@ 14:33
+ *1 T: וּבְנֵיכוֹן=and your children · יְהוֹן=(they) will be; let there be · מְאַחֲרִין=delayed (lingering) · בְּמַדְבְּרָא=in the wilderness · אַרְבְּעִין=forty · שְׁנִין=years  [6]
+    E: Your children, they shall be wanderers [{delayed}] in the desert for forty years,
+  2 T: וִיקַבְּלוּן יָת חוֹבֵיכוֹן
+    E: and they will bear [the burden of] your dissoluteness,
+  3 T: עַד דִּיסוּפוּן פִּגְרֵיכוֹן בְּמַדְבְּרָא
+    E: until the last of your corpses are in the desert.
+@ 14:34
+  1 T: בְּמִנְיַן יוֹמַיָּא דִּי אַלֶּלְתּוּן יָת אַרְעָא אַרְבְּעִין יוֹמִין
+    E: According to the number of days which you scouted the land; forty days, a day for a year,
+  2 T: יוֹמָא לְשַׁתָּא יוֹמָא לְשַׁתָּא תְּקַבְּלוּן יָת חוֹבֵיכוֹן
+    E: a day for a year you will bear the burden of your iniquity
+  3 T: אַרְבְּעִין שְׁנִין
+    E: forty years,
+ *4 T: וְתִדְּעוּן=and you shall know · יָת=(marks the object) · דְּאִתְרַעַמְתּוּן=that you complained · עֲלָי=against me  [4]
+    E: and you will know My displeasure [{that you have murmured against Me}].
+@ 14:35
+  1 T: אֲנָא=I (am) · יְיָ=Hashem · גְּזָרִית=I have made (a covenant) · בְּמֵימְרִי=in My Word  [4]
+    E: I am Adonoy;
+ *2 T: אִם=if · לָא=not · דָּא=this · אֶעְבֵּד=I will do · לְכָל=to all (of) · כְּנִשְׁתָּא=the congregation · בִישְׁתָא=evil, wild · הָדָא=this  [8]
+    E: I have spoken — [{decreed by My word}] — if I do not do this to this entire evil congregation
+  3 T: דְּאִזְדַּמְּנוּן עֲלָי
+    E: that are gathered against Me;
+  4 T: בְּמַדְבְּרָא הָדֵין יְסוּפוּן וְתַמָּן יְמוּתוּן
+    E: in this desert they shall be finished and there they shall die.”
+@ 14:41
+  1 T: וַאֲמַר משֶׁה
+    E: Moshe said:
+ *2 T: לְמָא=why · דְנַן=these · אַתּוּן=(are) you · עָבְרִין=(are you) transgressing · עַל=on, over · גְּזֵרַת=the decrees of · מֵימְרָא=the Word of · דַיְיָ=of Hashem  [8]
+    E: “Why are you now transgressing the word [{decree}] of Adonoy;
+  3 T: וְהִיא לָא תַצְלַח
+    E: it will not succeed.
+@ 14:43
+  1 T: אֲרֵי עֲמַלְקָאָה וּכְנַעֲנָאָה תַמָּן קֳדָמֵיכוֹן
+    E: For the Amaleki and the Cana’ani are there before you,
+  2 T: וְתִפְּלוּן בְּחַרְבָּא
+    E: and you will fall by the sword,
+ *3 T: אֲרֵי=that · עַל=on, over · כֵּן=so · תַּבְתּוּן=you have turned away · מִבָּתַר=from after · פָּלְחָנָא=labor · דַיְיָ=of Hashem  [7]
+    E: for, you turned from following [{the service of}] Adonoy,
+ *4 T: וְלָא=and not · יְהֵי=will be; let there be · מֵימְרָא=the Word of · דַיְיָ=of Hashem · בְּסַעְדְּכוֹן=with you (lit. in your support)  [5]
+    E: and [{the word of}] Adonoy will not be with you [{to your aid}].”
+@ 14:45
+  1 T: וּנְחַת עֲמַלְקָאָה וּכְנַעֲנָאָה
+    E: The Amaleki and the Cana’ani swooped down,
+  2 T: דְּיָתֵב בְּטוּרָא הַהוּא
+    E: they who were dwelling in that mountain,
+ *3 T: וּמְחֻנּוּן=and they struck them · וּטְרָדֻנּוּן=and drove them away · עַד=until · חָרְמָה=Chormah  [4]
+    E: and they smote and crushed [{pursued}] them until Chormah.
+@ 15:3
+ *1 T: וְתַעְבְּדוּן=and you shall offer (lit. make) · קֻרְבָּנָא=the offering · קֳדָם=before · יְיָ=Hashem · עֲלָתָא=a burnt offering · אוֹ=or · נִכְסַת=sacrifices (lit. slaughtered animals) of · קוּדְשַׁיָּא=the holies  [8]
+    E: When you make a fire-offering [{sacrifice}] to Adonoy, a burnt-offering or a sacrifice,
+  2 T: לְאַפְרָשָׁא נִדְרָא אוֹ בִנְדַבְתָּא
+    E: by verbalizing as a pledge or as a donation
+  3 T: אוֹ בְּמוֹעֲדֵיכוֹן
+    E: or on your festivals
+ *4 T: לְמֶעְבַּד=to make · לְאִתְקַבָּלָא=to be accepted · בְרַעֲוָא=in favour, acceptance · קֳדָם=before · יְיָ=Hashem  [5]
+    E: to provide a pleasing fragrance to [{to be accepted with pleasure before}] Adonoy,
+  5 T: מִן תּוֹרֵי אוֹ מִן עָנָא
+    E: from cattle or from sheep.
+@ 15:7
+  1 T: וְחַמְרָא לְנִסְכָּא תַּלְתּוּת הִינָא
+    E: Wine, for a wine-offering shall be one third of a hin.
+ *2 T: תְּקָרֵב=you shall bring near · לְאִתְקַבָּלָא=to be accepted · בְרַעֲוָא=in favour, acceptance · קֳדָם=before · יְיָ=Hashem  [5]
+    E: This is how you shall offer a pleasing fragrance to [{to be accepted with pleasure before}] Adonoy.
+@ 15:10
+  1 T: וְחַמְרָא תְּקָרֵב לְנִסְכָּא פַּלְגוּת הִינָא
+    E: You shall bring wine, for a wine-offering, one half of a hin,
+ *2 T: קֻרְבַּן=an offering of · דְּמִתְקַבֵּל=that is accepted · בְּרַעֲוָא=in favour, acceptance · קֳדָם=before · יְיָ=Hashem  [5]
+    E: a fire-offering of pleasing fragrance to [{which will be accepted with pleasure before}] Adonoy.
+@ 15:13
+  1 T: כָּל יַצִּיבָא יַעְבֵּד כְּדֵין יָת אִלֵּין
+    E: Each citizen shall do this as stated,
+ *2 T: לְקָרָבָא=to offer (lit. to bring near) · קֻרְבַּן=an offering of · דְּמִתְקַבֵּל=that is accepted · בְּרַעֲוָא=in favour, acceptance · קֳדָם=before · יְיָ=Hashem  [6]
+    E: to bring a fire-offering of pleasing fragrance to [{which will be accepted with pleasure before}] Adonoy.
+@ 15:14
+  1 T: וַאֲרֵי יִתְגַּיַּר עִמְּכוֹן גִּיּוֹרָא אוֹ דִי בֵינֵיכוֹן לְדָרֵיכוֹן
+    E: If a proselyte will live with you or among you, for all of your generations
+ *2 T: וְיַעְבֵּד=and he shall do (offer) · קֻרְבַּן=an offering of · דְּמִתְקַבֵּל=that is accepted · בַּרַעֲוָא=in favour, acceptance · קֳדָם=before · יְיָ=Hashem  [6]
+    E: and makes a fire-offering of pleasing fragrance to [{which will be accepted with pleasure before}] Adonoy,
+  3 T: כְּמָא דִי תַעְבְּדוּן כֵּן יַעְבֵּד
+    E: in the same fashion as you make it, so shall he make it.
+@ 15:19
+  1 T: וִיהֵי בְּמֵיכַלְכוֹן מִלַּחְמָא דְאַרְעָא
+    E: When you eat from the bread of the land
+ *2 T: תַּפְרְשׁוּן=you shall set apart · אַפְרָשׁוּתָא=the offering (lit. what is set apart) (תְּרוּמָה) · קֳדָם=before · יְיָ=Hashem  [4]
+    E: you shall separate a terumah for [{a separation before}] Adonoy.
+@ 15:21
+  1 T: מֵרֵישׁ אַצְוַתְכוֹן
+    E: Of the first portion of your doughs
+ *2 T: תִּתְּנוּן=you will give · קֳדָם=before · יְיָ=Hashem · אַפְרָשׁוּתָא=the offering (lit. what is set apart) (תְּרוּמָה)  [4]
+    E: you shall give to [{before}] Adonoy as a terumah- offering,
+  3 T: לְדָרֵיכוֹן
+    E: throughout your generations.”
+@ 15:24
+  1 T: וִיהֵי אִם מֵעֵינֵי כְנִשְׁתָּא אִתְעֲבֵדַת לְשָׁלוּ
+    E: If it was obscured from the eyes of the congregation, having been done in error,
+ *2 T: וְיַעְבְּדוּן=and do (business) · כָּל=every, all · כְּנִשְׁתָּא=the congregation · תּוֹר=an ox · בַּר=has (lit. “son of”) · תּוֹרֵי=(of) cattle · חַד=one · לַעֲלָתָא=as a burnt offering · לְאִתְקַבָּלָא=to be accepted · בְרַעֲוָא=in favour, acceptance · קֳדָם=before · יְיָ=Hashem  [12]
+    E: then the entire congregation shall offer one young bullock as a burnt-offering for a pleasing fragrance to [{to be accepted with pleasure before}] Adonoy.
+  3 T: וּמִנְחָתֵיהּ וְנִסְכֵּיהּ כִּדְחָזֵי
+    E: Its meal-offering and its wine-offering are according to its law,
+  4 T: וּצְפִיר בַּר עִזֵּי חַד לְחַטָּאתָא
+    E: and one he-goat, as a sin-offering.
+@ 15:30
+ *1 T: וֶאֱנַשׁ=and each person (lit. a man) · דְּיַעְבֵּד=who acts · בְּרֵישׁ=at the head of · גְּלִי=(it is) revealed · מִן=from · יַצִּיבַיָּא=the natives · וּמִן=and from · גִּיּוֹרַיָּא=the converts  [8]
+    E: A person who commits a sin high-handedly [{publicly}] among the citizens or among the proselytes,
+ *2 T: קֳדָם=before · יְיָ=Hashem · הוּא=it · מַרְגֵּז=provokes  [4]
+    E: blasphemes [{provokes before}] Adonoy;
+  3 T: וְיִשְׁתֵּצֵי אֲנָשָׁא הַהִיא מִגּוֹ עַמֵּיהּ
+    E: the soul of that person shall be cut off from among its people.
+@ 15:34
+ *1 T: וְאַסְּרוּ=and they put (him) (lit. bound) · יָתֵיהּ=him · בְּבֵית=in the house of · מַטְּרָא=custody  [4]
+    E: They placed [{bound}] him under guard
+  2 T: אֲרֵי לָא אִתְפְּרַשׁ
+    E: since it was not specified,
+  3 T: לְהוֹן מָה דְיַעְבְּדוּן לֵיהּ
+    E: what was to be done to him.
+@ 15:39
+  1 T: וִיהוֹן לְכוֹן לִכְרוּסְפְּדִין
+    E: And it will be to you for fringes
+  2 T: וְתֶחֱזוּן יָתֵיהּ וְתִדְכְּרוּן יָת כָּל פִּקּוּדַיָּא דַיְיָ
+    E: and you will look upon it and you will remember all of Adonoy’s commandments
+  3 T: וְתַעְבְּדוּן יָתְהוֹן
+    E: and you will perform them;
+ *4 T: וְלָא=and not · תִטְּעוּן=you shall stray · בָּתַר=after · הִרְהוּר=the thoughts of · לִבְּכוֹן=your heart · וּבָתַר=and after · חֵיזוּ=appearance · עֵינֵיכוֹן=your eyes  [8]
+    E: and you will not search [{stray}] after [the desire of] your hearts and after [{the sight}] your eyes
+  5 T: דִּי אַתּוּן טָעַן בַּתְרֵיהוֹן
+    E: which cause you to go astray.
+@ 15:40
+  1 T: בְּדִיל דְּתִדְכְּרוּן
+    E: In order that you will remember
+  2 T: וְתַעְבְּדוּן יָת כָּל פִּקּוֹדָי
+    E: and perform all My commandments;
+ *3 T: וּתְהוֹן=and you (pl.) will be · קַדִּישִׁין=holy · קֳדָם=before · אֱלָהָכוֹן=your God  [4]
+    E: and you will be holy unto [{before}] your God.

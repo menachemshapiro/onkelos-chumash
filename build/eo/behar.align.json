@@ -1,0 +1,752 @@
+{
+ "25:2": [
+  null,
+  null,
+  null,
+  null,
+  {
+   "map": [
+    [
+     "קֳדָם",
+     "before"
+    ],
+    [
+     "יְיָ",
+     "Adonoy"
+    ]
+   ],
+   "plus": [
+    "a Shabbos"
+   ],
+   "notes": []
+  }
+ ],
+ "25:4": [
+  {
+   "map": [
+    [
+     "וּבְשַׁתָּא",
+     "But the … year"
+    ],
+    [
+     "שְׁבִיעֲתָא",
+     "seventh"
+    ],
+    [
+     "נְיַח",
+     "a complete"
+    ],
+    [
+     "שְׁמִטְּתָא",
+     "rest"
+    ],
+    [
+     "יְהֵי",
+     "shall be"
+    ],
+    [
+     "לְאַרְעָא",
+     "for the land"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "דְּתַשְׁמֵט",
+     "a rest"
+    ],
+    [
+     "קֳדָם",
+     "before"
+    ],
+    [
+     "יְיָ",
+     "Adonoy"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "25:6": [
+  {
+   "map": [
+    [
+     "וּתְהֵי",
+     "The … shall be"
+    ],
+    [
+     "שְׁמִטַּת",
+     "of the rest"
+    ],
+    [
+     "אַרְעָא",
+     "of the land"
+    ],
+    [
+     "לְכוֹן",
+     "for yourselves"
+    ],
+    [
+     "לְמֵיכַל",
+     "for food"
+    ]
+   ],
+   "plus": [
+    "produce"
+   ],
+   "notes": []
+  },
+  null,
+  null,
+  null
+ ],
+ "25:8": [
+  {
+   "map": [
+    [
+     "וְתִמְנֵי",
+     "You shall count"
+    ],
+    [
+     "לָךְ",
+     "for yourself"
+    ],
+    [
+     "שְׁבַע",
+     "seven"
+    ],
+    [
+     "שְׁמִטִּין",
+     "rests"
+    ],
+    [
+     "דִּשְׁנִין",
+     "of years"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "וִיהוֹן",
+     "and it shall be"
+    ],
+    [
+     "לָךְ",
+     "for you"
+    ],
+    [
+     "יוֹמֵי",
+     "the days"
+    ],
+    [
+     "שְׁבַע",
+     "of the seven"
+    ],
+    [
+     "שְׁמִטִּין",
+     "rests"
+    ],
+    [
+     "דִּשְׁנִין",
+     "of years"
+    ]
+   ],
+   "plus": [
+    "period"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "25:9": [
+  {
+   "map": [
+    [
+     "וְתַעֲבַר",
+     "You shall sound"
+    ],
+    [
+     "שׁוֹפַר",
+     "the shofor"
+    ],
+    [
+     "יַבָּבָא",
+     "of crying"
+    ],
+    [
+     "בְּיַרְחָא",
+     "month"
+    ],
+    [
+     "שְׁבִיעָאָה",
+     "the seventh"
+    ],
+    [
+     "בְּעַשְׂרָא",
+     "on the tenth day"
+    ],
+    [
+     "לְיַרְחָא",
+     "of"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "25:23": [
+  null,
+  null,
+  {
+   "map": [
+    [
+     "אֲרֵי",
+     "for"
+    ],
+    [
+     "דַיָּרִין",
+     "foreign residents"
+    ],
+    [
+     "וְתוֹתָבִין",
+     "and residents"
+    ],
+    [
+     "אַתּוּן",
+     "you are"
+    ],
+    [
+     "קֳדָמַי",
+     "before Me"
+    ]
+   ],
+   "plus": [
+    "merely as"
+   ],
+   "notes": []
+  }
+ ],
+ "25:29": [
+  {
+   "map": [
+    [
+     "וּגְבַר",
+     "a man"
+    ],
+    [
+     "אֲרֵי",
+     "If"
+    ],
+    [
+     "יְזַבֵּן",
+     "shall sell"
+    ],
+    [
+     "בֵּית",
+     "home"
+    ],
+    [
+     "מוֹתַב",
+     "a residential"
+    ],
+    [
+     "קַרְתָּא",
+     "within a city"
+    ],
+    [
+     "מַקְּפָא",
+     "surrounded by"
+    ],
+    [
+     "שׁוּר",
+     "a wall"
+    ]
+   ],
+   "plus": [
+    "that is"
+   ],
+   "notes": []
+  },
+  null,
+  null,
+  null
+ ],
+ "25:31": [
+  {
+   "map": [
+    [
+     "וּבָתֵּי",
+     "The houses of"
+    ],
+    [
+     "פַצְחַיָּא",
+     "open cities"
+    ],
+    [
+     "דִּי",
+     "which"
+    ],
+    [
+     "לֵית",
+     "are not"
+    ],
+    [
+     "לְהוֹן",
+     ""
+    ],
+    [
+     "שׁוּר",
+     "wall"
+    ],
+    [
+     "מַקַּף",
+     "surrounded by"
+    ],
+    [
+     "סְחוֹר",
+     "an encircling"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null,
+  null
+ ],
+ "25:35": [
+  null,
+  null,
+  null,
+  {
+   "map": [
+    [
+     "דַּיַּר",
+     "the foreign resident"
+    ],
+    [
+     "וְתוֹתָב",
+     "and the sojourner"
+    ],
+    [
+     "וִיחֵי",
+     "that he shall live"
+    ],
+    [
+     "עִמָּךְ",
+     "with you"
+    ]
+   ],
+   "plus": [
+    "so too",
+    "so"
+   ],
+   "notes": []
+  }
+ ],
+ "25:39": [
+  null,
+  {
+   "map": [
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "תִפְלַח",
+     "you must work"
+    ],
+    [
+     "בֵּיהּ",
+     "him"
+    ],
+    [
+     "פָּלְחַן",
+     "like"
+    ],
+    [
+     "עַבְדִּין",
+     "slaves"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  }
+ ],
+ "25:43": [
+  {
+   "map": [
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "תִפְלַח",
+     "You must make … work"
+    ],
+    [
+     "בֵּיהּ",
+     "him"
+    ],
+    [
+     "בְּקַשְׁיוּ",
+     "to crush him"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null
+ ],
+ "25:45": [
+  {
+   "map": [
+    [
+     "וְאַף",
+     "Also"
+    ],
+    [
+     "מִבְּנֵי",
+     "from the children of"
+    ],
+    [
+     "תוֹתָבַיָּא",
+     "the sojourners"
+    ],
+    [
+     "עָרְלַיָּא",
+     "uncircumcised"
+    ],
+    [
+     "דְּדָיְרִין",
+     "who reside"
+    ],
+    [
+     "עִמְּכוֹן",
+     "with you"
+    ],
+    [
+     "מִנְּהוֹן",
+     "from them"
+    ],
+    [
+     "תִּקְנוּן",
+     "you may purchase"
+    ]
+   ],
+   "plus": [
+    "slaves"
+   ],
+   "notes": []
+  },
+  null,
+  null,
+  null
+ ],
+ "25:46": [
+  null,
+  null,
+  null,
+  {
+   "map": [
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "תִפְלַח",
+     "you must make … work"
+    ],
+    [
+     "בֵּיהּ",
+     "him"
+    ],
+    [
+     "בְּקַשְׁיוּ",
+     "to crush him"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  }
+ ],
+ "25:47": [
+  {
+   "map": [
+    [
+     "וַאֲרֵי",
+     "If"
+    ],
+    [
+     "תַדְבֵּק",
+     "acquires"
+    ],
+    [
+     "יַד",
+     "means"
+    ],
+    [
+     "עָרֵל",
+     "an uncircumcised one"
+    ],
+    [
+     "וְתוֹתָב",
+     "or resident"
+    ],
+    [
+     "עִמָּךְ",
+     "with you"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "וְיִזְדַּבַּן",
+     "and is sold"
+    ],
+    [
+     "לְעָרֵל",
+     "to an uncircumcised"
+    ],
+    [
+     "תּוֹתָב",
+     "resident"
+    ],
+    [
+     "עִמָּךְ",
+     "who resides with you"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "לְאַרְמַי",
+     "to a non-Jew"
+    ],
+    [
+     "זַרְעִית",
+     "of a … family"
+    ],
+    [
+     "גִּיּוֹרָא",
+     "proselyte"
+    ]
+   ],
+   "plus": [],
+   "notes": [
+    "\"or\" (אוֹ) is moved to the line where its Aramaic is."
+   ]
+  }
+ ],
+ "25:49": [
+  {
+   "map": [
+    [
+     "אוֹ",
+     "Either"
+    ],
+    [
+     "אַח",
+     "brother"
+    ],
+    [
+     "אֲבוּהִי",
+     "his father’s"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בַר",
+     "the son of"
+    ],
+    [
+     "אַח",
+     "brother"
+    ],
+    [
+     "אֲבוּהִי",
+     "his father’s"
+    ],
+    [
+     "יִפְרְקִנֵּיהּ",
+     "shall redeem him"
+    ]
+   ],
+   "plus": [
+    "cousin"
+   ],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "25:53": [
+  null,
+  {
+   "map": [
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "יִפְלַח",
+     "he shall make … work"
+    ],
+    [
+     "בֵּיהּ",
+     "him"
+    ],
+    [
+     "בְּקַשְׁיוּ",
+     "to crush him"
+    ],
+    [
+     "לְעֵינָיךְ",
+     "before your eyes"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  }
+ ],
+ "26:1": [
+  {
+   "map": [
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "תַעְבְּדוּן",
+     "You shall make"
+    ],
+    [
+     "לְכוֹן",
+     "for yourselves"
+    ],
+    [
+     "טַעֲוָן",
+     "false idols"
+    ],
+    [
+     "וְצֶלֶם",
+     "and graven images"
+    ],
+    [
+     "וְקָמָא",
+     "and memorial stones"
+    ],
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "תְקִימוּן",
+     "you shall raise up"
+    ],
+    [
+     "לְכוֹן",
+     "for yourselves"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null,
+  null
+ ],
+ "26:2": [
+  {
+   "map": [
+    [
+     "יָת",
+     ""
+    ],
+    [
+     "יוֹמֵי",
+     "the days of"
+    ],
+    [
+     "שַׁבַּיָּא",
+     "Shabbosos"
+    ],
+    [
+     "דִילִי",
+     "My"
+    ],
+    [
+     "תִטְּרוּן",
+     "You shall keep"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וּלְבֵית",
+     "and the House of"
+    ],
+    [
+     "מַקְדְּשִׁי",
+     "My Sanctuary"
+    ],
+    [
+     "תְּהוֹן",
+     "you shall"
+    ]
+   ],
+   "plus": [
+    "revere"
+   ],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "דָּחֲלִין",
+     "fear"
+    ],
+    [
+     "אֲנָא",
+     "I am"
+    ],
+    [
+     "יְיָ",
+     "Adonoy"
+    ]
+   ],
+   "plus": [],
+   "notes": [
+    "\"fear\" (דָּחֲלִין) is moved to the line where its Aramaic is."
+   ]
+  }
+ ]
+}

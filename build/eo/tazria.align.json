@@ -1,0 +1,1959 @@
+{
+ "12:2": [
+  null,
+  null,
+  null,
+  null,
+  {
+   "map": [
+    [
+     "כְּיוֹמֵי",
+     "as the days of"
+    ],
+    [
+     "רִחוּק",
+     "the state of ‘separation’"
+    ],
+    [
+     "סוֹבְתַהּ",
+     "her impure"
+    ],
+    [
+     "תְּהֵי",
+     "she will"
+    ],
+    [
+     "מְסָאָבָא",
+     "be unclean"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  }
+ ],
+ "12:5": [
+  null,
+  {
+   "map": [
+    [
+     "וּתְהֵי",
+     "she will"
+    ],
+    [
+     "מְסָאָבָא",
+     "be unclean"
+    ],
+    [
+     "אַרְבְּעָה עֲסַר",
+     "for fourteen days"
+    ],
+    [
+     "כְּרִחוּקַהּ",
+     "as during her ‘separation’"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "12:7": [
+  null,
+  {
+   "map": [
+    [
+     "וְתִדְכֵּי",
+     "and she will be cleansed"
+    ],
+    [
+     "מִסּוֹאֲבַת",
+     "from the impurity"
+    ],
+    [
+     "דְּמָהָא",
+     "of her blood"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:2": [
+  {
+   "map": [
+    [
+     "אֱנַשׁ",
+     "a person"
+    ],
+    [
+     "אֲרֵי",
+     "When"
+    ],
+    [
+     "יְהֵי",
+     "will have"
+    ],
+    [
+     "בִמְשַׁךְ",
+     "in the skin of"
+    ],
+    [
+     "בִּסְרֵיהּ",
+     "his flesh"
+    ],
+    [
+     "עַמְקָא",
+     "a spot of deep whiteness"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "עַדְיָא",
+     "an off-white spot"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בַהֲרָא",
+     "a snow-white spot"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וִיהֵי",
+     "and it forms"
+    ],
+    [
+     "בִמְשַׁךְ",
+     "on the skin of"
+    ],
+    [
+     "בִּסְרֵיהּ",
+     "his body"
+    ],
+    [
+     "לְמַכְתַּשׁ",
+     "the plague"
+    ],
+    [
+     "סְגִירוּ",
+     "of ‘confinement’"
+    ]
+   ],
+   "plus": [
+    "like",
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:3": [
+  null,
+  {
+   "map": [
+    [
+     "מַכְתַּשׁ",
+     "the skin-eruption"
+    ],
+    [
+     "סְגִירוּתָא",
+     "of ‘confinement’"
+    ],
+    [
+     "הוּא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:5": [
+  null,
+  {
+   "map": [
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "מַכְתְּשָׁא",
+     "the skin-eruption"
+    ],
+    [
+     "קָם",
+     "has remained"
+    ],
+    [
+     "כַּד",
+     "as it"
+    ],
+    [
+     "הֲוָה",
+     "was"
+    ]
+   ],
+   "plus": [
+    "if"
+   ],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "אוֹסֵף",
+     "did increase"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the skin-eruption"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null
+ ],
+ "13:6": [
+  null,
+  null,
+  {
+   "map": [
+    [
+     "וְלָא",
+     "and not"
+    ],
+    [
+     "אוֹסֵף",
+     "did increase"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the skin-eruption"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וִידַכִּנֵּיהּ",
+     "shall declare him clean"
+    ],
+    [
+     "כַּהֲנָא",
+     "the kohein"
+    ],
+    [
+     "עֲדִיתָא",
+     "a removed white discoloration"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "to be",
+    "merely"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:7": [
+  {
+   "map": [
+    [
+     "וְאִם אוֹסָפָא",
+     "If"
+    ],
+    [
+     "תוֹסֵף",
+     "has increased"
+    ],
+    [
+     "עֲדִיתָא",
+     "the removed white discoloration"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ],
+    [
+     "בָּתַר",
+     "after"
+    ],
+    [
+     "דִּאִתַּחֲזִי",
+     "it was shown"
+    ],
+    [
+     "לְכַהֲנָא",
+     "to the kohein"
+    ],
+    [
+     "לְדַכּוּתֵיהּ",
+     "who pronounced that it was clean"
+    ]
+   ],
+   "plus": [],
+   "notes": [
+    "\"in the skin\" (בְּמַשְׁכָּא) is moved to the line where its Aramaic is."
+   ]
+  },
+  null
+ ],
+ "13:8": [
+  null,
+  {
+   "map": [
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "אוֹסֵפַת",
+     "has increased"
+    ],
+    [
+     "עֲדִיתָא",
+     "the removed white discoloration"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [
+    "if"
+   ],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וִיסָאֵבִנֵּיהּ",
+     "shall declare him unclean"
+    ],
+    [
+     "כַּהֲנָא",
+     "the kohein"
+    ],
+    [
+     "סְגִירוּתָא",
+     "‘confinement’"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:9": [
+  {
+   "map": [
+    [
+     "מַכְתַּשׁ",
+     "When there is a skin-eruption"
+    ],
+    [
+     "סְגִירוּ",
+     "of ‘confinement’"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:10": [
+  {
+   "map": [
+    [
+     "וְיֶחֱזֵי",
+     "shall see"
+    ],
+    [
+     "כַהֲנָא",
+     "The kohein"
+    ],
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "עַמְקָא",
+     "there is a deep"
+    ],
+    [
+     "חַוְּרָא",
+     "white spot"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "on the skin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "וְרשֶׁם",
+     "or there is an impression of"
+    ],
+    [
+     "בִּסְרָא",
+     "flesh"
+    ],
+    [
+     "חַיְתָא",
+     "healthy"
+    ],
+    [
+     "בְּעַמִּקְתָּא",
+     "in the spot of deep whiteness"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  }
+ ],
+ "13:11": [
+  {
+   "map": [
+    [
+     "סְגִירוּת",
+     "‘confinement’"
+    ],
+    [
+     "עַתִּיקָא",
+     "an old"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ],
+    [
+     "בִּמְשַׁךְ",
+     "in the skin of"
+    ],
+    [
+     "בִּסְרֵיהּ",
+     "his body"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null,
+  null,
+  null
+ ],
+ "13:12": [
+  {
+   "map": [
+    [
+     "וְאִם מִסְגָּא",
+     "And if"
+    ],
+    [
+     "תִסְגֵּי",
+     "sprouts"
+    ],
+    [
+     "סְגִירוּתָא",
+     "the ‘confinement’"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "on the skin"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וְתַחֲפֵי",
+     "and if covered"
+    ],
+    [
+     "סְגִירוּתָא",
+     "the ‘confinement’"
+    ],
+    [
+     "יָת",
+     ""
+    ],
+    [
+     "כָּל",
+     "the entire"
+    ],
+    [
+     "מְשַׁךְ",
+     "skin of"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the eruption"
+    ]
+   ],
+   "plus": [
+    "tzoraas",
+    "one affected by the"
+   ],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:13": [
+  {
+   "map": [
+    [
+     "וְיֶחֱזֵי",
+     "shall see"
+    ],
+    [
+     "כַהֲנָא",
+     "The kohein"
+    ],
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "חֲפַת",
+     "has covered"
+    ],
+    [
+     "סְגִירוּתָא",
+     "the ‘confinement’"
+    ],
+    [
+     "יָת",
+     ""
+    ],
+    [
+     "כָּל",
+     "all of"
+    ],
+    [
+     "בִּסְרֵיהּ",
+     "his body"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:15": [
+  null,
+  {
+   "map": [
+    [
+     "בִּסְרָא",
+     "The flesh"
+    ],
+    [
+     "חַיָּא",
+     "healthy"
+    ],
+    [
+     "מְסָאָב",
+     "unclean"
+    ],
+    [
+     "הוּא",
+     "is"
+    ],
+    [
+     "סְגִירוּת",
+     "‘confinement’"
+    ],
+    [
+     "הוּא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:16": [
+  null,
+  {
+   "map": [
+    [
+     "וְיִתֵּתֵי",
+     "he shall be brought"
+    ],
+    [
+     "לְוָת",
+     "to"
+    ],
+    [
+     "כַּהֲנָא",
+     "the kohein"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  }
+ ],
+ "13:19": [
+  {
+   "map": [
+    [
+     "וִיהֵי",
+     "If there was"
+    ],
+    [
+     "בַּאֲתַר",
+     "on the area of"
+    ],
+    [
+     "שִׁחֲנָא",
+     "the inflammation"
+    ],
+    [
+     "עַמְקָא",
+     "a spot of deep"
+    ],
+    [
+     "חַוְּרָא",
+     "whiteness"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:20": [
+  null,
+  null,
+  {
+   "map": [
+    [
+     "וִיסָאֵבִינֵיהּ",
+     "shall declare him unclean"
+    ],
+    [
+     "כַּהֲנָא",
+     "the kohein"
+    ],
+    [
+     "מַכְתַּשׁ",
+     "the skin-eruption"
+    ],
+    [
+     "סְגִירוּתָא",
+     "of ‘confinement’"
+    ],
+    [
+     "הִיא",
+     "It is"
+    ],
+    [
+     "בְּשִׁחֲנָא",
+     "through the inflammation"
+    ],
+    [
+     "סְגִיאַת",
+     "that has sprouted"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:22": [
+  {
+   "map": [
+    [
+     "וְאִם אוֹסָפָא",
+     "If"
+    ],
+    [
+     "תוֹסֵף",
+     "it increased"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null
+ ],
+ "13:23": [
+  {
+   "map": [
+    [
+     "וְאִם",
+     "If"
+    ],
+    [
+     "בְּאַתְרָהָא",
+     "in its place"
+    ],
+    [
+     "קָמַת",
+     "remains"
+    ],
+    [
+     "בֶּהַרְתָּא",
+     "the snow-white spot"
+    ],
+    [
+     "לָא",
+     "and it did not"
+    ],
+    [
+     "אוֹסֵפַת",
+     "increase"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "רשֶׁם",
+     "an impression"
+    ],
+    [
+     "שִׁחֲנָא",
+     "of the inflammation"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "merely"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:24": [
+  null,
+  null,
+  {
+   "map": [
+    [
+     "וּתְהֵי",
+     "and came"
+    ],
+    [
+     "רשֶׁם",
+     "the impression"
+    ],
+    [
+     "כְּוָאָה",
+     "of the burnt part"
+    ],
+    [
+     "בַּהֲרָא",
+     "a snow-white spot"
+    ],
+    [
+     "חַוְּרָא",
+     "tinged with"
+    ],
+    [
+     "סַמְקָא",
+     "red"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "חַוְּרָא",
+     "pure white spot"
+    ]
+   ],
+   "plus": [
+    "on"
+   ],
+   "notes": []
+  }
+ ],
+ "13:25": [
+  null,
+  {
+   "map": [
+    [
+     "סְגִירוּתָא",
+     "‘confinement’"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null,
+  null,
+  {
+   "map": [
+    [
+     "מַכְתַּשׁ",
+     "the skin-eruption"
+    ],
+    [
+     "סְגִירוּתָא",
+     "of ‘confinement’"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:27": [
+  null,
+  {
+   "map": [
+    [
+     "אִם אוֹסָפָא",
+     "If"
+    ],
+    [
+     "תוֹסֵף",
+     "it has increased"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "מַכְתַּשׁ",
+     "the skin-eruption"
+    ],
+    [
+     "סְגִירוּתָא",
+     "of ‘confinement’"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:28": [
+  {
+   "map": [
+    [
+     "וְאִם",
+     "If"
+    ],
+    [
+     "בְּאַתְרָהָא",
+     "in its place"
+    ],
+    [
+     "קָמַת",
+     "remains"
+    ],
+    [
+     "בַּהֶרְתָּא",
+     "the snow-white spot"
+    ],
+    [
+     "לָא",
+     "and it did not"
+    ],
+    [
+     "אוֹסֵפַת",
+     "increase"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ],
+    [
+     "וְהִיא",
+     "and it"
+    ],
+    [
+     "עָמְיָא",
+     "is faint"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "עֹמֶק",
+     "the deep white spot"
+    ],
+    [
+     "כְּוָאָה",
+     "of the burn"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "אֲרֵי",
+     "for"
+    ],
+    [
+     "רשֶׁם",
+     "the impression"
+    ],
+    [
+     "כְּוָאָה",
+     "of the burn"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "merely"
+   ],
+   "notes": []
+  }
+ ],
+ "13:30": [
+  null,
+  {
+   "map": [
+    [
+     "וּבֵיהּ",
+     "and there is … in it"
+    ],
+    [
+     "שֵׂעָר",
+     "hair"
+    ],
+    [
+     "סֻמָּק",
+     "reddish"
+    ],
+    [
+     "דַּעְדָּק",
+     "thin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "סְגִירוּת",
+     "‘confinement’"
+    ],
+    [
+     "רֵישָׁא",
+     "of the head"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "דִקְנָא",
+     "the beard"
+    ],
+    [
+     "הוּא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:32": [
+  null,
+  {
+   "map": [
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "אוֹסֵף",
+     "did increase"
+    ],
+    [
+     "נִתְקָא",
+     "the nesek"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וְלָא",
+     "and no"
+    ],
+    [
+     "הֲוָה",
+     "there was"
+    ],
+    [
+     "בֵיהּ",
+     "in it"
+    ],
+    [
+     "שֵׂעָר",
+     "hair"
+    ],
+    [
+     "סֻמָּק",
+     "reddish"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:33": [
+  {
+   "map": [
+    [
+     "וִיגַלַּח",
+     "He shall shave"
+    ],
+    [
+     "סָחֳרָנֵי",
+     "around"
+    ],
+    [
+     "נִתְקָא",
+     "the nesek"
+    ],
+    [
+     "וּדְעִם",
+     "but close to"
+    ],
+    [
+     "נִתְקָא",
+     "the nesek"
+    ],
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "יְגַלַּח",
+     "he shall shave"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null
+ ],
+ "13:34": [
+  {
+   "map": [
+    [
+     "וְיֶחֱזֵי",
+     "shall see"
+    ],
+    [
+     "כַהֲנָא",
+     "The kohein"
+    ],
+    [
+     "יָת",
+     ""
+    ],
+    [
+     "נִתְקָא",
+     "the nesek"
+    ],
+    [
+     "בְּיוֹמָא",
+     "on the day"
+    ],
+    [
+     "שְׁבִיעָאָה",
+     "seventh"
+    ],
+    [
+     "וְהָא",
+     "and behold if"
+    ],
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "אוֹסֵף",
+     "did increase"
+    ],
+    [
+     "נִתְקָא",
+     "the nesek"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null,
+  null
+ ],
+ "13:35": [
+  {
+   "map": [
+    [
+     "וְאִם אוֹסָפָא",
+     "If"
+    ],
+    [
+     "יוֹסֵף",
+     "increases"
+    ],
+    [
+     "נִתְקָא",
+     "the nesek"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [
+    "extensively"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:36": [
+  null,
+  {
+   "map": [
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "אוֹסֵף",
+     "has increased"
+    ],
+    [
+     "נִתְקָא",
+     "the nesek"
+    ],
+    [
+     "בְּמַשְׁכָּא",
+     "in the skin"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "יְבַקֵּר",
+     "shall look"
+    ],
+    [
+     "כַּהֲנָא",
+     "The kohein"
+    ],
+    [
+     "לְשֵׂעָר",
+     "for hair"
+    ],
+    [
+     "סֻמָּק",
+     "reddish"
+    ],
+    [
+     "מְסָאָב",
+     "unclean"
+    ],
+    [
+     "הוּא",
+     "he is"
+    ]
+   ],
+   "plus": [
+    "even"
+   ],
+   "notes": []
+  }
+ ],
+ "13:42": [
+  null,
+  null,
+  {
+   "map": [
+    [
+     "סְגִירוּת",
+     "‘confinement’"
+    ],
+    [
+     "סָגְיָא",
+     "sprouting"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:43": [
+  {
+   "map": [
+    [
+     "וְיֶחֱזֵי",
+     "shall see"
+    ],
+    [
+     "יָתֵיהּ",
+     "him"
+    ],
+    [
+     "כַּהֲנָא",
+     "The kohein"
+    ],
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "עַמִּיק",
+     "deep"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the spot of"
+    ],
+    [
+     "חַוְּרָא",
+     "whiteness"
+    ],
+    [
+     "סַמְּקָא",
+     "is tinged with red"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "כְּמֶחֱזֵי",
+     "just as the appearance"
+    ],
+    [
+     "סְגִירוּתָא",
+     "‘confinement’"
+    ],
+    [
+     "מְשַׁךְ",
+     "of the skin of"
+    ],
+    [
+     "בִּסְרָא",
+     "the flesh"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:44": [
+  {
+   "map": [
+    [
+     "גְּבַר",
+     "a person"
+    ],
+    [
+     "סְגִיר",
+     "with ‘confinement’"
+    ],
+    [
+     "הוּא",
+     "He is"
+    ],
+    [
+     "מְסָאָב",
+     "unclean"
+    ],
+    [
+     "הוּא",
+     "he is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:45": [
+  {
+   "map": [
+    [
+     "וּסְגִירָא",
+     "The one who is ‘confined’"
+    ],
+    [
+     "דִּי",
+     "who"
+    ],
+    [
+     "בֵיהּ",
+     "has"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the skin-eruption"
+    ],
+    [
+     "לְבוּשׁוֹהִי",
+     "his garments"
+    ],
+    [
+     "יְהוֹן",
+     "shall"
+    ],
+    [
+     "מְבַזְּעִין",
+     "have a tear in them"
+    ],
+    [
+     "וְרֵישֵׁיהּ",
+     "his hair"
+    ],
+    [
+     "יְהֵי",
+     "shall be"
+    ],
+    [
+     "פְרִיעַ",
+     "grown long"
+    ]
+   ],
+   "plus": [
+    "the person"
+   ],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וְעַל",
+     "and down to"
+    ],
+    [
+     "שָׂפָם",
+     "his upper lip"
+    ],
+    [
+     "כַּאֲבֵלָא",
+     "like a mourner"
+    ],
+    [
+     "יִתְעַטָּף",
+     "he must cover his head"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "וְלָא",
+     "and do not"
+    ],
+    [
+     "תִסְתַּאֲבוּן",
+     "become unclean"
+    ],
+    [
+     "וְלָא",
+     "do not"
+    ],
+    [
+     "תִסְתַּאֲבוּן",
+     "become unclean"
+    ],
+    [
+     "יִקְרֵי",
+     "shall he call out"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  }
+ ],
+ "13:47": [
+  {
+   "map": [
+    [
+     "וּלְבוּשָׁא",
+     "in a garment"
+    ],
+    [
+     "אֲרֵי",
+     "When"
+    ],
+    [
+     "יְהֵי",
+     "there is"
+    ],
+    [
+     "בֵיהּ",
+     ""
+    ],
+    [
+     "מַכְתַּשׁ",
+     "a skin-eruption"
+    ],
+    [
+     "סְגִירוּ",
+     "of ‘confinement’"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:49": [
+  {
+   "map": [
+    [
+     "וִיהֵי מַכְתָּשָׁא",
+     "If the plague is"
+    ],
+    [
+     "יָרוֹק",
+     "green"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "סַמּוֹק",
+     "red"
+    ],
+    [
+     "בִּלְבוּשָׁא",
+     "in the garment"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בְמַשְׁכָּא",
+     "in the leather hide"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בְשִׁתְיָא",
+     "in the warp threads"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בְעַרְבָא",
+     "in the woof threads"
+    ],
+    [
+     "אוֹ",
+     "or if it is"
+    ],
+    [
+     "בְכָל",
+     "in any"
+    ],
+    [
+     "מַאן",
+     "object"
+    ],
+    [
+     "דִּמְשַׁךְ",
+     "made of leather"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  {
+   "map": [
+    [
+     "מַכְתַּשׁ",
+     "the eruption"
+    ],
+    [
+     "סְגִירוּתָא",
+     "of ‘confinement’"
+    ],
+    [
+     "הוּא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:51": [
+  {
+   "map": [
+    [
+     "וְיֶחֱזֵי",
+     "He shall see"
+    ],
+    [
+     "יָת",
+     ""
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the eruption"
+    ],
+    [
+     "בְּיוֹמָא",
+     "on the day"
+    ],
+    [
+     "שְׁבִיעָאָה",
+     "seventh"
+    ],
+    [
+     "אֲרֵי",
+     "If"
+    ],
+    [
+     "אוֹסֵף",
+     "has increased"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the eruption"
+    ],
+    [
+     "בִּלְבוּשָׁא",
+     "in the garment"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בְשִׁתְיָא",
+     "in the warp thread"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בְעַרְבָא",
+     "in the woof thread"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "בְמַשְׁכָּא",
+     "in the leather hide"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  {
+   "map": [
+    [
+     "סְגִירוּת",
+     "a ‘confinement’"
+    ],
+    [
+     "מְחַסְרָא",
+     "of loss"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     ""
+    ],
+    [
+     "מְסָאָב",
+     "unclean"
+    ],
+    [
+     "הוּא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "it is",
+    "tzoraas"
+   ],
+   "notes": []
+  }
+ ],
+ "13:52": [
+  null,
+  null,
+  null,
+  {
+   "map": [
+    [
+     "אֲרֵי",
+     "For"
+    ],
+    [
+     "סְגִירוּת",
+     "a ‘confinement’"
+    ],
+    [
+     "מְחַסְרָא",
+     "of loss"
+    ],
+    [
+     "הִיא",
+     "it is"
+    ]
+   ],
+   "plus": [
+    "tzoraas"
+   ],
+   "notes": []
+  },
+  null
+ ],
+ "13:53": [
+  null,
+  {
+   "map": [
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "אוֹסֵף",
+     "did increase"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the eruption"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null,
+  null
+ ],
+ "13:55": [
+  {
+   "map": [
+    [
+     "וְיֶחֱזֵי",
+     "shall see it"
+    ],
+    [
+     "כַהֲנָא",
+     "The kohein"
+    ],
+    [
+     "בָּתַר",
+     "after"
+    ],
+    [
+     "דְּחַוָּרוּ",
+     "was washed"
+    ],
+    [
+     "יָת",
+     ""
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the eruption"
+    ],
+    [
+     "וְהָא",
+     "and behold"
+    ],
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "שְׁנָא",
+     "did change"
+    ],
+    [
+     "מַכְתָּשָׁא",
+     "the eruption"
+    ],
+    [
+     "מִן",
+     "from"
+    ],
+    [
+     "כַּד",
+     "what"
+    ],
+    [
+     "הֲוָה",
+     "it was"
+    ],
+    [
+     "וּמַכְתָּשָׁא",
+     "and the eruption"
+    ],
+    [
+     "לָא",
+     "not"
+    ],
+    [
+     "אוֹסֵף",
+     "did increase"
+    ]
+   ],
+   "plus": [
+    "even if"
+   ],
+   "notes": []
+  },
+  null,
+  null,
+  {
+   "map": [
+    [
+     "תַּבְרָא",
+     "a break"
+    ],
+    [
+     "הִיא",
+     "It is"
+    ]
+   ],
+   "plus": [],
+   "notes": []
+  },
+  null
+ ],
+ "13:59": [
+  {
+   "map": [
+    [
+     "דָּא",
+     "This is"
+    ],
+    [
+     "אוֹרַיְתָא",
+     "the law"
+    ],
+    [
+     "דְמַכְתַּשׁ",
+     "of the eruption"
+    ],
+    [
+     "סְגִירוּ",
+     "of ‘confinement’"
+    ],
+    [
+     "בִּלְבוּשׁ",
+     "be it in a garment"
+    ],
+    [
+     "עֲמַר",
+     "woolen"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "כִתָּנָא",
+     "a linen garment"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "שִׁתְיָא",
+     "in the warp thread"
+    ],
+    [
+     "אוֹ",
+     "or"
+    ],
+    [
+     "עַרְבָא",
+     "in the woof thread"
+    ]
+   ],
+   "plus": [
+    "tzoraas",
+    "lengthwise",
+    "widthwise"
+   ],
+   "notes": []
+  },
+  null,
+  null
+ ]
+}

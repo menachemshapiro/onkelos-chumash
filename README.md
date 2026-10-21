@@ -12,6 +12,8 @@ It covers the whole Torah, from Bereishis to Vezos Haberachah.
 - **See where Onkelos interprets.** Where Onkelos departs from a word-for-word translation, the Aramaic is highlighted. The English that explains it is highlighted the same way, so the two are easy to match.
 - **Tap any word of the Targum** to open a short card about it (see below).
 - **Move around easily.** Choose a sefer, parsha, aliyah or perek, or type a reference such as לב:יג in the go-to box.
+- **Read the English as Onkelos reads it.** The drop-down next to the English button switches between **Combined** (the Metsudah English with Onkelos's wording in [brackets]), **Plain** (brackets taken out, following the Hebrew) and **Onkelos** (the English rewritten to follow the Targum, with Onkelos's own wording in bold).
+- **Onkelos word by word.** Turn on **Word by word** to get a drop-down under the English for each line. It shows which English renders each Aramaic word, with short notes where something needs explaining.
 - **Show only what you want.** Te'amim, Targum, English and Rashi can each be turned on or off.
 - **Adjust the look.** Choose fonts and sizes for the Hebrew, Targum, English and Rashi. Your choices are saved in your browser.
 - **Print or save.** Export a parsha, an aliyah, a perek or a range of pesukim as a PDF or a Word document.
@@ -56,5 +58,5 @@ The page is maintained in a Claude conversation. Each update is published there 
 | `g/*.json` | The Targum glossary for each parsha, loaded when you first tap a word |
 | `manifest.webmanifest`, `sw.js`, `icons/` | Home-screen app settings, offline support and icons |
 | `DECISIONS.md` | Every compromise and decision made in aligning and presenting the texts, and how the glossary works |
-| `build/` | The scripts and hand-set fixes that produce the page (`build_page.py`, `align.py`, `fixes.py`, `ovr-*.json`, ...) and the glossary (`gloss_build.py`, with its dictionary and word lists in `build/gl/`) |
+| `build/` | The scripts and hand-set fixes that produce the page (`build_page.py`, `align.py`, `fixes.py`, `ovr-*.json`, ...) and the glossary (`gloss_build.py`, with its dictionary and word lists in `build/gl/`); the Onkelos English: word-by-word matches in `build/eo-align/`, checked by `eo_check.py` and merged by `eo_merge.py` |
 | `sources/` | The source texts as downloaded from Sefaria |

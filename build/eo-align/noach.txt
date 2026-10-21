@@ -1,0 +1,210 @@
+# "As Onkelos reads it", parsha Noach (format: see eo-align/bereishit.txt)
+
+@ 6:9
+= same
+= same
+E: Noach walked with <b>the fear of</b> Elohim.
+M: with the fear of | Elohim | walked | Noach
+
+@ 6:12
+= same
+E: for all flesh <b>of man</b> had corrupted its way on the earth.
+M: for | had corrupted | all | flesh | of man | - | its way | on | the earth
+
+@ 6:13
+= same
+E: For the earth is filled with violent crime because of <b>their evil deeds</b>,
+M: For | is filled | the earth | with violent crime | because | of | their deeds | evil
+
+@ 6:16
+E: Make a <b>light</b> for the ark, and finish it to one amoh at the top.
+M: a light | Make | for the ark | and to one amoh | finish it | at the top
+
+@ 7:2
+E: Of every [ritually] clean animal, take to yourself seven pairs, male and <b>female</b>.
+M: Of every | animal | clean | take | to yourself | seven | pairs | male | and female
++ ritually
+E: Of every animal that is not clean, [take] two, the male and <b>female</b>.
+M: Of every | animal | that not | clean | is | two | the male | and female
++ take
+
+@ 7:4
+E: Because <b>at the completion of another</b> seven days <b>I will cause rain to descend</b> on the earth
+M: Because | at the completion of | days | another | seven | I | will cause to descend | rain | on | the earth
+
+@ 7:10
+E: Seven <b>complete</b> days had passed,
+M: had passed | complete | Seven | days
+
+@ 7:12
+E: There was rain <b>descending</b> on the earth
+M: There was | rain | descending | on | the earth
+
+@ 7:14
+= same
+= same
+= same
+E: every bird, <b>every one that flies</b>.
+M: every | bird | every one | that flies
+
+@ 7:15
+E: They came <b>with</b> Noach, to the ark,
+M: They came | with | Noach | to the ark
+
+@ 7:16
+= same
+= same
+E: <b>Adonoy protected him.</b>
+M: protected | Adonoy | him
+
+@ 8:4
+= same
+= same
+E: upon the mountains of <b>Kardu</b>.
+M: upon | the mountains of | Kardu
+
+@ 8:11
+= same
+E: and behold, <b>lying</b> in her mouth was a torn off olive leaf.
+M: and behold | a leaf | olive | torn off | lying was | in her mouth
+
+@ 8:15
+E: Elohim spoke <b>with</b> Noach, saying,
+M: spoke | Elohim | with | Noach | saying
+
+@ 8:20
+E: Noach built an altar <b>before</b> Adonoy,
+M: built | Noach | an altar | before | Adonoy
+
+@ 8:21
+E: <b>Adonoy accepted his offering with favor</b>
+M: accepted | Adonoy | with favor | - | his offering
+E: and Adonoy said <b>with his Word</b>, Never again will I curse the ground because of <b>the sins of</b> man,
+M: and said | Adonoy | with his Word | Never | will I | curse | again | - | the ground | because of | the sins of | man
+
+@ 9:5
+= same
+= same
+E: From the hand of man, <b>from the hand of a man who spills his brother’s blood,</b>
+M: From the hand of | man | from the hand of | a man | who spills | - | blood | his brother’s
+
+@ 9:6
+= same
+E: <b>by witnesses according to the word of judges shall his blood be spilled,</b>
+M: by witnesses | according to | the word of | judges | his blood | shall be spilled
+
+@ 9:12
+E: Elohim said, This is the sign of the covenant that I pledge between <b>My Word</b> and you,
+M: said | Elohim | This is | the sign of | the covenant | that | I | pledge | between | My Word | and you
+
+@ 9:13
+= same
+= same
+E: between <b>My Word</b> and the earth.
+M: between | My Word | and | the earth
+
+@ 9:15
+E: I shall remember My covenant that is between <b>My Word</b> and you,
+M: I shall remember | - | My covenant | that is | between | My Word | and you
+
+@ 9:16
+= same
+= same
+E: between <b>the Word of</b> Elohim
+M: between | the Word of | Elohim
+
+@ 9:17
+= same
+= same
+E: between <b>My Word</b> and between all flesh that is on the earth.
+M: between | My Word | and between | all | flesh | that is | on | the earth
+
+@ 9:19
+= same
+E: and from these, the whole world <b>was spread out</b>.
+M: and from these | was spread out | the whole | world
+
+@ 9:20
+E: Noach began to be <b>a man who worked the land</b>
+M: began | Noach | a man | who worked | the land
++ to be
+
+@ 9:22
+= same
+= same
+E: and told it to his <b>two</b> brothers <b>in the marketplace</b>.
+M: and told it | to two | his brothers | in the marketplace
+! לִתְרֵין ("to two") is not in Metsudah's English; added from the Targum.
+
+@ 9:27
+= same
+E: but <b>His Shechina</b> will dwell in the tents of Sheim,
+M: but will dwell | His Shechina | in the tents | of Sheim
+
+@ 10:8
+= same
+= same
+E: <b>mighty and</b> powerful on earth.
+M: mighty | and powerful | on earth
+
+@ 10:9
+E: He was <b>mighty and powerful</b> before Adonoy.
+M: He | was | mighty | and powerful | before | Adonoy
+= same
+E: Like Nimrod, <b>mighty and powerful</b> before Adonoy.
+M: Like Nimrod | mighty | and powerful | before | Adonoy
+
+@ 10:10
+= same
+= same
+E: in the land of <b>Babylon</b>.
+M: in the land | of Babylon
+
+@ 10:11
+E: <b>The Assyrians departed</b> that land,
+M: - | land | that | departed | The Assyrians
+! Metsudah's bracket (on the next line) rewrites both lines, so its first half is moved up.
+E: and <b>built</b> Nineveh,
+M: and built | - | Nineveh
+= same
+
+@ 10:14
+E: [Also] the Pasrusim, and the Kasluchim; from whom came the Plishtim and the <b>Kaputkim</b>.
+M: - | the Pasrusim | and | the Kasluchim | from whom | came | ^ | the Plishtim | and | the Kaputkim
++ Also
+
+@ 10:17
+E: The Chivite, the Arkite, the <b>Antosite</b>,
+M: - | The Chivite | - | the Arkite | - | the Antosite
+
+@ 10:18
+= same
+E: Later, the families of the Canaanites [further] <b>were spread out</b>.
+M: Later | ^ | were spread out | the families of | the Canaanites
++ further
+
+@ 11:2
+E: When they journeyed <b>at the beginning,</b>
+M: - | When they journeyed | at the beginning
+E: they found a valley in the land of <b>Babylon</b> and they settled there.
+M: they found | a valley | in the land | of Babylon | and they settled | there
+
+@ 11:3
+E: They said one to another, Come, let us <b>throw</b> bricks
+M: They said | one | to another | Come | let us throw | bricks
+E: and bake them <b>in a fire</b>.
+M: and bake them | in a fire
+
+@ 11:4
+E: Then they said, Come, we will build ourselves a city, and a tower whose top will reach the <b>height of the</b> heavens.
+M: Then they said | Come | we will build | ourselves | a city | and a tower | whose top | will reach | - | the height of the | heavens
+
+@ 11:5
+E: <b>Adonoy became revealed</b>
+M: became revealed | Adonoy
+E: <b>in order to punish them because of the building of</b> the city and the tower
+M: in order to punish them | because of | the building of | the city | and the tower
+
+@ 11:7
+E: Come, <b>let us be revealed</b>
+M: Come | let us be revealed

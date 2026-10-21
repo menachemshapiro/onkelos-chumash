@@ -1,0 +1,285 @@
+# "As Onkelos reads it", parsha Tazria
+# Onkelos renders tzoraas as סְגִירוּ, "confinement"; the English keeps Metsudah's [tzoraas] alongside it.
+
+@ 12:2
+= same
+= same
+= same
+= same
+E: as the days of <b>the state of her impure ‘separation’</b>, she will be unclean.
+M: as the days of | the state of ‘separation’ | her impure | she will | be unclean
+
+@ 12:5
+= same
+E: she will be unclean for <b>fourteen days</b> as during her <b>‘separation’</b>.
+M: she will | be unclean | for fourteen days | ^ | as during her ‘separation’
+
+@ 12:7
+= same
+E: and she will be cleansed from the <b>impurity</b> of her blood;
+M: and she will be cleansed | from the impurity | of her blood
+
+@ 13:2
+E: When a person will have, in the skin of his flesh a spot of <b>deep</b> whiteness or an off-white spot, or a snow-white spot,
+M: a person | When | will have | in the skin of | his flesh | a spot of deep whiteness | or | an off-white spot | or | a snow-white spot
+E: and it forms on the skin of his body [like] the plague of <b>‘confinement’</b> [tzoraas],
+M: and it forms | on the skin of | his body | the plague | of ‘confinement’
++ like
++ tzoraas
+
+@ 13:3
+= same
+E: it is the skin-eruption of <b>‘confinement’</b> [tzoraas].
+M: the skin-eruption | of ‘confinement’ | it is
++ tzoraas
+
+@ 13:5
+= same
+E: and behold! [if] the skin-eruption has <b>remained as it was</b>;
+M: and behold | the skin-eruption | has remained | as it | was
++ if
+E: the skin-eruption did not <b>increase</b> in the skin.
+M: not | did increase | the skin-eruption | in the skin
+
+@ 13:6
+= same
+= same
+E: and the skin-eruption did not <b>increase</b> in the skin,
+M: and not | did increase | the skin-eruption | in the skin
+E: the kohein shall declare him [to be] clean; it is [merely] a <b>removed</b> white discoloration.
+M: shall declare him clean | the kohein | a removed white discoloration | it is
++ to be
++ merely
+
+@ 13:7
+E: If the <b>removed</b> white discoloration has <b>increased</b>
+M: If | ^ | has increased | the removed white discoloration
+E: <b>in the skin</b> after it was shown to the kohein, who pronounced that it was clean,
+M: in the skin | after | it was shown | to the kohein | who pronounced that it was clean
+! "in the skin" (בְּמַשְׁכָּא) is moved to the line where its Aramaic is.
+
+@ 13:8
+= same
+E: and behold! [if] the <b>removed</b> white discoloration has <b>increased</b> in the skin,
+M: and behold | has increased | the removed white discoloration | in the skin
++ if
+E: the kohein shall declare him unclean, it is <b>‘confinement’</b> [tzoraas].
+M: shall declare him unclean | the kohein | ‘confinement’ | it is
++ tzoraas
+
+@ 13:9
+E: When there is a skin-eruption of <b>‘confinement’</b> [tzoraas]
+M: When there is a skin-eruption | of ‘confinement’
++ tzoraas
+
+@ 13:10
+E: The kohein shall see and behold! there is <b>a deep</b> white spot on the skin
+M: shall see | The kohein | and behold | there is a deep | white spot | on the skin
+= same
+E: or there is <b>an impression of</b> healthy flesh in the spot of <b>deep</b> whiteness,
+M: or there is an impression of | flesh | healthy | in the spot of deep whiteness
+
+@ 13:11
+E: it is an old <b>‘confinement’</b> [tzoraas] in the skin of his body
+M: ‘confinement’ | an old | it is | in the skin of | his body
++ tzoraas
+
+@ 13:12
+E: And if the <b>‘confinement’</b> [tzoraas] sprouts on the skin
+M: And if | ^ | sprouts | the ‘confinement’ | on the skin
++ tzoraas
+E: and if the <b>‘confinement’</b> [tzoraas] covered the entire skin of the [one affected by] the eruption
+M: and if covered | the ‘confinement’ | - | the entire | skin of | the eruption
++ tzoraas
++ one affected by the
+
+@ 13:13
+E: The kohein shall see and behold! the <b>‘confinement’</b> [tzoraas] has covered all of his body,
+M: shall see | The kohein | and behold | has covered | the ‘confinement’ | - | all of | his body
++ tzoraas
+
+@ 13:15
+= same
+E: The healthy flesh is unclean, it is <b>‘confinement’</b> [tzoraas].
+M: The flesh | healthy | unclean | is | ‘confinement’ | it is
++ tzoraas
+
+@ 13:16
+= same
+E: he shall <b>be brought</b> to the kohein.
+M: he shall be brought | to | the kohein
+
+@ 13:19
+E: If there was on the area of the inflammation a spot of <b>deep</b> whiteness
+M: If there was | on the area of | the inflammation | a spot of deep | whiteness
+
+@ 13:20
+= same
+= same
+E: the kohein shall declare him unclean; It is the skin-eruption of <b>‘confinement’</b> [tzoraas] that has sprouted through the inflammation.
+M: shall declare him unclean | the kohein | the skin-eruption | of ‘confinement’ | It is | through the inflammation | that has sprouted
++ tzoraas
+
+@ 13:22
+E: If it <b>increased</b> in the skin,
+M: If | ^ | it increased | in the skin
+
+@ 13:23
+E: If the snow-white spot remains in its place and it did not <b>increase</b>,
+M: If | in its place | remains | the snow-white spot | and it did not | increase
+E: it is [merely] <b>an impression</b> of the inflammation
+M: an impression | of the inflammation | it is
++ merely
+
+@ 13:24
+= same
+= same
+E: and [on] the <b>impression</b> of the burnt part, came a snow-white spot tinged with red or pure white spot.
+M: and came | the impression | of the burnt part | a snow-white spot | tinged with | red | or | pure white spot
++ on
+
+@ 13:25
+= same
+E: it is <b>‘confinement’</b> [tzoraas]
+M: ‘confinement’ | it is
++ tzoraas
+= same
+= same
+E: it is the skin-eruption of <b>‘confinement’</b> [tzoraas].
+M: the skin-eruption | of ‘confinement’ | it is
++ tzoraas
+
+@ 13:27
+= same
+E: If it has <b>increased</b> in the skin,
+M: If | ^ | it has increased | in the skin
+= same
+E: it is the skin-eruption of <b>‘confinement’</b> [tzoraas].
+M: the skin-eruption | of ‘confinement’ | it is
++ tzoraas
+
+@ 13:28
+E: If the snow-white spot remains in its place and it did not <b>increase</b> in the skin and it is faint,
+M: If | in its place | remains | the snow-white spot | and it did not | increase | in the skin | and it | is faint
+E: it is the <b>deep</b> white spot of the burn.
+M: the deep white spot | of the burn | it is
+= same
+E: for it is [merely] the <b>impression</b> of the burn.
+M: for | the impression | of the burn | it is
++ merely
+
+@ 13:30
+= same
+E: and there is thin <b>reddish</b> hair in it.
+M: and there is … in it | hair | reddish | thin
+= same
+E: it is <b>‘confinement’</b> [tzoraas] of the head or the beard.
+M: ‘confinement’ | of the head | or | the beard | it is
++ tzoraas
+
+@ 13:32
+= same
+E: and behold! the nesek did not <b>increase</b>
+M: and behold | not | did increase | the nesek
+E: and there was no <b>reddish</b> hair in it
+M: and no | there was | in it | hair | reddish
+
+@ 13:33
+E: He shall <b>shave around the nesek</b> but he shall not shave <b>close to</b> the nesek,
+M: He shall shave | around | the nesek | but close to | the nesek | not | he shall shave
+
+@ 13:34
+E: The kohein shall see the nesek on the seventh day and behold! if the nesek did not <b>increase</b> in the skin
+M: shall see | The kohein | - | the nesek | on the day | seventh | and behold if | not | did increase | the nesek | in the skin
+
+@ 13:35
+E: If the nesek <b>increases</b> [extensively] in the skin
+M: If | ^ | increases | the nesek | in the skin
++ extensively
+
+@ 13:36
+= same
+E: and behold! the nesek has <b>increased</b> in the skin.
+M: and behold | has increased | the nesek | in the skin
+E: The kohein shall not [even] look for <b>reddish</b> hair, he is unclean.
+M: not | shall look | The kohein | for hair | reddish | unclean | he is
++ even
+
+@ 13:42
+= same
+= same
+E: it is <b>‘confinement’</b> [tzoraas] sprouting
+M: ‘confinement’ | sprouting | it is
++ tzoraas
+
+@ 13:43
+E: The kohein shall see him, and behold! the spot of <b>deep</b> whiteness is tinged with red
+M: shall see | him | The kohein | and behold | deep | the spot of | whiteness | is tinged with red
+= same
+E: just as the appearance <b>‘confinement’</b> [tzoraas] of the skin of the flesh.
+M: just as the appearance | ‘confinement’ | of the skin of | the flesh
++ tzoraas
+
+@ 13:44
+E: He is a person with <b>‘confinement’</b> [tzoraas], he is unclean.
+M: a person | with ‘confinement’ | He is | unclean | he is
++ tzoraas
+
+@ 13:45
+E: The <b>one who is ‘confined’</b> — [the person] who has the skin-eruption — his garments shall have a tear in them, his hair shall be grown long,
+M: The one who is ‘confined’ | who | has | the skin-eruption | his garments | shall | have a tear in them | his hair | shall be | grown long
++ the person
+E: and he must cover his head down to his upper lip <b>like a mourner</b>,
+M: and down to | his upper lip | like a mourner | he must cover his head
+E: and <b>do not become</b> unclean, <b>do not become</b> unclean, shall he call out.
+M: and do not | become unclean | do not | become unclean | shall he call out
+
+@ 13:47
+E: When in a garment there is a skin-eruption of <b>‘confinement’</b> [tzoraas],
+M: in a garment | When | there is | - | a skin-eruption | of ‘confinement’
++ tzoraas
+
+@ 13:49
+E: If the plague is <b>green or red</b>, in the garment, or in the leather hide or in the warp threads, or in the woof threads, or if it is in any object made of leather;
+M: If the plague is | ^ | green | or | red | in the garment | or | in the leather hide | or | in the warp threads | or | in the woof threads | or if it is | in any | object | made of leather
+E: it is the eruption of <b>‘confinement’</b> [tzoraas]
+M: the eruption | of ‘confinement’ | it is
++ tzoraas
+
+@ 13:51
+E: He shall see the eruption on the seventh day. If the eruption has <b>increased</b> in the garment or in the warp thread, or in the woof thread, or in the leather hide,
+M: He shall see | - | the eruption | on the day | seventh | If | has increased | the eruption | in the garment | or | in the warp thread | or | in the woof thread | or | in the leather hide
+= same
+E: it is a <b>‘confinement’ of loss</b> [tzoraas], it is unclean.
+M: a ‘confinement’ | of loss | - | unclean | it is
++ it is
++ tzoraas
+
+@ 13:52
+= same
+= same
+= same
+E: For it is a <b>‘confinement’ of loss</b> [tzoraas].
+M: For | a ‘confinement’ | of loss | it is
++ tzoraas
+
+@ 13:53
+= same
+E: and behold! the eruption did not <b>increase</b>
+M: and behold | not | did increase | the eruption
+
+@ 13:55
+E: The kohein shall see it after the eruption was washed and behold! [even if] the eruption did not change <b>from what it was</b> and the eruption did not <b>increase</b>;
+M: shall see it | The kohein | after | was washed | - | the eruption | and behold | not | did change | the eruption | from | what | it was | and the eruption | not | did increase
++ even if
+= same
+= same
+E: It is a <b>break</b>
+M: a break | It is
+
+@ 13:59
+E: This is the law of the eruption of <b>‘confinement’</b> [tzoraas] be it in a woolen garment, or a linen garment, or in the warp [lengthwise] thread, or in the woof [widthwise] thread,
+M: This is | the law | of the eruption | of ‘confinement’ | be it in a garment | woolen | or | a linen garment | or | in the warp thread | or | in the woof thread
++ tzoraas
++ lengthwise
++ widthwise

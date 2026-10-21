@@ -1,0 +1,843 @@
+# DRAFT for bereishit: made by auto_eo.py; "?" lines need a look.
+
+@ 1:2
+= same
+E: and (there was) darkness <b>was spread</b> over the surface of the abyss.
+וַחֲשׁוֹכָא = and there was darkness
+פָּרַשׂ = was spread
+עַל = over
+אַפֵּי = the surface
+תְהוֹמָא = of the abyss
+E: The <b>from before</b> Elohim <b>blew</b> above the surface of the water.
+וְרוּחָא = 
+מִן = 
+קֳדָם = The from before
+יְיָ = Elohim
+מְנַשְּׁבָא = 
+עַל = 
+אַפֵּי = the surface
+מַיָּא = of the water
++ blew
++ above
+? check: Aramaic with no English: וְרוּחָא מִן מְנַשְּׁבָא עַל · English with no Aramaic: blew above
+
+@ 1:6
+= same
+E: Let there be a <b>middle</b> of the waters,
+יְהִי = Let
+רְקִיעָא = 
+בִּמְצִיעוּת = there be a middle
+מַיָּא = of the waters
+? check: Aramaic with no English: רְקִיעָא · English with no Aramaic: -
+= same
+
+@ 1:14
+= same
+= same
+= same
+E: <b>and to count</b> (for) days and (for) years <b>with them</b>.
+וּלְמִימְנֵי = and to count
+בְהוֹן = 
+יוֹמִין = for days
+וּשְׁנִין = and for years
++ with
++ them
+? check: Aramaic with no English: בְהוֹן · English with no Aramaic: -
+
+@ 1:31
+= same
+E: and behold it was very <b>completely prepared</b>.
+וְהָא = and behold
+תַקִּין = 
+לַחֲדָא = it was very
++ completely
++ prepared
+? check: Aramaic with no English: תַקִּין · English with no Aramaic: completely prepared
+= same
+
+@ 2:5
+= same
+= same
+E: for Adonoy Elohim had not brought rain <b>down</b> upon the earth,
+אֲרֵי = 
+לָא = 
+אָחִית = had not brought rain down
+מִטְרָא = 
+יְיָ = for Adonoy Elohim
+אֱלֹהִים = 
+עַל = 
+אַרְעָא = upon the earth
+? check: Aramaic with no English: אֲרֵי לָא מִטְרָא אֱלֹהִים עַל · English with no Aramaic: -
+= same
+= same
+
+@ 2:7
+= same
+= same
+E: And so man <b>speaking</b> soul.
+וַהֲוַת = 
+בְּאָדָם = so man
+לְרוּחַ = 
+מְמַלְלָא = speaking
++ And
++ soul
+? check: Aramaic with no English: וַהֲוַת לְרוּחַ · English with no Aramaic: soul
+
+@ 2:9
+= same
+= same
+= same
+E: and the Tree (of) <b>from which the fruit if eaten gives</b> Knowledge [of what is] good and evil.
+וְאִילַן = and the Tree
+דְּאָכְלִין = 
+פֵּירוֹהִי = of from which the fruit
+חַכִּימִין = Knowledge
+בֵּין = 
+טַב = is good
+לְבִישׁ = evil
++ if
++ eaten
++ gives
++ of
++ what
++ and
+? check: Aramaic with no English: דְּאָכְלִין בֵּין · English with no Aramaic: eaten gives what
+
+@ 2:14
+E: The name of the third river is <b>Diglas</b>,
+וְשׁוּם = The name
+נַהֲרָא = river
+תְּלִיתָאָה = of the third
+דִּיגְלַת = is Diglas
+= same
+= same
+
+@ 2:17
+E: But from the Tree (of) <b>from which the fruit if eaten gives</b> Knowledge of what is good and evil,
+וּמֵאִילָן = But from the Tree
+דְּאָכְלִין = 
+פֵּירוֹהִי = of from which the fruit
+חַכִּימִין = Knowledge
+בֵּין = 
+טַב = is good
+לְבִישׁ = evil
++ if
++ eaten
++ gives
++ of
++ what
++ and
+? check: Aramaic with no English: דְּאָכְלִין בֵּין · English with no Aramaic: eaten gives what
+= same
+= same
+
+@ 2:18
+= same
+E: It is not <b>fitting</b> for the man to be alone.
+לָא = 
+תַקִּין = 
+לְמֶהֱוֵי = 
+אָדָם = for the man
+בִּלְחוֹדוֹהִי = to be alone
++ It
++ is
++ not
++ fitting
+? check: Aramaic with no English: לָא תַקִּין לְמֶהֱוֵי · English with no Aramaic: fitting
+= same
+
+@ 2:21
+= same
+= same
+E: and <b>filled</b> flesh in its place.
+וּמְלֵי = and filled
+בִשְׂרָא = flesh
+תְּחוֹתַהּ = in its place
+
+@ 2:23
+= same
+= same
+= same
+= same
+E: for from <b>husband</b> was she taken.
+אֲרֵי = 
+מִבַּעְלָא = for from husband
+נְסִיבָא = was she taken
+דָא = 
+? check: Aramaic with no English: אֲרֵי דָא · English with no Aramaic: -
+
+@ 2:24
+= same
+E: <b>the house where</b> his father and his mother <b>sleep</b>,
+בֵּית = the house
+מִשְׁכְּבֵי = 
+אַבוּהִי = his father
+וְאִמֵּהּ = and his mother
++ where
++ sleep
+? check: Aramaic with no English: מִשְׁכְּבֵי · English with no Aramaic: where sleep
+= same
+= same
+
+@ 3:1
+= same
+= same
+= same
+= same
+E: Did Elohim <b>truly</b> say
+בְּקוּשְׁטָא = truly
+אֲרֵי = 
+אֲמַר = say
+יְיָ = Did Elohim
+? check: Aramaic with no English: אֲרֵי · English with no Aramaic: -
+= same
+= same
+
+@ 3:5
+E: For <b>it is revealed before</b> Elohim (knows)
+אֲרֵי = 
+גַּלֵּי = For it is revealed before Elohim knows
+קֳדָם = 
+יְיָ = 
+? check: Aramaic with no English: אֲרֵי קֳדָם יְיָ · English with no Aramaic: -
+= same
+= same
+E: and you will become as <b>great ones</b>,
+וּתְהוֹן = and you will become
+כְּרַבְרְבִין = as great ones
+= same
+
+@ 3:6
+E: The woman saw that the tree was good for food, and that it was <b>healing</b> to the eyes, and that the tree was <b>to look at</b> as a means of [obtaining] wisdom.
+וַחֲזַת = saw
+אִתְּתָא = The woman
+אֲרֵי = 
+טַב = was good
+אִילַן = that the tree
+לְמֵיכָל = for food
+וַאֲרֵי = 
+אַסֵּי = that it was healing
+הוּא = 
+לְעַיְנִין = to the eyes
+וּמְרַגֵּג = 
+אִילָנָא = that the tree
+לְאִסְתַּכָּלָא = was to look
+בֵהּ = 
++ and
++ and
++ at
++ as
++ a
++ means
++ of
++ obtaining
++ wisdom
+? check: Aramaic with no English: אֲרֵי וַאֲרֵי הוּא וּמְרַגֵּג בֵהּ · English with no Aramaic: means obtaining wisdom
+= same
+= same
+
+@ 3:8
+E: They heard the voice of <b>the Word of</b> Adonoy Elohim moving in the Garden at the <b>in the evening</b> of the day.
+וּשְׁמָעוּ = They heard
+יָת = 
+קַל = the voice
+מֵימְרָא = of the Word of Adonoy Elohim
+דַּיְיָ = 
+אֱלֹהִים = 
+מְהַלֵּךְ = 
+בְּגִינְתָא = in the Garden
+לִמְנַח = at the in the evening of the day
+יוֹמָא = 
++ moving
+? check: Aramaic with no English: דַּיְיָ אֱלֹהִים מְהַלֵּךְ יוֹמָא · English with no Aramaic: moving
+= same
+= same
+
+@ 3:10
+E: He said, I heard Your <b>the voice of Your Word</b> in the Garden,
+וַאֲמַר = He said
+יָת = 
+קַל = Your the voice
+מֵימְרָךְ = of Your Word
+שַׁמְעִית = I heard
+בְּגִינְתָא = in the Garden
+= same
+
+@ 3:15
+= same
+= same
+= same
+E: and you shall. <b>He will remember you, what you did to him from the beginning, and you will expect him at the end</b>.
+וְאַתְּ = 
+תְּהֵא = 
+נָטִיר = 
+לֵהּ = 
+לְסוֹפָא = him at the end
++ and
++ you
++ shall
++ He
++ will
++ remember
++ you
++ what
++ you
++ did
++ to
++ him
++ from
++ the
++ beginning
++ and
++ you
++ will
++ expect
+? check: Aramaic with no English: וְאַתְּ תְּהֵא נָטִיר לֵהּ · English with no Aramaic: remember what beginning expect
+
+@ 3:17
+= same
+= same
+= same
+= same
+= same
+E: In <b>With toil</b> you shall eat from it
+בַּעֲמַל = In With toil
+תִּיכְלִינַהּ = you shall eat
++ from
++ it
+= same
+
+@ 3:19
+= same
+= same
+E: for from it [the ground] were you <b>created</b>.
+דְּמִנַּהּ = 
+אִתְבְּרֵיתָא = were you created
++ for
++ from
++ it
++ the
++ ground
+? check: Aramaic with no English: דְּמִנַּהּ · English with no Aramaic: ground
+= same
+= same
+
+@ 3:20
+= same
+E: because she had become the mother of all <b>people</b>.
+אֲרֵי = because
+הִיא = 
+הֲוַת = she had become
+אִמָּא = the mother
+דְכָל = 
+בְּנֵי = 
+אֱנָשָׁא = 
++ of
++ all
++ people
+? check: Aramaic with no English: הִיא דְכָל בְּנֵי אֱנָשָׁא · English with no Aramaic: people
+
+@ 3:21
+E: And Adonoy Elohim made for Adam and his wife <b>garments of honor on the skin of their flesh</b> and He clothed them.
+וַעֲבַד = made
+יְיָ = Adonoy Elohim
+אֱלֹהִים = 
+לְאָדָם = for Adam
+וּלְאִתְּתֵהּ = and his wife
+לְבוּשִׁין = garments
+דִּיקָר = of honor
+עַל = 
+מְשַׁךְ = on the skin
+בִּשְׂרֵיהוֹן = of their flesh
+וְאַלְבִּישִׁינוּן = and He clothed
++ And
++ them
+? check: Aramaic with no English: אֱלֹהִים עַל · English with no Aramaic: -
+
+@ 3:22
+E: Adonoy Elohim said, Behold, the man has become <b>unique. It is for him</b>
+וַאֲמַר = said
+יְיָ = Adonoy Elohim
+אֱלֹהִים = 
+הָא = Behold
+אָדָם = the man
+הֲוָה = has become
+יְחִידַי = unique
+בְּעַלְמָא = 
+מִנֵּהּ = 
++ It
++ is
++ for
++ him
+? check: Aramaic with no English: אֱלֹהִים בְּעַלְמָא מִנֵּהּ · English with no Aramaic: -
+= same
+= same
+= same
+
+@ 3:23
+= same
+= same
+E: from which he was <b>created</b>.
+דְּאִתְבְּרִי = from which he was created
+מִתַּמָּן = 
+? check: Aramaic with no English: מִתַּמָּן · English with no Aramaic: -
+
+@ 3:24
+= same
+E: and at the <b>before</b> the Garden of Eden He stationed the Cherubim and the flame of the rotating sword,
+וְאַשְׁרֵי = He stationed
+מִלְּקַדְמִין = at the before
+לְגִינְתָא = the Garden
+דְעֵדֶן = of Eden
+יָת = 
+כְּרוּבַיָּא = the Cherubim
+וְיָת = 
+שְׁנַן = 
+חַרְבָּא = sword
+דְּמִתְהַפְּכָא = 
++ and
++ and
++ the
++ flame
++ of
++ the
++ rotating
+? check: Aramaic with no English: שְׁנַן דְּמִתְהַפְּכָא · English with no Aramaic: flame rotating
+= same
+
+@ 4:1
+= same
+= same
+E: and she said, I have obtained a man with <b>the help of</b> Adonoy.
+וַאֲמֶרֶת = and she said
+קָנִיתִי = 
+גַּבְרָא = a man
+קֳדָם = 
+יְיָ = of Adonoy
++ I
++ have
++ obtained
++ with
++ the
++ help
+? check: Aramaic with no English: קָנִיתִי קֳדָם · English with no Aramaic: obtained help
+
+@ 4:4
+= same
+E: <b>There was favor before Adonoy</b> Adonoy paid regard
+וַהֲוַת = 
+רַעֲוָא = There was favor
+מִן = 
+קֳדָם = before
+יְיָ = Adonoy Adonoy
++ paid
++ regard
+? check: Aramaic with no English: וַהֲוַת מִן · English with no Aramaic: paid regard
+= same
+
+@ 4:5
+E: But to Kayin and his offering He <b>there was no favor</b>.
+וּבְּקַיִן = But to Kayin
+וּבְּקוּרְבָּנֵהּ = and his offering
+לָא = 
+הֲוַת = 
+רַעֲוָא = He there was no favor
+? check: Aramaic with no English: לָא הֲוַת · English with no Aramaic: -
+= same
+= same
+
+@ 4:7
+E: Is this not so—if you improve <b>your actions</b>, there is forgiveness <b>for you</b>,
+הֲלָא = 
+אִם = 
+תּוֹטִיב = Is this not so if you improve
+עוֹבָדָךְ = your actions
+יִשְׁתְּבֵק = there is forgiveness
+לָךְ = 
++ for
++ you
+? check: Aramaic with no English: הֲלָא אִם לָךְ · English with no Aramaic: -
+E: but if you do not improve <b>your actions</b>,
+וְאִם = 
+לָא = 
+תּוֹטִיב = but if you do not improve
+עוֹבָדָךְ = your actions
+? check: Aramaic with no English: וְאִם לָא · English with no Aramaic: -
+E: <b>your sin will be kept for the Day of Judgement</b>. Its,. <b>For in the future, it will be exacted from you if you do not repent. And if you repent, there is forgiveness.</b>
+לְיוֹם = for the Day
+דִּינָא = of Judgement
+חֶטְאָךְ = your sin
+נְטִיר = will be kept
+דִיעֲתִיד = 
+לְאִתְפָּרְעָא = it will be exacted
+מִנָּךְ = 
+אִם = 
+לָא = 
+תְתוּב = from you if you do not repent And if you repent
+וְאִם = 
+תְּתוּב = 
+יִשְׁתְּבֵק = there is forgiveness
+לָךְ = 
++ Its
++ For
++ in
++ the
++ future
+? check: Aramaic with no English: דִיעֲתִיד מִנָּךְ אִם לָא וְאִם תְּתוּב לָךְ · English with no Aramaic: future
+
+@ 4:10
+= same
+E: The voice of your <b>the blood of the descendants that were destined to come from your brother</b>
+קַל = The voice
+דַם = of your the blood
+זַרְעִין = 
+דִעֲתִידִין = that were destined
+לְמֵפַק = to come
+מִן = 
+אָחוּךְ = from your brother
++ of
++ the
++ descendants
+? check: Aramaic with no English: זַרְעִין מִן · English with no Aramaic: descendants
+E: <b>before</b> Me from the ground.
+קַבְלִין = 
+קֳדָמַי = before
+מִן = 
+אַרְעָא = 
++ Me
++ from
++ the
++ ground
+? check: Aramaic with no English: קַבְלִין מִן אַרְעָא · English with no Aramaic: ground
+
+@ 4:14
+= same
+E: and from Your <b>from before You it is impossible to be hidden</b>.
+וּמִן = 
+קֳדָמָךְ = from Your from before
+לֵית = 
+אֶפְשָׁר = 
+לְאִטַּמָּרָא = 
++ and
++ You
++ it
++ is
++ impossible
++ to
++ be
++ hidden
+? check: Aramaic with no English: וּמִן לֵית אֶפְשָׁר לְאִטַּמָּרָא · English with no Aramaic: impossible hidden
+= same
+= same
+
+@ 4:15
+= same
+E: <b>after seven generations</b> revenge will be taken on him [Kayin] sevenfold.
+לְשַׁבְעָא = seven
+דָּרִין = generations
+יִתְפְּרַע = 
+מִנֵּהּ = 
++ after
++ revenge
++ will
++ be
++ taken
++ on
++ him
++ Kayin
++ sevenfold
+? check: Aramaic with no English: יִתְפְּרַע מִנֵּהּ · English with no Aramaic: after revenge taken Kayin sevenfold
+= same
+= same
+
+@ 4:16
+= same
+E: and settled in the <b>in the land of exile and wandering</b>, <b>which was made for him before the Garden of Eden</b>.
+וִיתֵיב = and settled
+בְּאַרְעָא = in the in the land
+גָּלֵי = of exile
+וּמִטַּלְטַל = and wandering
+דַּהֲוָה = 
+עֲבִידָא = which was made
+עֲלוֹהִי = 
+מִלְּקַדְמִין = for him before
+דְּגִינְתָא = the Garden
+דְעֵדֶן = of Eden
+? check: Aramaic with no English: דַּהֲוָה עֲלוֹהִי · English with no Aramaic: -
+
+@ 4:20
+= same
+E: He was the <b>master</b> of those who live in tents, and breed cattle.
+הוּא = 
+הֲוָה = 
+רַבְּהוֹן = He was the master
+דְּיָתְבֵי = 
+מַשְׁכְּנִין = in tents
+וּמָרֵי = 
+בְעִיר = cattle
++ of
++ those
++ who
++ live
++ and
++ breed
+? check: Aramaic with no English: הוּא הֲוָה דְּיָתְבֵי וּמָרֵי · English with no Aramaic: live breed
+
+@ 4:21
+= same
+E: He was the <b>master</b> of all who handle [play] the harp and <b>who know the song of the lute and the</b> flute.
+הוּא = 
+הֲוָה = 
+רַבְּהוֹן = He was the master
+דְּכָל = 
+דִּמְנַגֵּן = play
+עַל = 
+פּוּם = 
+נִבְלָא = the harp
+יָדְעֵי = who know
+זְמַר = the song
+כִּנּוֹרָא = 
+וְאַבּוּבָא = and the flute
++ of
++ all
++ who
++ handle
++ and
++ of
++ the
++ lute
+? check: Aramaic with no English: הוּא הֲוָה דְּכָל עַל פּוּם כִּנּוֹרָא · English with no Aramaic: handle lute
+
+@ 4:22
+= same
+E: who <b>who was the master of all who know the craft of copper and iron</b>.
+רַבְּהוֹן = who who was the master
+דְכָל = 
+דְּיָדְעֵי = of all who know
+עִיבִידַת = 
+נְחָשָׁא = of copper
+וּפַרְזְלָא = and iron
++ the
++ craft
+? check: Aramaic with no English: דְכָל עִיבִידַת · English with no Aramaic: craft
+= same
+
+@ 4:23
+= same
+= same
+= same
+= same
+E: and a? <b>I did not kill a man, that on his account I should bear the sin, and I did not even wound a child, that on his account my seed should be cut off</b>.
+וְאַף = and I did not even
+לָא = 
+עוּלֵימָא = a man
+חַבָּלִית = 
+דִּבְדִילֵהּ = 
+יִשְׁתֵּיצֵי = 
+זַרְעִי = my seed
++ and
++ a
++ I
++ did
++ not
++ kill
++ that
++ on
++ his
++ account
++ I
++ should
++ bear
++ the
++ sin
++ wound
++ a
++ child
++ that
++ on
++ his
++ account
++ should
++ be
++ cut
++ off
+? check: Aramaic with no English: לָא חַבָּלִית דִּבְדִילֵהּ יִשְׁתֵּיצֵי · English with no Aramaic: kill account bear sin wound child account cut off
+
+@ 4:24
+E: If <b>If Kayin’s punishment shall be suspended for seven generations</b>,
+אֲרֵי = 
+שַׁבְעָא = for seven
+דָּרִין = generations
+אִיתְלִאוּ = shall be suspended
+לְקָיִן = If If Kayin’s
++ punishment
+? check: Aramaic with no English: אֲרֵי · English with no Aramaic: punishment
+E: then for Lemech, his son, it shall be <b>for seventy-seven generations</b>.
+הֲלָא = 
+לְלֶמֶךְ = 
+בְּרֵהּ = his son
+שַׁבְעִין = it shall be for seventy seven
+וְשַׁבְעָא = 
++ then
++ for
++ Lemech
++ generations
+? check: Aramaic with no English: הֲלָא לְלֶמֶךְ וְשַׁבְעָא · English with no Aramaic: Lemech generations
+
+@ 4:26
+= same
+= same
+E: Then men began to call [idols] <b>men stopped praying</b> by the name Adonoy.
+בְּכֵן = 
+בְּיוֹמוֹהִי = 
+חָלוּ = 
+בְנֵי = 
+אֱנָשָׁא = 
+מִלְּצַלָּאָה = praying
+בִּשְׁמָא = by the name
+דַּיְיָ = Adonoy
++ Then
++ men
++ began
++ to
++ call
++ idols
++ men
++ stopped
+? check: Aramaic with no English: בְּכֵן בְּיוֹמוֹהִי חָלוּ בְנֵי אֱנָשָׁא · English with no Aramaic: men began call idols men stopped
+
+@ 5:22
+E: Chanoch walked with <b>the fear of</b> Elohim, after he had Mesushelach,
+וְהַלִּיךְ = walked
+חֲנוֹךְ = Chanoch
+בְּדַחַלְתָּא = with the fear of Elohim
+דַּיְיָ = 
+בָּתַר = after
+דְּאוֹלִיד = 
+יָת = 
+מְתוּשֶׁלַח = 
++ he
++ had
++ Mesushelach
+? check: Aramaic with no English: דַּיְיָ דְּאוֹלִיד מְתוּשֶׁלַח · English with no Aramaic: Mesushelach
+= same
+= same
+
+@ 5:24
+E: Chanoch walked with <b>the fear of</b> Elohim,
+וְהַלִּיךְ = walked
+חֲנוֹךְ = Chanoch
+בְּדַחַלְתָּא = with the fear of Elohim
+דַּיְיָ = 
+? check: Aramaic with no English: דַּיְיָ · English with no Aramaic: -
+E: and he was no longer [there] for Elohim <b>put him to death</b>.
+וְלַיְתוֹהִי = 
+אֲרֵי = 
+אֲמֵית = 
+יָתֵהּ = 
+יְיָ = there for Elohim
++ and
++ he
++ was
++ no
++ longer
++ put
++ him
++ to
++ death
+? check: Aramaic with no English: וְלַיְתוֹהִי אֲרֵי אֲמֵית יָתֵהּ · English with no Aramaic: longer put death
+
+@ 5:29
+= same
+E: This one will <b>toil</b> of our hands,
+דֵּין = 
+יְנַחֲמִנָּנָא = 
+מֵעוֹבָדָנָא = 
+וּמִלֵּאוּת = This one will toil
+יְדָנָא = of our hands
+? check: Aramaic with no English: דֵּין יְנַחֲמִנָּנָא מֵעוֹבָדָנָא · English with no Aramaic: -
+= same
+
+@ 6:2
+= same
+= same
+E: from <b>wanted</b>.
+מִכֹּל = 
+דִּי = 
+אִתְרְעִיאוּ = from wanted
+? check: Aramaic with no English: מִכֹּל דִּי · English with no Aramaic: -
+
+@ 6:3
+E: Adonoy said, My <b>this evil generation shall not exist before me forever</b>,
+וַאֲמַר = said
+יְיָ = Adonoy
+לָא = 
+יִתְקַיַם = 
+דָרָא = generation
+בִישָׁא = My this evil
+הָדֵין = 
+קֳדָמַי = before
+לְעַלָם = me forever
++ shall
++ not
++ exist
+? check: Aramaic with no English: לָא יִתְקַיַם הָדֵין · English with no Aramaic: exist
+E: <b>since they are flesh and their deeds are evil</b>.
+בְּדִיל = 
+דְאִנוּן = since
+בִּשְׂרָא = they are flesh
+וְעוֹבָדֵיהוֹן = and their deeds
+בִּישַׁיָא = are evil
+? check: Aramaic with no English: בְּדִיל · English with no Aramaic: -
+E: His <b>I will give them a period of a hundred and twenty years for them to repent</b>.
+אַרְכָא = 
+יְהִיבַת = His I will give
+לְהוֹן = 
+מְאָה = of a hundred
+וְעַשְׂרִין = and twenty
+שְׁנִין = years
+אִם = 
+יְתוּבוּן = for them to repent
++ them
++ a
++ period
+? check: Aramaic with no English: אַרְכָא לְהוֹן אִם · English with no Aramaic: period
+
+@ 6:6
+E: Adonoy was <b>regretted in His Word</b>
+וְתַב = was regretted
+יְיָ = Adonoy
+בְּמֵימְרֵהּ = in His Word
+= same
+E: and He <b>and He said with His word to break their strength in accordance with His Will</b>.
+וַאֲמַר = and He said
+בְּמֵימְרֵהּ = with His word
+לְמִתְּבַר = to break
+תָּקְפְּהוֹן = their strength
+כִּרְעוּתֵהּ = in accordance
++ and
++ He
++ with
++ His
++ Will
+
+@ 6:7
+= same
+= same
+= same
+E: for I regret <b>with My word</b> that I made them.
+אֲרֵי = 
+תָבִית = for I regret
+בְּמֵימְרִי = with My word
+אֲרֵי = 
+עֲבַדְתִּנוּן = that I made
++ them
+? check: Aramaic with no English: אֲרֵי אֲרֵי · English with no Aramaic: -
+
+@ 6:8
+E: But Noach found <b>mercy</b> in the <b>before</b> Adonoy.
+וְנֹחַ = But Noach
+אַשְׁכַּח = found
+רַחֲמִין = mercy
+קֳדָם = in the before
+יְיָ = Adonoy

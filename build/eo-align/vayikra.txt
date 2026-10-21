@@ -1,0 +1,287 @@
+# "As Onkelos reads it", parsha Vayikra
+
+@ 1:2
+= same
+E: [if] a man among you will bring an offering <b>before</b> Adonoy;
+M: a man | - | will bring | among you | an offering | before | Adonoy
++ if
+
+@ 1:6
+= same
+E: and cut it into its <b>limbs</b>.
+M: and cut | it | into its limbs
+
+@ 1:8
+= same
+E: shall arrange the <b>limbs</b>,
+M: shall arrange | the limbs
+
+@ 1:9
+= same
+= same
+E: [for the purpose of] a burnt-offering, <b>an offering which is accepted with favor before</b> Adonoy.
+M: a burnt-offering | an offering | which is accepted | with favor | before | Adonoy
++ for the purpose of
+
+@ 1:12
+E: He shall sever it into its <b>limbs</b> —
+M: He shall sever | it | into its limbs
+
+@ 1:13
+= same
+= same
+E: It is a burnt-offering; <b>an offering which is accepted with favor before</b> Adonoy.
+M: a burnt-offering | It is | an offering | which is accepted | with favor | before | Adonoy
+
+@ 1:14
+E: If his burnt-offering <b>before</b> Adonoy is of fowl,
+M: If | is of | fowl | burnt-offering | his | before | Adonoy
+
+@ 1:16
+E: He shall remove its crop [together] with its <b>excrement</b>
+M: He shall remove | - | its crop | with its excrement
++ together
+= same
+E: to the place <b>where they throw</b> the ashes.
+M: to the place | where they throw | the ashes
+
+@ 1:17
+= same
+= same
+= same
+E: it is a burnt-offering, <b>an offering which is accepted with favor before</b> Adonoy.
+M: a burnt-offering | it is | an offering | which is accepted | with favor | before | Adonoy
+
+@ 2:1
+E: When a person brings a meal-offering <b>before</b> Adonoy,
+M: a person | When | brings | - | a meal-offering | before | Adonoy
+
+@ 2:2
+= same
+= same
+= same
+= same
+E: <b>an offering which is accepted with favor before</b> Adonoy.
+M: an offering | which is accepted | with favor | before | Adonoy
+
+@ 2:3
+= same
+= same
+E: [it is] holy of holies of the <b>offerings</b> of Adonoy.
+M: holy | of holies | of the offerings | of Adonoy
++ it is
+
+@ 2:7
+E: If your offering is a deep-pan <b>which appears as if it has been ploughed out</b> meal offering,
+M: If | meal offering | a deep-pan which appears as if it has been ploughed out | your offering is
+
+@ 2:8
+E: You shall bring the meal-offering that will be made in any of the aforementioned ways <b>before</b> Adonoy.
+M: You shall bring | - | the meal-offering | that | will be made | in any of the aforementioned ways | before | Adonoy
+
+@ 2:9
+= same
+= same
+E: <b>an offering which is accepted with favor before</b> Adonoy.
+M: an offering | which is accepted | with favor | before | Adonoy
+
+@ 2:10
+= same
+= same
+E: [it is] holy of holies [most holy] of the <b>offerings</b> of Adonoy.
+M: holy | of holies | of the offerings | of Adonoy
++ it is
++ most holy
+
+@ 2:11
+E: All meal-offerings that you bring <b>before</b> Adonoy
+M: All | meal-offerings | that | you bring | before | Adonoy
+= same
+= same
+E: you shall not burn from them <b>an offering before</b> Adonoy.
+M: not | you shall burn | from them | an offering | before | Adonoy
+
+@ 2:12
+E: You shall bring them as a first [fruit-]offering <b>before</b> Adonoy
+M: as offering | a first fruit | You shall bring | them | before | Adonoy
+E: but they shall not go up [be placed atop] the altar <b>to be accepted with favor</b>.
+M: but the altar | not | they shall go up | to be accepted | with favor
++ be placed atop
+
+@ 2:14
+E: When you bring a meal-offering of first grains <b>before</b> Adonoy,
+M: When | you bring | a meal-offering of | first grains | before | Adonoy
+E: of newly ripened crops, roasted over fire, ground <b>soft</b> kernels,
+M: of newly ripened crops | roasted | over fire | ground kernels | soft
+
+@ 2:16
+= same
+= same
+E: [it is] <b>an offering before</b> Adonoy.
+M: an offering | before | Adonoy
++ it is
+
+@ 3:1
+E: If his offering is a <b>sacred</b>-offering;
+M: If | a … offering | sacred | his offering is
+
+@ 3:3
+E: He shall bring from the <b>sacred</b>-offering,
+M: He shall bring | from the … offering | sacred
+E: as <b>an offering before</b> Adonoy,
+M: as an offering | before | Adonoy
+
+@ 3:5
+= same
+= same
+E: <b>an offering which is accepted with favor before</b> Adonoy.
+M: an offering | which is accepted | with favor | before | Adonoy
+
+@ 3:6
+E: If his offering is of sheep as a <b>sacred</b>-offering <b>before</b> Adonoy,
+M: If | of | sheep | his offering is | as a … offering | sacred | before | Adonoy
+
+@ 3:9
+E: He shall bring of the <b>sacred</b>-offering as <b>an offering before</b> Adonoy,
+M: He shall bring | of the … offering | sacred | as an offering | before | Adonoy
+
+@ 3:11
+= same
+E: it is the food of the <b>offering before</b> Adonoy.
+M: it is the food | of the offering | before | Adonoy
+
+@ 3:14
+= same
+E: as <b>an offering before</b> Adonoy,
+M: as an offering | before | Adonoy
+
+@ 3:16
+= same
+E: the food of the <b>offering to be accepted with favor</b>;
+M: the food | of the offering | to be accepted | with favor
+E: all fat [belongs] <b>before</b> Adonoy.
+M: all | fat | before | Adonoy
++ belongs
+
+@ 4:2
+= same
+= same
+E: which <b>is</b> not <b>fitting to</b> be done
+M: which | not | is fitting | to be done
+
+@ 4:3
+E: If the kohein <b>gadol</b> should sin to bring guilt on the people,
+M: If | the kohein | gadol | should sin | to bring guilt on | the people
+E: he shall bring for his sin which he committed a young, unblemished bullock <b>before</b> Adonoy, as a sin-offering.
+M: he shall bring | for | his sin | which | he committed | a bullock | young | ^ | unblemished | before | Adonoy | as a sin-offering
+
+@ 4:5
+E: The kohein <b>gadol</b> shall take some of the bullocks blood
+M: shall take | The kohein | gadol | some of the blood | bullocks
+
+@ 4:10
+= same
+E: they were separated from the ox of the <b>sacred</b>-offering.
+M: they were separated | from the ox | of the … offering | sacred
+
+@ 4:12
+E: He shall take out the entire bullock beyond the encampment, to a pure [undefiled] place, <b>to the place</b> where the ashes are thrown
+M: He shall take out | - | the entire | bullock | beyond | the encampment | to a place | pure | to the place | ^ | where are thrown | the ashes
++ undefiled
+= same
+E: It shall be burned <b>at the place</b> where the ashes are thrown.
+M: at | the place | ^ | where are thrown | the ashes | It shall be burned
+
+@ 4:13
+= same
+= same
+= same
+E: and they did [transgress] one of the commandments of Adonoy that <b>is</b> not <b>fitting to</b> be done, they incur guilt.
+M: and they did | one | of | the commandments | of Adonoy | that | not | is fitting | to be done | they incur guilt
++ transgress
+
+@ 4:16
+E: The kohein <b>gadol</b> shall bring some of the bullocks blood
+M: shall bring | The kohein | gadol | some of | the blood | bullocks
+
+@ 4:22
+= same
+E: [who] transgresses one of the commandments of Adonoy, his God, that <b>is</b> not <b>fitting to</b> be done, [if he transgressed] unwittingly and incurs guilt.
+M: transgresses | one | of | the commandments | of Adonoy | his God | that | not | is fitting | to be done | unwittingly | and incurs guilt
++ who
++ if he transgressed
+
+@ 4:26
+= same
+E: as [he burned] the fat of the <b>sacred</b>-offering.
+M: as the fat | of the … offering | sacred
++ he burned
+
+@ 4:27
+= same
+E: by transgressing one of the commandments of Adonoy that <b>is</b> not <b>fitting to</b> be done and he incurs guilt,
+M: by transgressing | one | of the commandments | of Adonoy | that | not | is fitting | to be done | and he incurs guilt
+
+@ 4:31
+E: He shall remove all its fat in the same manner as was removed the fat from the <b>sacred</b>-offering.
+M: - | all | its fat | He shall remove | in the same manner as | ^ | was removed | the fat | from | the … offering | sacred
+= same
+E: <b>to be accepted with favor before</b> Adonoy.
+M: to be accepted | with favor | before | Adonoy
+
+@ 4:35
+E: He shall remove all its fat in the same manner as was removed the fat of the lamb of the <b>sacred</b>-offering.
+M: - | all | its fat | He shall remove | in the same manner as | ^ | was removed | the fat of | the lamb | of the … offering | sacred
+= same
+E: on the <b>offerings</b> of Adonoy.
+M: on | the offerings | of Adonoy
+
+@ 5:6
+E: He shall bring his guilt-offering <b>before</b> Adonoy for his sin that he committed a female of the sheep, a lamb or a she-goat as a sin-offering.
+M: He shall bring | - | his guilt-offering | before | Adonoy | for | his sin | that | he committed | a female | of | the sheep | a lamb | or | a she-goat | ^ | as a sin-offering
+
+@ 5:7
+= same
+E: then he shall bring for his guilt-offering, — [he] who has sinned, — two turtledoves or two young pigeons <b>before</b> Adonoy
+M: then he shall bring | - | for his guilt-offering | who | has sinned | two | turtledoves | or | two | young | pigeons | before | Adonoy
++ he
+
+@ 5:11
+= same
+E: he shall bring as his offering, — [he] who has sinned, — one tenth of <b>three se’in</b> of fine flour as a sin-offering.
+M: he shall bring | - | as his offering | who | has sinned | one | - | tenth | of three | se’in | of fine flour | as a sin-offering
++ he
+
+@ 5:12
+= same
+= same
+E: on the <b>offerings</b> of Adonoy;
+M: on | the offerings | of Adonoy
+
+@ 5:15
+E: If a person <b>lies falsely</b>
+M: a person | If | lies | falsely
+= same
+= same
+E: he shall bring his guilt-offering <b>before</b> Adonoy, an unblemished ram, from the sheep, based on the valuation of holy silver <b>selaim</b>, for a guilt-offering.
+M: he shall bring | - | his guilt-offering | before | Adonoy | ram | an unblemished | from | the sheep | based on the valuation | of silver | selaim | holy | ^ | for a guilt-offering
+
+@ 5:17
+= same
+= same
+E: that <b>is</b> not <b>fitting to</b> be done,
+M: that | not | is fitting | to be done
+
+@ 5:19
+= same
+E: <b>which he committed; he shall bring a guilt-offering</b> before Adonoy.
+M: which | he committed | a guilt-offering | he shall bring | before | Adonoy
+
+@ 5:21
+= same
+E: and <b>lies falsely before</b> Adonoy
+M: and lies | falsely | before | Adonoy
+
+@ 5:25
+E: He shall bring his guilt-offering <b>before</b> Adonoy
+M: - | his guilt-offering | He shall bring | before | Adonoy

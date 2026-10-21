@@ -42,7 +42,7 @@
   --f-rashi: "Mekorot Rashi", "Noto Rashi Hebrew", "Noto Serif Hebrew", serif;
   --rashi-bg: #f1f3f0;
   /* typography + spacing knobs (driven live by the Typography panel) */
-  --heb-font: var(--f-heb); --heb-size: 2.2rem; --heb-lh: 1.25; --heb-w: 600;
+  --heb-font: var(--f-heb); --heb-size: 1.85rem; --heb-lh: 1.25; --heb-w: 600;
   --tg-font: var(--f-heb); --tg-size: 1.55rem; --tg-lh: 1.35; --tg-w: 600;
   --en-font: var(--f-eng); --en-size: 1.26rem; --en-lh: 1.55; --en-w: 400;
   --rashi-font: var(--f-rashi); --rashi-size: 1.12rem; --rashi-lh: 1.35; --rashi-w: 400; --rashi-cols: 3;
@@ -62,10 +62,24 @@ body { background: var(--bg); color: var(--ink); font-family: var(--f-ui); }
   padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 
 header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 16px; margin-bottom: 24px; }
-.controls { display: flex; gap: 8px; flex-wrap: wrap; }
+.controls { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.seg { display: contents; }
+.controls { gap: 5px; }
+.en-pair { display: inline-flex; }
+.controls .seg button, .controls .seg select { font-size: .8rem; padding: 4px 9px; border-radius: 999px; }
+.controls .seg button[aria-pressed="true"] { background: color-mix(in srgb, var(--targum) 10%, var(--surface)); }
+.en-pair #t-en { border-start-end-radius: 0; border-end-end-radius: 0; }
+.en-pair select { border-start-start-radius: 0 !important; border-end-start-radius: 0 !important; border-left: 0 !important; padding-right: 6px !important; color: var(--targum) !important; border-color: var(--targum) !important; }
+.no-en .en-pair #t-en { border-radius: 999px; }
+.controls .ic { font-size: .8rem; font-weight: 600; width: 30px; height: 28px; padding: 0; display: inline-grid; place-items: center; border-radius: 999px; border-color: var(--rule); color: var(--muted); }
+.controls .ic:hover, .controls .ic[aria-expanded="true"] { color: var(--targum); border-color: var(--targum); }
 .controls button { font: inherit; font-size: .85rem; border: 1px solid var(--rule); background: var(--surface); color: var(--ink);
   padding: 6px 12px; border-radius: 6px; cursor: pointer; }
 .controls button[aria-pressed="true"] { border-color: var(--targum); color: var(--targum); }
+.controls select { font: inherit; font-size: .85rem; border: 1px solid var(--rule); background: var(--surface); color: var(--ink);
+  padding: 6px 8px; border-radius: 6px; cursor: pointer; }
+.controls select:focus-visible { outline: 2px solid var(--targum); outline-offset: 2px; }
+.no-en #t-enmode { display: none; }
 .controls button:focus-visible { outline: 2px solid var(--targum); outline-offset: 2px; }
 
 .colhead, .clause { display: grid; grid-template-columns: var(--col-heb) var(--col-tg) var(--col-en); gap: var(--col-gap); }
@@ -93,14 +107,14 @@ header { display: flex; flex-wrap: wrap; justify-content: space-between; align-i
 /* floating bar: book/chapter/verse + toggles + column labels */
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
 .bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--rule); padding-top: 10px; }
-.bar header { margin-bottom: 8px; align-items: center; }
+.bar header { margin-bottom: 6px; align-items: center; row-gap: 8px; }
 .where { font-family: var(--f-heb); font-size: 1.25rem; font-weight: 600; display: flex; gap: .5em; align-items: baseline; flex-wrap: wrap; }
 .where .book { color: var(--muted); font-weight: 500; }
 .where .pasuk { color: var(--targum); }
 .where select { font: inherit; font-weight: 700; color: var(--ink); background: transparent; border: 0; border-bottom: 1px dashed var(--muted); padding: 0 .1em; cursor: pointer; }
 .where select:focus-visible { outline: 2px solid var(--targum); outline-offset: 2px; }
 .goto { display: inline-flex; align-items: center; gap: 2px; margin-inline-start: .4em; }
-.goto input { font: inherit; font-size: .8em; font-weight: 500; width: 7.5em; color: var(--ink); background: transparent; border: 1px solid var(--rule); border-radius: 6px; padding: 2px 6px; }
+.goto input { font: inherit; font-size: .8em; font-weight: 500; width: 5.5em; color: var(--ink); background: transparent; border: 1px solid var(--rule); border-radius: 6px; padding: 2px 6px; }
 .goto input:focus { outline: 2px solid var(--targum); outline-offset: 1px; }
 .goto input.bad { border-color: #c0392b; outline-color: #c0392b; }
 .vtools { display: flex; gap: 8px; justify-content: flex-end; align-items: center; padding: 0 14px 8px; font-family: var(--f-ui); font-size: .78rem; }
@@ -126,7 +140,29 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .rep-act { display: flex; justify-content: flex-end; gap: 8px; }
 .rep-act button { font: inherit; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: 8px; padding: 7px 14px; cursor: pointer; }
 .rep-act .pri { background: var(--targum); border-color: var(--targum); color: var(--surface); font-weight: 600; }
-@media print { .vtools, .orig, .rep-pop { display: none !important; } }
+.en .add { color: var(--muted); }
+/* word by word: a drop-down under each Targum line, shown when the "Word by word" setting is on */
+.wbd, .wbn, .wbx { display: none; }
+.wbw-on.no-en .cell.en:has(.wbx) { display: block; grid-column: 1 / -1; }
+.no-en .cell.en .en-txt, .no-en .cell.en .lbl { display: none; }
+.no-en .wbx { max-width: 560px; }
+.wbw-on .wbx { display: block; font-size: 1rem; line-height: 1.4; }
+.wbw-on .wbd { display: block; }
+.wbw-on .wbn { display: block; }
+.wbd { margin-top: 8px; font-weight: 400; font-family: var(--f-ui); font-size: .85rem; direction: ltr; text-align: left; }
+.wbd summary { cursor: pointer; color: var(--targum); font-size: .82rem; }
+.wbd summary span { color: var(--muted); }
+.wbd .tw-wrap { overflow-x: auto; }
+.wbd table { border-collapse: collapse; margin-top: 6px; width: 100%; }
+.wbd td, .wbd th { border-bottom: 1px solid var(--rule); padding: 4px 8px; text-align: left; vertical-align: top; line-height: 1.4; }
+.wbd th { color: var(--muted); font-weight: 500; font-size: .74rem; }
+.wbd td.a { font-family: var(--tg-font); font-size: 1.12rem; text-align: right; white-space: nowrap; color: var(--targum); direction: rtl; }
+.wbd .nt { color: var(--muted); font-style: italic; font-size: .78rem; }
+.wbd tr.plus td { color: var(--muted); }
+.wbn { margin: 8px 0 0; padding-left: 18px; font-weight: 400; font-family: var(--f-ui); font-size: .82rem; line-height: 1.45; color: var(--ink); direction: ltr; text-align: left; }
+.wbn li { margin: 3px 0; }
+.wbn li::marker { color: #c08a2c; }
+@media print { .wbd, .wbn, .vtools, .orig, .rep-pop { display: none !important; } }
 .tw { cursor: pointer; border-radius: 3px; }
 .tw:hover, .tw.on { background: var(--mark); box-shadow: 0 0 0 2px var(--mark); }
 .gl-pop { position: fixed; inset: auto 0 0 0; z-index: 45; display: flex; justify-content: center; padding: 0 12px calc(12px + env(safe-area-inset-bottom, 0px)); pointer-events: none; }
@@ -208,7 +244,7 @@ mark { background: var(--mark); color: var(--mark-ink); border-radius: 3px; padd
 .no-tg.no-en .clause, .no-tg.no-en .colhead { grid-template-columns: 1fr; }
 body.stacked .colhead { display: none; }
 body.stacked .clause { grid-template-columns: 1fr !important; gap: calc(var(--col-gap) / 4); }
-body.stacked .lbl { display: block; }
+body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
 
 /* Typography panel */
 .tp-open { font: inherit; font-size: .85rem; border: 1px solid var(--targum); background: var(--surface); color: var(--targum); padding: 6px 12px; border-radius: 6px; cursor: pointer; }
@@ -234,7 +270,7 @@ body.stacked .lbl { display: block; }
   .colhead { display: none; }
   .clause, .no-tg .clause, .no-en .clause { grid-template-columns: 1fr; gap: 6px; padding: 14px 16px; }
   .where { font-size: 1.1rem; }
-  .lbl { display: block; }
+  .lbl { display: none !important; }
   .heb { font-size: calc(var(--heb-size) * .9); }
   .rashi { padding: 12px 16px 14px; }
   .tg { font-size: calc(var(--tg-size) * .92); }
@@ -246,12 +282,19 @@ body.stacked .lbl { display: block; }
   <header>
     <div class="where"><select class="book" id="sefer-sel" aria-label="Sefer"></select><span class="sep">·</span><span class="par"><select id="par-sel" aria-label="Parsha"></select></span><span class="sep">·</span><select class="al" id="al-sel" aria-label="Aliyah"></select><span class="sep">·</span><select id="pe-sel" aria-label="Perek"></select><select class="pasuk" id="pa-sel" aria-label="Pasuk"></select><form class="goto" id="goto" role="search"><input id="goto-in" type="search" placeholder="לב:יג" aria-label="Go to pasuk, e.g. 32:13, לב יג or Vayechi 49:11" autocomplete="off" enterkeyhint="go"><button type="submit" aria-label="Go">←</button></form></div>
     <div class="controls" dir="ltr">
-      <button id="t-trope" type="button" aria-pressed="true">Te'amim</button>
-      <button id="t-tg" type="button" aria-pressed="true">Targum</button>
-      <button id="t-en" type="button" aria-pressed="true">English</button>
-      <button id="t-rashi" type="button" aria-pressed="true">Rashi</button>
-      <button id="t-panel" class="tp-open" type="button" aria-expanded="false" aria-controls="tp">Typography</button>
-      <button id="t-export" class="tp-open" type="button" aria-expanded="false" aria-controls="xp">Export</button>
+      <div class="seg" role="group" aria-label="Show">
+        <button id="t-trope" type="button" aria-pressed="true" title="Show the te'amim (cantillation marks)">Te'amim</button>
+        <button id="t-tg" type="button" aria-pressed="true" title="Show Targum Onkelos">Targum</button>
+        <span class="en-pair"><button id="t-en" type="button" aria-pressed="true" title="Show the English">English</button><select id="t-enmode" aria-label="Which English" title="Which English: Combined = the plain verse with Onkelos's wording in [brackets] · Plain = the verse as the Hebrew reads · Onkelos = the English as Onkelos reads it">
+          <option value="both" title="The plain verse, with Onkelos's wording in [brackets]">Combined</option>
+          <option value="plain" title="The verse as the Hebrew reads (Metsudah)">Plain</option>
+          <option value="onk" title="The English as Onkelos reads it">Onkelos</option>
+        </select></span>
+        <button id="t-rashi" type="button" aria-pressed="true" title="Show Rashi">Rashi</button>
+        <button id="t-wbw" type="button" aria-pressed="false" title="Word-by-word table and notes under each Targum line">Word by word</button>
+      </div>
+      <button id="t-panel" class="tp-open ic" type="button" aria-expanded="false" aria-controls="tp" aria-label="Typography" title="Typography: fonts, sizes, layout">Aa</button>
+      <button id="t-export" class="tp-open ic" type="button" aria-expanded="false" aria-controls="xp" aria-label="Export" title="Export a PDF"><svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
     </div>
   </header>
 
@@ -419,6 +462,45 @@ const twrap1 = html => html.replace(/[\u05d0-\u05ea](?:[\u0591-\u05c7\u05d0-\u05
   if (o > c) { core = core + "</mark>"; post = "<mark>"; }
   return `${lead}${pre}<span class="tw" role="button" tabindex="0">${core}</span>${post}${trail}`;
 });
+// ----- Which English: combined (as printed), plain verse (Onkelos brackets taken out), or as Onkelos reads it -----
+let EN_MODE = "both";
+try { const m = localStorage.getItem("bt-enmode"); if (["both", "plain", "onk"].includes(m)) EN_MODE = m; } catch (e) {}
+// a bracket whose wording is Onkelos's (bold) is taken out; brackets the translator added for clarity stay
+const plainEn = s => s.replace(/\s*\[<b>(?:(?!\]).)*?<\/b>\]/g, "").replace(/\s+([,.;:!?’”])/g, "$1").replace(/\s{2,}/g, " ").trim();
+function enText(v, j){
+  const e = v.e[j] || "";
+  if (EN_MODE === "plain") return plainEn(e);
+  if (EN_MODE === "onk" && v.eo) return (v.eo[j] || "").replace(/\{([^}]*)\}/g, '<span class="add" title="added for readability">{$1}</span>');
+  return e;   // combined, or a pasuk not yet done for "as Onkelos reads it"
+}
+// ----- Word by word: a drop-down under each Targum line -----
+// Where "as Onkelos reads it" was worked out word by word (v.ea), it shows that match and the notes on it;
+// elsewhere it shows each word's meaning from the glossary.
+const escH = t => String(t).replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+function wbdHTML(v, j){
+  const a = v.ea && v.ea[j];
+  const notes = a && a.notes.length ? `<ul class="wbn">${a.notes.map(n => `<li>${escH(n)}</li>`).join("")}</ul>` : "";
+  return `<details class="wbd" data-j="${j}"><summary>${a ? "Onkelos word by word" : "Word by word"}</summary><div class="wbd-body"></div></details>${notes}`;
+}
+async function fillWbd(det){
+  const body = det.querySelector(".wbd-body"); if (body.dataset.done) return;
+  const sec = det.closest(".verse"), v = VERSES[+sec.dataset.i], j = +det.dataset.j, a = v.ea && v.ea[j];
+  if (a) {
+    const rows = a.map.map(([w, e]) => `<tr><td class="a">${escH(w)}</td><td>${e ? escH(e) : '<span class="nt">not translated</span>'}</td></tr>`).join("")
+      + a.plus.map(p => `<tr class="plus"><td class="a">—</td><td>${escH(p)} <span class="nt">English only</span></td></tr>`).join("");
+    body.innerHTML = `<div class="tw-wrap"><table><thead><tr><th>Targum</th><th>English used</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+    body.dataset.done = 1; return;
+  }
+  body.innerHTML = '<span class="nt">Loading…</span>';
+  let d; try { d = await loadGloss(v.pr); } catch (e) { body.innerHTML = '<span class="nt">Couldn\'t load the glossary. Check your connection.</span>'; return; }
+  const at = (d.at || {})[v.c + ":" + v.v] || {};
+  const words = [...det.closest(".clause").querySelector(".cell.tg").querySelectorAll(".tw")].filter(w => !w.closest(".alt") && !w.closest(".wbd"));
+  const rows = words.map(w => { const g = at[gnorm(w.textContent)] || d.forms[gnorm(w.textContent)];
+    return `<tr><td class="a">${escH(w.textContent)}</td><td>${g ? escH(g.here) : '<span class="nt">not in the glossary yet</span>'}</td></tr>`; }).join("");
+  body.innerHTML = `<div class="tw-wrap"><table><thead><tr><th>Targum</th><th>Meaning here</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+  body.dataset.done = 1;
+}
+document.addEventListener("toggle", ev => { if (ev.target.classList && ev.target.classList.contains("wbd") && ev.target.open) fillWbd(ev.target); }, true);
 function verseHTML(i, trope, par, tools){
   const v = VERSES[i], a = alOf(i, par);
   const rows = v.h.map((h,j) => {
@@ -426,7 +508,7 @@ function verseHTML(i, trope, par, tools){
     return `<div class="clause">
       <div class="cell heb"><div class="lbl">מקרא</div>${j===0?`${a?`<span class="al-in">(${a})</span>`:''}<span class="vn">${v.n}:</span>`:''}${heb}${(v.p && j===v.h.length-1)?`<span class="pet">{${v.p}}</span>`:''}</div>
       <div class="cell tg"><div class="lbl">תרגום</div>${tools && glossHas(v) ? twrap(mk(v.t[j]||"")) : mk(v.t[j]||"")}</div>
-      <div class="cell en"><div class="lbl">ENGLISH</div>${mk(v.e[j]||"")}</div>
+      <div class="cell en"><div class="lbl">ENGLISH</div><span class="en-txt">${mk(enText(v, j))}</span>${tools && glossHas(v) ? `<div class="wbx">${wbdHTML(v, j)}</div>` : ""}</div>
     </div>`;
   }).join("");
   const tl = tools ? `<div class="vtools" dir="ltr"><span class="vt-flag" hidden>Reported</span>${v.oe ? `<button type="button" class="vt-orig" aria-expanded="false">Show original</button>` : ""}<button type="button" class="vt-rep">Report</button></div>${v.oe ? `<div class="orig" dir="ltr" lang="en" hidden><div class="orig-h">${v.ok === "order" ? "Original English order, before the re-split" : "Original English text, before corrections"}</div><p>${mk(v.oe)}</p></div>` : ""}` : "";
@@ -698,7 +780,13 @@ function toggle(id, fn){
 toggle("t-trope", on => { showTrope = on; render(); });
 toggle("t-tg", on => document.body.classList.toggle("no-tg", !on));
 toggle("t-en", on => document.body.classList.toggle("no-en", !on));
+{ const sel = document.getElementById("t-enmode"); sel.value = EN_MODE;
+  sel.addEventListener("change", () => { EN_MODE = sel.value; try { localStorage.setItem("bt-enmode", EN_MODE); } catch (e) {} render(); }); }
 toggle("t-rashi", on => document.body.classList.toggle("no-rashi", !on));
+{ const b = document.getElementById("t-wbw"); let on = false; try { on = localStorage.getItem("bt-wbw") === "1"; } catch (e) {}
+  b.setAttribute("aria-pressed", on); document.body.classList.toggle("wbw-on", on);
+  b.addEventListener("click", () => { on = b.getAttribute("aria-pressed") !== "true"; b.setAttribute("aria-pressed", on);
+    document.body.classList.toggle("wbw-on", on); try { localStorage.setItem("bt-wbw", on ? "1" : "0"); } catch (e) {} }); }
 
 // ---------- Typography panel: live controls, saved per browser ----------
 const HEB_FONTS = [
@@ -733,7 +821,7 @@ const DH_FONTS = [
 const R = (k, label, min, max, step, d, u) => ({ k, label, min, max, step, d, u, t: 'range' });
 const F = (k, opts) => ({ k, label: 'Font', opts, d: opts[0][1], t: 'font' });
 const GROUPS = [
-  ['Mikra (verse)', [F('--heb-font', HEB_FONTS), R('--heb-size','Size',1,2.8,.05,2.2,'rem'), R('--heb-lh','Line height',1,2.8,.05,1.25,''), R('--heb-w','Weight',300,800,100,600,'')]],
+  ['Mikra (verse)', [F('--heb-font', HEB_FONTS), R('--heb-size','Size',1,2.8,.05,1.85,'rem'), R('--heb-lh','Line height',1,2.8,.05,1.25,''), R('--heb-w','Weight',300,800,100,600,'')]],
   ['Targum', [F('--tg-font', HEB_FONTS), R('--tg-size','Size',.9,2.4,.05,1.55,'rem'), R('--tg-lh','Line height',1.1,2.8,.05,1.35,''), R('--tg-w','Weight',300,800,100,600,'')]],
   ['English', [F('--en-font', EN_FONTS), R('--en-size','Size',.8,1.8,.02,1.26,'rem'), R('--en-lh','Line height',1.1,2.4,.05,1.55,''), R('--en-w','Weight',300,700,100,400,'')]],
   ['Rashi', [F('--rashi-font', RASHI_FONTS), R('--rashi-size','Size',.8,1.8,.02,1.12,'rem'), R('--rashi-lh','Line height',1.1,2.6,.05,1.35,''), R('--rashi-w','Weight',300,800,100,400,''), { k: '--rashi-cols', label: 'Columns', t: 'select', opts: [['1','1'],['2','2'],['3','3'],['4','4']], d: matchMedia('(max-width: 760px)').matches ? '1' : '3' }]],

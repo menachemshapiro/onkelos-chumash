@@ -1,0 +1,113 @@
+# "As Onkelos reads it", parsha Behar
+
+@ 25:2
+= same
+= same
+= same
+= same
+E: a Shabbos <b>before</b> Adonoy.
+M: before | Adonoy
++ a Shabbos
+
+@ 25:4
+E: But the seventh year shall be a <b>complete</b> rest for the land,
+M: But the … year | seventh | a complete | rest | shall be | for the land
+E: a <b>rest before</b> Adonoy,
+M: a rest | before | Adonoy
+
+@ 25:6
+E: The [produce] of the <b>rest of the land</b> shall be for yourselves, for food,
+M: The … shall be | of the rest | of the land | for yourselves | for food
++ produce
+
+@ 25:8
+E: You shall count for yourself seven <b>rests of years</b>,
+M: You shall count | for yourself | seven | rests | of years
+= same
+E: and it shall be for you, the days (period) of the seven <b>rests of years</b>,
+M: and it shall be | for you | the days | of the seven | rests | of years
++ period
+
+@ 25:9
+E: You shall <b>sound</b> the shofor <b>of crying</b> on the tenth day of the seventh month.
+M: You shall sound | the shofor | of crying | month | the seventh | on the tenth day | of
+
+@ 25:23
+= same
+= same
+E: for, you are [merely as] <b>foreign residents</b> and <b>residents</b> before Me.
+M: for | foreign residents | and residents | you are | before Me
++ merely as
+
+@ 25:29
+E: If a man shall sell a residential home [that is] within a city <b>surrounded by a wall</b>,
+M: a man | If | shall sell | home | a residential | within a city | surrounded by | a wall
++ that is
+
+@ 25:31
+E: The houses of open cities which are not surrounded by <b>an encircling</b> wall
+M: The houses of | open cities | which | are not | - | wall | surrounded by | an encircling
+
+@ 25:35
+= same
+= same
+= same
+E: [so too] the <b>foreign resident</b> and the sojourner, [so] that he shall live with you.
+M: the foreign resident | and the sojourner | that he shall live | with you
++ so too
++ so
+
+@ 25:39
+= same
+E: you must not work him like <b>slaves</b>.
+M: not | you must work | him | like | slaves
+
+@ 25:43
+E: You must not <b>make him work</b> to crush him
+M: not | You must make … work | him | to crush him
+
+@ 25:45
+E: Also, from the children of the <b>uncircumcised</b> sojourners who reside with you from them you may purchase [slaves],
+M: Also | from the children of | the sojourners | uncircumcised | who reside | with you | from them | you may purchase
++ slaves
+
+@ 25:46
+= same
+= same
+= same
+E: you must not <b>make him work</b> to crush him.
+M: not | you must make … work | him | to crush him
+
+@ 25:47
+E: If <b>an uncircumcised one</b> or resident <b>with you</b> acquires means
+M: If | acquires | means | an uncircumcised one | or resident | with you
+= same
+E: and is sold to <b>an uncircumcised</b> resident who resides with you
+M: and is sold | to an uncircumcised | resident | who resides with you
+E: <b>or</b> to <b>a non-Jew</b> of a <b>proselyte</b> family.
+M: or | to a non-Jew | of a … family | proselyte
+! "or" (אוֹ) is moved to the line where its Aramaic is.
+
+@ 25:49
+E: Either <b>his father’s brother</b> or <b>the son of his father’s brother</b> (cousin) shall redeem him
+M: Either | brother | his father’s | or | the son of | brother | his father’s | shall redeem him
++ cousin
+
+@ 25:53
+= same
+E: he shall not <b>make him work</b> to crush him before your eyes.
+M: not | he shall make … work | him | to crush him | before your eyes
+
+@ 26:1
+E: You shall not make <b>false</b> idols for yourselves and graven images and memorial stones you shall not raise up for yourselves,
+M: not | You shall make | for yourselves | false idols | and graven images | and memorial stones | not | you shall raise up | for yourselves
+
+@ 26:2
+E: You shall keep <b>the days of</b> My Shabbosos
+M: - | the days of | Shabbosos | My | You shall keep
+E: and you shall (revere) <b>the House of</b> My Sanctuary,
+M: and the House of | My Sanctuary | you shall
++ revere
+E: <b>fear</b>; I am Adonoy.
+M: fear | I am | Adonoy
+! "fear" (דָּחֲלִין) is moved to the line where its Aramaic is.

@@ -1,0 +1,167 @@
+@ 1:2
+ *1 T: קַבִּילוּ=take (the count; lit. receive) · יָת=(marks the object) · חֻשְׁבַּן=the count (lit. reckoning) of · כָּל=every, all · כְּנִשְׁתָּא=the congregation · דִבְנֵי=of the children of · יִשְׂרָאֵל=Yisrael  [7]
+    E: Take a head count [{the sum}] of the entire congregation of Bnei Yisroel
+  2 T: לְזַרְעֲיַתְהוֹן לְבֵית אֲבָהַתְהוֹן
+    E: according to their families to the house of their fathers
+  3 T: בְּמִנְיַן שְׁמָהָן
+    E: counting the names
+  4 T: כָּל דְּכוּרָא לְגֻלְגְּלַתְהוֹן
+    E: of all males individually.
+@ 1:3
+  1 T: מִבַּר עַשְׂרִין שְׁנִין וּלְעֵלָּא
+    E: From twenty years old and above,
+ *2 T: כָּל=every, all · נָפֵק=going out · חֵילָא=the power · בְּיִשְׂרָאֵל=in Yisrael  [4]
+    E: all those eligible for the army [{who go to war}] of Israel,
+  3 T: תִּמְנוּן יָתְהוֹן לְחֵילֵיהוֹן אַתְּ וְאַהֲרֹן
+    E: you shall count them according to their divisions, you and Aharon.
+@ 1:49
+  1 T: בְּרַם יָת שִׁבְטָא דְלֵוִי לָא תִמְנֵי
+    E: However, the tribe of Levi you shall not count
+ *2 T: וְיָת=and (marks the object) · חֻשְׁבַּנְהוֹן=their count (lit. reckoning) · לָא=not · תְקַבֵּל=you shall (not) take (their count)  [4]
+    E: and you shall not take [{accept}] their head count
+  3 T: בְּגוֹ בְּנֵי יִשְׂראֵל
+    E: among Bnei Yisroel.
+@ 2:5
+ *1 T: וְדִי=and that, which · שְׁרַן=(they) encamp · סְמִיכִין=adjacent (lit. leaning) · עֲלוֹהִי=for him (lit. upon him) · שִׁבְטָא=the tribe (of) · דְיִשָּׂשכָר=of Yissachar  [6]
+    E: Those who camp along with [{near}] him are; the tribe of Yissachar,
+  2 T: וְרַבָּא לִבְנֵי יִשָּׂשכָר
+    E: and the leader of the sons of Yissachar
+  3 T: נְתַנְאֵל בַּר צוּעָר
+    E: is Nesanel the son of Tzu’ar.
+@ 2:20
+ *1 T: וְדִסְמִיכִין=and those adjacent · עֲלוֹהִי=for him (lit. upon him) · שִׁבְטָא=the tribe (of) · דִמְנַשֶּׁה=of Menashe  [4]
+    E: Along with [{near}] him are; the tribe of Menashe,
+  2 T: וְרַבָּא לִבְנֵי מְנַשֶּׁה
+    E: and the leader of the sons of Menashe
+  3 T: גַּמְלִיאֵל בַּר פְּדָהצוּר
+    E: is Gamliel the son of Pedahtzur.
+@ 3:9
+  1 T: וְתִתֵּן יָת לֵוָאֵי
+    E: You shall place the Levites
+  2 T: לְאַהֲרֹן וְלִבְנוֹהִי
+    E: in the charge of Aharon and his sons;
+ *3 T: מְסִירִין=handed over · יְהִיבִין=given · אִנּוּן=(were) they · לֵיהּ=to him  [4]
+    E: they are presented [{and given}] to him
+  4 T: מִן בְּנֵי יִשְׂרָאֵל
+    E: from [among] Bnei Yisroel.
+@ 3:12
+  1 T: וַאֲנָא הָא קָרֵבִית יָת לֵוָאֵי מִגּוֹ בְּנֵי יִשְׂרָאֵל
+    E: Behold! I have taken the Levites from among Bnei Yisroel
+  2 T: חֲלַף כָּל בּוּכְרָא פָּתַח וַלְדָּא מִבְּנֵי יִשְׂרָאֵל
+    E: instead of all the firstborn who have opened the womb, among Bnei Yisroel,
+ *3 T: וִיהוֹן=and (they) will be · מְשַׁמְּשִׁין=(they shall be) ministering · קֳדָמַי=before Me · לֵוָאֵי=the Levite  [4]
+    E: and [therefore] the Levites shall be Mine [{serve before Me}].
+@ 3:13
+  1 T: אֲרֵי דִילִי כָּל בּוּכְרָא
+    E: For all the firstborn are Mine,
+ *2 T: בְּיוֹמָא=on the day · דִקְטָלִית=that I have killed · כָּל=every, all · בּוּכְרָא=the firstborn · בְּאַרְעָא=in / on the earth · דְמִצְרַיִם=of Mitzrayim (Egypt) · אַקְדֵּשִׁית=I consecrated · קֳדָמַי=before Me · כָּל=every, all · בּוּכְרָא=the firstborn · בְּיִשְׂרָאֵל=in Yisrael  [11]
+    E: since on the day I smote all the firstborn in the land of Egypt I sanctified to [{before}] Me all the firstborn of Bnei Yisroel
+  3 T: מֵאֱנָשָׁא עַד בְּעִירָא
+    E: from man to beast;
+  4 T: דִּילִי יְהוֹן אֲנָא יְיָ
+    E: they shall be Mine, I am Adonoy.
+@ 3:26
+  1 T: וּסְרָדֵי דְדַרְתָּא וְיָת פְּרָסָא דִּתְרַע דַּרְתָּא
+    E: The hanging Curtains of the courtyard and the Curtain at the entrance of
+  2 T: דִּי עַל מַשְׁכְּנָא וְעַל מַדְבְּחָא סְחוֹר סְחוֹר
+    E: the courtyard which is around the Mishkon and Altar,
+  3 T: וְיָת אַטּוּנוֹהִי
+    E: and its ropes,
+ *4 T: לְכֹל=to all, every · פּוּלְחָנֵיהּ=its service  [2]
+    E: for all of the work involving these things [{its service}].
+@ 3:36
+  1 T: וְדִי מְסִיר לְמַטְּרַת בְּנֵי מְרָרִי
+    E: The appointed task of the guardianship of the sons of Merori
+  2 T: דַּפֵּי מַשְׁכְּנָא
+    E: shall be the beams of the Mishkon,
+  3 T: וְעַבְרוֹהִי וְעַמּוּדוֹהִי וְסַמְכוֹהִי
+    E: its bars, pillars and sockets;
+ *4 T: וְכָל=and all · מָנוֹהִי=its vessels · וְכֹל=and all, every · פּוּלְחָנֵיהּ=its service  [4]
+    E: all of its utensils, and all of the work involving these things [{its service}].
+@ 3:41
+ *1 T: וּתְקָרֵב=and you shall bring near (i.e. ordain; Hebrew: וּמִלֵּאתָ יָדָם) · יָת=(marks the object) · לֵוָאֵי=the Levite · קֳדָמַי=before Me · אֲנָא=I (am) · יְיָ=Hashem  [6]
+    E: You shall take the Levites for [{before}] Me, I, [who am] Adonoy,
+  2 T: חֲלַף כָּל בּוּכְרָא בִּבְנֵי יִשְׂרָאֵל
+    E: instead of every firstborn of Bnei Yisroel;
+  3 T: וְיָת בְּעִירָא דְלֵוָאֵי
+    E: and the animals of the Levites
+  4 T: חֲלַף כָּל בּוּכְרָא
+    E: instead of every firstborn among
+  5 T: בִּבְעִירָא דִּבְנֵי יִשְׂרָאֵל
+    E: the animals of Bnei Yisroel.
+@ 3:45
+  1 T: קָרֵב יָת לֵוָאֵי חֲלַף כָּל בּוּכְרָא בִּבְנֵי יִשְׂרָאֵל
+    E: Take the Levites instead of every firstborn of Bnei Yisroel,
+  2 T: וְיָת בְּעִירָא דְלֵוָאֵי חֲלַף בְּעִירְהוֹן
+    E: and the animals of the Levites instead of their animals,
+ *3 T: וִיהוֹן=and (they) will be · מְשַׁמְּשִׁין=(they shall be) ministering · קֳדָמַי=before Me · לֵוָאֵי=the Levite · אֲנָא=I (am) · יְיָ=Hashem  [6]
+    E: and the Levites shall [{serve before Me}] be Mine, I am Adonoy.
+@ 4:6
+ *1 T: וְיִתְּנוּן=and they shall put (give) · עֲלוֹהִי=for him (lit. upon him) · חוֹפָאָה=the covering · דִּמְשַׁךְ=of the skin of · סַסְגּוֹנָא=tachash  [5]
+    E: They shall place upon it a covering of tachash [{multi-colored}]-hide
+  2 T: וְיִפְרְסוּן לְבוּשׁ גְּמִיר תִּכְלָא מִלְעֵלָּא
+    E: and spread an entirely blue woolen cloth on top of it,
+  3 T: וִישַׁוּוּן אֲרִיחוֹהִי
+    E: and put its [carrying] poles [in place].
+@ 4:7
+ *1 T: וְעַל=and on · פָּתוֹרָא=the table · דִלְחֵם=of bread · אַפַּיָּא=(their) faces · יִפְרְסוּן=they shall spread · לְבוּשׁ=a garment · תִּכְלָא=blue wool  [7]
+    E: On the Show Table [{table of the show bread}] they shall spread a blue woolen cloth
+  2 T: וְיִתְּנוּן עֲלוֹהִי יָת מָגִיסַיָּא וְיָת בָּזִיכַיָּא וְיָת מְכִילָתָא
+    E: and they shall place upon it the molds, spoons,
+  3 T: וְיָת קַסְווֹת נִסּוּכָא
+    E: rods and the covering props,
+ *4 T: וּלְחֵם=and bread · תְּדִירָא=continually · עֲלוֹהִי=for him (lit. upon him) · יְהֵי=will be; let there be  [4]
+    E: and the continual bread shall be upon it [{continually}].
+@ 4:8
+  1 T: וְיִפְרְסוּן עֲלֵיהוֹן לְבוּשׁ צְבַע זְהוֹרִי
+    E: They shall spread upon them a cloth of crimson thread
+  2 T: וִיכַסּוּן יָתֵיהּ
+    E: and they shall cover it
+ *3 T: בְּחוֹפָאָה=in the covering · דִּמְשַׁךְ=of the skin of · סַסְגּוֹנָא=tachash  [3]
+    E: with a covering of tachash [{multi-colored}]-hide
+  4 T: וִישַׁוּוּן יָת אֲרִיחוֹהִי
+    E: and put its [carrying] poles [in place].
+@ 4:10
+  1 T: וְיִתְּנוּן יָתַהּ וְיָת כָּל מָנָהָא
+    E: They shall put it and all of its utensils into
+ *2 T: לְחוֹפָאָה=to the covering · דִּמְשַׁךְ=of the skin of · סַסְגּוֹנָא=tachash  [3]
+    E: the covering of the {tachash [{multi-colored}]}-hide
+  3 T: וְיִתְּנוּן עַל אֲרִיחָא
+    E: and put it on the carrying frame.
+@ 4:11
+  1 T: וְעַל מַדְבְּחָא דְדַהֲבָא יִפְרְסוּן לְבוּשׁ תִּכְלָא
+    E: On top of the golden Altar they shall spread a blue woolen cloth
+  2 T: וִיכַסּוּן יָתֵיהּ
+    E: and they shall cover it
+ *3 T: בְּחוֹפָאָה=in the covering · דִּמְשַׁךְ=of the skin of · סַסְגּוֹנָא=tachash  [3]
+    E: with a covering of {tachash [{multi-colored}]}-hide,
+  4 T: וִישַׁוּוּן יָת אֲרִיחוֹהִי
+    E: and put its [carrying] poles in place.
+@ 4:12
+  1 T: וְיִסְּבוּן יָת כָּל מָנֵי שִׁמּוּשָׁא דִּי יְשַׁמְּשׁוּן בְּהוֹן בְּקוּדְשָׁא וְיִתְּנוּן לִלְבוּשׁ תִּכְלָא
+    E: They shall take all the service utensils with which they serve in the Sanctuary and they shall put them inside a blue woolen cloth,
+  2 T: וִיכַסּוּן יָתְהוֹן
+    E: and they shall cover them
+ *3 T: בְּחוֹפָאָה=in the covering · דִּמְשַׁךְ=of the skin of · סַסְגּוֹנָא=tachash  [3]
+    E: with a covering of {tachash [{multi-colored}]}-hide,
+  4 T: וְיִתְּנוּן עַל אֲרִיחָא
+    E: and put it on the carrying frame.
+@ 4:14
+  1 T: וְיִתְּנוּן עֲלוֹהִי יָת כָּל מָנוֹהִי דִּי יְשַׁמְּשׁוּן עֲלוֹהִי בְהוֹן יָת מַחְתְּיָתָא וְיָת צִנּוֹרְיָתָא וְיָת מַגְרוֹפְיָתָא וְיָת מִזְרְקַיָּא
+    E: They shall put upon it all of its utensils which they use in service, those that are used on the Altar-top; the firepans, forks, scoops and sprinklers,
+  2 T: כֹּל מָנֵי מַדְבְּחָא
+    E: all the utensils of the Altar.
+ *3 T: וְיִפְרְסוּן=and they shall spread · עֲלוֹהִי=for him (lit. upon him) · חוֹפָאָה=the covering · דִּמְשַׁךְ=of the skin of · סַסְגּוֹנָא=tachash · וִישַׁווּן=and they shall put · אֲרִיחוֹהִי=its poles  [7]
+    E: They shall spread upon it a covering of {tachash [{multi-colored}]}-hide, and put its [carrying] poles in place.
+@ 4:16
+ *1 T: וְדִי=and that, which · מְסִיר=entrusted (lit. handed over) · לְאֶלְעָזָר=to Elazar · בַּר=has (lit. “son of”) · אַהֲרֹן=Aharon · כַּהֲנָא=the priest · מִשְׁחָא=oil · דְאַנְהָרוּתָא=of the lighting · וּקְטֹרֶת=and incense · בּוּסְמַיָּא=spices  [10]
+    E: Encharged [{given}] to Elazar, the son of Aharon the kohein, is the oil for illumination, the incense of spices
+  2 T: וּמִנְחָתָא תְדִירָא וּמִשְׁחָא דִרְבוּתָא
+    E: the continual [daily] meal-offering and the anointing oil;
+  3 T: מַטְרַת כָּל מַשְׁכְּנָא וְכָל דִּי בֵיהּ
+    E: the charge of the entire Mishkon and all of its contents
+  4 T: בְּקוּדְשָׁא וּבְמָנוֹהִי
+    E: in the Sanctuary, and its utensils.
+@ 4:20
+ *1 T: וְלָא=and not · יֵעֲלוּן=they shall come in · לְמֶחֱזֵי=to look at · כַּד=when · מְכַסָּן=(they) cover · יָת=(marks the object) · מָנֵי=the things (vessels) of · קוּדְשָׁא=holiness · וְלָא=and not · יְמוּתוּן=they (will not) die  [10]
+    E: They shall not come in to see when the holy is [{utensils are}] being covered and [they will not] die.

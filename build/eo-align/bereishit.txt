@@ -1,0 +1,344 @@
+# "As Onkelos reads it", parsha Bereishit. Format: see eo-align/vayechi-49.txt; "M:" gives one English piece per Aramaic word, in order
+# ("-" = not translated, "^" = goes with the word before).
+
+@ 1:2
+= same
+E: and darkness <b>was spread</b> over the surface of the abyss.
+M: and darkness | was spread | over | the surface of | the abyss
+E: The breath <b>from before</b> Elohim <b>blew</b> above the surface of the water.
+M: The breath | from | before | Elohim | blew | above | the surface of | the water
+
+@ 1:6
+= same
+E: Let there be a canopy in the <b>middle</b> of the waters,
+M: Let there be | a canopy | in the middle of | the waters
+= same
+
+@ 1:14
+= same
+= same
+= same
+E: <b>and to count</b> days and years <b>with them</b>.
+M: and to count | with them | days | and years
+
+@ 1:31
+= same
+E: and behold it was <b>completely prepared</b>.
+M: and behold | prepared | completely
++ it was
+= same
+
+@ 2:5
+= same
+= same
+E: for Adonoy Elohim had not brought rain <b>down</b> upon the earth,
+M: for | not | had brought down | rain | Adonoy | Elohim | upon | the earth
+= same
+= same
+
+@ 2:7
+= same
+= same
+E: And so man became a <b>speaking</b> soul.
+M: And so became | man | soul | a speaking
+! Literally "and it became in man a speaking spirit". Metsudah keeps "soul" from the Hebrew.
+
+@ 2:9
+= same
+= same
+= same
+E: and the Tree <b>from which the fruit if eaten gives</b> Knowledge [of what is] good and evil.
+M: and the Tree | from which if eaten | the fruit | gives Knowledge | of what is | good | and evil
+! חַכִּימִין is "wise": "the tree from which those who eat its fruit become wise between good and evil". Metsudah's "Knowledge" kept.
+
+@ 2:14
+E: The name of the third river is <b>Diglas</b>,
+M: The name of | river | the third | Diglas
++ is
+! וְשׁוּם begins with "and", not rendered.
+= same
+= same
+
+@ 2:17
+E: But from the Tree <b>from which the fruit if eaten gives</b> Knowledge of what is good and evil,
+M: But from the Tree | from which if eaten | the fruit | gives Knowledge | of what is | good | and evil
+= same
+= same
+
+@ 2:18
+= same
+E: It is not <b>fitting</b> for the man to be alone.
+M: not | fitting | to be | for the man | alone
++ It is
+= same
+
+@ 2:21
+= same
+= same
+E: and <b>filled</b> flesh in its place.
+M: and filled | flesh | in its place
+
+@ 2:23
+= same
+= same
+= same
+= same
+E: for from <b>the husband</b> was she taken.
+M: for | from the husband | was taken | she
+! "the" comes from the Aramaic (מִבַּעְלָא, "from the husband").
+
+@ 2:24
+= same
+E: <b>the house where</b> his father and his mother <b>sleep</b>,
+M: the house where | sleep | his father | and his mother
+! Onkelos: "the house of the bed of his father and his mother", i.e. the home where his parents sleep.
+= same
+
+@ 3:1
+= same
+= same
+= same
+= same
+E: Did Elohim <b>truly</b> say
+M: truly | - | Did say | Elohim
+! אֲרֵי ("that") is not rendered.
+= same
+
+@ 3:5
+E: For <b>it is revealed before</b> Elohim
+M: For | it is revealed | before | Elohim
+= same
+= same
+E: and you will become as <b>great ones</b>,
+M: and you will become | as great ones
+= same
+
+@ 3:6
+E: The woman saw that the tree was good for food, and that it was <b>healing</b> to the eyes, and that the tree was appealing <b>to look at</b>.
+M: saw | The woman | that | was good | the tree | for food | and that | healing | it was | to the eyes | and that was appealing | the tree | to look | at
+= same
+= same
+
+@ 3:8
+E: They heard the voice of <b>the Word of</b> Adonoy Elohim moving in the Garden <b>in the evening</b> of the day.
+M: They heard | - | the voice of | the Word of | Adonoy | Elohim | moving | in the Garden | in the evening | of the day
+= same
+
+@ 3:10
+E: He said, I heard <b>the voice of Your Word</b> in the Garden,
+M: He said | - | the voice of | Your Word | I heard | in the Garden
+= same
+
+@ 3:15
+= same
+= same
+E: <b>He will remember you, what you did to him from the beginning,</b>
+M: He | will | remember | you | what | you did | to him | from the beginning
+! Metsudah's bracket (on the next line) covers both lines of the Targum, so its first half is moved up to this line.
+E: <b>and you will expect him at the end</b>.
+M: and | you will | expect | him | at the end
+
+@ 3:17
+= same
+= same
+= same
+= same
+= same
+E: <b>With toil</b> you shall eat from it
+M: With toil | you shall eat from it
+= same
+
+@ 3:19
+= same
+= same
+E: for from it [the ground] were you <b>created</b>.
+M: for from it | were you created
++ the ground
+! Metsudah's "[the ground]" is their own explanation and is kept.
+
+@ 3:20
+= same
+E: because she had become the mother of all <b>people</b>.
+M: because | she | had become | the mother | of all | - | people
+! Literally "the mother of all the children of men"; בְּנֵי ("the children of") is folded into "people".
+
+@ 3:21
+E: And Adonoy Elohim made for Adam and his wife <b>garments of honor on the skin of their flesh</b> and He clothed them.
+M: And made | Adonoy | Elohim | for Adam | and his wife | garments | of honor | on | the skin of | their flesh | and He clothed them
+
+@ 3:22
+E: Adonoy Elohim said, Behold, the man has become <b>unique. It is for him</b>
+M: said | Adonoy | Elohim | Behold | the man | has become | unique | - | It is for him
+! Literally "the man has become unique in the world by himself" (בְּעַלְמָא מִנֵּהּ); Metsudah's bracket gives "unique. It is for him". "in the world" (בְּעַלְמָא) is not rendered.
+= same
+= same
+= same
+
+@ 3:23
+= same
+= same
+E: from which he was <b>created</b>.
+M: from which he was created | ^
+! Literally "that he was created from there"; Metsudah's "from which" covers both words.
+
+@ 3:24
+= same
+E: and <b>before</b> the Garden of Eden He stationed the Cherubim and the flame of the rotating sword,
+M: and He stationed | before | the Garden | of Eden | - | the Cherubim | and | the flame of | sword | the rotating
+! שְׁנַן is "the sharp edge of"; Metsudah keeps "the flame of" from the Hebrew.
+
+@ 4:1
+= same
+= same
+E: and she said, I have obtained a man <b>before</b> Adonoy.
+M: and she said | I have obtained | a man | before | Adonoy
+! Metsudah's bracket "the help of" explains the Hebrew "with"; Onkelos has קֳדָם, "before". Their "with [the help of]" is replaced by "before".
+
+@ 4:4
+= same
+E: <b>There was favor before Adonoy</b>
+M: There was | favor | - | before | Adonoy
+! מִן ("from") is not rendered: "there was favor from before Adonoy".
+E: <b>to</b> Hevel and to his offering.
+M: to Hevel | and to his offering
+
+@ 4:5
+E: But to Kayin and his offering <b>there was no favor</b>.
+M: But to Kayin | and his offering | no | there was | favor
+= same
+
+@ 4:7
+E: Is this not so—if you improve <b>your actions</b>, there is forgiveness <b>for you</b>,
+M: Is this not so | if | you improve | your actions | there is forgiveness | for you
+E: but if you do not improve <b>your actions</b>,
+M: but if | not | you do improve | your actions
+E: <b>your sin will be kept for the Day of Judgement. For in the future, it will be exacted from you if you do not repent. And if you repent, there is forgiveness.</b>
+M: for the Day of | Judgement | your sin | will be kept | For in the future | it will be exacted | from you | if | not | you do repent | And if | you repent | there is forgiveness | -
+! The last לָךְ ("for you") is not rendered.
+
+@ 4:10
+= same
+E: The voice of <b>the blood of the descendants that were destined to come from your brother</b>
+M: The voice of | the blood of | the descendants | that were destined | to come | from | your brother
+E: cries out <b>before</b> Me from the ground.
+M: cries out | before Me | from | the ground
+
+@ 4:14
+= same
+E: and <b>from before You it is impossible to be hidden</b>.
+M: and from | before You | it is | impossible | to be hidden
+= same
+
+@ 4:15
+= same
+E: <b>after seven generations</b> revenge will be taken on him [Kayin].
+M: after seven | generations | revenge will be taken | on him
++ Kayin
+! "[Kayin]" is their explanation, kept.
+
+@ 4:16
+= same
+E: and settled in the land <b>of exile and wandering</b>, <b>which was made for him before the Garden of Eden</b>.
+M: and settled | in the land | of exile | and wandering | which was | made | for him | before | the Garden | of Eden
+! Metsudah's bracket reads "in the land of exile and wandering"; "in the land" is kept from their English once.
+
+@ 4:20
+= same
+E: He was the <b>master</b> of those who live in tents, and breed cattle.
+M: He | was | the master | of those who live in | tents | and breed | cattle
+! וּמָרֵי is "and owners of" cattle; Metsudah's "and breed" kept.
+
+@ 4:21
+= same
+E: He was the <b>master</b> of all who handle [play] the harp and <b>who know the song of the lute and the</b> flute.
+M: He | was | the master | of all | who handle | - | the | harp | who know | the song of | the lute | and the flute
++ play
++ and
+! עַל פּוּם ("on the mouth of") is not rendered. Metsudah's "[play]" is their explanation, kept.
+
+@ 4:22
+= same
+E: <b>who was the master of all who know the craft of copper and iron</b>.
+M: who was the master | of all | who know | the craft of | copper | and iron
+= same
+
+@ 4:23
+= same
+= same
+= same
+E: <b>I did not kill a man, that on his account I should bear the sin,</b>
+M: not | a man | I did kill | that on his account | I | should bear | the sin
+! Metsudah's bracket (on the next line) covers both lines of the Targum, so its first half is moved up to this line.
+E: <b>and I did not even wound a child, that on his account my seed should be cut off</b>.
+M: and even | not | a child | I did wound | that on his account | should be cut off | my seed
+
+@ 4:24
+E: If <b>Kayin’s punishment shall be suspended for seven generations</b>,
+M: If | seven | generations | shall be suspended | Kayin’s punishment
++ for
+! "punishment" is their explanation inside the bracket.
+E: then for Lemech, his son, <b>for seventy-seven generations</b>.
+M: then | for Lemech | his son | seventy | seven
++ for
++ generations
+! The Targum here has no word for "generations"; it carries over from the line before.
+
+@ 4:26
+= same
+= same
+E: Then <b>men stopped praying</b> by the name Adonoy.
+M: Then | - | stopped | - | men | praying | by the name | Adonoy
+! Literally "then, in his days, the children of men profaned (חָלוּ) from praying in the name of Adonoy". בְּיוֹמוֹהִי ("in his days") and בְנֵי ("the children of") are not rendered.
+
+@ 5:22
+E: Chanoch walked with <b>the fear of</b> Elohim, after he had Mesushelach,
+M: walked with | Chanoch | the fear of | Elohim | after | he had | - | Mesushelach
+! בְּדַחַלְתָּא is "in the fear of"; Metsudah's "with" kept.
+= same
+
+@ 5:24
+E: Chanoch walked with <b>the fear of</b> Elohim,
+M: walked with | Chanoch | the fear of | Elohim
+E: and he was no longer [there] for Elohim <b>put him to death</b>.
+M: and he was no longer | for | put to death | him | Elohim
++ there
+
+@ 5:29
+= same
+E: This one will bring us rest from our work and the <b>toil</b> of our hands,
+M: This one | will bring us rest | from our work | and the toil of | our hands
+
+@ 6:2
+= same
+= same
+E: from whomever they <b>wanted</b>.
+M: from | whomever | they wanted
+! Literally "from all whom they wanted".
+
+@ 6:3
+E: Adonoy said, <b>this evil generation shall not exist before me forever</b>,
+M: said | Adonoy | not | shall exist | generation | evil | this | before me | forever
+E: <b>since they are flesh and their deeds are evil</b>.
+M: - | since they are | flesh | and their deeds | are evil
+! בְּדִיל ("because") is covered by "since".
+E: <b>I will give them a period of a hundred and twenty years for them to repent</b>.
+M: a period of | I will give | them | a hundred | and twenty | years | for them | to repent
+! Literally "a reprieve was given to them, a hundred and twenty years, if they repent".
+
+@ 6:6
+E: Adonoy <b>regretted in His Word</b>
+M: regretted | Adonoy | in His Word
+= same
+E: <b>and He said with His word to break their strength in accordance with His Will</b>.
+M: and He said | with His word | to break | their strength | in accordance with His Will
+
+@ 6:7
+= same
+= same
+= same
+E: for I regret <b>with My word</b> that I made them.
+M: for | I regret | with My word | that | I made them
+
+@ 6:8
+E: But Noach found <b>mercy</b> <b>before</b> Adonoy.
+M: But Noach | found | mercy | before | Adonoy

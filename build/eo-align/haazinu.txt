@@ -1,0 +1,280 @@
+# "As Onkelos reads it", parsha Haazinu
+# Much of the song is read by Onkelos as a different sentence; there the whole line is in bold.
+
+@ 32:2
+E: Let my instruction <b>be fragrant</b> like rainfall,
+M: Let … be fragrant | like rainfall | my instruction
+E: let my saying <b>be accepted</b> like dew;
+M: let … be accepted | like dew | my saying
+E: like storm winds <b>blowing</b> on verdure,
+M: like … winds | storm | blowing | on | verdure
+E: and like <b>the traces of the last rainfall</b> on grass.
+M: and like the traces of | the last rainfall | - | on | grass
+
+@ 32:3
+E: When I <b>pray in</b> the name of Adonoy,
+M: When | in the name | of Adonoy | I | pray
+E: give greatness <b>before</b> our God,
+M: give | greatness | before | our God
+
+@ 32:4
+E: The Almighty’s works are <b>perfect</b>,
+M: The Almighty’s | are perfect | works
+= same
+E: A God of faithfulness <b>from before Him</b> injustice <b>does not emanate</b>;
+M: A God | of faithfulness | from | before Him | injustice | not | does … emanate | - | -
+
+@ 32:5
+E: Destructiveness does not affect Him, it is His children <b>who prayed to idols</b>;
+M: Destructiveness | - | does not | affect Him | it is His children | who | prayed | to idols
+E: a generation <b>that changed its activities and became changed</b>.
+M: a generation | that changed | its activities | and became changed
+
+@ 32:6
+E: Is it <b>before</b> Adonoy that you deal this way?
+M: Is it | before | Adonoy | that you | deal this way
+E: <b>this</b> people <b>who received the Torah and are</b> lacking wisdom.
+M: this | people | who received | the Torah | and are lacking | wisdom
+
+@ 32:10
+E: He <b>satisfied their needs</b> in a wilderness country,
+M: He satisfied | their needs | in a … country | wilderness
+E: <b>in a place of thirst, a place where there was no water</b>.
+M: in a place | of thirst | a place | where | there was no | water
+E: He <b>placed them</b> around <b>His Shechina</b>, He <b>taught them</b>
+M: He placed them | around | ^ | His Shechina | He taught them
+E: <b>the words of the Torah</b>, He sheltered them like the pupil of <b>their eyes</b>.
+M: the words of | the Torah | He sheltered them | like the pupil of | their eyes
+
+@ 32:11
+E: Like an eagle who <b>protects</b> his nest,
+M: Like an eagle | who protects | his nest
+= same
+E: He extends His wings, grasps them, <b>bears them</b>
+M: He extends | His wings | grasps them | bears them
+! "bears them" (מְנַטֶּלְהוֹן) is moved to the line where its Aramaic is.
+E: on His <b>strong</b> wing.
+M: on | strong | His wing
+
+@ 32:12
+E: <b>Adonoy alone will, in the future, place them in the world that He will renew</b>,
+M: Adonoy | alone | will in the future | place them | in the world | that He | will | renew
+E: <b>and no idol worship will exist before Him</b>.
+M: and no | will exist | before Him | … worship | idol
+
+@ 32:13
+E: <b>He placed them in the strong places of the land</b>,
+M: He placed them | in | the strong places of | the land
+E: <b>and He fed them the spoils of their enemies</b>,
+M: and He fed them | the spoils of | their enemies
+E: <b>He gave them the spoils of the lords of cities</b>,
+M: He gave | them | the spoils of | the lords of | cities
+E: <b>and the wealth of dwellers of fortified cities</b>.
+M: and the wealth of | dwellers of | … cities | fortified
+
+@ 32:14
+E: <b>He gave them the spoils of their kings and rulers with the wealth of their great and powerful, the people of their lands and their estates</b>
+M: He gave | them | the spoils of | their kings | and rulers | with | the wealth of | their great | and powerful | the people | of their lands | and their estates
+E: <b>with the spoils of their armies and camps</b>.
+M: with | the spoils of | their armies | and camps
+E: <b>The blood of their heroes was spilled like water</b>.
+M: The blood of | their heroes | was spilled | like water
+
+@ 32:15
+E: <b>Yisroel</b> grew fat and rebelled,
+M: grew fat | Yisroel | and rebelled
+E: <b>He was very successful and wealthy</b>
+M: He was … successful | very | and | wealthy
+E: he forsook <b>the service of</b> the God who made him,
+M: he forsook | the service of | the God | who made him
+E: <b>and provoked before the Almighty Who redeemed him</b>.
+M: and provoked | before | the Almighty | Who redeemed him
+
+@ 32:16
+E: They incited vengeance <b>before Him with idol worship</b>,
+M: They incited vengeance | before Him | with … worship | idol
+E: with loathsomeness did they spite <b>before Him</b>.
+M: with loathsomeness | did they spite | before Him
+
+@ 32:17
+= same
+E: <b>fearful things that</b> they did not know;
+M: fearful things | that … not | they did know
+= same
+E: your forefathers <b>had no dealings with them</b>.
+M: no | had … dealings | with them | your forefathers
+
+@ 32:18
+E: <b>The fear of</b> the Rock Who bore you, you disregarded;
+M: The fear of | the Rock | Who bore you | you disregarded
+E: you forsook <b>the service of</b> the Almighty Who <b>made</b> you.
+M: you forsook | the service of | the Almighty | Who made you
+
+@ 32:19
+E: <b>It was apparent before</b> Adonoy, <b>and His anger was kindled</b>
+M: It was apparent | before | Adonoy | and … was kindled | His anger
+E: <b>by the provocations of sons and daughters before Him</b>.
+M: by the provocations of | before Him | sons | and daughters
+
+@ 32:20
+E: He said, ‘‘I will <b>remove My Shechina</b> from them,
+M: He said | I will remove | My Shechina | from them
+E: <b>it is revealed before Me</b> what their end will be;
+M: it is revealed | before Me | what | will be | their end
+E: for they are <b>a deviated</b> generation,
+M: for they are | generation | a deviated
+E: sons who <b>have no faith</b>.
+M: - | sons | who have no | ^ | faith
+
+@ 32:21
+E: They have incited <b>before</b> Me to vengeance <b>without fear</b> —
+M: They | have incited … to vengeance | before Me | without | fear
+E: have spited <b>before</b> Me <b>with serving</b> idols;
+M: have spited | before Me | with serving | idols
+= same
+E: I shall anger them with a <b>foolish</b> nation.
+M: with a … nation | foolish | I shall anger them
+
+@ 32:22
+E: <b>For a wind as strong as fire has gone out from before Me in anger</b>,
+M: For | a wind | as strong | as fire | has gone out | from before Me | in anger
+E: <b>which will destroy to the depths of the earth</b>.
+M: which will destroy | to | the depths of | the earth
+E: <b>It will annihilate the land and its produce</b>,
+M: It will annihilate | the land | and its produce
+E: <b>and destroy up to the edges of the mountains</b>.
+M: and destroy | up to | the edges of | the mountains
+
+@ 32:23
+= same
+E: I shall <b>unleash My plagues</b> against them.
+M: My plagues | I shall unleash | against them
+
+@ 32:24
+E: Bloated with hunger, and <b>devoured by birds</b> and <b>smitten by evil winds</b>;
+M: Bloated with | hunger | and devoured by | birds | and smitten by | winds | evil
+= same
+E: along with the venom of <b>serpents that are</b> dust-crawlers.
+M: along with | the venom of | serpents | that are … crawlers | dust
+
+@ 32:25
+= same
+E: and from within chambers, <b>the fear of death</b>;
+M: and from within chambers | the fear of | death
+
+@ 32:26
+E: I thought, ‘<b>My anger will fall upon them and I will destroy them</b>,’
+M: I thought | will fall | My anger | upon them | and I will destroy them
+
+@ 32:27
+= same
+E: lest their oppressors <b>plot</b>;
+M: lest | plot | their oppressors | ^
+= same
+E: and not <b>from before</b> Adonoy has performed all this.’
+M: and not | from | before | Adonoy | has performed | all | this
+
+@ 32:29
+= same
+E: they would contemplate <b>what will be</b> their ending.
+M: they would contemplate | what | will be | their ending
+
+@ 32:30
+= same
+= same
+E: Unless their Almighty [lit. rock] has <b>handed them over</b>,
+M: Unless | their Almighty | has handed them over
++ lit rock
+
+@ 32:31
+= same
+E: yet our enemies <b>became our judges</b>.
+M: yet our enemies | ^ | became | our judges
+
+@ 32:32
+E: For <b>their calamity is as the calamity of the nation</b> of Sedom
+M: For | as the calamity of | the nation | of Sedom | their calamity is
+E: <b>and their deficiency as the nation</b> of Amorah;
+M: and their deficiency | as the nation | of Amorah
+E: <b>their blows are as bad as the heads of serpents</b>,
+M: their blows | are as bad | as the heads of | serpents
+E: <b>and the retribution for their deeds will be as bitter</b>.
+M: and the retribution for | their deeds | will be as bitter
+
+@ 32:33
+E: Like <b>the poison of serpents</b> is <b>the cup of their calamity</b>,
+M: - | Like the poison of | serpents is | the cup of | their calamity
+E: and [like] the <b>heads</b> of adders, cruel.
+M: and the heads of | adders | ^ | cruel
++ like
+
+@ 32:34
+E: <b>Are not all of their deeds revealed before Me</b>,
+M: Are not | all of | their deeds | revealed | before Me
+E: <b>secreted away</b> in My treasuries <b>for the judgment day</b>?
+M: secreted away | for the … day | judgment | in My treasuries
+
+@ 32:35
+E: Vengeance is <b>before</b> Me, and I shall administer retribution
+M: before Me | Vengeance is | and I | shall administer retribution
+E: <b>at</b> the time that they <b>will be exiled from their land</b>
+M: at the time | that they will be exiled | from their land
+E: for the day of their <b>ruin</b> is close by,
+M: for | is close by | the day of | their ruin
+E: <b>and that which is prepared for them makes haste</b>.
+M: and … makes haste | that which is prepared | for them
+
+@ 32:36
+E: <b>When Adonoy will decide the judgment of His people</b>,
+M: When | will decide | Adonoy | the judgment | of His people
+E: <b>and the cruelty to His just servants will be revenged</b>;
+M: and the cruelty to | His … servants | just | will be revenged
+E: <b>then it will be apparent before Him that when the clout of their enemies will grow stronger</b>,
+M: then | it will be apparent | before Him | that when | will grow stronger | ^ | the clout of | their enemies
+E: <b>they will be carried away and lost</b>.
+M: they will be | carried away | and lost
+
+@ 32:37
+E: He shall say, ‘‘Where is their <b>mighty idol</b>
+M: He shall say | Where is | their … idol | mighty
+E: on which they relied for shelter?
+M: - | they relied for shelter | on which
+
+@ 32:40
+E: For <b>I have prepared in the heavens a place for My Shechina</b>,
+M: For | I have prepared | in the heavens | a place for | My Shechina
+
+@ 32:41
+E: <b>When My sword shall be revealed as a twofold lightning from one end of the heavens to the other</b>,
+M: When | ^ | ^ | twofold | as a | lightning | from one end of | the heavens | to | the other | ^ | shall be revealed | My sword
+E: <b>My hand will hold fast to judgment</b>,
+M: will hold fast | to judgment | My hand
+E: <b>and I will visit calamity upon My enemies</b>,
+M: and I will visit | calamity | upon My enemies
+E: <b>and I will repay my adversaries</b>.
+M: and … my adversaries | ^ | I will repay
+
+@ 32:42
+= same
+E: and My saber shall <b>kill among the nations</b>;
+M: and My saber | shall kill | among the nations
+= same
+E: <b>to remove the crowns from the heads of enemies and adversaries</b>.’’
+M: to remove | the crowns | from the heads of | enemies | and adversaries | ^
+
+@ 32:43
+= same
+E: for He shall avenge the <b>calamities</b> of His <b>just</b> servants
+M: for | the calamities of | His … servants | just | He shall avenge
+E: and wreak <b>calamity</b> on His enemies
+M: and … calamity | wreak | on His enemies
+
+@ 32:44
+E: Moshe came and he spoke all the words of this song <b>before</b> the people;
+M: came | Moshe | and he spoke | - | all | the words of | song | this | before | the people
+
+@ 32:51
+E: Because you were <b>untrue</b> to <b>My word</b> amid Bnei Yisroel
+M: Because | - | you were untrue | to My word | amid | Bnei | Yisroel
+E: at the waters of argument at <b>Rekom</b> in the Tzin wilderness;
+M: at the waters of | argument | at Rekom | in the … wilderness | Tzin

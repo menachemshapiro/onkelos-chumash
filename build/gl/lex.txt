@@ -2056,3 +2056,4 @@ hbb | חבב | חַבֵּב | verb | to love, hold dear
 magdana | מגד | מַגְדָּנָא | noun | choice produce, delicacy
 zehor | זהר | זֵהוֹרָא | noun | brilliance, radiance
 ziwa | זיו | זִיוָא | noun | splendor, radiance
+sefar2 | ספר | סְפַר | noun | shore, edge, border

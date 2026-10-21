@@ -1,0 +1,253 @@
+# "As Onkelos reads it", parsha Matot
+
+@ 30:3
+E: If a man makes a vow <b>before</b> Adonoy or makes an oath; to initiate a prohibition himself;
+M: a man | If | makes | a vow | before | Adonoy | or | makes | an oath | to initiate | a prohibition | - | himself
+
+@ 30:4
+E: [But] if a woman makes a vow <b>before</b> Adonoy
+M: a woman | if | makes | a vow | before | Adonoy
++ But
+
+@ 30:6
+= same
+= same
+E: <b>From before</b> Adonoy {it} will <b>be forgiven</b> her
+M: From | before | Adonoy | will be forgiven | her
++ it
+
+@ 30:9
+= same
+= same
+= same
+E: and <b>from before</b> Adonoy {it} will <b>be forgiven</b> her.
+M: and from | before | Adonoy | will be forgiven | her
++ it
+
+@ 30:12
+= same
+E: [and] did not restrain <b>them</b>,
+M: not | did restrain | them
++ and
+
+@ 30:13
+= same
+= same
+= same
+E: and <b>from before</b> Adonoy {it} will <b>be forgiven</b> her.
+M: and from | before | Adonoy | will be forgiven | her
++ it
+
+@ 31:2
+E: “<b>Retaliate for the evil done to</b> Bnei Yisroel
+M: Retaliate | for the evil done to | Bnei | Yisroel
+
+@ 31:3
+= same
+= same
+= same
+E: to bring revenge <b>for the nation</b> of Adonoy against Midian.
+M: to bring | revenge | ^ | for the nation | of Adonoy | against Midian
+
+@ 31:5
+E: They were <b>chosen</b> from among the thousands of Yisroel,
+M: They were chosen | from among the thousands | of Yisroel
+
+@ 31:6
+= same
+= same
+E: with the sacred vessels and the trumpets <b>of wailing</b> in his hand.
+M: with the … vessels | sacred | and the trumpets | of wailing | in his hand
+
+@ 31:10
+= same
+E: and <b>all their houses of worship</b>
+M: and | all | houses of | their worship
+
+@ 31:11
+E: They <b>captured</b> all the booty,
+M: They captured | - | all | the booty
+
+@ 31:16
+= same
+E: to cause them to commit a <b>deception before</b> Adonoy regarding the matter of Pe’or,
+M: to cause them to commit | a deception | before | Adonoy | regarding | the matter of | Pe’or
+
+@ 31:19
+= same
+E: Whoever has killed a person or touched a corpse, <b>sprinkle on him</b> on the third day and on the seventh day,
+M: Whoever | - | has killed | a person | or | - | touched | a corpse | sprinkle | on him | on the … day | third | and on the … day | seventh
+
+@ 31:20
+= same
+E: <b>sprinkle on it</b>.”
+M: sprinkle | on it
+
+@ 31:23
+= same
+E: however, it must be <b>sprinkled upon</b> with sprinkling water.
+M: however | with … water | sprinkling | it must be sprinkled upon
+
+@ 31:27
+= same
+E: among those who <b>waged war</b>,
+M: among | those | who waged | war
+
+@ 31:28
+E: <b>Separate</b> a tribute <b>before</b> Adonoy from the people of the army who went out to war,
+M: Separate | a tribute | before | Adonoy | from | the people | of the army | ^ | who went out | to war
+
+@ 31:29
+= same
+E: and give it to Elozor the kohein as a gift <b>before</b> Adonoy.
+M: and give it | to Elozor | the kohein | as a gift | before | Adonoy
+
+@ 31:32
+= same
+= same
+E: that was taken by <b>those who served in the</b> army:
+M: that | was taken by | those | who | served in the | army
+
+@ 31:37
+E: The tribute <b>before</b> Adonoy from the sheep,
+M: - | The tribute | before | Adonoy | from | the sheep
+
+@ 31:38
+= same
+E: the tribute <b>before</b> Adonoy amounted to 72.
+M: the tribute | before | Adonoy | amounted to 72 | ^
+
+@ 31:39
+= same
+E: the tribute <b>before</b> Adonoy amounted to 61.
+M: the tribute | before | Adonoy | amounted to 61 | ^
+
+@ 31:40
+= same
+E: the tribute <b>before</b> Adonoy amounted to 32 people.
+M: the tribute | before | Adonoy | amounted to 32 | ^ | people
+
+@ 31:41
+E: Moshe gave the tribute as a gift <b>before</b> Adonoy,
+M: gave | Moshe | - | the tribute | as a gift | before | Adonoy
+
+@ 31:42
+= same
+= same
+E: from the men <b>who served in the</b> army:
+M: from | the men | who | served in the | army
+
+@ 31:49
+= same
+E: “Your servants have taken a census of the soldiers <b>who are with us</b>
+M: Your servants | have taken | - | a census of | the soldiers | ^ | ^ | who | are with us
+
+@ 32:1
+= same
+= same
+E: and behold, the region was an area <b>suited</b> for livestock.
+M: and behold | the region | was an area | suited | for | livestock
+
+@ 32:3
+E: “<b>Machlelta and Malbeshta and Kumrin, Beis Nimrin</b>,
+M: Machlelta | and Malbeshta | and Kumrin | Beis | Nimrin
+E: <b>Beis Chushbana, Baalei Debaba</b>,
+M: Beis | Chushbana | Baalei | Debaba
+E: <b>Kima, the place of Moshe’s burial</b> and Be’on,
+M: Kima | - | the place of | burial | Moshe’s | and Be’on
+
+@ 32:4
+E: the land <b>whose inhabitants</b> Adonoy struck down before <b>the congregation of</b> Yisroel,
+M: the land | whose | struck down | Adonoy | - | inhabitants | before | the congregation of | Yisroel
+! Onkelos, like the Hebrew, says "the congregation of Yisroel" where Metsudah has "Bnei Yisroel".
+E: is an area <b>suited</b> for livestock;
+M: an area | suited | for | livestock | is
+
+@ 32:8
+= same
+E: when I sent them from <b>Rekam Geyah</b> to look at the land.
+M: when | I sent | them | from Rekam | Geyah | to look at | - | the land
+
+@ 32:9
+= same
+= same
+E: <b>so as not to go up</b>
+M: so as | not | to go up
+E: <b>into the land</b> that Adonoy has given them.
+M: into the land | that … has given | them | Adonoy
+! "into the land" (לְאַרְעָא) is moved to the line where its Aramaic is.
+
+@ 32:11
+= same
+= same
+E: for they did not follow <b>the fear of Me</b> fully.
+M: for | not | they did … fully | follow | the fear of Me
+
+@ 32:12
+= same
+= same
+E: because they followed <b>the fear of</b> Adonoy fully.’
+M: because | they … fully | followed | the fear of | Adonoy
+
+@ 32:13
+= same
+= same
+= same
+= same
+E: that had done evil <b>before</b> Adonoy.
+M: that had done | evil | before | Adonoy
+
+@ 32:14
+= same
+E: as <b>disciples</b> of sinners,
+M: as disciples of | ^ | sinners
+E: to add to the <b>mighty</b> wrath of Adonoy against Yisroel.
+M: to add | ^ | to | the mighty | wrath | of Adonoy | against Yisroel
+
+@ 32:15
+E: If you will turn away from <b>fearing</b> Him,
+M: If | you will turn away | from | fearing Him
+E: He will again <b>delay</b> them in the wilderness.
+M: He will | again | delay them | in the wilderness
+
+@ 32:20
+= same
+= same
+E: if you will arm yourselves before <b>the nation of</b> Adonoy and go forth to the war,
+M: if | you will arm yourselves | before | the nation of | Adonoy | and go forth to the war
+
+@ 32:21
+E: and every armed man will cross the Yardein, before <b>the nation of</b> Adonoy,
+M: and will cross | - | every | armed man | - | the Yardein | before | the nation of | Adonoy
+
+@ 32:22
+E: and the land is conquered before <b>the nation of</b> Adonoy — afterwards you will return.
+M: and … is conquered | the land | before | the nation of | Adonoy | afterwards | ^ | you will return
+E: You will then be vindicated from <b>before</b> Adonoy and from Yisroel,
+M: You will then be | vindicated | from | before | Adonoy | and from Yisroel
+
+@ 32:23
+= same
+E: behold, you will have sinned <b>before</b> Adonoy
+M: behold | you will have sinned | before | Adonoy
+
+@ 32:27
+E: And your servants will cross over — all those in the army — before <b>the nation of</b> Adonoy, to the war,
+M: And your servants | will cross over | all those | in the | army | before | the nation of | Adonoy | to the war
+
+@ 32:29
+E: Moshe said to them: “If the tribe of Gad and Reuvein will cross the Yardein with you, every man that is armed for battle before <b>the nation of</b> Adonoy,
+M: said | Moshe | to them | If | will cross | the tribe of | Gad | and | Reuvein | with you | - | the Yardein | every man | that is armed | for battle | before | the nation of | Adonoy
+
+@ 32:32
+E: We will cross over armed for battle before <b>the nation of</b> Adonoy, to the land of Canaan,
+M: We | will cross over | armed for battle | before | the nation of | Adonoy | to the land | of Canaan
+
+@ 32:33
+= same
+E: and the empire of Og, king of <b>Masnon</b>,
+M: and | the empire of | Og | king of | Masnon
+
+@ 32:35
+E: Atros Shofan, Yazeir, <b>the Heights</b>,
+M: - | Atros | Shofan | - | Yazeir | the Heights

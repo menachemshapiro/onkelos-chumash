@@ -147,3 +147,19 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 - **Alternate readings** (נ"א, נ"י and similar) stay in the Targum text, in parentheses and a smaller font, and can be tapped like any other word.
 - **Outside help.** For a small number of hard words (71 lookups in all), the meaning was checked against the Comprehensive Aramaic Lexicon (cal.huc.edu). Every lookup is logged in `build/cal-log.json`.
 - **Cleanup pass.** After all five books were done, every gloss in the Torah was compared with the English of its pasuk. About 2,270 glosses were corrected where a meaning written for one pasuk had been reused where it did not fit.
+
+## English as Onkelos reads it
+
+- **Three English modes.** The drop-down next to the English button chooses which English is shown. **Combined** is the Metsudah English as printed, with Onkelos's wording in [brackets]. **Plain** takes the brackets out, so the English follows the Hebrew. **Onkelos** rewrites the English so that it follows the Targum.
+- **Which pesukim.** Only pesukim where the Targum has bracketed wording of its own get an Onkelos English (2,321 pesukim). In every other pasuk all three modes show the same English.
+- **How it is written.** The Onkelos English keeps Metsudah's words wherever the Targum agrees with them. Wording that comes from Onkelos is in bold. Where the Hebrew says Elohim, the English keeps "God". Connecting words that Metsudah leaves out are added in {curly brackets}, but only when they make the English read better.
+- **Word by word.** Every Aramaic word, prefix and suffix is matched to the English that renders it, or marked "not translated". English words with no Aramaic word behind them are listed as "English only". A script checks every pasuk. Any English word that is not in bold must appear in Metsudah's own English for that clause. If a word's Aramaic is on another line, the word is moved to that line.
+- **Onkelos word by word.** When **Word by word** is on, each line has an **Onkelos word by word** drop-down under the English, with the table of matches and any notes. It stays available when the English is turned off.
+- **Notes.** A note is added only when it tells the reader something the English does not show by itself. That can be a Targum word that Metsudah renders loosely, an idiom, or a reading that needs explaining. There are no notes just to say that Metsudah's word follows the Hebrew, or that Metsudah left out a word or prefix. About 1,400 notes of that kind were removed on Oct 21.
+- **Where the files are.** The hand-written matches are in `build/eo-align/<parsha>.txt`. They are checked by `build/eo_check.py` and merged into the parsha data by `build/eo_merge.py`. Rewritten renderings used throughout include "the Word of" (מֵימְרָא), "Shechina", "before" for "to", "accept the word of" for obey, and "idols of the nations" for other gods.
+
+## Interface
+
+- **Toolbar.** The parsha, perek and pasuk pickers come first. Next are small toggles for Te'amim, Targum, English (with its mode drop-down), Rashi and Word by word. Typography (Aa) and Export (⤓) are icons, with their full names in a tooltip.
+- **Verse size.** The default size of the Hebrew is 1.85rem.
+- **Phones.** No מקרא / תרגום / English labels are shown on a phone. The three texts are told apart by font and color. In the Stacked layout on a larger screen, the labels appear once at the start of each perek.

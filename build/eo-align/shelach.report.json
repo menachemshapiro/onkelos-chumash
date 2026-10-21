@@ -1,0 +1,444 @@
+[
+ [
+  "13:19",
+  4,
+  "are they open, or are they fortified [<b>walled-in</b>]?",
+  "are they open, or are they <b>walled-in</b>?",
+  "fortified",
+  []
+ ],
+ [
+  "13:22",
+  3,
+  "the offspring of the giant[<b>s</b>].",
+  "the offspring of the <b>giants</b>.",
+  "giant",
+  []
+ ],
+ [
+  "13:22",
+  4,
+  "[The city of] Chevron was built seven years before",
+  "[The city of] Chevron was built seven years",
+  "before",
+  []
+ ],
+ [
+  "13:22",
+  5,
+  "the city of Tzo’an [<b>Tonas</b>] in Egypt.",
+  "<b>before</b> the city of <b>Tonas</b> in Egypt.",
+  "tzo’an",
+  [
+   "\"before\" (קֳדָם) is moved to the line where its Aramaic is."
+  ]
+ ],
+ [
+  "13:26",
+  1,
+  "They went and came to Moshe and Aharon and to the entire congregation of Bnei Yisroel [that came] to the desert of Paran, in Kadeish [<b>to Rekom</b>].",
+  "They went and came to Moshe and Aharon and to the entire congregation of Bnei Yisroel [that came] to the desert of Paran, <b>to Rekom</b>.",
+  "in kadeish",
+  []
+ ],
+ [
+  "13:28",
+  4,
+  "and we also saw the offspring of the giant[<b>s</b>] over there.",
+  "and we also saw the offspring of the <b>giants</b> over there.",
+  "giant",
+  []
+ ],
+ [
+  "13:32",
+  3,
+  "“The land through which we have passed to scout it, is a land which consumes [<b>slaughters</b>] its inhabitants;",
+  "“The land through which we have passed to scout it, is a land which <b>slaughters</b> its inhabitants;",
+  "consumes",
+  []
+ ],
+ [
+  "13:32",
+  4,
+  "and every one of the people we saw in it, are men of dimensions [<b>stature</b>].",
+  "and every one of the people we saw in it, are men of <b>stature</b>.",
+  "dimensions",
+  []
+ ],
+ [
+  "13:33",
+  1,
+  "There we saw the giants, the sons of the giant [<b>Anok</b>], of the Nephilim [<b>giants</b>],",
+  "There we saw the giants, the sons of <b>Anok</b>, of the <b>giants</b>,",
+  "giant nephilim the",
+  []
+ ],
+ [
+  "13:33",
+  2,
+  "and we were like grasshoppers in our [<b>own</b>] eyes,",
+  "and we were like grasshoppers in our <b>own</b> eyes,",
+  "",
+  []
+ ],
+ [
+  "14:8",
+  4,
+  "a land which flows with [<b>produces</b>] milk and honey.",
+  "a land which <b>produces</b> milk and honey.",
+  "flows with",
+  []
+ ],
+ [
+  "14:9",
+  1,
+  "However, do not rebel against [<b>the word of</b>] Adonoy",
+  "However, do not rebel against <b>the Word of</b> Adonoy",
+  "",
+  []
+ ],
+ [
+  "14:9",
+  3,
+  "for they are [as] our bread [<b>delivered into our hands</b>],",
+  "for they are <b>delivered into our hands</b>,",
+  "as bread our",
+  []
+ ],
+ [
+  "14:9",
+  4,
+  "their protection [<b>strength</b>] is removed from them, and [<b>the word of</b>] Adonoy is with [<b>supports</b>] us; do not be afraid of them.”",
+  "their <b>strength</b> is removed from them, and <b>the Word of</b> Adonoy <b>supports</b> us; do not be afraid of them.”",
+  "is protection with",
+  []
+ ],
+ [
+  "14:11",
+  2,
+  "“Until where will this people provoke [<b>before</b>] Me,",
+  "“Until where will this people provoke <b>before</b> Me,",
+  "",
+  []
+ ],
+ [
+  "14:11",
+  3,
+  "and how much longer will they have no faith in Me [<b>my word</b>],",
+  "and how much longer will they have no faith in <b>My Word</b>,",
+  "me",
+  []
+ ],
+ [
+  "14:14",
+  3,
+  "are [<b>Your Shechinah dwells</b>] among this people,",
+  "<b>Your Shechina dwells</b> among this people,",
+  "are",
+  []
+ ],
+ [
+  "14:14",
+  4,
+  "Who appears to them eye to eye (face to face) [<b>who have seen Your glorious Shechinah</b>], You, Adonoy; Your Cloud stands over them,",
+  "<b>who with their eyes have seen the glorious Shechina of</b> Adonoy; Your Cloud stands over them,",
+  "appears eye eye face face them to to to who you",
+  []
+ ],
+ [
+  "14:14",
+  5,
+  "in a Pillar of Cloud You go before [<b>lead</b>] them daily",
+  "in a Pillar of Cloud You <b>lead</b> them daily",
+  "before go",
+  []
+ ],
+ [
+  "14:15",
+  3,
+  "they who have heard of Your reputation [<b>the fame of Your power</b>] — as follows:",
+  "they who have heard <b>the fame of Your power</b> — as follows:",
+  "of reputation your",
+  []
+ ],
+ [
+  "14:16",
+  3,
+  "that he slaughtered [<b>killed</b>] them in the desert.”",
+  "that he <b>killed</b> them in the desert.”",
+  "slaughtered",
+  []
+ ],
+ [
+  "14:17",
+  1,
+  "Now, please, let my Master’s power be enhanced [<b>before Hashem</b>]",
+  "Now, please, let power be enhanced <b>before Adonoy</b>",
+  "master’s my",
+  []
+ ],
+ [
+  "14:18",
+  1,
+  "Adonoy, slow to [<b>distances</b>] anger and abounding in [<b>performing</b>] kindness,",
+  "Adonoy, <b>Who distances</b> anger and abounding in <b>performing</b> kindness,",
+  "slow to",
+  []
+ ],
+ [
+  "14:18",
+  2,
+  "forgiving iniquity, [<b>rebellion</b>] and transgression;",
+  "forgiving iniquity, <b>rebellion</b> and transgression;",
+  "",
+  []
+ ],
+ [
+  "14:18",
+  3,
+  "Who does not completely acquit [<b>pardoning those who return to His Torah, but to those who do not return, He does not acquit</b>],",
+  "<b>pardoning those who return to His Torah, but to those who do not return, He does not acquit</b>,",
+  "acquit completely does not who",
+  []
+ ],
+ [
+  "14:18",
+  4,
+  "Who will visit the iniquities of the fathers upon their [<b>rebellious</b>] children,",
+  "Who will visit the iniquities of the fathers upon <b>rebellious</b> children,",
+  "their",
+  []
+ ],
+ [
+  "14:22",
+  3,
+  "and they have tested [<b>before</b>] Me these ten times",
+  "and they have tested <b>before</b> Me these ten times",
+  "",
+  []
+ ],
+ [
+  "14:22",
+  4,
+  "and they have not listened to My voice [<b>word</b>].",
+  "and they have not <b>accepted My Word</b>.",
+  "listened my to voice",
+  []
+ ],
+ [
+  "14:23",
+  3,
+  "all those who angered [<b>before</b>] Me will not see it.",
+  "all those who angered <b>before</b> Me will not see it.",
+  "",
+  []
+ ],
+ [
+  "14:24",
+  2,
+  "and followed Me fully [<b>in fear of Me</b>],",
+  "and followed fully <b>in fear of Me</b>,",
+  "me",
+  []
+ ],
+ [
+  "14:27",
+  3,
+  "The complaints of Bnei Yisroel, which they complain against Me, I have heard [<b>before Me</b>].",
+  "The complaints of Bnei Yisroel, which they complain against Me, <b>have been heard before Me</b>.",
+  "have heard i",
+  []
+ ],
+ [
+  "14:28",
+  2,
+  "if I do not [do to you] as you have spoken in My ears [<b>before Me</b>];",
+  "if I do not [do to you] as you have spoken <b>before Me</b>;",
+  "ears in my",
+  []
+ ],
+ [
+  "14:30",
+  2,
+  "to which I raised My Hand [to swear] [<b>sworn by My word</b>]",
+  "to which I <b>swore by My Word</b>",
+  "hand my raised swear to",
+  []
+ ],
+ [
+  "14:33",
+  1,
+  "Your children, they shall be wanderers [<b>delayed</b>] in the desert for forty years,",
+  "Your children, they shall be <b>delayed</b> in the desert for forty years,",
+  "wanderers",
+  []
+ ],
+ [
+  "14:34",
+  4,
+  "and you will know My displeasure [<b>that you have murmured against Me</b>].",
+  "and you will know <b>that you have murmured against Me</b>.",
+  "displeasure my",
+  []
+ ],
+ [
+  "14:35",
+  1,
+  "I am Adonoy;",
+  "I, Adonoy, <b>have decreed by My Word</b>;",
+  "am",
+  []
+ ],
+ [
+  "14:35",
+  2,
+  "I have spoken — [<b>decreed by My word</b>] — if I do not do this to this entire evil congregation",
+  "if I do not do this to this entire evil congregation",
+  "have i spoken",
+  []
+ ],
+ [
+  "14:41",
+  2,
+  "“Why are you now transgressing the word [<b>decree</b>] of Adonoy;",
+  "“Why are you now transgressing the <b>decree of the Word</b> of Adonoy;",
+  "word",
+  []
+ ],
+ [
+  "14:43",
+  3,
+  "for, you turned from following [<b>the service of</b>] Adonoy,",
+  "for, you turned from following <b>the service of</b> Adonoy,",
+  "",
+  []
+ ],
+ [
+  "14:43",
+  4,
+  "and [<b>the word of</b>] Adonoy will not be with you [<b>to your aid</b>].”",
+  "and <b>the Word of</b> Adonoy will not be <b>to your aid</b>.”",
+  "with you",
+  []
+ ],
+ [
+  "14:45",
+  3,
+  "and they smote and crushed [<b>pursued</b>] them until Chormah.",
+  "and they smote and <b>pursued</b> them until Chormah.",
+  "crushed",
+  []
+ ],
+ [
+  "15:3",
+  1,
+  "When you make a fire-offering [<b>sacrifice</b>] to Adonoy, a burnt-offering or a sacrifice,",
+  "When you make a <b>sacrifice before</b> Adonoy, a burnt-offering or a <b>sacred</b> sacrifice,",
+  "fire offering to",
+  []
+ ],
+ [
+  "15:3",
+  4,
+  "to provide a pleasing fragrance to [<b>to be accepted with pleasure before</b>] Adonoy,",
+  "to provide {it} <b>to be accepted with pleasure before</b> Adonoy,",
+  "a fragrance pleasing to",
+  []
+ ],
+ [
+  "15:7",
+  2,
+  "This is how you shall offer a pleasing fragrance to [<b>to be accepted with pleasure before</b>] Adonoy.",
+  "This is how you shall offer {it} <b>to be accepted with pleasure before</b> Adonoy.",
+  "a fragrance pleasing to",
+  []
+ ],
+ [
+  "15:10",
+  2,
+  "a fire-offering of pleasing fragrance to [<b>which will be accepted with pleasure before</b>] Adonoy.",
+  "<b>an offering which will be accepted with pleasure before</b> Adonoy.",
+  "a fire fragrance of offering pleasing to",
+  []
+ ],
+ [
+  "15:13",
+  2,
+  "to bring a fire-offering of pleasing fragrance to [<b>which will be accepted with pleasure before</b>] Adonoy.",
+  "to bring <b>an offering which will be accepted with pleasure before</b> Adonoy.",
+  "a fire fragrance of offering pleasing to",
+  []
+ ],
+ [
+  "15:14",
+  2,
+  "and makes a fire-offering of pleasing fragrance to [<b>which will be accepted with pleasure before</b>] Adonoy,",
+  "and makes <b>an offering which will be accepted with pleasure before</b> Adonoy,",
+  "a fire fragrance of offering pleasing to",
+  []
+ ],
+ [
+  "15:19",
+  2,
+  "you shall separate a terumah for [<b>a separation before</b>] Adonoy.",
+  "you shall separate <b>a separation before</b> Adonoy.",
+  "a for terumah",
+  []
+ ],
+ [
+  "15:21",
+  2,
+  "you shall give to [<b>before</b>] Adonoy as a terumah- offering,",
+  "you shall give <b>before</b> Adonoy as a <b>separation</b>,",
+  "offering terumah to",
+  []
+ ],
+ [
+  "15:24",
+  2,
+  "then the entire congregation shall offer one young bullock as a burnt-offering for a pleasing fragrance to [<b>to be accepted with pleasure before</b>] Adonoy.",
+  "then the entire congregation shall offer one young bullock as a burnt-offering <b>to be accepted with pleasure before</b> Adonoy.",
+  "a for fragrance pleasing to",
+  []
+ ],
+ [
+  "15:30",
+  1,
+  "A person who commits a sin high-handedly [<b>publicly</b>] among the citizens or among the proselytes,",
+  "A person who commits a sin <b>publicly</b> among the citizens or among the proselytes,",
+  "handedly high",
+  []
+ ],
+ [
+  "15:30",
+  2,
+  "blasphemes [<b>provokes before</b>] Adonoy;",
+  "<b>provokes before</b> Adonoy;",
+  "blasphemes",
+  []
+ ],
+ [
+  "15:34",
+  1,
+  "They placed [<b>bound</b>] him under guard",
+  "They <b>bound</b> him under guard",
+  "placed",
+  []
+ ],
+ [
+  "15:39",
+  4,
+  "and you will not search [<b>stray</b>] after [the desire of] your hearts and after [<b>the sight</b>] your eyes",
+  "and you will not <b>stray</b> after [the desire of] your hearts and after <b>the sight of</b> your eyes",
+  "search",
+  []
+ ],
+ [
+  "15:40",
+  3,
+  "and you will be holy unto [<b>before</b>] your God.",
+  "and you will be holy <b>before</b> your God.",
+  "unto",
+  []
+ ]
+]

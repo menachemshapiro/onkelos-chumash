@@ -1,0 +1,292 @@
+# "As Onkelos reads it", parsha Tetzaveh
+
+@ 28:1
+= same
+E: from among the B’nei Yisrael, to serve <b>before</b> Me [as kohanim]:
+M: from among | the B’nei | Yisrael | to serve | before Me
++ as kohanim
+
+@ 28:3
+= same
+= same
+E: and have them make Aharon’s garments, to sanctify him to serve <b>before</b> Me [as kohein].
+M: and have them make | - | garments | Aharon’s | to sanctify him | to serve | before Me
++ as kohein
+
+@ 28:4
+= same
+= same
+E: Have them make sacred garments for your brother Aharon, and for his sons, to serve <b>before</b> Me [as kohanim].
+M: Have them make | garments | sacred | for Aharon | your brother | and for his sons | to serve | before Me
++ as kohanim
+
+@ 28:5
+= same
+E: the greenish-blue wool, the dark red wool
+M: - | the greenish-blue wool | - | the dark red wool
+E: <b>the crimson colored wool</b>, and the fine twined linen.
+M: - | the colored | crimson wool | and | the fine twined linen
+! Metsudah prints "the crimson wool" on the line above; its Aramaic, צְבַע זְהוֹרִי, is on this line.
+
+@ 28:6
+= same
+E: greenish-blue wool, dark red wool, crimson <b>colored</b> wool, and fine twined linen, the work of a craftsman.
+M: - | greenish-blue wool | dark red wool | colored | crimson wool | and fine linen | twined | the work of | a craftsman
+! "gold" (דַּהֲבָא) is printed on the line above.
+
+@ 28:7
+E: It shall have two shoulder straps attached to it, they shall be attached at its two <b>sides</b>.
+M: two | shoulder straps | attached | It shall have | to it | at | its two | sides | they shall be attached
+
+@ 28:8
+E: The eiphod’s belt <b>that enhances it</b>, which is on it,
+M: The eiphod’s belt | that enhances it | which | is on it
+= same
+E: [with] gold, greenish blue wool, dark red wool, crimson <b>colored</b> wool and fine twined linen.
+M: gold | greenish blue wool | dark red wool | colored | crimson wool | and fine linen | twined
++ with
+
+@ 28:11
+E: The work of a <b>precious</b> stone engraver,
+M: The work of | engraver | stone | a precious
+E: <b>written in script that is clear like they engrave a signet ring</b> shall you engrave the two stones
+M: written in script | that is clear | like they engrave | a signet ring | shall you engrave | - | the two | stones
+
+@ 28:15
+= same
+= same
+E: [Out of] gold, greenish-blue wool, dark red wool, crimson <b>colored</b> wool and fine twined linen, shall you make it.
+M: gold | greenish-blue wool | dark red wool | colored | crimson wool | and fine linen | twined | shall you make | it
++ Out of
+
+@ 28:17
+= same
+E: Their shall be four rows of <b>precious</b> stones:
+M: Their shall be four | rows of | stones | precious
+E: <b>The first row:</b> An odem [ruby], pitda [topaz], and a barekes [emerald],
+M: The row | first | An odem | pitda | and a barekes
++ ruby
++ topaz
++ emerald
+E: <b>is row one</b>.
+M: is row | one
+
+@ 28:21
+= same
+E: each one’s name <b>written in script that is clear like they engrave a signet ring</b>,
+M: written in script | that is clear | like they engrave | a signet ring | each | one’s | name
+
+@ 28:23
+= same
+= same
+E: on the two [upper] <b>sides</b> for the breastplate.
+M: on | the two | sides | for the breastplate
++ upper
+
+@ 28:24
+= same
+= same
+E: at the <b>sides</b> of the breastplate.
+M: at the sides of | the breastplate
+
+@ 28:25
+E: The two ends of the two braided chains <b>which are on its two sides</b>,
+M: - | The two ends of the two | braided chains | which are on | its two | sides
+
+@ 28:26
+= same
+= same
+E: on the two [lower] <b>sides</b> of the breastplate,
+M: on | the two | sides of | the breastplate
++ lower
+
+@ 28:32
+= same
+E: Its opening shall have a border <b>encircling</b> all around, [this border shall be] of woven work, like there is around the opening of a coat of armor, so that it will not be torn.
+M: - | shall have | a border encircling | Its opening | all around | ^ | of woven | work | like there is around the opening of | a coat of armor | so that | ^ | not | it will be torn
++ this border shall be
+
+@ 28:33
+E: On its [lower] hem you shall make pomegranates of greenish-blue wool, dark red wool, and crimson <b>colored</b> wool —
+M: you shall make | On | its hem | pomegranates of | greenish-blue wool | dark red wool | and colored | crimson wool
++ lower
+
+@ 28:36
+= same
+E: and engrave on it in <b>script that is clear</b>,
+M: and engrave | on it | in script | that is clear
+
+@ 28:41
+= same
+= same
+E: [Then] anoint them, and <b>offer their sacrifices</b>, and consecrate them to serve <b>before</b> Me [as kohanim].
+M: anoint | them | and offer | - | their sacrifices | and consecrate | them | to serve | before Me
++ Then
++ as kohanim
+
+@ 29:1
+E: This is what you must do for them to consecrate them to serve <b>before</b> Me [as kohanim].
+M: This is | what | ^ | you must do | for them | to consecrate | them | to serve | before Me
++ as kohanim
+
+@ 29:5
+= same
+= same
+= same
+E: and <b>beautify</b> him
+M: and beautify | him
+
+@ 29:9
+= same
+= same
+E: Thus you shall <b>offer the sacrifice of</b> Aharon and <b>the sacrifice of</b> his sons.
+M: Thus you shall offer | the sacrifice | of Aharon | and the sacrifice | of his sons
+
+@ 29:17
+E: Cut the ram into <b>its limbs</b>.
+M: - | the ram | Cut | into its limbs
+= same
+E: and place them with its <b>limbs</b> and its head.
+M: and place them | with | its limbs | and | its head
+
+@ 29:18
+= same
+E: it is a burnt-offering <b>before</b> Adonoy,
+M: a burnt-offering | it is | before | Adonoy
+E: <b>to be accepted with favor</b>,
+M: to be accepted | with favor
+E: a <b>sacrifice before</b> Adonoy.
+M: a sacrifice | before | Adonoy | -
+
+@ 29:22
+= same
+= same
+E: for it is a ram of <b>an offering</b>.
+M: for | a ram of | an offering | it is
+
+@ 29:25
+= same
+= same
+E: <b>to be accepted with favor</b> before Adonoy.
+M: to be accepted | with favor | before | Adonoy
+E: It is a <b>sacrifice before</b> Adonoy.
+M: a sacrifice | It is | before | Adonoy
+
+@ 29:26
+E: Take the breast from Aharon’s ram <b>of offering</b>
+M: Take | - | the breast | from ram of | offering | - | Aharon’s
+E: and wave it as wave-offering <b>before</b> Adonoy.
+M: and wave | it | as wave-offering | before | Adonoy
+
+@ 29:27
+= same
+= same
+E: of the ram of the <b>offering</b>
+M: of the ram | of the offering
+
+@ 29:28
+= same
+= same
+= same
+E: It is their terumah-offering <b>before</b> Adonoy.
+M: It is their terumah-offering | before | Adonoy
+
+@ 29:29
+= same
+= same
+= same
+E: and to <b>offer their sacrifices</b> through them.
+M: and to offer | through them | - | their sacrifices
+
+@ 29:31
+E: Take the [remainder of the] ram of the <b>offering</b>
+M: - | ram of | the offering | Take
++ the remainder of the
+
+@ 29:33
+= same
+E: to <b>offer their sacrifices</b> and [thereby] to sanctify them.
+M: to offer | - | their sacrifices | to sanctify | them
++ and thereby
+
+@ 29:34
+E: If any meat of the <b>offering</b> is left over or if any of the bread [is left over] until morning,
+M: If | is left over | any meat of | the offering | or if any of | the bread | until | morning
++ is left over
+
+@ 29:35
+= same
+= same
+E: Seven days shall you <b>offer their sacrifices</b>.
+M: Seven | days | shall you offer | their sacrifices
+
+@ 29:36
+= same
+E: and by sprinkling [its blood] on the altar you will <b>elevate</b> it [the altar.]
+M: you will elevate | on | the altar | and by sprinkling | it
++ its blood
++ the altar
+
+@ 29:41
+= same
+= same
+= same
+E: <b>to be accepted with favor</b>,
+M: to be accepted | with favor
+E: a <b>sacrifice before</b> Adonoy.
+M: a sacrifice | before | Adonoy
+
+@ 29:42
+= same
+= same
+E: where I will <b>prepare My Word</b> with you,
+M: where I will prepare | My Word | with you | -
+
+@ 29:43
+E: It is there that I will <b>prepare My Word</b> with the B’nei Yisrael,
+M: I will prepare | My Word | It is there that | with the B’nei | Yisrael
+E: and <b>I</b> will be sanctified with My Glory.
+M: and I will be sanctified | with My Glory
+
+@ 29:44
+= same
+E: and Aharon and his sons I will sanctify to serve <b>before</b> Me as kohanim.
+M: and | Aharon | and | his sons | I will sanctify | to serve | before Me
++ as kohanim
+
+@ 29:45
+E: I will <b>rest My Shechina</b> among the B’nei Yisrael,
+M: I will rest | My Shechina | among | the B’nei | Yisrael
+
+@ 29:46
+= same
+E: who brought them out of the land of Egypt to <b>rest My Shechina</b> among them.
+M: who | brought out | them | of the land | of Egypt | to rest | My Shechina | among them
+
+@ 30:1
+E: You shall make an altar <b>upon which</b> to burn incense <b>of spices</b>.
+M: You shall make | an altar | to burn | upon which | incense | of spices
+
+@ 30:6
+= same
+= same
+= same
+E: where I will <b>prepare My Word</b> with you there.
+M: where | I will prepare | My Word | with you | there
+
+@ 30:8
+= same
+E: It is a continual incense <b>of spices</b> before Adonoy for you generations.
+M: incense | of spices | It is a continual | before | Adonoy | for you generations
+
+@ 30:9
+E: Do not bring upon it strange [unauthorized] incense <b>of spices</b>; neither burnt-offerings nor meal-offerings.
+M: Do not | bring | upon it | incense | of spices | strange | neither burnt-offerings | nor meal-offerings
++ unauthorized
+
+@ 30:10
+= same
+= same
+= same
+E: It is Holy of Holies <b>before</b> Adonoy.
+M: Holy | of Holies | It is | before | Adonoy

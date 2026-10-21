@@ -251,3 +251,18 @@ vayetzei/30:2>וּ=and.תְקֵיף | tqf | G pf 3ms | and (his anger) grew stro
 תִקְרַב | qrb | G impf 2ms | you (shall not) come near (touch)
 מְלֵי | malei | a cs | the full (amount) of
 miketz/44:1>מְלֵי | mly | D impv ms | fill!
+# --- found while aligning "as Onkelos reads it", Bereishit 49 ---
+vayechi/49:2>וּ=and.שְׁמָעוּ | shm | G impv mp | and listen
+vayechi/49:13>סְפַר | sefar2 | n cs | the shore of
+vayechi/49:13>וְ=and.הוּא | hu | pron 3ms | and he
+vayechi/49:24>וּ=and.תְקֵיף | tqof | n | and power
+vayechi/49:12>נַעֲווֹ.הִי=his | naava | n mp+3ms | his winepresses
+vayechi/49:15>וִ=and.ישֵׁיצֵי | shetsi | Sh impf 3ms | and (he) will destroy
+vayechi/49:28>בָּרֵךְ | brk | D pf 3ms | (he) blessed
+vayechi/49:7>קַשְׁיָא | qshy | a fs emph | harsh
+vayechi/49:9>וְ=and.לֵית | leit | neg | and there is no
+vayechi/49:24>וְ=and.שַׁוִּי | shwy | D pf 3ms | and (he) placed
+vayechi/49:5>גַּבְר.ִין=pl | gvar | n mp | men (גַּבְרִין גִּבָּרִין = mighty warriors)
+vayechi/49:5>גִּבָּר.ִין=pl | gibbar | n mp | mighty (with גַּבְרִין: mighty warriors)
+vayechi/49:23>גֻּבְר.ִין=pl | gvar | n mp | men (גֻּבְרִין גִּבָּרִין = mighty warriors)
+vayechi/49:23>גִּבָּר.ִין=pl | gibbar | n mp | mighty (with גֻּבְרִין: mighty warriors)

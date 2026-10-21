@@ -1,0 +1,476 @@
+@ 1:5
+  1 T: וַהֲוָה כָּל נַפְשָׁתָא נַפְקֵי יַרְכָּא דְיַעֲקֹב שַׁבְעִין נַפְשָׁן
+    E: All the souls that emanated from the loins of Yaakov, [numbered] seventy souls,
+ *2 T: וְיוֹסֵף=and Yosef · דַהֲוָה=that was · בְּמִצְרָיִם=in Mitzrayim (Egypt)  [3]
+    E: [including] Yoseif who was [{already}] in Egypt.
+@ 1:8
+  1 T: וְקָם מַלְכָּא חַדְתָּא עַל מִצְרָיִם
+    E: A new king came into power over Egypt,
+ *2 T: דְלָא=that not · מְקַיֵם=(who did not) uphold · גְזֵרַת=the decrees of · יוֹסֵף=Yosef  [4]
+    E: who did not know [{fulfill}] Yoseif[{’s decree}].
+@ 1:10
+ *1 T: הָבוּ=come (lit. give) · נִתְחַכַּם=let us deal shrewdly · לְהוֹן=to them  [3]
+    E: Come let us deal wisely with him [{them}].
+ *2 T: דִלְמָא=lest · יִסְגוּן=may they multiply · וִיהֵי=and will be; let there be · אֲרֵי=that · יְעַרְעִנָנָא=(war) befalls us · קְרָב=war · וְיִתּוֹסְפוּן=and they will join (lit. be added) · אַף=also · אִנוּן=(were) they · עַל=on, over · סַנְאָנָא=our enemies  [11]
+    E: Lest he [{they}] increase so much, that, if there is war, he [{they}] will join our enemies
+ *3 T: וִיגִיחוּן=and (they) will wage (war) · בָּנָא=with us · קְרָב=war · וְיִסְקוּן=and (they) will go up · מִן=from · אַרְעָא=the earth, the land  [6]
+    E: and fight [{a war}] against us, driving us [{and they will go up}] from the land.
+@ 1:11
+ *1 T: וּמַנִיאוּ=and (they) appointed · עֲלֵיהוֹן=upon them, over them (also: against them) · שִׁלְטוֹנִין=officers (lit. rulers) · מַבְאִישִׁין=who do harm  [4]
+    E: They appointed conscription [{cruel}] officers over him [{them}]
+ *2 T: בְּדִיל=in order · לְעַנוֹאֵהוֹן=to afflict them · בְּפָלְחָנְהוֹן=in their labor  [3]
+    E: to oppress him [{them}] with their burdens [{work}].
+  3 T: וּבְנוֹ קִרְוֵי בֵית אוֹצָרָא לְפַרְעֹה
+    E: He [B’nei Yisrael] built supply cities for Pharaoh,
+  4 T: יָת פִּיתוֹם וְיָת רַעַמְסֵס
+    E: Pisom and Ramseis.
+@ 1:12
+ *1 T: וּכְמָא=and as (much as) · דִמְעַנַן=(as much as) they afflicted · לְהוֹן=to them  [3]
+    E: But the more [the Egyptians] oppressed him [{them}],
+ *2 T: כֵּן=so · סָגָן=numerous (lit. multiplying) · וְכֵן=and so · תַּקְפִין=grew strong  [4]
+    E: the more [the B’nei Yisrael] increased and spread [{became strong}].
+  3 T: וַעֲקַת לְמִצְרָאֵי מִן קֳדָם בְּנֵי יִשְׂרָאֵל
+    E: [The Egyptians] came to loathe the B’nei Yisrael.
+@ 1:17
+ *1 T: וּדְחִילָא=and (the midwives) feared · חַיָתָא=the midwives · מִן=from · קֳדָם=before · יְיָ=Hashem  [5]
+    E: The midwives [however] feared [{from before}] Elohim
+  2 T: וְלָא עֲבָדָא
+    E: and did not do
+  3 T: כְּמָא דְמַלִיל עִמְהֶן מַלְכָּא דְמִצְרָיִם
+    E: as the Egyptian king had told them,
+  4 T: וְקַיָמָא יָת בְּנַיָא
+    E: and they kept the infant boys alive.
+@ 1:21
+ *1 T: וַהֲוָה=and it was / and there was · כַּד=when · דְחִילָא=(they) feared · חַיָתָא=the midwives · מִן=from · קֳדָם=before · יְיָ=Hashem  [7]
+    E: Because the midwives feared [{from before}] God,
+  2 T: וַעֲבַד לְהוֹן בָּתִּין
+    E: He gave them houses.
+@ 1:22
+  1 T: וּפַקִיד פַּרְעֹה
+    E: Pharaoh then commanded
+  2 T: לְכָל עַמֵהּ לְמֵימָר
+    E: all his people, saying,
+ *3 T: כָּל=every, all · בְּרָא=created · דְיִתְיְלִיד=that is born · לִיהוּדָאֵי=to the Jews · בְּנַהֲרָא=in the river · תִּרְמֻנֵהּ=you shall throw him  [6]
+    E: “Every boy who is born [{to the Hebrews}] must be thrown into the river;
+  4 T: וְכָל בְּרַתָּא תְּקַיְמוּן
+    E: but every girl shall be allowed to live.”
+@ 2:14
+  1 T: וַאֲמַר מָן שַׁוְיָךְ לִגְבַר רַב וְדַיָן עֲלָנָא
+    E: He [the wicked one] said, “Who made you a man, officer and judge over us?
+  2 T: הַלְמִקְטְלִי אַתְּ אָמַר
+    E: Do you intend to kill me
+  3 T: כְּמָא דִקְטַלְתָּ יָת מִצְרָאָה
+    E: as you killed the Egyptian?”
+  4 T: וּדְחִיל משֶׁה וַאֲמַר
+    E: Moshe was frightened, and he said,
+ *5 T: בְּקוּשְׁטָא=truly (lit. in truth) · אִתְיְדַע=it was (not) known · פִּתְגָמָא=the word  [3]
+    E: “So [{Certainly}] the matter is known.”
+@ 2:16
+ *1 T: וּלְרַבָּא=and to the great (one); the chief · דְמִדְיָן=of Midyan · שְׁבַע=seven · בְּנָן=daughters  [4]
+    E: The priest [{minister}] of Midian had seven daughters.
+  2 T: וְאָתָאָה וּדְלָאָה וּמְלָאָה יָת רְהָטַיָא
+    E: They came to draw water [from the well] and fill the troughs
+  3 T: לְאַשְׁקָאָה עֲנָא דַאֲבוּהֵן
+    E: to water their father’s sheep.
+@ 2:23
+  1 T: וַהֲוָה בְּיוֹמַיָא סַגִיאַיָא הָאִנוּן וּמִית מַלְכָּא דְמִצְרַיִם
+    E: A long time passed and the king of Egypt died.
+ *2 T: וְאִתְנָחוּ=and (they) groaned · בְנֵי=the children of · יִשְׂרָאֵל=Yisrael · מִן=from · פָּלְחָנָא=labor · דַהֲוָה=that was · קְשֵׁי=(was) hard, stiff · עֲלֵיהוֹן=upon them, over them (also: against them) · וּזְעִיקוּ=and (they) cried out  [9]
+    E: The B’nei Yisrael moaned because of their enslavement [{which was hard upon them}], and they cried.
+ *3 T: וּסְלֵיקָת=and (their cry) went up · קְבֶלְתְּהוֹן=their outcry · לָקֳדָם=to before · יְיָ=Hashem · מִן=from · פָּלְחָנָא=labor  [6]
+    E: Their plea about their enslavement went up to [{before}] God.
+@ 2:24
+ *1 T: וּשְׁמִיעַ=and (it) was heard · קֳדָם=before · יְיָ=Hashem · יָת=(marks the object) · קְבֶלְתְּהוֹן=their outcry  [5]
+    E: Elohim heard their groaning [{was heard before Elohim}]
+  2 T: וּדְכִיר יְיָ יָת קַיָמֵהּ
+    E: and Elohim remembered His covenant
+  3 T: דְעִם אַבְרָהָם דְעִם יִצְחָק וּדְעִם יַעֲקֹב
+    E: with Avraham, with Yitzchok and with Yaakov.
+@ 2:25
+ *1 T: וּגְלִי=and (it is) revealed · קְדָם=before · יְיָ=Hashem · שִׁעְבּוּדָא=the servitude · דִבְנֵי=of the children of · יִשְׂרָאֵל=Yisrael  [6]
+    E: Elohim saw [{The enslavement of}] the B’nei Yisrael [{became revealed before Elohim}],
+ *2 T: וַאֲמַר=and (He) said · בְּמֵימְרֵהּ=in His Word · לְמִפְרַקְהוֹן=to redeem them · יְיָ=Hashem  [4]
+    E: and Elohim took knowledge of them [{said with His Word that He would deliver them}].
+@ 3:1
+ *1 T: וּמשֶׁה=and Moshe · הֲוָה=was · רָעֵי=a shepherd of (lit. tending) · יָת=(marks the object) · עָנָא=sheep, flock · דְיִתְרוֹ=of Yitro · חֲמוֹהִי=his father-in-law · רַבָּא=the great (one); the chief · דְמִדְיָן=of Midyan  [9]
+    E: Moshe tended the sheep of his father-in-law Yisro, priest [{minister}] of Midian.
+ *2 T: וּדְבַר=and (He) took · יָת=(marks the object) · עָנָא=sheep, flock · לְבָתַר=after (lit. to after) · שְׁפַר=the best of · רַעֲיָא=pasture · לְמַדְבְּרָא=to the wilderness  [7]
+    E: He led the sheep to the edge of the wilderness [{to the best pastures}]
+ *3 T: וְאָתָא=and (he) came · לְטוּרָא=to the mountain · דְאִתְגְלִי=Who had revealed Himself · עֲלוֹהִי=for him (lit. upon him) · יְקָרָא=the Glory · דַיְיָ=of Hashem · לְחוֹרֵב=to Chorev  [7]
+    E: and he came to the mountain [{on which was the revealed the Glory}] of God, in the area of Choreiv.
+@ 3:2
+ *1 T: וְאִתְגְלִי=and (Hashem) revealed Himself (appeared) · מַלְאָכָא=an angel · דַיְיָ=of Hashem · לֵהּ=for him · בְּשַׁלְהוֹבִית=in a flame of · אֶשָׁתָא=the fire · מִגוֹ=from the midst of · אַסָנָא=the thornbush  [8]
+    E: An angel of Adonoy appeared [{became revealed}] to him [Moshe] in the heart [{a flame}] of a fire in the midst of a thorn-bush.
+  2 T: וַחֲזָא וְהָא אַסָנָא בָּעֵר בְּאֶשְָׁתָא
+    E: He looked and behold the bush was on fire,
+  3 T: וַאֲסָנָא לֵיתוֹהִי מִתְאָכִיל
+    E: but the bush was not being consumed.
+@ 3:5
+  1 T: וַאֲמַר לָא תִקְרַב הַלְכָא
+    E: He [God] said, “Do not come any closer.
+  2 T: שְׁרִי סֵינָךְ מֵעַל רִגְלָךְ
+    E: Take your shoes off your feet,
+  3 T: אֲרֵי אַתְרָא דְאַתְּ קָאִים עֲלוֹהִי
+    E: because the place upon which you are standing
+ *4 T: אֲתַר=the place of · קַדִישׁ=holy · הוּא=it  [3]
+    E: is [{a}] holy ground [{place}].”
+@ 3:6
+  1 T: וַאֲמַר אֲנָא אֱלָהָא דְאָבוּךְ
+    E: He [God] then said, “I am the God of your father,
+  2 T: אֱלָהָא דְאַבְרָהָם אֱלָהָא דְיִצְחָק וֵאלָהָא דְיַעֲקֹב
+    E: the God of Avraham, the God of Yitzchok, and the God of Yaakov.”
+  3 T: וּכְבֵשִׁנּוּן משֶׁה לְאַפּוֹהִי
+    E: Moshe hid his face,
+  4 T: אֲרֵי דָחִיל
+    E: for he was afraid
+ *5 T: מִלְאִסְתַּכָּלָא=from looking · בְּצֵית=toward (lit. in the direction of) · יְקָרָא=the Glory · דַיְיָ=of Hashem  [4]
+    E: to look at [{the side of the Glory of}] Elohim.
+@ 3:7
+  1 T: וַאֲמַר יְיָ
+    E: Adonoy said,
+ *2 T: מִגְלָא=(it is surely) revealed · גְלִי=(it is) revealed · קֳדָמַי=before Me · יָת=(marks the object) · שִׁעְבּוּד=the servitude of · עַמִי=my people · דִי=that, which · בְמִצְרָיִם=in Mitzrayim (Egypt)  [8]
+    E: “I have indeed seen the suffering of My people that are in Egypt [{has indeed been revealed before Me}].
+ *3 T: וְיָת=and (marks the object) · קְבֶלְתְּהוֹן=their outcry · שְׁמִיעַ=(it) has been heard · קֳדָמַי=before Me · מִן=from · קֳדָם=before · מַפְלְחֵיהוֹן=their taskmasters (lit. those who make them work)  [7]
+    E: I have heard how they [{Their}] cry out [{is heard before Me}] because [of the harshness] of their slave-masters,
+ *4 T: אֲרֵי=that · גְלֵי=(it is) revealed · קָדָמַי=before me · יָת=(marks the object) · כֵּיבֵיהוֹן=their pains  [5]
+    E: and I am aware of their pain [{has become revealed before Me}].
+@ 3:8
+ *1 T: וְאִתְגְלֵיתִי=and I have revealed Myself · לְשֵׁזָבוּתְהוֹן=to rescue them · מִידָא=from the hand (of) · דְמִצְרָאֵי=of the Egyptians · וּלְאַסָקוּתְהוֹן=and to bring them up · מִן=from · אַרְעָא=the earth, the land · הַהִיא=that  [8]
+    E: I have descended [{become revealed}] to free them from the hand of Egypt, and to bring them up from that land
+  2 T: לְאַרְעָא טָבָא וּפַתְיָא
+    E: to a good, spacious land,
+ *3 T: לְאַרְעָא=to the earth, the land · עָבְדָא=producing · חֲלָב=milk · וּדְבָשׁ=and honey  [4]
+    E: to a land flowing with [{producing}] milk and honey;
+  4 T: לַאֲתַר כְּנַעֲנָאֵי וְחִתָּאֵי
+    E: to the territory of the Canaanites, the Chittites,
+  5 T: וֶאֱמוֹרָאֵי וּפְרִזָאֵי
+    E: the Emorites, the Perizites,
+  6 T: וְחִוָאֵי וִיבוּסָאֵי
+    E: the Chivites and the Yevusites.
+@ 3:9
+ *1 T: וּכְעַן=and now · הָא=behold · קְבֵילַת=the outcry of · בְּנֵי=the children of · יִשְׂרָאֵל=Yisrael · עָלַת=has come · קֳדָמָי=before Me  [7]
+    E: Now, behold, the cry of the B’nei Yisrael has come to [{before}] Me.
+  2 T: וְאַף=and also · גְלֵי=(it is) revealed · קֳדָמַי=before Me · יָת=(marks the object) · דוֹחֲקָא=the oppression  [5]
+    E: I have also seen the oppression
+ *3 T: דִי=that, which · מִצְרָאֵי=the Egyptians · דָחֲקִין=oppress · לְהוֹן=to them  [4]
+    E: with which the Egyptians oppress them [{is also revealed before Me}].
+@ 3:10
+ *1 T: וּכְעַן=and now · אִיתָא=come  [2]
+    E: Now go [{come}].
+  2 T: וַאֲשַׁלְחִנָּךְ לְוַת פַּרְעֹה
+    E: I am sending you to Pharaoh,
+  3 T: וְאַפֵּיק יָת עַמִי בְנֵי יִשְׂרָאֵל מִמִצְרָיִם
+    E: and you will bring My people, the B’nei Yisrael, out of Egypt.”
+@ 3:11
+ *1 T: וַאֲמַר=and (He) said · משֶׁה=Moshe · קֳדָם=before · יְיָ=Hashem  [4]
+    E: Moshe said to [{before}] Elohim,
+  2 T: מָן אֲנָא
+    E: “Who am I
+  3 T: אֲרֵי אֵזִיל לְוָת פַּרְעֹה
+    E: that I should go to Pharaoh?
+  4 T: וַאֲרֵי אַפֵּיק יָת בְּנֵי יִשְׂרָאֵל מִמִצְרָיִם
+    E: Am I able to bring the B’nei Yisrael out of Egypt?”
+@ 3:12
+ *1 T: וַאֲמַר=and (He) said · אֲרֵי=that · יְהֵי=will be; let there be · מֵימְרִי=My Word · בְסַעְדָךְ=with you (lit. in your support)  [5]
+    E: He [God] said, “Because I will be with you [{My Word will be your support}].
+  2 T: וְדֵין לָךְ אָתָא
+    E: This will be the proof
+  3 T: אֲרֵי אֲנָא שְׁלַחְתָּךְ
+    E: that I have sent you —
+  4 T: בְּאַפָּקוּתָךְ יָת עַמָא מִמִצְרַיִם
+    E: when you bring the people out of Egypt —
+ *5 T: תִּפְלְחוּן=you will serve · קֳדָם=before · יְיָ=Hashem  [3]
+    E: you will serve [{before}] Elohim
+  6 T: עַל טוּרָא הָדֵין
+    E: on this mountain.”
+@ 3:13
+ *1 T: וַאֲמַר=and (He) said · משֶׁה=Moshe · קֳדָם=before · יְיָ=Hashem · הָא=behold · אֲנָא=I (am) · אָתֵי=is coming · לְוָת=to · בְּנֵי=the children of · יִשְׂרָאֵל=Yisrael  [10]
+    E: Moshe said to [{before}] Elohim, “Behold, when I come to the B’nei Yisrael
+  2 T: וְאֵימַר לְהוֹן
+    E: and say to them,
+  3 T: אֱלָהָא דְאַבְהַתְכוֹן שַׁלְחַנִי לְוָתְכוֹן
+    E: ‘The God of your fathers sent me to you,’
+  4 T: וְיֵימְרוּן לִי מָא שְׁמֵהּ
+    E: they will say to me, ‘What is His name?’
+  5 T: מָא אֵימַר לְהוֹן
+    E: What shall I say to them?”
+@ 3:16
+ *1 T: אִזֵיל=go · וְתִכְנוֹשׁ=and you shall gather · יָת=(marks the object) · סָבֵי=the elders of · יִשְׂרָאֵל=Yisrael · וְתֵימַר=and you will say · לְהוֹן=to them · יְיָ=Hashem · אֱלָהָא=the God · דְאַבְהַתְכוֹן=of your fathers · אִתְגְלֵי=revealed Himself (appeared) · לִי=(to) me  [12]
+    E: “Go, gather the elders of Yisrael, and say to them, ‘Adonoy, the God of your fathers appeared [{became revealed}] to me —
+  2 T: אֱלָהֵהּ דְאַבְרָהָם יִצְחָק וְיַעֲקֹב לְמֵימָר
+    E: the God of Avraham, Yitzchok and Yaakov — saying,
+  3 T: מִדְכַּר דְכִירְנָא יַתְכוֹן
+    E: “I have indeed been mindful of you,
+  4 T: וְיָת דְאִתְעֲבַד לְכוֹן בְּמִצְרַיִם
+    E: regarding that which is being done to you in Egypt.
+@ 3:17
+  1 T: וַאֲמָרִית אַסֵיק יָתְכוֹן מִשִׁעְבּוּד מִצְרָאֵי
+    E: I have said, I will bring you up out of the suffering of Egypt,
+  2 T: לַאֲרַע כְּנַעֲנָאֵי וְחִתָּאֵי
+    E: to the land of the Canaanites, the Chittites,
+  3 T: וֶאֱמוֹרָאֵי וּפְרִזָאֵי
+    E: the Emorites, the Perizites,
+  4 T: וְחִוָאֵי וִיבוּסָאֵי
+    E: the Chivites and the Yevusites;
+ *5 T: לְאַרְעָא=to the earth, the land · עַבְדָא=a slave · חֲלָב=milk · וּדְבָשׁ=and honey  [4]
+    E: to a land flowing with [{producing}] milk and honey.’”
+@ 3:18
+ *1 T: וִיקַבְּלוּן=and they will listen · לְמֵימְרָךְ=to Your Word  [2]
+    E: They will listen to [{obey}] your voice [{Words}].
+  2 T: וְתֵיתֵי אַתְּ וְסָבֵי יִשְׂרָאֵל לְוָת מַלְכָּא דְמִצְרַיִם וְתֵימְרוּן לֵהּ יְיָ אֱלָהָא דִיהוּדָאֵי אִתְקְרֵי עֲלָנָא
+    E: You and the elders of Yisrael will come to the king of Egypt, and say to him, ‘Adonoy, God of the Hebrews happened to meet with us.
+ *3 T: וּכְעַן=and now · נֵזֵיל=let us go · כְּעַן=now (here: please) · מַהֲלַךְ=a journey of · תְּלָתָא=three · יוֹמִין=days · בְּמַדְבְּרָא=in the wilderness  [7]
+    E: Now we request that you let us go [{now}] into the wilderness for three days,
+ *4 T: וּנְדַבַּח=and let us sacrifice · קֳדָם=before · יְיָ=Hashem · אֱלָהָנָא=our God  [4]
+    E: to bring an offering [sacrifice] to [{before}] Adonoy, our God.’
+@ 3:19
+ *1 T: וּקְדָמַי=and before Me · גְלֵי=(it is) revealed  [2]
+    E: I know [{It is revealed before Me}]
+  2 T: אֲרֵי לָא יִשְׁבּוֹק יָתְכוֹן מַלְכָּא דְמִצְרַיִם לְמֵיזָל
+    E: that the king of Egypt will not allow you to go [on this journey],
+ *3 T: וְלָא=and not · מִן=from · קֳדָם=before · דְחֵילֵהּ=because his strength (is great) · תַּקִיף=strong, mighty  [5]
+    E: but not because of his [{power is}] strong hand.
+@ 3:20
+ *1 T: וָאֲשַׁלַח=and I will send · פּוֹן=a little · יָת=(marks the object) · מְחַת=the blow of · גְבֻרְתִּי=my might · וְאֶמְחֵי=and I will strike · יָת=(marks the object) · מִצְרָאֵי=the Egyptians  [8]
+    E: I will then send forth my hand [{the blow of My power}], and strike Egypt
+  2 T: בְּכֹל פְּרִשְׁוָתִי
+    E: with all My wondrous deeds
+  3 T: דִי אַעְבֵּד בֵּינֵיהוֹן
+    E: that I will perform in their midst.
+  4 T: וּבָתַר כֵּן יְשַׁלַח יָתְכוֹן
+    E: Then he [Pharaoh] will send you out.
+@ 4:1
+  1 T: וַאֲתֵיב משֶׁה וַאֲמַר
+    E: Moshe answered and said,
+  2 T: וְהָא לָא יְהֵמְנוּן לִי
+    E: “They will not believe me.
+ *3 T: וְלָא=and not · יְקַבְּלוּן=they will accept (listen); receive · מִנִי=from Me  [3]
+    E: They will not listen to my voice [{obey me}].
+  4 T: אֲרֵי יֵימְרוּן
+    E: They will say,
+ *5 T: לָא=not · אִתְגְלֵי=revealed Himself (appeared) · לָךְ=(to) you · יְיָ=Hashem  [4]
+    E: ‘Adonoy did not appear [{become revealed}] to you.’”
+@ 4:5
+  1 T: בְּדִיל דִיהֵמְנוּן
+    E: “This is so that they will believe
+ *2 T: אֲרֵי=that · אִתְגְלִי=I will reveal Myself · לָךְ=(to) you · יְיָ=Hashem · אֱלָהָא=the God · דְאַבְהַתְהוֹן=of their fathers  [6]
+    E: that Adonoy appeared [{became revealed}] to you; the God of their fathers,
+  3 T: אֱלָהֵהּ דְאַבְרָהָם אֱלָהֵהּ דְיִצְחָק וֵאֵלָהֵהּ דְיַעֲקֹב
+    E: God of Avraham, God of Yitzchok and God of Yaakov.”
+@ 4:6
+  1 T: וַאֲמַר יְיָ לֵהּ עוֹד אָעֵיל כְּעַן יְדָךְ בְּעִטְפָךְ
+    E: Adonoy said furthermore to him [Moshe], “Put your hand into your bosom.”
+  2 T: וְאָעֵיל יְדֵהּ בְּעִטְפֵהּ
+    E: He put his hand into his bosom,
+ *3 T: וְאַפְקַהּ=and (he) took it out · וְהָא=and behold · יְדֵהּ=his hand · חַוְרָא=white · כְתַלְגָא=like snow  [5]
+    E: and when he withdrew it, his hand had become a snow-like tzora’as [{white as snow}].
+@ 4:8
+  1 T: וִיהֵי אִם לָא יְהֵמְנוּן לָךְ
+    E: “If they do not believe you,
+ *2 T: וְלָא=and not · יְקַבְּלוּן=they will accept (listen); receive  [2]
+    E: and they do not listen to [{accept}]
+  3 T: לְקַל אָתָא קַדְמָאָה
+    E: the voice [of proof] of the first [miraculous] sign;
+  4 T: וִיהֵמְנוּן לְקַל אָתָא בַתְרָאָה
+    E: then they will believe the voice [of proof] of the latter [second] sign.
+@ 4:9
+ *1 T: וִיהֵי=and will be; let there be · אִם=if · לָא=not · יְהֵמְנוּן=they will believe · אַף=also · לִתְרֵין=to two · אָתַיָא=the signs · הָאִלֵּין=these · וְלָא=and not · יְקַבְּלוּן=they will accept (listen); receive · מִנָךְ=from you  [11]
+    E: And if they will not believe even these two signs, and they will not listen to your voice [{accept you}],
+  2 T: וְתִסַב מִמַיָא דִבְנַהֲרָא
+    E: then you shall take from the water of the river
+  3 T: וְתֵשׁוֹד לְיַבֶּשְׁתָּא
+    E: and pour it on the dry land.
+  4 T: וִיהוֹן מַיָא דִי תִסַב מִן נַהֲרָא
+    E: The water that you will take from the river
+  5 T: וִיהוֹן לִדְמָא בְּיַבֶּשְׁתָּא
+    E: will turn into blood on the dry land.”
+@ 4:10
+ *1 T: וַאֲמַר=and (He) said · משֶׁה=Moshe · קֳדָם=before · יְיָ=Hashem · בְּבָעוּ=please (lit. in request) · יְיָ=Hashem  [6]
+    E: Moshe said to [{before}] Adonoy, “I beg You Adonoy,
+  2 T: לָא גְבַר דְמִלוּל אֲנָא אַף מִתְּמַלִי אַף מִדְקָמוֹהִי
+    E: I am not a man of words — not since yesterday, not since the day before —
+  3 T: אַף מֵעִדַן דְמַלֶלְתָּא עִם עַבְדָךְ
+    E: not from the time You [first] spoke to Your servant,
+ *4 T: אֲרֵי=that · יַקִיר=honored · מַמְלָל=speech · וְעַמִיק=and heavy (lit. deep) · לִישָׁן=a language · אֲנָא=I (am)  [6]
+    E: for I am clumsy [slow] of mouth [speech] [{heavy of speech}] and clumsy [slow] of tongue [language].”
+@ 4:12
+  1 T: וּכְעַן אֱזֵיל
+    E: Now go.
+ *2 T: וּמֵימְרִי=and My Word · יְהֵא=will be · עִם=with · פּוּמָךְ=your mouth  [4]
+    E: I [{My Word}] will be with your mouth,
+  3 T: וְאַלֵפִנָךְ דִי תְמַלֵל
+    E: and teach you what to say.”
+@ 4:13
+  1 T: וַאֲמַר בְּבָעוּ יְיָ
+    E: [Moshe] said, “I beg You Adony [my Master,]
+ *2 T: שְׁלַח=sent · כְּעַן=now (here: please) · בְּיַד=into the hand(s) of · מָן=who · דְכָשַׁר=that (is) fit · דְתִשְׁלַח=whom you would send  [6]
+    E: please [{now}] send the one You usually send [{who is fit to be sent}].”
+@ 4:14
+  1 T: וּתְקֵיף רוּגְזָא דַיְיָ בְּמשֶׁה וַאֲמַר הֲלָא אַהֲרֹן אָחוּךְ לֵוָאֵי
+    E: Adonoy displayed anger toward Moshe and said, “Is not Aharon, the Levite, your brother?
+ *2 T: גְלֵי=(it is) revealed · קֳדָמַי=before Me · אֲרֵי=that · מַלָלָא=(he can surely) speak · יְמַלֵל=(does my master) speak · הוּא=it  [6]
+    E: I know [{It is revealed before Me}] that he knows how to speak.
+  3 T: וְאַף הָא הוּא נָפֵק לְקַדָמוּתָךְ
+    E: Behold he is setting out to meet you,
+  4 T: וְיֶחֱזִנָךְ וְיֶחְדֵי בְלִבֵּהּ
+    E: and when he sees you he will rejoice in his heart.
+@ 4:15
+  1 T: וּתְמַלֵל עִמֵהּ
+    E: You will speak to him
+  2 T: וּתְשַׁוִי יָת פִּתְגָמַיָא בְּפוּמֵהּ
+    E: and put the words in his mouth.
+ *3 T: וּמֵימְרִי=and My Word · יְהֵי=will be; let there be · עִם=with · פּוּמָךְ=your mouth · וְעִם=and with · פּוּמֵהּ=his mouth  [6]
+    E: I [{My Word}] will be with your mouth and with his mouth,
+  4 T: וְאַלֵיף יָתְכוֹן
+    E: and I will teach you
+  5 T: יָת דִי תַעְבְּדוּן
+    E: what to do.
+@ 4:18
+ *1 T: וַאֲזַל=and (he) went · משֶׁה=Moshe · וְתָב=and returned · לְוָת=to · יֶתֶר=Yeter · חֲמוֹהִי=his father-in-law · וַאֲמַר=and (He) said · לֵהּ=for him · אֵיזִיל=I will go · כְּעַן=now (here: please) · וְאֵיתוּב=and I will return · לְוָת=to · אַחַי=my brothers · דִי=that, which · בְמִצְרַיִם=in Mitzrayim (Egypt)  [15]
+    E: Moshe went and returned to Yeser, his father-in-law, and said to him, “I would like to leave [{now}] and return to my brothers in Egypt,
+  2 T: וְאֶחֱזֵי הַעַד כְּעַן קַיָמִין
+    E: to see if they are still alive.”
+  3 T: וַאֲמַר יִתְרוֹ לְמשֶׁה אֱזֵיל לִשְׁלָם
+    E: Yisro said to Moshe, “Go in peace.”
+@ 4:19
+  1 T: וַאֲמַר יְיָ לְמשֶׁה בְּמִדְיָן
+    E: Adonoy said to Moshe in Midian,
+  2 T: אֱזֵיל תּוּב לְמִצְרָיִם
+    E: “Go, return to Egypt,
+  3 T: אֲרֵי מִיתוּ כָּל גֻבְרַיָא
+    E: for they have died — all the men
+ *4 T: דִבְעוֹ=who sought · לְמִקְטְלָךְ=to kill you  [2]
+    E: who had sought your life [{to kill you}].”
+@ 4:20
+  1 T: וּדְבַר משֶׁה יָת אִתְּתֵהּ וְיָת בְּנוֹהִי וְאַרְכְּבִנוּן עַל חֲמָרָא
+    E: Moshe [then] took his wife and his sons, set them to ride on the donkey,
+  2 T: וְתָב לְאַרְעָא דְמִצְרָיִם
+    E: and he returned to the land of Egypt.
+ *3 T: וּנְסִיב=and (He) took · משֶׁה=Moshe · יָת=(marks the object) · חוּטְרָא=a staff · דְאִתְעֲבִידוּ=(miracles) were done · בֵּהּ=in it · נִסִין=miracles · מִן=from · קֳדָם=before · יְיָ=Hashem · בִּידֵהּ=in his hand  [11]
+    E: Moshe took the rod of [{with which miracles had been carried out before}] God in his hand.
+@ 4:23
+ *1 T: וַאֲמָרִית=and I said · לָךְ=(to) you · שַׁלַח=to send (lit. he sent) · יָת=(marks the object) · בְּרִי=my son · וְיִפְלַח=that he may serve · קֳדָמַי=before Me  [7]
+    E: And I have said to you, send out My son and let him serve [{before}] Me.
+  2 T: וְאִם סָרִיב אַתְּ לְשַׁלָחוּתֵהּ
+    E: If you refuse to send him,
+  3 T: הָא אֲנָא קָטִיל
+    E: behold, I will slay
+  4 T: יָת בְּרָךְ בּוּכְרָךְ
+    E: your [own] firstborn son.”
+@ 4:24
+  1 T: וַהֲוָה בְאָרְחָא בְּבֵית מְבָתָא
+    E: He [Moshe] was along the way, in the inn,
+ *2 T: וַעֲרַע=and (he) came upon · בֵּהּ=in it · מַלְאֲכָא=the angel · דַיְיָ=of Hashem  [4]
+    E: [{an Angel of}] Adonoy confronted him,
+  3 T: וּבְעָא לְמִקְטְלֵהּ
+    E: and wanted to kill him.
+@ 4:25
+  1 T: וּנְסֵיבַת צִפּוֹרָה טִנָרָא וּגְזָרַת יָת עָרְלַת בְּרַהּ
+    E: Tzipporah took a flint-stone and cut off her son’s foreskin,
+ *2 T: וּקְרִיבַת=and (the handmaids) came near · לָקֳדָמוֹהִי=to before Him  [2]
+    E: and threw it at his feet [{brought it before him}],
+ *3 T: וַאֲמֶרֶת=and (she) said · אֲרֵי=that · בִדְמָא=in the blood · דִמְהֻלְתָּא=of the circumcision · הָדֵין=this · אִתְיְהֵב=has been given (back) · חַתְנָא=a son-in-law · לָנָא=for us  [8]
+    E: saying, “You are a bridegroom of blood to me [{With this blood of circumcision, a husband is given to us}].”
+@ 4:26
+  1 T: וְנָח מִנֵהּ
+    E: He then withdrew from him [Moshe.
+  2 T: בְּכֵן אֲמֶרֶת
+    E: Then she said,
+ *3 T: אִלוּלֵי=were it not for · דְמָא=the blood · דִמְהֻלְתָּא=of the circumcision · הָדֵין=this · אִתְחַיַב=would have been liable (to) · חַתְנָא=a son-in-law · קְטוֹל=killing  [7]
+    E: “[You are] a bridegroom of blood [to me] because of the circumcision [{Were it not for this blood of circumcision, my husband would have deserved to be killed}].”
+@ 4:27
+  1 T: וַאֲמַר יְיָ לְאַהֲרֹן
+    E: Adonoy said to Aharon,
+  2 T: אֱזֵיל לְקַדָמוּת משֶׁה לְמַדְבְּרָא
+    E: “Go meet Moshe in the desert.”
+ *3 T: וַאֲזַל=and (he) went · וְעַרְעֵהּ=and (he) met him · בְּטוּרָא=on the mountain · דְאִתְגְלֵי=that revealed Himself (appeared) · עֲלוֹהִי=for him (lit. upon him) · יְקָרָא=the Glory · דַיְיָ=of Hashem · וּנְשַׁק=and kiss; and (he) kissed · לֵהּ=for him  [9]
+    E: He [Aharon] went and met him at the mountain [{upon which was revealed the Glory}] of God and he kissed him.
+@ 4:31
+  1 T: וְהֵימִן עַמָא
+    E: The people believed.
+ *2 T: וּשְׁמָעוּ=and (they) heard · אֲרֵי=that · דְכִיר=remembering · יְיָ=Hashem · יָת=(marks the object) · בְּנֵי=the children of · יִשְׂרָאֵל=Yisrael · וַאֲרֵי=and that · גְלֵי=(it is) revealed · קֳדָמוֹהִי=before Him · יָת=(marks the object) · שִׁעְבּוּדְהוֹן=their servitude  [12]
+    E: When they heard that Adonoy was mindful of the B’nei Yisrael, and that He had seen their suffering [{was revealed before Him}],
+  3 T: וּכְרָעוּ וּסְגִידוּ
+    E: they bowed their heads and prostrated themselves.
+@ 5:1
+  1 T: וּבָתַר כֵּן עַלוּ משֶׁה וְאַהֲרֹן
+    E: Afterwards Moshe and Aharon went
+  2 T: וַאֲמָרוּ לְפַרְעֹה
+    E: and said to Pharaoh,
+  3 T: כִּדְנַן אֲמַר יְיָ אֱלָהָא דְיִשְׂרָאֵל
+    E: “This is what Adonoy, God of Yisrael said,
+  4 T: שַׁלַח יָת עַמִי
+    E: ‘Send My people,
+ *5 T: וִיחַגוּן=that they may celebrate a festival · קֳדָמַי=before Me · בְּמַדְבְּרָא=in the wilderness  [3]
+    E: so they may celebrate a festival to [{before}] Me in the wilderness.”
+@ 5:2
+  1 T: וַאֲמַר פַּרְעֹה
+    E: Pharaoh said,
+ *2 T: שְׁמָא=the name · דַיְיָ=of Hashem · לָא=not · אִתְגְלִי=I will reveal Myself · לִי=(to) me · דִי=that, which · אֲקַבֵּל=(that) I should accept · לְמֵמְרֵהּ=His word  [8]
+    E: “Who is [{The Name of}] Adonoy [{is not revealed to me}] that I should obey his voice [{Word}],
+  3 T: לְשַׁלָחָא יָת יִשְׂרָאֵל
+    E: to let Yisrael go.
+ *4 T: לָא=not · אִתְגְלִי=I will reveal Myself · לִי=(to) me · שְׁמָא=the name · דַיְיָ=of Hashem  [5]
+    E: I do not know [{The Name of}] Adonoy [{is not revealed to me}],
+  5 T: וְאַף יָת יִשְׂרָאֵל לָא אֲשַׁלַח
+    E: nor will I let [the B’nei] Yisrael go.”
+@ 5:3
+  1 T: וַאֲמָרוּ אֱלָהָא דִיהוּדָאֵי אִתְגְלִי עֲלָנָא
+    E: They said [to him], “The God of the Hebrews has revealed Himself to us.
+ *2 T: נֵיזֵיל=let us go · כְּעַן=now (here: please) · מַהֲלַךְ=a journey of · תְּלָתָא=three · יוֹמִין=days · בְּמַדְבְּרָא=in the wilderness · וּנְדַבַּח=and let us sacrifice · קֳדָם=before · יְיָ=Hashem · אֱלָהָנָא=our God  [10]
+    E: Please [{Now}] allow us to take a three day journey into the wilderness, and let us sacrifice to [{before}] Adonoy, our God,
+  3 T: דִלְמָא יְעַרְעִנָנָא בְּמוֹתָא אוֹ בִקְטוֹל
+    E: lest He strike us with the plague or with the sword.”
+@ 5:8
+  1 T: וְיָת סְכוֹם לְבֵנַיָא דִי אִנוּן עָבְדִין מִתְּמַלֵי וּמִדְקָמוֹהִי תְּמַנוּן עֲלֵיהוֹן
+    E: [And] the quota of bricks that they made before, you shall place upon them;
+  2 T: לָא תִמְנְעוּן מִנֵהּ
+    E: do not reduce it,
+  3 T: אֲרֵי בַטְלָנִין אִנוּן
+    E: for they are lazy
+  4 T: עַל כֵּן אִנוּן צָוְחִין לְמֵימַר
+    E: and therefore they cry out, saying,
+ *5 T: נֵיזֵיל=let us go · נְדַבַּח=(and) let us sacrifice · קֳדָם=before · אֱלָהָנָא=our God  [4]
+    E: ‘We want to go sacrifice to [{before}] our God.’
+@ 5:9
+  1 T: תִּתָּקַף פָּלְחָנָא עַל גֻבְרַיָא וְיִתְעַסְקוּן בַּהּ
+    E: Make the workload heavier on the men, and make them do it.
+ *2 T: וְלָא=and not · יִתְעַסְקוּן=let them (not) be occupied · בְּפִתְגָמִין=with words · בְּטֵלִין=vain (lit. idle)  [4]
+    E: Let them not talk about [{be occupied with}] false ideas.”
+@ 5:13
+  1 T: וְשִׁלְטוֹנַיָא דָחֲקִין לְמֵימָר
+    E: The taskmasters pressured them saying,
+  2 T: אַשְׁלִימוּ עוֹבָדֵיכוֹן פִּתְגַם יוֹם בְּיוֹמֵהּ
+    E: “You must complete your daily work [quota],
+ *3 T: כְּמָא=as · דַהֲוֵיתוּן=(as) you were · עָבְדִין=doing · כַּד=when · אִתְיְהֵב=has been given (back) · לְכוֹן=to you, for you · תִּבְנָא=straw  [7]
+    E: just as [{you did}] [before] when there was straw [{given to you}].”
+@ 5:16
+  1 T: תִּבְנָא לָא מִתְיְהֵב לְעַבְדָיךְ
+    E: Your slaves are not given straw,
+  2 T: וּלְבֵנַיָא אָמְרִין לָנָא עִבִידוּ
+    E: and yet we are told to make bricks.
+ *3 T: וְהָא=and behold · עַבְדָיךְ=your servants · לָקָן=are being beaten · וְחָטָן=and (your people) wrong (them) (lit. sin) · עֲלֵיהוֹן=upon them, over them (also: against them) · עַמָךְ=your people  [6]
+    E: Your slaves are beaten, and it is a sin for your people [{sin against them}].”
+@ 5:17
+  1 T: וַאֲמַר בַּטְלָנִין אַתּוּן בַּטְלָנִין
+    E: He said, “You are lazy,
+  2 T: עַל כֵּן אַתּוּן אָמְרִין
+    E: therefore you say,
+ *3 T: נֵזֵיל=let us go · נְדַבַּח=(and) let us sacrifice · קֳדָם=before · יְיָ=Hashem  [4]
+    E: ‘Let us go sacrifice to [{before}] Adonoy.’
+@ 5:21
+  1 T: וַאֲמָרוּ לְהוֹן
+    E: They said to them [Moshe and Aharon],
+ *2 T: יִתְגְלֵי=may (Hashem) reveal Himself · יְיָ=Hashem · עֲלֵיכוֹן=upon you · וְיִתְפְּרַע=and (punishment) will be exacted  [4]
+    E: “Let Adonoy look at [{become revealed to}] you and judge [{take revenge}].
+  3 T: דִי אַבְאֶשְׁתּוּן יָת רֵיחָנָא בְּעֵינֵי פַרְעֹה וּבְעֵינֵי עַבְדוֹהִי
+    E: You have made our aroma abhorrent in the eyes of Pharaoh and in the eyes of his servants,
+  4 T: לְמִתַּן חַרְבָּא בִּידֵיהוֹן לְקַטָלוּתָנָא
+    E: putting a sword in their hands to kill us.”
+@ 5:22
+ *1 T: וְתָב=and returned · משֶׁה=Moshe · קֳדָם=before · יְיָ=Hashem · וַאֲמַר=and (He) said  [5]
+    E: Moshe returned to [{before}] Adonoy and said,
+  2 T: יְיָ לְמָא אַבְאֵשְׁתָּא לְעַמָא הָדֵין
+    E: “My Master. Why have You brought harm to this people?
+  3 T: וּלְמָא דְנַן שְׁלַחְתָּנִי
+    E: Why did You send me?

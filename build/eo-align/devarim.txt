@@ -1,0 +1,328 @@
+# "As Onkelos reads it", parsha Devarim
+# Matnan is "Masnan" and Rekam is "Rekam" as Metsudah's brackets spell them here.
+
+@ 1:1
+= same
+= same
+E: <b>He reproved them for they had sinned</b> in the wilderness, <b>and for provoking to anger</b> on the plain facing <b>the Sea of</b> Suf; <b>in</b> Poron, <b>where they scorned the mon</b>, and <b>in</b> Chatzeiros, <b>where they provoked to anger regarding meat</b>, <b>and for making the Golden Calf</b>.
+M: He reproved | them | for | they had sinned | in the wilderness | and for | provoking to anger | on the plain | facing | the Sea of | Suf | in Poron | where they scorned | - | the mon | and in Chatzeiros | where they provoked to anger | regarding | meat | and for | making | the … Calf | Golden
+! Onkelos reads them as the rebukes Moshe gave.
+
+@ 1:2
+E: <b>A journey of</b> eleven days [traveling time] from Choreiv
+M: A journey of | eleven | ^ | days | from Choreiv
++ traveling time
+= same
+E: to <b>Rekam Geyah</b>.
+M: to | Rekam | Geyah
+
+@ 1:4
+= same
+= same
+E: and Og, King of <b>Masnan</b>,
+M: and | Og | King of | Masnan
+
+@ 1:5
+= same
+= same
+E: to elucidate <b>the teachings of</b> this Torah as follows:
+M: to elucidate | - | the teachings of | Torah | this | as follows
+
+@ 1:7
+E: Turn and travel for yourselves and arrive at the Emorite hill [region] and at all its <b>habitable places</b> —
+M: Turn | and travel | for yourselves | and arrive | at the … hill | Emorite | and at all | its habitable places
++ region
+
+@ 1:9
+= same
+= same
+E: ‘‘I cannot <b>bear</b> you by myself.
+M: cannot | I | ^ | by myself | bear | you
+
+@ 1:12
+E: How can I <b>bear</b> alone
+M: How | can I bear | alone
+E: your troublesomeness, your <b>business</b>, and your <b>judgments</b>?
+M: your troublesomeness | your business | and your judgments
+
+@ 1:13
+= same
+E: and I will <b>appoint them to be chiefs over you</b>.’’
+M: and I will appoint them to be | chiefs | over you
+
+@ 1:14
+= same
+E: and said, ‘‘[It is a] <b>right</b> thing that you said to do.’’
+M: and said | right | thing | that | you said | to do
++ It is a
+
+@ 1:15
+= same
+E: and <b>appointed</b> them leaders over you:
+M: and appointed | them | leaders | over you
+
+@ 1:17
+E: Do not show favor in judgement; <b>words</b> small and great alike will you hear out;
+M: Do not | show | favor | in judgement | words | small | and great alike | will you hear out
+
+@ 1:19
+= same
+= same
+E: and we arrived at <b>Rekam Geyah</b>.
+M: and we arrived | at | Rekam | Geyah
+
+@ 1:26
+= same
+E: and you <b>were rebellious against the word of</b> Adonoy, your God.
+M: and you were rebellious | against | the word of | Adonoy | your God
+
+@ 1:28
+E: Where are we going up to? Our brothers have <b>broken our hearts</b> by saying, ‘A people greater and more powerful than we,
+M: Where … to | are we | going up | Our brothers | have broken | - | our hearts | by saying | A people | greater | and more powerful | than we
+= same
+E: and also descendants of the <b>giants</b> — did we see there.’’’
+M: and also | descendants of | the giants | did we see | there
+
+@ 1:29
+= same
+E: ‘‘Do not <b>be broken-hearted</b> and do not fear them.
+M: Do not | be broken-hearted | and do not | fear | them
+
+@ 1:30
+E: Adonoy, your God, who <b>leads you</b>,
+M: Adonoy | your God | who leads | you
+
+@ 1:32
+= same
+E: you do not trust <b>the word of</b> Adonoy, your God,
+M: you do not | trust | the word of | Adonoy | your God
+
+@ 1:33
+E: Who has been <b>leading you</b> on the road to <b>prepare</b> for you a place to encamp;
+M: Who | has been leading | you | on the road | to prepare | for you | a place | ^ | to encamp
+E: with the <b>pillar of</b> fire at night to show you the way for you to go on,
+M: - | with the pillar of | fire | at night | to show you | the way | for | you to go | on
+E: and with the <b>pillar of</b> cloud by day.
+M: and with the pillar of | cloud | by day
+
+@ 1:34
+E: <b>Before</b> Adonoy <b>was</b> heard the intent of your words
+M: was heard | Before | Adonoy | - | the intent | of your words
+
+@ 1:36
+= same
+= same
+E: because he <b>was complete</b> in fear of Adonoy.’’
+M: because | - | he was complete | in | fear | of Adonoy
+
+@ 1:37
+E: Also <b>against</b> me was <b>there anger from before</b> Adonoy
+M: Also | against me | was | there anger | from | before | Adonoy
+
+@ 1:41
+E: You replied and said to me, ‘‘We have sinned <b>before</b> Adonoy.
+M: You replied | and said | to me | We have sinned | before | Adonoy
+= same
+= same
+E: And each of you girded his weapons <b>of war</b>,
+M: And … girded | each of you | - | his weapons | of war
+E: and you <b>began</b> to go up the mountain.
+M: and you began | to go up | the mountain
+
+@ 1:42
+= same
+E: for <b>My Shechina does not dwell</b> in your midst;
+M: for | does not | My Shechina | dwell | in your midst
+
+@ 1:43
+= same
+E: You defied <b>the decree of the word of</b> Adonoy,
+M: You defied | - | the decree of | the word of | Adonoy
+
+@ 1:44
+= same
+= same
+E: as the bees <b>are dispersed</b>;
+M: as | - | are dispersed | the bees
+
+@ 1:45
+= same
+= same
+E: He <b>did not hearken to your words</b>.
+M: He did not | hearken | to your words
+
+@ 1:46
+E: You lived in <b>Rekam</b> many years,
+M: You lived | in Rekam | years | many
+
+@ 2:7
+= same
+E: <b>He has given you sufficient for your needs</b>
+M: He has given … sufficient | you | for your needs
+E: <b>for</b> traversing this great wilderness.
+M: for traversing | wilderness | great | this
+E: It is now forty years [that] <b>the word of</b> Adonoy, your God, <b>has aided you</b>;
+M: It is now | forty | years | the word of | Adonoy | your God | has aided you
++ that
+
+@ 2:9
+= same
+E: and do not intimidate <b>to make</b> war <b>with them</b>.
+M: and do not | intimidate | to make | with them | war
+= same
+= same
+E: have I given <b>Lechoyas</b> as inheritance.
+M: have I given | - | Lechoyas | as inheritance
+
+@ 2:10
+= same
+E: a people great and numerous and powerful like the <b>giants</b>.
+M: a people | great | and numerous | and powerful | like the giants
+
+@ 2:11
+E: They, too, were considered <b>giants</b> like the <b>giants</b>;
+M: giants | were considered | too | They | like the giants
+
+@ 2:12
+= same
+= same
+E: and settled in their <b>places</b>,
+M: and settled | in their places
+
+@ 2:14
+E: The time that [it took] us to go from <b>Rekam Geyah</b> until we crossed Wadi Zered
+M: The time | that | us to go | from Rekam | Geyah | until | - | we crossed | - | Wadi | Zered
++ it took
+
+@ 2:15
+E: <b>The plague from before Adonoy</b>, too, attacked them
+M: too | The plague | from | before | Adonoy | attacked | them
+E: to <b>destroy</b> them from within the camp,
+M: to destroy them | from within | the camp
+
+@ 2:18
+E: ‘‘You are today crossing the border of Moav — at <b>Lechoyas</b>.
+M: You | are … crossing | today | ^ | - | the border of | Moav | - | at Lechoyas
+
+@ 2:19
+= same
+E: do not besiege them and do not intimidate <b>to make war with them</b>,
+M: do not | besiege | them | and do not | intimidate | to make | with them | war
+
+@ 2:20
+= same
+= same
+E: the Ammonites called them <b>Chushbani</b>.
+M: the Ammonites | called | them | Chushbani
+
+@ 2:21
+E: A people great and numerous and powerful like the <b>giants</b>.
+M: A people | great | and numerous | and powerful | like the giants
+= same
+E: and they drove them out and settled in their <b>place</b>.
+M: and they drove them out | and settled | in their place
+
+@ 2:22
+= same
+= same
+= same
+E: and they drove them out and settled in their <b>places</b>
+M: and they drove them out | and settled | in their places
+
+@ 2:23
+E: And the Avim who had been living in <b>Defiach</b> till Azah —
+M: And the Avim | who had been living | in Defiach | till | Azah
+E: <b>Kaputka’ites</b> who had left <b>Kaputkayah</b>
+M: Kaputka’ites | who had left | Kaputkayah
+E: destroyed them and settled in their <b>place</b>.
+M: destroyed them | and settled | in their place
+
+@ 2:24
+= same
+= same
+E: <b>waging</b> war <b>with him</b>.
+M: waging | ^ | with him | war
+
+@ 2:29
+= same
+E: and the Moavites who live in <b>Lechoyas</b>;
+M: and the Moavites | who live | in Lechoyas
+
+@ 2:30
+= same
+E: <b>to permit us to pass through his borders</b>,
+M: to permit us | to pass | through his borders
+
+@ 2:33
+E: Adonoy, our God, <b>delivered</b> him before us,
+M: delivered him | Adonoy | our God | before us
+
+@ 2:37
+= same
+E: all along <b>the shore of</b> Wadi Yabok and the hill cities —
+M: all along | the shore of | Wadi | Yabok | and the … cities | hill
+
+@ 3:1
+= same
+E: the <b>Masnan</b> road.
+M: the … road | Masnan
+E: Og, King of <b>Masnan</b>, went out toward us, he and his entire people, to [wage] war in Edrei.
+M: went out | Og | King of | Masnan | toward us | he | and … entire | his people | to | war | in Edrei
++ wage
+
+@ 3:4
+= same
+= same
+= same
+E: sixty cities, the entire province of <b>Tarchona</b>,
+M: sixty | cities | the entire | ^ | province of | Tarchona
+
+@ 3:9
+= same
+E: and the Emorites call it <b>Mount Snow</b>.
+M: and the Emorites | call | it | Mount | Snow
+
+@ 3:10
+E: All the cities of the plain and entire Gilod and the entire <b>Masnan</b>
+M: All | the cities of | the plain | and entire | Gilod | and the entire | Masnan
+
+@ 3:11
+= same
+= same
+= same
+= same
+E: nine amohs its length and four amohs its width, in a <b>king’s</b> amoh.
+M: nine | amohs | its length | and four | amohs | its width | in a … amoh | king’s
+
+@ 3:13
+E: And the rest of the Gilod and all of <b>Masnan</b>, the kingdom of Og,
+M: And the rest of | the Gilod | and all of | Masnan | the kingdom | of Og
+= same
+E: The entire <b>Tarchona</b> province throughout <b>Masnan</b>,
+M: The entire | ^ | province | Tarchona | throughout | Masnan
+
+@ 3:14
+E: Yair son of Menashe took all of the <b>Tarchona</b> province
+M: Yair | son of | Menashe | took | - | all of the | ^ | province | Tarchona
+E: until the border of the Geshurites and the <b>Apekorsites</b>;
+M: until | the border of | the Geshurites | and the Apekorsites
+E: and he named them for himself — <b>Masnan</b> — <b>the villages of</b> Yair
+M: and he named | them | for | himself | - | Masnan | the villages of | Yair
+
+@ 3:17
+= same
+E: from <b>Ginosar</b> until Arava Lake, the salt lake,
+M: from Ginosar | until | … Lake | Arava | the … lake | salt
+
+@ 3:18
+= same
+= same
+= same
+E: Cross over <b>well armed</b>, ahead of your brothers the Bnei Yisroel, all <b>armed</b> soldiers.
+M: well armed | Cross over | ahead of | your brothers | the Bnei | Yisroel | all | armed | soldiers
+
+@ 3:22
+= same
+= same
+E: <b>His word</b> is waging war for you.’’
+M: His word | is waging war | for you

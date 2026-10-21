@@ -136,7 +136,7 @@ open(OUT + '/.nojekyll', 'w').write('')
 B = OUT + '/build'
 if os.path.isdir(B): shutil.rmtree(B)
 os.makedirs(B)
-keep = ['*.py', 'ovr-*.json', 'data*.json', 'v9-first10.json', 'overrides*.json', 't17.js', 'trep.js', 'tgoto.js', 'tpdf.js', 'trc.js', 'ttypo.js', 'tperf.js', 'package.json']
+keep = ['*.py', 'ovr-*.json', 'data*.json', 'v9-first10.json', 'overrides*.json', 't17.js', 'trep.js', 'tgoto.js', 'tpdf.js', 'trc.js', 'ttypo.js', 'tperf.js', 'eotest.js', 'package.json']
 for pat in keep:
     for f in glob.glob(SP + 'build/' + pat):
         if f.endswith('.bak') or '.before' in f or os.path.basename(f).startswith('data-') and '.prev.' in f: continue
@@ -144,6 +144,8 @@ for pat in keep:
 shutil.copy(SP + 'bereishit-onkelos.html', B + '/page-template.html')
 # glossary sources: dictionary, per-aliyah word lists, aliyah index, log of lookups on the CAL site
 shutil.copytree(SP + 'build/gl', B + '/gl')
+# "as Onkelos reads it": worksheets, hand-written word-by-word matches, merged output
+for d in ['ws', 'eo-align', 'eo']: shutil.copytree(SP + 'build/' + d, B + '/' + d)
 for f in ['gl-aliyot.json', 'gl-stats.json', 'cal-log.json']:
     if os.path.exists(SP + 'build/' + f): shutil.copy(SP + 'build/' + f, B)
 shutil.copy(SP + 'decisions.md', OUT + '/DECISIONS.md')

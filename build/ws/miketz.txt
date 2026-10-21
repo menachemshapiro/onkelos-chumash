@@ -1,0 +1,508 @@
+@ 41:3
+  1 T: וְהָא שְׁבַע תּוֹרָן אָחֳרָנְיָן סָלְקָן בַּתְרֵיהוֹן מִן נַהֲרָא
+    E: And behold, seven other cows emerged after them, from the river,
+  2 T: בִּישָׁן לְמֶחֱזֵי וַחֲסִירַן בְּשָׂר
+    E: bad-looking and thin-fleshed,
+ *3 T: וְקָמָן=and (they) stood · לְקִבְלֵיהוֹן=beside them · דְּתוֹרָן=of cows · עַל=on, over · כֵּיף=the shore of · נַהֲרָא=the river  [6]
+    E: and they stood next to [{opposite}] the cows that were [already] on the bank of the river.
+@ 41:6
+  1 T: וְהָא שְׁבַע שֻׁבְּלַיָּא
+    E: And behold, seven ears,
+ *2 T: לָקְיָן=blighted (lit. struck) · וּשְׁקִיפָן=and beaten (by) · קִדּוּם=the east wind  [3]
+    E: thin [{smitten}] and scorched [{beaten}] by the east wind,
+  3 T: צָמְחָן בַּתְרֵיהוֹן
+    E: grew up after them.
+@ 41:7
+ *1 T: וּבְלָעָא=and (they) swallowed · שֻׁבְּלַיָּא=ears (of grain) · לָקְיָתָא=the blighted (ones)  [3]
+    E: The seven thin [{smitten}] ears
+  2 T: יָת שְׁבַע שֻׁבְּלַיָּא פַּטִּימָתָא וּמָלְיָתָא
+    E: swallowed the seven wholesome, full ears.
+  3 T: וְאִתְּעַר פַּרְעֹה וְהָא חֶלְמָא
+    E: Pharaoh woke up, and behold it was a dream.
+@ 41:8
+ *1 T: וַהֲוָה=and it was / and there was · בְצַפְרָא=in the morning · וּמִטַּרְפָּא=and (his spirit) was troubled · רוּחֵיהּ=his spirit  [4]
+    E: In the morning, he was agitated [{his spirit was beaten}].
+  2 T: וּשְׁלַח וּקְרָא יָת כָּל חָרָשֵׁי מִצְרַיִם וְיָת כָּל חַכִּימָהָא
+    E: He sent and summoned all the wizards of Egypt and all its wise men.
+  3 T: וְאִשְׁתָּעִי פַרְעֹה לְהוֹן יָת חֶלְמֵיהּ
+    E: Pharaoh related his dream to them,
+  4 T: וְלֵית דְּפָשַׁר יָתְהוֹן לְפַרְעֹה
+    E: but none could interpret them for Pharaoh.
+@ 41:14
+  1 T: וּשְׁלַח פַּרְעֹה וּקְרָא יָת יוֹסֵף
+    E: Pharaoh sent and summoned Yoseif.
+ *2 T: וְאַרְהִיטוֹהִי=and (they) rushed him · מִן=from · בֵּית=the house of · אֲסִירֵי=prisoners  [4]
+    E: They hurried him out of the dungeon [{prison}],
+ *3 T: וְסַפַּר=and (he) cut his hair · וְשַׁנִּי=and (he) changed · כְסוּתֵיהּ=his clothes  [3]
+    E: but [Yoseif first] shaved [{trimmed his hair}] and changed his clothes.
+  4 T: וְעַל לְוַת פַּרְעֹה
+    E: And then came to Pharaoh.
+@ 41:16
+ *1 T: וַאֲתֵיב=and (he) answered (lit. returned) · יוֹסֵף=Yosef · יָת=(marks the object) · פַּרְעֹה=Paroh (Pharaoh) · לְמֵימַר=saying · בַּר=has (lit. “son of”) · מִן=from · חָכְמְתִי=my wisdom  [8]
+    E: Yoseif answered Pharaoh, saying, Not I. [{from my wisdom but from before}]
+ *2 T: אֶלָּהֵן=but rather · מִן=from · קֳדָם=before · יְיָ=Hashem · יִתּתַב=will be restored (lit. brought back) · יָת=(marks the object) · שְׁלָמָא=the welfare (lit. peace) of · דְפַרְעֹה=of Paroh (Pharaoh)  [8]
+    E: God will respond [{there be a response}] to the peace of Pharaoh.
+@ 41:23
+  1 T: וְהָא שְׁבַע שֻׁבְּלַיָּא
+    E: And behold seven ears,
+ *2 T: נָצָן=withered · לָקְיָן=blighted (lit. struck) · שְׁקִיפָן=beaten (by) · קִדּוּם=the east wind  [4]
+    E: shriveled, thin [{smitten}] and scorched [{beaten}] by the east wind,
+  3 T: צָמְחָן בַּתְרֵיהוֹן
+    E: grew up after them.
+@ 41:24
+ *1 T: וּבְלָעָן=and (they) swallowed · שֻׁבְּלַיָּא=ears (of grain) · לָקְיָתָא=the blighted (ones) · יָת=(marks the object) · שְּׁבַע=seven · שֻׁבְּלַיָּא=ears (of grain) · טָבָתָא=the good (ones)  [7]
+    E: The thin [{smitten}] ears swallowed the seven good ears.
+  2 T: וַאֲמָרִית לַחֲרָשַׁיָּא
+    E: I said this to the wizards,
+  3 T: וְלֵית דִּי מְחַוֵּי לִי
+    E: but none of them could tell me [its meaning].
+@ 41:27
+  1 T: וּשְׁבַע תּוֹרְתָּא חֲסִיכָתָא וּבִישָׁתָא דְּסָלְקָן בַּתְרֵיהוֹן שְׁבַע שְׁנִין אִנּוּן
+    E: The seven thin, bad [looking] cows who came up after them, represent seven years,
+ *2 T: וּשְׁבַע=and seven · שֻּׁבְּלַיָּא=ears (of grain) · לָקְיָתָא=the blighted (ones) · דִּשְׁקִיפָן=that (are) beaten (by) · קִדּוּם=the east wind  [5]
+    E: and the seven empty [{smitten}], east wind—scorched [{beaten}] ears,
+  3 T: יְהֶוְיָן שְׁבַע שְׁנֵי כַפְנָא
+    E: represent the coming of seven years of famine.
+@ 41:32
+  1 T: וְעַל דְּאִתַּנֵּית חֶלְמָא לְפַרְעֹה תַּרְתֵּין זִמְנִין
+    E: As for the dream being repeated twice to Pharaoh,
+ *2 T: אֲרֵי=that · תַקֵּין=established (lit. fit) · פִּתְגָּמָא=the word · מִן=from · קֳדָם=before · יְיָ=Hashem  [6]
+    E: it is because the thing stands ready [{from}] before God,
+  3 T: וְאוֹחִי יְיָ לְמֶעְבְּדֵיהּ
+    E: and God is hurrying to do it.
+@ 41:34
+  1 T: יַעְבֵּד פַּרְעֹה
+    E: This is what Pharaoh should do:
+ *2 T: וִימַנֵּי=and let him appoint · מְהֵימְנִין=trustworthy (men) · עַל=on, over · אַרְעָא=the earth, the land  [4]
+    E: appoint officials [{faithful men}] over the land,
+  3 T: וִיזָרֵז יָת אַרְעָא דְמִצְרַיִם
+    E: and prepare the land of Egypt
+  4 T: בְּשֶׁבַע שְׁנֵי שׂוֹבְעָא
+    E: during the seven years of abundance.
+@ 41:35
+ *1 T: וְיִכְנְשׁוּן=and let them gather · יָת=(marks the object) · כָּל=every, all · עִיבוּר=grain · שְׁנַיָּא=the years · טָבָן=good  [6]
+    E: Let them gather in all the food [{grain}] during these good years
+  2 T: דְּאָתְיָן הָאִלֵּין
+    E: that are coming,
+ *3 T: וְיִצְבְּרוּן=and let them store · עִיבוּרָא=the grain · תְּחוֹת=under · יְדָא=a hand · דְפַרְעֹה=of Paroh (Pharaoh) · עִיבוּרָא=the grain · בְּקִירְוַיָּא=in the cities · וְיִטְּרוּן=and they will keep  [8]
+    E: and let them store up grain under the hand [jurisdiction] of Pharaoh. Let the food [{grain}] be [kept] in the cities, and let them safeguard it.
+@ 41:36
+ *1 T: וִיהֵי=and will be; let there be · עִבוּרָא=the grain · גָנִיז=stored away · לְאַרְעָא=to the earth, the land  [4]
+    E: The food [{grain}] will be held in safe-keeping [{stored away}] for the land,
+  2 T: לִשְׁבַע שְׁנֵי כַפְנָא
+    E: for the seven years of famine;
+  3 T: דִּי תְהֶוְיָן בְּאַרְעָא דְמִצְרָיִם
+    E: which will be in the land of Egypt.
+ *4 T: וְלָא=and not · תִשְׁתֵּיצֵי=(the people) will (not) be destroyed · עַמָּא=a people · דְאַרְעָא=of the earth · בְּכַפְנָא=in a famine  [5]
+    E: Let the [{people of the}] land not be cut off by the famine.
+@ 41:38
+  1 T: וַאֲמַר פַּרְעֹה לְעַבְדוֹהִי
+    E: Pharaoh said to his servants,
+  2 T: הֲנִשְׁכַּח כְּדֵין
+    E: Can [another] one like this be found,
+ *3 T: גְּבָר=a man · דִּי=that, which · רוּחַ=the spirit of · נְבוּאָה=prophecy · מִן=from · קֳדָם=before · יְיָ=Hashem · בֵּיהּ=in it  [8]
+    E: a man who has God’s spirit [{the spirit of prophecy from before God}] in him?
+@ 41:40
+ *1 T: אַתְּ=(are) you · תְּהֵי=shall be · מְמַנָּא=appointed · עַל=on, over · בֵּיתִי=my house  [5]
+    E: You shall be [{appointed}] over my house,
+  2 T: וְעַל מֵימְרָךְ יִתְּזַן כָּל עַמִּי
+    E: and by your word shall all my people be fed.
+ *3 T: לְחוֹד=only · כָּרְסֵי=the throne of · מַלְכוּתָא=the kingdom · הָדֵין=this · אֵיהֵי=will I be · יַקִּיר=honored · מִנָּךְ=from you  [7]
+    E: Only by [virtue of] the throne [{of this kingdom}] will I be greater [{more honored}] than you.
+@ 41:43
+  1 T: וְאַרְכֵּיב יָתֵיהּ בִּרְתִכָּא תִנְיֵתָא דִּי לֵיהּ
+    E: He had him [Yoseif] ride in his second-ranking carriage,
+ *2 T: וְאַכְרִיזוּ=and (they) proclaimed · קֳדָמוֹהִי=before Him · דֵּין=this · אַבָּא=my father · לְמַלְכָּא=to the king (of)  [5]
+    E: and they proclaimed before him, Avreich [{”This is the associate of the king”}].
+  3 T: וּמַנִּי יָתֵיהּ עַל כָּל אַרְעָא דְמִצְרָיִם
+    E: He thus placed him over the entire land of Egypt.
+@ 41:44
+  1 T: וַאֲמַר פַּרְעֹה לְיוֹסֵף אֲנָא פַרְעֹה
+    E: Pharaoh [then] said to Yoseif, I am Pharaoh,
+ *2 T: וּבַר=and a son of · מֵימְרָךְ=Your Word · לָא=not · יְרִים=(no man) shall lift · גְּבַר=a man · יָת=(marks the object) · יְדֵיהּ=his hand · לְמֵיחַד=to take up (lit. to grasp) · זֵין=weapons · וְיָת=and (marks the object) · רַגְלֵיהּ=his foot · לְמִרְכַּב=to ride · עַל=on, over · סוּסְיָא=a horse · בְּכָל=in all (of) · אַרְעָא=the earth, the land · דְמִצְרָיִם=of Mitzrayim  [17]
+    E: but without you [{your permission}], no man will lift [{pick up}] his hand [{to carry a sword}] or his foot [{to ride upon a horse}] in the entire land of Egypt.
+@ 41:45
+ *1 T: וּקְרָא=and (He) called · פַרְעֹה=Paroh (Pharaoh) · שׁוּם=the name of · יוֹסֵף=Yosef · גַּבְרָא=a man · דְמִטַּמְרָן=hidden things (are revealed) · גָּלְיָן=revealed · לֵיהּ=to him  [8]
+    E: Pharaoh gave Yoseif the name Tzafnas Paneiach [{the man to whom hidden things are revealed}],
+ *2 T: וִיהַב=and (He) set · לֵיהּ=to him · יָת=(marks the object) · אָסְנַת=Osnat · בַּת=the daughter of · פּוֹטִי=Poti (Fera) · פֶרַע=(Poti) Fera · רַבָּא=the great (one); the chief · דְאוֹן=of On · לְאִתְּתָא=into a woman; to the woman  [10]
+    E: and he gave him Osnas, the daughter of Poti Phera, priest [{chief}] of On as a wife.
+  3 T: וּנְפַק יוֹסֵף עַל אַרְעָא דְמִצְרָיִם
+    E: Yoseif [then] went out over the land of Egypt.
+@ 41:47
+ *1 T: וּכְנָשׁוּ=and (they) gathered · דָיְרֵי=the inhabitants of · אַרְעָא=the earth, the land  [3]
+    E: The earth produced [{The inhabitants of the land stored up}]
+  2 T: בִּשְׁבַע שְׁנֵי שׂוֹבְעָא
+    E: during the seven years of abundance
+ *3 T: עִיבוּרָא=the grain · לְאוֹצָרִין=into storehouses  [2]
+    E: by handfuls [{grain for store-houses}].
+@ 41:48
+ *1 T: וּכְנַשׁ=and (he) gathered · יָת=(marks the object) · כָּל=every, all · עִיבוּר=grain · שְׁבַע=seven · שְׁנִין=years · דִּי=that, which · הֲווֹ=were · בְּאַרְעָא=in / on the earth · דְמִצְרַיִם=of Mitzrayim (Egypt)  [10]
+    E: He gathered in all the food [{grain}] of the seven years [that was produced] in the land of Egypt,
+ *2 T: וִיהַב=and (He) set · עִיבוּר=grain · בְּקִרְוַיָּא=in the cities  [3]
+    E: and placed the food [{grain}] in the cities.
+ *3 T: עִיבוּר=grain · חֲקַל=the field of · קַרְתָּא=a city · דִּי=that, which · בְסַחְרָנָהָא=around it · יְהַב=gave, has given · בְּגַוָּהּ=within it  [7]
+    E: The food [{grain}] of the fields surrounding each city was placed within [the city].
+@ 41:50
+  1 T: וּלְיוֹסֵף אִתְיְלִיד תַּרְתֵּין בְּנִין
+    E: Two sons were born to Yoseif
+  2 T: עַד לָא עַלַּת שַׁתָּא דְכַפְנָא
+    E: before the years of famine came.
+  3 T: דִּיְלִידַת לֵיהּ אָסְנַת
+    E: They were born to him by Osnas,
+ *4 T: בַּת=the daughter of · פּוֹטִי=Poti (Fera) · פֶרַע=(Poti) Fera · רַבָּא=the great (one); the chief · דְאוֹן=of On  [5]
+    E: the daughter of Poti Phera, Priest [{chief}] of On.
+@ 41:52
+  1 T: וְיָת שׁוּם תִּנְיָנָא קְרָא אֶפְרָיִם
+    E: He named the second one Ephraim,
+ *2 T: אֲרֵי=that · אַפְּשַׁנִי=(Hashem) has made me fruitful (lit. increase) · יְיָ=Hashem · בְּאַרַע=in the land of · שִׁעְבּוּדִי=of my servitude  [5]
+    E: Because Elohim has made me fruitful in the land of my suffering [{servitude}].
+@ 41:53
+ *1 T: וּשְׁלִימַת=and (seven years) ended · שְׁבַע=seven · שְׁנֵי=the years of · שׂוֹבְעָא=plenty  [4]
+    E: The seven years of abundance came to an end [{were completed}],
+  2 T: דִּי הֲוָה בְּאַרְעָא דְמִצְרָיִם
+    E: [the good years] that were in the land of Egypt.
+@ 41:55
+  1 T: וּכְפָנַת כָּל אַרְעָא דְמִצְרַיִם
+    E: When all the land of Egypt was famished,
+  2 T: וּצְוַח עַמָּא לְפַרְעֹה לְלַחְמָא
+    E: the people cried out to Pharaoh for bread.
+ *3 T: וַאֲמַר=and (He) said · פַּרְעֹה=Paroh (Pharaoh) · לְכָל=to all (of) · מִצְרָאֵי=the Egyptians · אִיזִילוּ=go · לְוַת=to · יוֹסֵף=Yosef  [7]
+    E: Pharaoh said to all of Egypt [{the Egyptians}], Go to Yoseif.
+  4 T: דִּי יֵימַר לְכוֹן תַּעְבְּדוּן
+    E: Whatever he says to you, do.
+@ 41:56
+  1 T: וְכַפְנָא הֲוָה
+    E: The famine spread
+  2 T: עַל כָּל אַפֵּי אַרְעָא
+    E: over the entire face of the land.
+ *3 T: וּפְתַח=and (he) opened · יוֹסֵף=Yosef · יָת=(marks the object) · כָּל=every, all · דִּי=that, which · בְהוֹן=by them · עִיבוּרָא=the grain · וְזַבִּין=and (he) sold · לְמִצְרַיִם=to Mitzrayim (Egypt)  [9]
+    E: Yoseif opened everything that held grain, and sold [grain] to the Egyptians [{Egypt}].
+  4 T: וּתְקֵיף כַּפְנָא בְּאַרְעָא דְמִצְרָיִם
+    E: The famine became severe in the land of Egypt.
+@ 41:57
+ *1 T: וְכָל=and all · דָּיְרֵי=the inhabitants of · אַרְעָא=the earth, the land · עַלּוּ=(they) went in · לְמִצְרַיִם=to Mitzrayim (Egypt)  [5]
+    E: All [countries] [{inhabitants}] of the land came to Egypt
+  2 T: לְמִזְבַּן עִיבוּרָא מִן יוֹסֵף
+    E: to buy [grain] from Yoseif,
+  3 T: אֲרֵי תְקֵיף כַּפְנָא בְּכָל אַרְעָא
+    E: for the famine was severe in all the land.
+@ 42:1
+  1 T: וַחֲזָא יַעֲקֹב
+    E: Yaakov saw
+ *2 T: אֲרֵי=that · אִית=there are · עִיבוּרָא=the grain · מִזְדַּבַּן=being sold · בְּמִצְרָיִם=in Mitzrayim (Egypt)  [5]
+    E: that food [{grain}] was being sold in Egypt.
+  3 T: וַאֲמַר יַעֲקֹב לִבְנוֹהִי
+    E: Yaakov said to his sons,
+  4 T: לְמָא תִּתְחֲזוּן
+    E: Why would you have everyone gazing at you?
+@ 42:2
+  1 T: וַאֲמַר הָא שְׁמָעִית אָמְרִין
+    E: He said, Behold, I have heard
+ *2 T: אֲרֵי=that · אִית=there are · עִיבוּרָא=the grain · מִזְדַּבַּן=being sold · בְּמִצְרָיִם=in Mitzrayim (Egypt)  [5]
+    E: that there is food [{grain}] for sale in Egypt.
+  3 T: חוּתוּ תַמָּן וּזְבוּנוּ לָנָא מִתַּמָּן
+    E: Go down there and buy for us from there,
+  4 T: וְנֵחֵי וְלָא נְמוּת
+    E: so that we will live and not die.
+@ 42:4
+  1 T: וְיָת בִּנְיָמִין אֲחוּהִי דְיוֹסֵף
+    E: But Binyamin, Yoseif’s brother,
+  2 T: לָא שְׁלַח יַעֲקֹב עִם אֲחוּהִי
+    E: Yaakov did not send along with his brothers,
+  3 T: אֲרֵי אֲמַר
+    E: for he [Yaakov] said,
+ *4 T: דִּלְמָא=lest · יְעַרְעִנֵּיהּ=befall him · מוֹתָא=death  [3]
+    E: Misfortune [{Death}] might befall him.
+@ 42:5
+  1 T: וַאֲתוֹ בְּנֵי יִשְׂרָאֵל
+    E: The sons of Yisrael came
+ *2 T: לְמִזְבַּן=to buy · עִיבוּרָא=the grain · בְּגוֹ=among (lit. in the midst of) · עָלַיָּא=those who came  [4]
+    E: to buy [{grain}] among the others who came,
+  3 T: אֲרֵי הֲוָה כַפְנָא בְּאַרְעָא דִכְנָעַן
+    E: for there was famine in the land of Canaan.
+@ 42:6
+  1 T: וְיוֹסֵף הוּא דְּשַׁלִּיט עַל אַרְעָא
+    E: Yoseif was the ruler over the land;
+ *2 T: הוּא=it · דְזַבִּין=that sell · עִיבוּרָא=the grain · לְכָל=to all (of) · עַמָּא=a people · דְאַרְעָא=of the earth  [6]
+    E: he was the one who sold [{grain}] to all the people of the land.
+  3 T: וַאֲתוֹ אֲחֵי יוֹסֵף
+    E: Yoseif’s brothers came
+  4 T: וּסְגִידוּ לֵיהּ עַל אַפַּיָּא עַל אַרְעָא
+    E: and they prostrated themselves to him with their faces to the ground.
+@ 42:7
+  1 T: וַחֲזָא יוֹסֵף יָת אֲחוֹהִי וְאִשְׁתְּמוֹדְעִנּוּן
+    E: Yoseif saw his brothers and he recognized them,
+ *2 T: וְחַשִּׁיב=and (he) considered · מָה=what · דְמַלֵּיל=that he had spoken of · לְהוֹן=to them · וּמַלִּיל=and (he) spoke · עִמְּהוֹן=with them · קַשְׁיָא=harshly (lit. hard things) · וַאֲמַר=and (He) said · לְהוֹן=to them · מְנָן=from where · אֲתֵיתוּן=have you come  [11]
+    E: but he acted like a stranger [{considered what he should say}] to them. He spoke harshly to them, and said to them, Where did you come from?
+ *3 T: וַאֲמָרוּ=and (they) said · מֵאַרְעָא=from the earth, the land · דִכְנַעַן=of Kenaan (Canaan) · לְמִזְבַּן=to buy · עִיבוּרָא=the grain  [5]
+    E: They said, From the land of Canaan to buy food [{grain}].
+@ 42:9
+  1 T: וּדְכִיר יוֹסֵף
+    E: Yoseif recalled
+  2 T: יָת חֶלְמַיָּא
+    E: the dreams
+  3 T: דִּי חֲלִים לְהוֹן
+    E: that he had dreamt about them,
+  4 T: וַאֲמַר לְהוֹן מְאַלְלִין אַתּוּן
+    E: and said to them, You are spies.
+ *5 T: לְמֶחֱזֵי=to look at · יָת=(marks the object) · בִּדְקָא=the weak spot · דְאַרְעָא=of the earth · אֲתֵיתוּן=have you come  [5]
+    E: You have come to see where the land is exposed [{the defective part of the land}].
+@ 42:10
+  1 T: וַאֲמָרוּ לֵיהּ לָא רִבּוֹנִי
+    E: They said to him, No my master.
+ *2 T: וְעַבְדָיךְ=and your servants · עַלּוּ=(they) went in · לְמִזְבַּן=to buy · עִיבוּרָא=the grain  [4]
+    E: Your servants have come to buy food [{grain}].
+@ 42:12
+  1 T: וַאֲמַר לְהוֹן
+    E: He said to them,
+ *2 T: לָא=not · אֲרֵי=that · בִדְקָא=the weak spot · דְאַרְעָא=of the earth · אֲתֵיתוּן=have you come · לְמֶחֱזֵי=to look at  [6]
+    E: No, You have come to see where the land is exposed [{the defective part of the land}].
+@ 42:16
+  1 T: שְׁלָחוּ מִנְּכוֹן חַד וִידַבֵּר יָת אֲחוּכוֹן
+    E: Send one of you and let him bring your brother.
+  2 T: וְאַתּוּן הִתְאַסְּרוּן
+    E: You will remain locked up
+  3 T: וְיִתְבַּחֲנוּן פִּתְגָּמֵיכוֹן הַקְשׁוֹט
+    E: and your words will be tested
+ *4 T: אַתּוּן=(are) you · אָמְרִין=saying  [2]
+    E: whether there is [{you speak}] any truth with you.
+  5 T: וְאִם לָא חֵי פַרְעֹה
+    E: If not, by Pharaoh’s life,
+  6 T: אֲרֵי מְאַלִּילֵי אַתּוּן
+    E: you are spies.
+@ 42:18
+  1 T: וַאֲמַר לְהוֹן יוֹסֵף בְּיוֹמָא תְלִיתָאָה
+    E: Yoseif said to them on the third day,
+  2 T: דָּא עִיבִידוּ וְקַיִּימוּ
+    E: Do this and live.
+ *3 T: מִן=from · קֳדָם=before · יְיָ=Hashem · אֲנָא=I (am) · דָחֵל=fear  [5]
+    E: [{From before God}] I fear God.
+@ 42:19
+  1 T: אִם כֵּיוָנֵי אַתּוּן
+    E: If you are honest,
+  2 T: אֲחוּכוֹן חַד
+    E: one of your brothers
+  3 T: יִתְאַסַּר בְּבֵית מַטַּרְתְּכוֹן
+    E: will be imprisoned in your place of guarding,
+  4 T: וְאַתּוּן אִיזִילוּ אוֹבִילוּ
+    E: and you [the others] go bring
+ *5 T: עִיבוּרָא=the grain · דְּחַסִּיר=needed (lit. lacking) · בְּבָתֵּיכוֹן=in your houses  [3]
+    E: food for your famished [{grain that is lacking in your}] households.
+@ 42:21
+  1 T: וַאֲמָרוּ גְּבַר לַאֲחוּהִי בְּקוּשְׁטָא חַיָּבִין אֲנַחְנָא עַל אָחוּנָא
+    E: They said to one another, In truth, we are guilty regarding our brother.
+ *2 T: דִּי=that, which · חֲזֵינָא=we have seen · עָקַת=the distress of · נַפְשֵׁיהּ=his soul · כַּד=when · הֲוָה=was · מִתְחַנֶּן=pleading · לָנָא=for us · וְלָא=and not · קַבֵּלְנָא=we (did not) listen · מִנֵּיהּ=of him  [11]
+    E: We saw the anguish of his soul when he pleaded with us and we did not listen [{obey him}].
+  3 T: עַל כֵּן אֲתָא לְוָתָנָא עַקְתָא הָדָא
+    E: That is why this trouble has come upon us.
+@ 42:22
+ *1 T: וַאֲתֵיב=and (he) answered (lit. returned) · רְאוּבֵן=Reuven · יָתְהוֹן=them · לְמֵימַר=saying · הֲלָא=surely (lit. is it not) · אֲמָרִית=I said · לְוָתְכוֹן=to you (pl.) · לְמֵימַר=saying · לָא=not · תְחוֹבוּן=(do not) sin · בְּעוּלֵימָא=in a young man · וְלָא=and not · קַבֶּלְתּוּן=you (did not) listen  [13]
+    E: Reuvein answered them saying, Did I not say to you to the following: Do not sin against the lad, but you did not listen [{obey}];
+  2 T: וְאַף דְּמֵיהּ הָא מִתְבְּעֵי
+    E: and now his blood is being avenged.
+@ 42:28
+  1 T: וַאֲמַר לַאֲחוֹהִי אִתּוֹתַב כַּסְפִּי
+    E: He said to his brothers. My money has been returned,
+  2 T: וְאַף הָא בְטוֹעֲנִי
+    E: and behold it is also in my bag.
+ *3 T: וּנְפַק=and (he) went out · מַדַּע=the understanding of · לִבְּהוֹן=of their heart · וּתְוָהוּ=and (they) trembled in wonder · גְּבַר=a man · לַאֲחוּהִי=to the brother of (lit. his brother) · לְמֵימַר=saying  [7]
+    E: [{The understanding of their}] Their hearts failed [{left}] them and they trembled, saying one to another,
+  4 T: מָה דָא עֲבַד יְיָ לָנָא
+    E: What is this that Elohim has done to us?
+@ 42:33
+  1 T: וַאֲמַר לָנָא גַּבְרָא רִבּוֹנָא דְאַרְעָא
+    E: The man, the master of the land, said to us,
+  2 T: בְּדָא אִדַּע
+    E: This is how I shall know
+  3 T: אֲרֵי כֵיוָנֵי אַתּוּן
+    E: that you are honest.
+  4 T: אֲחוּכוֹן חַד שְׁבוּקוּ לְוָתִי
+    E: Leave one of your brothers with me,
+ *5 T: וְיָת=and (marks the object) · עִיבוּרָא=the grain · דְחַסִּיר=needed (lit. lacking) · בְּבָתֵּיכוֹן=in your houses · סִיבוּ=(they) were old · וֶאֱזִילוּ=and go  [6]
+    E: and take food for your famished [{grain that is lacking in your}] households and go.
+@ 42:36
+  1 T: וַאֲמַר לְהוֹן יַעֲקֹב אֲבוּהוֹן
+    E: Yaakov, their father, said to them,
+  2 T: יָתִי אַתְכֶּלְתּוּן
+    E: You have deprived me of children;
+ *3 T: יוֹסֵף=Yosef · לֵיתוֹהִי=is not (there is not in it) · וְשִׁמְעוֹן=and Shimon · לָא=not · הֲוָה=was · הָכָא=here  [6]
+    E: Yoseif is no more [{not here}], Shimon is no more,
+  4 T: וְיָת בִּנְיָמִן תִּדְבְּרוּן
+    E: and you would take Binyamin:
+  5 T: עֲלַי הֲווֹ כָלְּהוֹן
+    E: All this has happened to me.
+@ 42:38
+  1 T: וַאֲמַר לָא יֵחוֹת בְּרִי עִמְּכוֹן
+    E: He [Yaakov] said, My son will not go down with you;
+ *2 T: אֲרֵי=that · אֲחוּהִי=the brother of (lit. his brother) · מִית=(are about to) die · וְהוּא=and it · בִּלְחוֹדוֹהִי=alone (lit. by himself) · אֶשְׁתָּאַר=is left · וִיעַרְעִנֵּיהּ=and befall him · מוֹתָא=death · בְּאָרְחָא=on the way · דִּי=that, which · תְהָכוּן=you go · בַּהּ=in it  [12]
+    E: for his brother is dead, and only he remains. Should misfortune [{death}] befall him on the way you are going,
+  3 T: וְתַחֲתוּן יָת שִׂיבְתִי בְּדָווֹנָא לִשְׁאוֹל
+    E: you will bring my white head down to the grave in sorrow.
+@ 43:2
+ *1 T: וַהֲוָה=and it was / and there was · כַּד=when · סַפִּיקוּ=(they) had finished · לְמֵיכַל=to eat · יָת=(marks the object) · עִיבוּרָא=the grain  [6]
+    E: When they had finished eating [{entirely consumed}] the food [{grain}]
+  2 T: דְּאַיְתִיאוּ מִמִּצְרָיִם
+    E: that they had brought from Egypt,
+  3 T: וַאֲמַר לְהוֹן אֲבוּהוֹן
+    E: their father said to them,
+ *4 T: תּוּבוּ=go back · זְבוּנוּ=buy · לָנָא=for us · זְעֵיר=a little · עִיבוּרָא=the grain  [5]
+    E: Go back and buy a little food [{grain}] for us.
+@ 43:4
+  1 T: אִם אִיתָךְ מְשַׁלַּח יָת אָחוּנָא עִמָּנָא
+    E: If you will send our brother with us,
+ *2 T: נֵיחוֹת=we will go down · וְנִזְבֵּן=and we will buy · לָךְ=(to) you · עִיבוּרָא=the grain  [4]
+    E: we will go down and buy food [{grain}] for you.
+@ 43:9
+  1 T: אֲנָא מְעָרַבְנָא בֵיהּ
+    E: I will be security for him.
+  2 T: מִן יְדִי תִּבְעִנֵּיהּ
+    E: You will demand him from my hand.
+  3 T: אִם לָא אַיְתִנֵּיהּ לָךְ וַאֲקֵימִנֵּיהּ קֳדָמָךְ
+    E: If I do not bring him to you, and set him before you,
+ *4 T: וְאֵהֵי=and I will be · חָטֵי=guilty (lit. sinning) · לָךְ=(to) you · כָּל=every, all · יוֹמַיָּא=the days  [5]
+    E: I will have sinned [{be a sinner}] to you for all time.
+@ 43:16
+  1 T: וַחֲזָא יוֹסֵף עִמְּהוֹן יָת בִּנְיָמִין
+    E: When Yoseif saw Binyamin with them
+  2 T: וַאֲמַר לְדִי מְמַנָּא עַל בֵּיתֵיהּ
+    E: he said to the one in charge of his house,
+  3 T: אָעֵיל יָת גֻּבְרַיָּא לְבֵיתָא
+    E: Bring these men to the house.
+  4 T: וּנְכוֹס נִכְסָתָא וְאַתְקֵין
+    E: Slaughter an animal and prepare it,
+ *5 T: אֲרֵי=that · עִמִּי=with me · יֵיכְלוּן=will eat · גֻּבְרַיָּא=the men · בְּשֵׁירוּתָא=at the (noon) meal  [5]
+    E: for these men shall dine with me at noon [{the morning meal}].
+@ 43:18
+  1 T: וּדְחִילוּ גֻבְרַיָּא אֲרֵי אִתַּעֲלוּ לְבֵית יוֹסֵף
+    E: The men were afraid because they had been brought to Yoseif’s house,
+  2 T: וַאֲמָרוּ עַל עֵסַק כַּסְפָּא דְּאִתּוֹתַב בְּטוֹעֲנָנָא בְּקַדְמֵיתָא
+    E: and they said, Because of the money that was returned in our bags previously
+  3 T: אֲנַחְנָא מִתַּעֲלִין
+    E: are we being brought [here];
+ *4 T: לְאִתְרַבְרָבָא=to lord it (over us) (lit. to make himself great) · עֲלָנָא=to us (lit. upon us) · וּלְאִסְתַּקָּפָא=and to fall upon (us) · עֲלָנָא=to us (lit. upon us)  [4]
+    E: that he may turn on [{act as a lord over}] us and come down on [{libel}] us,
+ *5 T: וּלְמִקְנֵי=and to acquire · יָתָנָא=us · לְעַבְדִּין=to slaves · וּלְמִדְבַּר=and to take · יָת=(marks the object) · חֲמָרָנָא=our donkeys  [6]
+    E: and take [{acquire}] us for slaves along with [{and take}] our donkeys.
+@ 43:20
+  1 T: וַאֲמָרוּ בְּבָעוּ רִבּוֹנִי
+    E: They said, Please, my master,
+ *2 T: מֵיחַת=(we surely) came down · נְחֵתְנָא=we came down · בְּקַדְמֵיתָא=at first · לְמִזְבַּן=to buy · עִיבוּרָא=the grain  [5]
+    E: we came down the first time to buy food [{grain}].
+@ 43:22
+ *1 T: וְכַסְפָּא=and money · אָחֳרָנָא=the other · אוֹחִיתְנָא=we have brought down · בִידָנָא=in our hands · לְמִזְבַּן=to buy · עִיבוּרָא=the grain  [6]
+    E: We have [also] brought other money in our hand to buy food [{grain}].
+  2 T: לָא יְדַעְנָא
+    E: We do not know
+  3 T: מָן שַׁוִּי כַסְפָּנָא בְּטוֹעֲנָנָא
+    E: who put the money in our bags.
+@ 43:25
+  1 T: וְאַתְקִינוּ יָת תִּקְרֻבְתָּא
+    E: They prepared their offering [to be ready]
+ *2 T: עַד=until · דְּעַל=that is by (the river) · יוֹסֵף=Yosef · בְּשֵׁירוּתָא=at the (noon) meal  [4]
+    E: when Yoseif came at noon [{to the morning meal}],
+  3 T: אֲרֵי שְׁמָעוּ
+    E: for they had heard
+  4 T: אֲרֵי תַמָּן יֵיכְלוּן לַחְמָא
+    E: that they would eat there.
+@ 43:29
+  1 T: וּזְקַף עֵינוֹהִי וַחֲזָא יָת בִּנְיָמִין אֲחוּהִי בַּר אִמֵּיהּ
+    E: He raised his eyes and saw his brother Binyamin, his mother’s son,
+  2 T: וַאֲמַר הָדֵין אֲחוּכוֹן זְעֵירָא
+    E: and said, Is this your youngest brother
+  3 T: דִּי אֲמַרְתּוּן לִי
+    E: of whom you spoke to me?
+ *4 T: וַאֲמַר=and (He) said · מִן=from · קֳדָם=before · יְיָ=Hashem · יִתְרַחַם=may (Hashem) be gracious · עֲלָךְ=upon you; about you (also: against you) · בְּרִי=my son  [7]
+    E: He [then] said, Elohim be gracious to you [{Graciousness from before Elohim be upon you}] my son.
+@ 43:30
+  1 T: וְאוֹחִי יוֹסֵף אֲרֵי אִתְגּוֹלְלוּ רַחֲמוֹהִי עַל אֲחוּהִי
+    E: Yoseif hurried [to go out] because his compassion was aroused toward his brother,
+  2 T: וּבְעָא לְמִבְכֵּי
+    E: and he wanted to weep.
+ *3 T: וְעַל=and on · לְאִדְרוֹן=into the chamber of · בֵּית=the house of · מִשְׁכְּבָא=the bedroom (בֵּית מִשְׁכְּבָא) · וּבְכָא=and (he) wept · תַמָּן=there  [6]
+    E: He went into [his] [{bed}]room and wept there.
+@ 43:32
+  1 T: וְשַׁוִּיאוּ לֵיהּ בִּלְחוֹדוֹהִי וּלְהוֹן בִּלְחוֹדֵיהוֹן
+    E: They set [a place] for him by himself, and for them by themselves,
+  2 T: וּלְמִצְרָאֵי דְּאָכְלִין עִמֵּיהּ בִּלְחוֹדֵיהוֹן
+    E: and for the Egyptians who ate with him by themselves,
+  3 T: אֲרֵי לָא יָכְלִין מִצְרָאֵי לְמֵיכַל עִם עִבְרָאֵי לַחְמָא
+    E: since the Egyptians could not eat food with the Hebrews,
+ *4 T: אֲרֵי=that · בְעִירָא=the cattle · דְּמִצְרָאֵי=of the Egyptians · דָחֲלִין=worship (lit. fear) · לֵיהּ=to him · עִבְרָאֵי=the Hebrews · אָכְלִין=eat  [7]
+    E: because it was loathsome to the [{the animal that the}] Egyptians [{worship, the Hebrews eat}].
+@ 43:33
+ *1 T: וְאַסְחָרוּ=and (they) sat around · קֳדָמוֹהִי=before Him  [2]
+    E: They were seated [{reclined}] before him,
+  2 T: רַבָּא כְּרַבְיוּתֵיהּ
+    E: the first born [the oldest] according to his birthright,
+  3 T: וּזְעֵירָא כִּזְעֵרוּתֵיהּ
+    E: and the youngest according to his youth.
+  4 T: וּתְמָהוּ גֻבְרַיָּא גְּבַר לְחַבְרֵיהּ
+    E: The men looked at each other in astonishment.
+@ 43:34
+ *1 T: וּנְטַל=and (he) had carried · חֳלָקִין=portions · מִן=from · קֳדָמוֹהִי=before Him · לָקֳדָמֵיהוֹן=to before them  [5]
+    E: He had portions carried from before him to [{before}] them.
+  2 T: וּסְגִי חֲלָקָא דְבִנְיָמִן מֵחֳלָקֵי דְכָלְּהוֹן חַמְשָׁא חֳלָקִין
+    E: Binyomin’s portions was greater than all of their’s—five times as much.
+  3 T: וּשְׁתִיאוּ וּרְוִיאוּ עִמֵּיהּ
+    E: They drank with him and became intoxicated.
+@ 44:1
+  1 T: וּפַקֵּיד יָת דִּי מְמַנָּא עַל בֵּיתֵיהּ לְמֵימַר
+    E: He commanded the one in charge of his house, saying,
+ *2 T: מְלֵי=fill! · יָת=(marks the object) · טוֹעֲנֵי=the sacks of · גֻבְרַיָּא=the men · עִיבוּרָא=the grain  [5]
+    E: Fill the men’s bags with as much food [{grain}]
+  3 T: כְּמָה דִי יָכְלִין לְמַטְּלֵי
+    E: as they can carry,
+  4 T: וְשַׁוִּי כְּסַף גְּבַר בְּפוּם טוֹעֲנֵיהּ
+    E: and place each man’s money in the opening of his bag.
+@ 44:5
+  1 T: הֲלָא דֵין דְּשָׁתֵי רִבּוֹנִי בֵּיהּ
+    E: Why, this is [the goblet] from which my master drinks.
+ *2 T: וְהוּא=and it · בָּדָקָא=(he surely) examines · מְבָדֵק=examines · בֵּיהּ=in it  [4]
+    E: He uses it for divination [{investigating}].
+  3 T: אַבְאֶשְׁתּוּן דִּי עֲבַדְתּוּן
+    E: You have acted badly in what you have done.
+@ 44:7
+  1 T: וַאֲמָרוּ לֵיהּ
+    E: They said to him,
+  2 T: לְמָה יְמַלֵּל רִבּוֹנִי
+    E: Why does my master speak
+  3 T: כְּפִתְגָּמַיָּא הָאִלֵּין
+    E: such words?
+  4 T: חַס=far be it (lit. has pity) · לְעַבְדָיךְ=to your servants  [2]
+    E: It would be degrading for your servants
+ *5 T: מִלְּמֶעְבַּד=from doing · כְּפִתְגָּמָא=like the word · הָדֵין=this  [3]
+    E: to do [{May your servants be spared from doing}] such a thing.
+@ 44:8
+  1 T: הָא כַסְפָּא דִּי אַשְׁכַּחְנָא בְּפוּם טוֹעֲנָנָא
+    E: Behold the money that we found in the opening of our bags,
+  2 T: אֲתֵיבְנוֹהִי לָךְ מֵאַרְעָא דִכְנָעַן
+    E: we brought back to you from the land of Canaan.
+ *3 T: וְאֶכְדֵּין=and how · נִגְנוּב=would we steal · מִבֵּית=from the house of · רִבּוֹנָךְ=your master · כַּסְפָּא=money · אוֹ=or · דַהֲבָא=gold  [7]
+    E: How then could we have stolen silver [{vessels}] or gold [{vessels}] from your master’s house?
+@ 44:15
+  1 T: וַאֲמַר לְהוֹן יוֹסֵף
+    E: Yoseif said to them,
+  2 T: מָה עוֹבָדָא הָדֵין דִּי עֲבַדְתּוּן
+    E: What is this deed that you have done?
+  3 T: הֲלָא יְדַעְתּוּן
+    E: Do you not know
+ *4 T: אֲרֵי=that · בָדָקָא=(he surely) examines · מְבָדֵק=examines · גַּבְרָא=a man · דִּי=that, which · כְוָתִי=like me  [6]
+    E: that a man like me is an expert diviner [{investigator}]?
+@ 44:16
+  1 T: וַאֲמַר יְהוּדָה מַה נֵּימַר לְרִבּוֹנִי
+    E: Yehudah said, What shall we say to my master?
+  2 T: מַה נְּמַלֵּל וּמַה נִּזְכֵּי
+    E: What can we speak? How can we justify ourselves?
+ *3 T: מִן=from · קֳדָם=before · יְיָ=Hashem · אִשְׁתְּכַח=has found · יָת=(marks the object) · חוֹבָא=the sin · בְעַבְדָּיךְ=in your servants  [7]
+    E: [{From before}] God [{the iniquity of your servants}] has [{been}] found the iniquity of your servants.
+  4 T: הָא אֲנַחְנָא עַבְדִּין לְרִבּוֹנִי
+    E: Let us be slaves to my master,
+  5 T: אַף אֲנַחְנָא אַף דְּאִשְׁתְּכַח קַלִּידָא בִּידֵיהּ
+    E: both we, and the one in whose hand the goblet was found.
+@ 44:17
+ *1 T: וַאֲמַר=and (He) said · חַס=far be it (lit. has pity) · לִי=(to) me · מִלְּמֶעְבַּד=from doing · דָּא=this  [5]
+    E: He [Yoseif] said [to them], It would be degrading for me to do [{May I be spared from doing}] such a thing.
+  2 T: גַּבְרָא דִּי יִשְׁתְּכַח קַלִּידָא בִּידֵיהּ הוּא יְהֵי לִי עַבְדָּא
+    E: The man in whose hand the goblet was found, he shall be my slave,
+  3 T: וְאַתּוּן סְקוֹ לִשְׁלַם לְוַת אֲבוּכוֹן
+    E: and [the rest of] you go up in peace to your father.
