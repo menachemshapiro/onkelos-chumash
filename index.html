@@ -146,6 +146,9 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-tabs button[aria-selected="true"] { color: var(--targum); border-color: var(--rule); background: var(--surface); font-weight: 700; }
 .jas-tabs button { display: inline-flex; flex-direction: column; align-items: center; line-height: 1.25; }
 .jas-tabs .th { unicode-bidi: isolate; }
+.jas-tabs button.jmatch { background: var(--mark); color: var(--mark-ink); border-color: color-mix(in srgb, var(--mark-ink) 25%, transparent); }
+.jas-tabs button.jmatch .tm { color: var(--mark-ink); }
+.jas-tabs button.jmatch[aria-selected="true"] { box-shadow: inset 0 -2px 0 var(--mark-ink); }
 .jas-tabs .tm { font-family: var(--f-ui); font-size: .62rem; color: var(--muted); font-weight: 400; unicode-bidi: isolate; }
 .jas-note { font-size: .8rem; color: var(--muted); margin: -4px 0 6px; }
 .jas-note:empty { display: none; }
@@ -891,10 +894,10 @@ async function jasRender(rid){
     if (r === C.rid) t.push("this word");
     if (C.here && x.html.includes(C.here)) t.push("cites " + C.ref); else if (x.html.includes("Onkelos_")) t.push("Targ. O.");
     return t.length ? `<span class="tm" dir="ltr">${t.join(" · ")}</span>` : ""; };
-  if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid}"><span class="th" dir="rtl">${escH([tabE[k].h, ...(tabE[k].a || [])].join(", "))}</span>${tags(r, tabE[k])}</button>` : "").join("");
+  if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid}"${r === C.rid ? ' class="jmatch"' : ""}><span class="th" dir="rtl">${escH([tabE[k].h, ...(tabE[k].a || [])].join(", "))}</span>${tags(r, tabE[k])}</button>` : "").join("");
   const note = [];
   if (rid === C.rid && C.kind === "root") note.push("Jastrow has no entry for this exact word, so this is the entry for its root.");
-  if (rid !== C.rid) note.push("Another entry with this headword. The one matched to this word is marked “this word”.");
+  if (rid !== C.rid) note.push("Another related entry. The one matched to this word is the highlighted tab, marked “this word”.");
   document.getElementById("jas-note").textContent = note.join(" ");
   body.innerHTML = e.html;
   if (C.here) body.querySelectorAll(`a[href*='${C.here.slice(0, -1)}']`).forEach(a => { if (a.getAttribute("href").endsWith(C.here.slice(0, -1))) a.classList.add("jhere"); });
