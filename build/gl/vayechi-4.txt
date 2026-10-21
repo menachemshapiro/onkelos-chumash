@@ -77,7 +77,7 @@
 טוּר.וֹהִי=his | tura | n mp+3ms | his mountains
 בְּ=with.כַרְמ.וֹהִי=his | karma | n mp+3ms | with his vineyards
 יְ~they_f.טוּפ.וּן~mp | twf | G impf 3mp | will flow
-נַעֲו.וֹהִי=his | naava | n mp+3ms | his hills
+נַעֲו.וֹהִי=his | naava | n mp+3ms | his winepresses
 בַּ=with.חֲמָר | hamra | n | with wine
 יְ~they_f.חַוְּר.ָן~fp | hwr | D impf 3fp | will be white
 בִּקְעֲת.ֵיהּ=his | biqa | n fp+3ms | his valleys

@@ -232,7 +232,6 @@ E: <b>His mountains will become red with his vineyards, his winepresses will be 
 יְטוּפוּן = will be flowing
 נַעֲווֹהִי = his winepresses
 בַּחֲמָר = with wine
-! נַעֲווֹהִי is "his hills": his hills will drip with wine.
 E: <b>His valleys will appear white from the abundance of grain and flocks of sheep</b>.
 יְחַוְּרָן = will appear white
 בִּקְעֲתֵיהּ = His valleys

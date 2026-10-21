@@ -1082,7 +1082,7 @@ tseva | צבע | צְבַע | noun | dye, color
 tsivon | צבע | צִבְעוֹנִין | noun, pl. | colors, dyed stuffs
 smq | סמק | סַמֵּק | verb (Pa'el) | to redden, be red
 twf | טוף | טוּף | verb | to flow, overflow
-naava | | נַעֲוָא | noun | hill
+naava | | נַעֲוָא | noun | wine-press vat (the tank under the press)
 hwr | חור | חַוַּר | verb (Pa'el) | to be white, whiten
 mehoza | | מְחוֹזָא | noun | district, harbor town
 sfina | ספן | סְפִינְתָּא | noun, f. | ship
