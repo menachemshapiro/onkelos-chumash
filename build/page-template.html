@@ -141,6 +141,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-body span[dir="rtl"], .jas-body a[dir="rtl"] { font-family: var(--tg-font); font-size: 1.08em; }
 .jas-body a { color: var(--targum); text-decoration: none; }
 .jas-body a:hover { text-decoration: underline; }
+.jas-body a.jhere { background: var(--mark); color: var(--mark-ink); border-radius: 3px; padding: 0 .15em; }
 .jas-body .jn, .jas-body .jg { color: var(--targum); }
 .jas-also { margin-top: 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: .8rem; color: var(--muted); }
 .jas-also:empty { display: none; }
@@ -851,8 +852,10 @@ function jIndex(){ return JIDX || (JIDX = loadJ("j/index.json").catch(e => { JID
 function jGroup(rid){ const k = rid[0]; return JGRP[k] || (JGRP[k] = loadJ("j/" + k + ".json").catch(e => { delete JGRP[k]; throw e; })); }
 const jasPop = document.getElementById("jas");
 let JCUR = null;   // the entry the glossary matched, with its kind, other candidates and same-headword tabs
-async function showJas(rid, kind, also, tabs){
-  JCUR = { rid, kind, also: also || [], tabs: tabs || [] };
+const BOOK_EN = { "בראשית": "Genesis", "שמות": "Exodus", "ויקרא": "Leviticus", "במדבר": "Numbers", "דברים": "Deuteronomy" };
+async function showJas(rid, kind, also, tabs, v){
+  const here = v ? `Onkelos_${BOOK_EN[parOf(v.pr).book] || ""}.${v.c}.${v.v}"` : null;
+  JCUR = { rid, kind, also: also || [], tabs: tabs || [], here, ref: v ? `${v.c}:${v.v}` : "" };
   jasPop.hidden = false; await jasRender(rid);
 }
 async function jasRender(rid){
@@ -867,13 +870,19 @@ async function jasRender(rid){
     alsoE = await Promise.all(C.also.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
   } catch (err) { body.textContent = "Couldn't load the dictionary. Check your connection."; return; }
   if (!e) { body.textContent = "Entry not found."; return; }
-  document.getElementById("jas-t").textContent = e.h;
-  if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid}"><span class="th" dir="rtl">${escH(tabE[k].h)}</span>${r === C.rid ? '<span class="tm" dir="ltr">this word</span>' : ""}</button>` : "").join("");
+  document.getElementById("jas-t").textContent = [e.h, ...(e.a || [])].join(", ");
+  const tags = (r, x) => { const t = [];
+    if (r === C.rid) t.push("this word");
+    if (C.here && x.html.includes(C.here)) t.push("cites " + C.ref); else if (x.html.includes("Onkelos_")) t.push("Targ. O.");
+    return t.length ? `<span class="tm" dir="ltr">${t.join(" · ")}</span>` : ""; };
+  if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid}"><span class="th" dir="rtl">${escH([tabE[k].h, ...(tabE[k].a || [])].join(", "))}</span>${tags(r, tabE[k])}</button>` : "").join("");
   const note = [];
   if (rid === C.rid && C.kind === "root") note.push("Jastrow has no entry for this exact word, so this is the entry for its root.");
   if (rid !== C.rid) note.push("Another entry with this headword. The one matched to this word is marked “this word”.");
   document.getElementById("jas-note").textContent = note.join(" ");
-  body.innerHTML = e.html; jasPop.querySelector(".jas-card").scrollTop = 0;
+  body.innerHTML = e.html;
+  if (C.here) body.querySelectorAll(`a[href*='${C.here.slice(0, -1)}']`).forEach(a => { if (a.getAttribute("href").endsWith(C.here.slice(0, -1))) a.classList.add("jhere"); });
+  jasPop.querySelector(".jas-card").scrollTop = 0;
   document.getElementById("jas-src").href = "https://www.sefaria.org/" + encodeURI("Jastrow,_" + e.h + ".1");
   const others = C.also.map((r, k) => alsoE[k] && r !== rid ? `<button type="button" data-r="${r}" dir="rtl">${escH(alsoE[k].h)}</button>` : "").join("");
   if (others) document.getElementById("jas-also").innerHTML = "Other possible entries: " + others + (rid !== C.rid && !C.tabs.includes(rid) ? "" : "");
@@ -891,7 +900,7 @@ async function markJas(card){
 }
 glCard.addEventListener("click", ev => {
   const jb = ev.target.closest(".gl-jas");
-  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2], m[3]); }); return; }
+  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2], m[3], glOn ? VERSES[+glOn.closest(".verse").dataset.i] : null); }); return; }
   if (ev.target.closest(".gl-x")) closeGloss();
   else if (ev.target.closest(".gl-rep") && glOn) {
     const sec = glOn.closest(".verse"), w = glOn.textContent; closeGloss();
