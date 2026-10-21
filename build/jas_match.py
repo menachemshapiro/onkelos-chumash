@@ -3,6 +3,8 @@ Writes build/jas-map.json {lex_id: [best_rid, ...others]} and prints a summary."
 import json, glob, re, collections, unicodedata as u
 SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 J = json.load(open(SP + 'jastrow/jastrow-lookups.json', encoding='utf8')); Q, E = J['queries'], J['entries']
+# round 2: the entries round 1's entries point to ("v. X")
+J2 = json.load(open(SP + 'jastrow/jastrow-lookups-2.json', encoding='utf8')); Q.update(J2['queries']); E.update(J2['entries'])
 lex = {}
 for f in glob.glob(SP + 'g/*.json'):
     for k, v in json.load(open(f, encoding='utf8'))['lex'].items(): lex.setdefault(k, v)

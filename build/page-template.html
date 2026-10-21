@@ -152,6 +152,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-body span[dir="rtl"], .jas-body a[dir="rtl"] { font-family: var(--tg-font); font-size: 1.08em; }
 .jas-body a { color: var(--targum); text-decoration: none; }
 .jas-body a:hover { text-decoration: underline; }
+.jas-body a.jx { border-bottom: 1px solid color-mix(in srgb, currentColor 40%, transparent); }
+.jas-also .jback { font-family: var(--f-ui); font-size: .85rem; }
 .jas-body a.jonk { border-bottom: 1px dotted currentColor; }
 .jas-body a.jhere { background: var(--mark); color: var(--mark-ink); border-radius: 3px; padding: 0 .15em; }
 .jas-body .jn, .jas-body .jg { color: var(--targum); }
@@ -903,11 +905,11 @@ const loadJ = path => fetch(path).then(r => { if (!r.ok) throw new Error(r.statu
 function jIndex(){ return JIDX || (JIDX = loadJ("j/index.json").catch(e => { JIDX = null; throw e; })); }
 function jGroup(rid){ const k = rid[0]; return JGRP[k] || (JGRP[k] = loadJ("j/" + k + ".json").catch(e => { delete JGRP[k]; throw e; })); }
 const jasPop = document.getElementById("jas");
-let JCUR = null;   // the entry the glossary matched, with its kind, other candidates and same-headword tabs
+let JCUR = null, JHIST = [];   // JHIST: entries visited through links inside the pop-up, for Back   // the entry the glossary matched, with its kind, other candidates and same-headword tabs
 const BOOK_EN = { "בראשית": "Genesis", "שמות": "Exodus", "ויקרא": "Leviticus", "במדבר": "Numbers", "דברים": "Deuteronomy" };
 async function showJas(rid, kind, also, tabs, v){
   const here = v ? `Onkelos_${BOOK_EN[parOf(v.pr).book] || ""}.${v.c}.${v.v}"` : null;
-  JCUR = { rid, kind, also: also || [], tabs: tabs || [], here, ref: v ? `${v.c}:${v.v}` : "" };
+  JCUR = { rid, kind, also: also || [], tabs: tabs || [], here, ref: v ? `${v.c}:${v.v}` : "" }; JHIST = [];
   jasPop.hidden = false; await jasRender(rid);
 }
 async function jasRender(rid){
@@ -930,9 +932,10 @@ async function jasRender(rid){
   if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid}"${r === C.rid ? ' class="jmatch"' : ""}><span class="th" dir="rtl">${escH([tabE[k].h, ...(tabE[k].a || [])].join(", "))}</span>${tags(r, tabE[k])}</button>` : "").join("");
   const note = [];
   if (rid === C.rid && C.kind === "root") note.push("Jastrow has no entry for this exact word, so this is the entry for its root.");
-  if (rid !== C.rid) note.push("Another related entry. The one matched to this word is the highlighted tab, marked “this word”.");
+  if (rid !== C.rid && C.tabs.includes(rid)) note.push("Another related entry. The one matched to this word is the highlighted tab, marked “this word”.");
+  if (!C.tabs.includes(rid) && rid !== C.rid && !C.also.includes(rid)) note.push("Opened from a link in another entry.");
   document.getElementById("jas-note").textContent = note.join(" ");
-  body.innerHTML = e.html;
+  body.innerHTML = e.html; jasPop.dataset.cur = rid;
   // Onkelos citations open the pasuk here (the parsha is found from the glossary's chapter ranges)
   body.querySelectorAll('a[href*="sefaria.org/Onkelos_"]').forEach(a => {
     const m = a.getAttribute("href").match(/Onkelos_(\w+)\.(\d+)\.(\d+)$/); if (!m) return;
@@ -948,16 +951,23 @@ async function jasRender(rid){
   document.getElementById("jas-src").href = "https://www.sefaria.org/" + encodeURI("Jastrow,_" + e.h + ".1");
   const others = C.also.map((r, k) => alsoE[k] && r !== rid ? `<button type="button" data-r="${r}" dir="rtl">${escH(alsoE[k].h)}</button>` : "").join("");
   if (others) document.getElementById("jas-also").innerHTML = "Other possible entries: " + others + (rid !== C.rid && !C.tabs.includes(rid) ? "" : "");
-  if (!C.tabs.includes(rid) && rid !== C.rid) document.getElementById("jas-also").innerHTML += ` <button type="button" data-r="${C.rid}" dir="rtl">↩ back</button>`;
+  if (JHIST.length) document.getElementById("jas-also").innerHTML += ` <button type="button" class="jback" dir="ltr">← Back</button>`;
+  else if (!C.tabs.includes(rid) && rid !== C.rid) document.getElementById("jas-also").innerHTML += ` <button type="button" data-r="${C.rid}" dir="ltr">↩ This word</button>`;
 }
 document.getElementById("jas-body").addEventListener("click", ev => {
+  const x = ev.target.closest("a.jx");
+  if (x && !(ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button === 1)) {   // another Jastrow entry: open it here
+    ev.preventDefault(); const cur = jasPop.dataset.cur; if (cur) JHIST.push(cur); jasRender(x.dataset.r); return;
+  }
   const a = ev.target.closest("a.jonk"); if (!a) return;
   if (ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button === 1) return;   // let a new tab open (works outside claude.ai)
   ev.preventDefault(); jasPop.hidden = true; closeGloss();
   jump(a.dataset.p, +a.dataset.c, +a.dataset.v);
 });
-document.getElementById("jas-tabs").addEventListener("click", ev => { const b = ev.target.closest("button[data-r]"); if (b) jasRender(b.dataset.r); });
-document.getElementById("jas-also").addEventListener("click", ev => { const b = ev.target.closest("button[data-r]"); if (b) jasRender(b.dataset.r); });
+document.getElementById("jas-tabs").addEventListener("click", ev => { const b = ev.target.closest("button[data-r]"); if (b) { JHIST = []; jasRender(b.dataset.r); } });
+document.getElementById("jas-also").addEventListener("click", ev => {
+  if (ev.target.closest(".jback")) { jasRender(JHIST.pop()); return; }
+  const b = ev.target.closest("button[data-r]"); if (b) { JHIST = []; jasRender(b.dataset.r); } });
 document.getElementById("jas-x").addEventListener("click", () => { jasPop.hidden = true; });
 jasPop.addEventListener("click", ev => { if (ev.target === jasPop) jasPop.hidden = true; });
 addEventListener("keydown", ev => { if (ev.key === "Escape" && !jasPop.hidden) { jasPop.hidden = true; ev.stopImmediatePropagation(); } }, true);

@@ -4,8 +4,12 @@
 import json, os, re, html, collections, glob
 SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 E = json.load(open(SP + 'jastrow/jastrow-lookups.json', encoding='utf8'))['entries']
+E.update(json.load(open(SP + 'jastrow/jastrow-lookups-2.json', encoding='utf8'))['entries'])   # round 2
 M = json.load(open(SP + 'build/jas-map.json', encoding='utf8'))
 TAG = re.compile(r'<(/?)(\w+)([^>]*)>')
+import urllib.parse
+HW2RID = {}
+for _r, _e in E.items(): HW2RID.setdefault(_e['headword'].strip(), _r)
 def clean(s):
     """keep <i>, <b>, <sup>, rtl spans and Sefaria reference links; drop every other tag"""
     def fix(m):
@@ -18,6 +22,11 @@ def clean(s):
             if not h: return '<a>'
             href = h.group(1); href = href if href.startswith('/') else '/' + href
             rtl = ' dir="rtl"' if 'rtl' in attrs else ''
+            m = re.match(r'^/Jastrow,_(.+)\.\d+$', urllib.parse.unquote(href))
+            jx = HW2RID.get(m.group(1).replace('_', ' ').strip()) if m else None
+            if jx:   # a link to another Jastrow entry we have: opened inside the pop-up
+                LINKED.add(jx)
+                return f'<a{rtl} class="jx" data-r="{jx}" href="https://www.sefaria.org{html.escape(href, quote=True)}" target="_blank" rel="noopener">'
             return f'<a{rtl} href="https://www.sefaria.org{html.escape(href, quote=True)}" target="_blank" rel="noopener">'
         return ''
     s = TAG.sub(fix, s or '')
@@ -74,6 +83,7 @@ for f in glob.glob(SP + 'j/*.json'): os.remove(f)
 LEX = {}
 for f in glob.glob(SP + 'g/*.json'):
     for k, v in json.load(open(f, encoding='utf8'))['lex'].items(): LEX.setdefault(k, v)
+LINKED = set()
 idx, groups = {}, collections.defaultdict(dict)
 for k, m in M.items():
     tabs = related(m['rid'], LEX[k]['h'])
@@ -81,6 +91,12 @@ for k, m in M.items():
     idx[k] = [m['rid'], m['kind'], also, tabs if len(tabs) > 1 else []]
     for r in [m['rid']] + also + tabs:
         groups[r[0]][r] = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
+have = {r for d in groups.values() for r in d}
+todo = set(LINKED) - have
+while todo:
+    r = todo.pop()
+    groups[r[0]][r] = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
+    have.add(r); todo |= set(LINKED) - have
 json.dump(idx, open(SP + 'j/index.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 for g, d in groups.items(): json.dump(d, open(SP + f'j/{g}.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 print(len(idx), 'glossary words;', sum(len(d) for d in groups.values()), 'entries in', len(groups), 'files')
