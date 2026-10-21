@@ -5,9 +5,8 @@
 = same
 E: and darkness <b>was spread</b> over the surface of the abyss.
 M: and darkness | was spread | over | the surface of | the abyss
-E: The breath <b>from before</b> Elohim <b>blew</b> above the surface of the water.
-M: The breath | from | before | Elohim | blew | above | the surface of | the water
-! וְרוּחָא is "and a wind": Onkelos reads a wind blowing over the water.
+E: The <b>wind from before</b> Elohim <b>blew</b> above the surface of the water.
+M: The wind | from | before | Elohim | blew | above | the surface of | the water
 
 @ 1:6
 = same
@@ -56,7 +55,6 @@ M: and the Tree | from which if eaten | the fruit | gives Knowledge | of what is
 E: The name of the third river is <b>Diglas</b>,
 M: The name of | river | the third | Diglas
 + is
-! וְשׁוּם begins with "and", not rendered.
 = same
 = same
 
@@ -102,7 +100,6 @@ M: the house where | sleep | his father | and his mother
 = same
 E: Did Elohim <b>truly</b> say
 M: truly | - | Did say | Elohim
-! אֲרֵי ("that") is not rendered.
 = same
 
 @ 3:5
@@ -161,7 +158,7 @@ M: for from it | were you created
 = same
 E: because she had become the mother of all <b>people</b>.
 M: because | she | had become | the mother | of all | - | people
-! Literally "the mother of all the children of men"; בְּנֵי ("the children of") is folded into "people".
+! Literally "the mother of all the children of men".
 
 @ 3:21
 E: And Adonoy Elohim made for Adam and his wife <b>garments of honor on the skin of their flesh</b> and He clothed them.
@@ -170,7 +167,7 @@ M: And made | Adonoy | Elohim | for Adam | and his wife | garments | of honor | 
 @ 3:22
 E: Adonoy Elohim said, Behold, the man has become <b>unique. It is for him</b>
 M: said | Adonoy | Elohim | Behold | the man | has become | unique | - | It is for him
-! Literally "the man has become unique in the world by himself" (בְּעַלְמָא מִנֵּהּ); Metsudah's bracket gives "unique. It is for him". "in the world" (בְּעַלְמָא) is not rendered.
+! Literally "the man has become unique in the world by himself" (בְּעַלְמָא מִנֵּהּ).
 = same
 = same
 = same
@@ -199,7 +196,7 @@ M: and she said | I have obtained | a man | before | Adonoy
 = same
 E: <b>There was favor before Adonoy</b>
 M: There was | favor | - | before | Adonoy
-! מִן ("from") is not rendered: "there was favor from before Adonoy".
+! Literally "there was favor from before Adonoy".
 E: <b>to</b> Hevel and to his offering.
 M: to Hevel | and to his offering
 
@@ -215,7 +212,6 @@ E: but if you do not improve <b>your actions</b>,
 M: but if | not | you do improve | your actions
 E: <b>your sin will be kept for the Day of Judgement. For in the future, it will be exacted from you if you do not repent. And if you repent, there is forgiveness.</b>
 M: for the Day of | Judgement | your sin | will be kept | For in the future | it will be exacted | from you | if | not | you do repent | And if | you repent | there is forgiveness | -
-! The last לָךְ ("for you") is not rendered.
 
 @ 4:10
 = same
@@ -255,7 +251,7 @@ E: He was the <b>master</b> of all who handle [play] the harp and <b>who know th
 M: He | was | the master | of all | who handle | - | the | harp | who know | the song of | the lute | and the flute
 + play
 + and
-! עַל פּוּם ("on the mouth of") is not rendered. Metsudah's "[play]" is their explanation, kept.
+! Metsudah's "[play]" is their explanation, kept.
 
 @ 4:22
 = same
@@ -290,7 +286,7 @@ M: then | for Lemech | his son | seventy | seven
 = same
 E: Then <b>men stopped praying</b> by the name Adonoy.
 M: Then | - | stopped | - | men | praying | by the name | Adonoy
-! Literally "then, in his days, the children of men profaned (חָלוּ) from praying in the name of Adonoy". בְּיוֹמוֹהִי ("in his days") and בְנֵי ("the children of") are not rendered.
+! Literally "then, in his days, the children of men profaned (חָלוּ) from praying in the name of Adonoy".
 
 @ 5:22
 E: Chanoch walked with <b>the fear of</b> Elohim, after he had Mesushelach,
@@ -323,7 +319,6 @@ E: Adonoy said, <b>this evil generation shall not exist before me forever</b>,
 M: said | Adonoy | not | shall exist | generation | evil | this | before me | forever
 E: <b>since they are flesh and their deeds are evil</b>.
 M: - | since they are | flesh | and their deeds | are evil
-! בְּדִיל ("because") is covered by "since".
 E: <b>I will give them a period of a hundred and twenty years for them to repent</b>.
 M: a period of | I will give | them | a hundred | and twenty | years | for them | to repent
 ! Literally "a reprieve was given to them, a hundred and twenty years, if they repent".

@@ -105,6 +105,7 @@ M: Do not | incur guilt on | - | the land | in which | you live | ^
 E: <b>for</b> the blood pollutes the land,
 M: for | the blood | ^ | pollutes | - | the land
 ! "for" (אֲרֵי) is moved to the line where its Aramaic is.
+! מְחַיַּב is literally "makes guilty".
 E: and for the land there can be no atonement for the <b>innocent</b> blood that was spilled in it,
 M: and for the land | no | there can be … atonement | for | the blood | innocent | that was spilled | in it
 

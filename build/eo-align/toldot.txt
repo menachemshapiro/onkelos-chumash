@@ -126,7 +126,6 @@ M: said | Behold | now | I am old
 E: Now [therefore] take your equipment,
 M: Now | take | - | your equipment
 + therefore
-! The second כְּעַן ("now") is left untranslated.
 
 @ 27:8
 E: Now my son, <b>accept</b> me,

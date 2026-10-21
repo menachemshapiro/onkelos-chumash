@@ -11,11 +11,9 @@
   "1:2",
   3,
   "The breath of [<b>from before</b>] Elohim hovered [<b>blew</b>] above the surface of the water.",
-  "The breath <b>from before</b> Elohim <b>blew</b> above the surface of the water.",
-  "hovered of",
-  [
-   "וְרוּחָא is \"and a wind\": Onkelos reads a wind blowing over the water."
-  ]
+  "The <b>wind from before</b> Elohim <b>blew</b> above the surface of the water.",
+  "breath hovered of",
+  []
  ],
  [
   "1:6",
@@ -75,9 +73,7 @@
   "The name of the third river is Chidekel[<b>Diglas</b>],",
   "The name of the third river is <b>Diglas</b>,",
   "chidekel",
-  [
-   "וְשׁוּם begins with \"and\", not rendered."
-  ]
+  []
  ],
  [
   "2:17",
@@ -129,9 +125,7 @@
   "Did Elohim even [<b>truly</b>] say",
   "Did Elohim <b>truly</b> say",
   "even",
-  [
-   "אֲרֵי (\"that\") is not rendered."
-  ]
+  []
  ],
  [
   "3:5",
@@ -216,7 +210,7 @@
   "because she had become the mother of all <b>people</b>.",
   "living",
   [
-   "Literally \"the mother of all the children of men\"; בְּנֵי (\"the children of\") is folded into \"people\"."
+   "Literally \"the mother of all the children of men\"."
   ]
  ],
  [
@@ -234,7 +228,7 @@
   "Adonoy Elohim said, Behold, the man has become <b>unique. It is for him</b>",
   "like of one us",
   [
-   "Literally \"the man has become unique in the world by himself\" (בְּעַלְמָא מִנֵּהּ); Metsudah's bracket gives \"unique. It is for him\". \"in the world\" (בְּעַלְמָא) is not rendered."
+   "Literally \"the man has become unique in the world by himself\" (בְּעַלְמָא מִנֵּהּ)."
   ]
  ],
  [
@@ -274,7 +268,7 @@
   "<b>There was favor before Adonoy</b>",
   "adonoy paid regard",
   [
-   "מִן (\"from\") is not rendered: \"there was favor from before Adonoy\"."
+   "Literally \"there was favor from before Adonoy\"."
   ]
  ],
  [
@@ -315,9 +309,7 @@
   "sin rests at the opening [<b>your sin will be kept for the Day of Judgement</b>]. Its desire is unto you, but you can dominate it. [<b>For in the future, it will be exacted from you if you do not repent. And if you repent, there is forgiveness.</b>]",
   "<b>your sin will be kept for the Day of Judgement. For in the future, it will be exacted from you if you do not repent. And if you repent, there is forgiveness.</b>",
   "at but can desire dominate is it its opening rests sin the unto you you",
-  [
-   "The last לָךְ (\"for you\") is not rendered."
-  ]
+  []
  ],
  [
   "4:10",
@@ -380,7 +372,7 @@
   "He was the <b>master</b> of all who handle [play] the harp and <b>who know the song of the lute and the</b> flute.",
   "father",
   [
-   "עַל פּוּם (\"on the mouth of\") is not rendered. Metsudah's \"[play]\" is their explanation, kept."
+   "Metsudah's \"[play]\" is their explanation, kept."
   ]
  ],
  [
@@ -437,7 +429,7 @@
   "Then <b>men stopped praying</b> by the name Adonoy.",
   "began call idols men to",
   [
-   "Literally \"then, in his days, the children of men profaned (חָלוּ) from praying in the name of Adonoy\". בְּיוֹמוֹהִי (\"in his days\") and בְנֵי (\"the children of\") are not rendered."
+   "Literally \"then, in his days, the children of men profaned (חָלוּ) from praying in the name of Adonoy\"."
   ]
  ],
  [
@@ -500,9 +492,7 @@
   "since he is nothing but flesh [<b>since they are flesh and their deeds are evil</b>].",
   "<b>since they are flesh and their deeds are evil</b>.",
   "but flesh he is nothing since",
-  [
-   "בְּדִיל (\"because\") is covered by \"since\"."
-  ]
+  []
  ],
  [
   "6:3",

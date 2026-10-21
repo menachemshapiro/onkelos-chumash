@@ -145,7 +145,7 @@ shutil.copy(SP + 'bereishit-onkelos.html', B + '/page-template.html')
 # glossary sources: dictionary, per-aliyah word lists, aliyah index, log of lookups on the CAL site
 shutil.copytree(SP + 'build/gl', B + '/gl')
 # "as Onkelos reads it": worksheets, hand-written word-by-word matches, merged output
-for d in ['ws', 'eo-align', 'eo']: shutil.copytree(SP + 'build/' + d, B + '/' + d)
+for d in ['ws', 'ws-full', 'eo-align', 'eo']: shutil.copytree(SP + 'build/' + d, B + '/' + d)
 for f in ['gl-aliyot.json', 'gl-stats.json', 'cal-log.json']:
     if os.path.exists(SP + 'build/' + f): shutil.copy(SP + 'build/' + f, B)
 shutil.copy(SP + 'decisions.md', OUT + '/DECISIONS.md')

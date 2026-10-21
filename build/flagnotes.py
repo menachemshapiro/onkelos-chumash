@@ -10,10 +10,11 @@ def stem(w):
     return w
 def content(s): return {stem(w) for w in re.findall(r"[A-Za-z’']+", re.sub(r'\([^)]*\)','',s)) if w.lower() not in STOP}
 def bare(s): return re.sub(r'\{[^}]*\}',' ',re.sub(r'<b>.*?</b>',' ',s))
-for pid in sys.argv[1:]:
+for arg in sys.argv[1:]:
+    ef, pid = (arg.split(':') + [arg])[:2]
     # glosses from the worksheet
     gl={}; cur=None
-    for l in open(f'ws/{pid}.txt',encoding='utf8'):
+    for l in open(f'ws-full/{pid}.txt',encoding='utf8'):
         m=re.match(r'@ (\S+)',l)
         if m: cur=m.group(1); k=0; continue
         m=re.match(r'\s*\*?(\d+) T: (.*)',l)
@@ -24,7 +25,7 @@ for pid in sys.argv[1:]:
                     a,g=part.split('=',1); gl.setdefault((cur,k),[]).append((N(a.strip()),g.strip()))
     # E lines in order
     E={}; cur=None
-    for l in open(f'eo-align/{pid}.txt',encoding='utf8'):
+    for l in open(f'eo-align/{ef}.txt',encoding='utf8'):
         if l.startswith('@ '): cur=l[2:].strip(); k=-1; continue
         if l.startswith('= same') or l.startswith('E: '):
             k+=1
@@ -47,4 +48,4 @@ for pid in sys.argv[1:]:
                 cs=content(seg)
                 if not cs: continue
                 if cs & cg: continue
-                print(f'{pid} {cv} c{k+1}\t{a}\t= {gg}\t|| {seg}')
+                print(f'{ef} {cv} c{k+1}\t{a}\t= {gg}\t|| {seg}')

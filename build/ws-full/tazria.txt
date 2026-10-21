@@ -1,0 +1,323 @@
+@ 12:2
+  1 T: מַלֵּיל=spoke · עִם=with · בְּנֵי=the children of · יִשְׂרָאֵל=Yisrael · לְמֵימַר=saying  [5]
+    E: Speak to Bnei Yisroel, saying,
+  2 T: אִתְּתָא=the woman · אֲרֵי=that · תְעַדִּי=(a woman) conceives  [3]
+    E: when a woman conceives
+  3 T: וּתְלִיד=and (she) will give birth · דְּכָר=a male  [2]
+    E: and gives birth to a male child
+  4 T: וּתְהֵי=and shall be · מְסָאָבָא=impure · שִׁבְעַת=seven · יוֹמִין=days  [4]
+    E: she will be ritually unclean for seven days;
+ *5 T: כְּיוֹמֵי=like the days of · רִחוּק=the separation of · סוֹבְתַהּ=her impurity · תְּהֵי=shall be · מְסָאָבָא=impure  [5]
+    E: as the days of her menstrual flow [{the state of her impure ‘separation’}], she will be unclean.
+@ 12:5
+  1 T: וְאִם=and if · נְקוּבְתָא=a female · תְלִיד=(she) will give birth  [3]
+    E: If she gives birth to a female
+ *2 T: וּתְהֵי=and shall be · מְסָאָבָא=impure · אַרְבְּעָה=four · עֲסַר=-teen · כְּרִחוּקַהּ=as in her separation  [5]
+    E: she will be unclean for two weeks [{fourteen days}] as during her menstruation [{‘separation’}].
+  3 T: וְשִׁתִּין=and sixty · וְשִׁתָּא=and six · יוֹמִין=days  [3]
+    E: For sixty-six days
+  4 T: תֵּיתֵב=she shall remain (lit. sit) · עַל=on, over · דַּם=the blood of · דְּכוּ=purity  [4]
+    E: she will remain [in the status] that the blood [she sees] is ritually pure.
+@ 12:7
+  1 T: וִיקָרְבִנֵּיהּ=and he shall offer it · קֳדָם=before · יְיָ=Hashem · וִיכַפֵּר=and he shall atone · עֲלַהּ=over it  [5]
+    E: He will bring it before Adonoy and atone for her
+ *2 T: וְתִדְכֵּי=and she will be pure · מִסּוֹאֲבַת=from the impurity of · דְּמָהָא=her blood  [3]
+    E: and she will be cleansed from the source [{impurity}] of her blood;
+  3 T: דָּא=this · אוֹרַיְתָא=the Torah · דְיַלֶּדְתָּא=of the woman who gives birth  [3]
+    E: this is the law regarding the woman who gives birth
+  4 T: לְדוּכְרָא=for a male · אוֹ=or · לִנְקֻבְתָא=for a female  [3]
+    E: to a male or to a female.
+@ 13:2
+ *1 T: אֱנַשׁ=each person (lit. a man) · אֲרֵי=that · יְהֵי=will be; let there be · בִמְשַׁךְ=in the skin of · בִּסְרֵיהּ=its meat · עַמְקָא=a (sunken) lesion · אוֹ=or · עַדְיָא=a scab · אוֹ=or · בַהֲרָא=a bright spot  [10]
+    E: When a person will have, in the skin of his flesh a spot of intense [{deep}] whiteness or an off-white spot, or a snow-white spot,
+ *2 T: וִיהֵי=and will be; let there be · בִמְשַׁךְ=in the skin of · בִּסְרֵיהּ=its meat · לְמַכְתַּשׁ=to plague, blow · סְגִירוּ=tzara'at  [5]
+    E: and it forms on the skin of his body [like] the plague of tzoraas, [{‘confinement’}]
+  3 T: וְיִתֵּתֵי=then he shall be brought · לְוָת=to · אַהֲרֹן=Aharon · כַּהֲנָא=the priest  [4]
+    E: he shall be brought to Aharon, the kohein,
+  4 T: אוֹ=or · לְוָת=to · חַד=one · מִבְּנוֹהִי=from his sons · כָּהֲנַיָּא=the priests  [5]
+    E: or to one of his sons, the kohanim.
+@ 13:3
+  1 T: וֶיֶחֱזֵי=and (the priest) shall see · כַהֲנָא=the priest · יָת=(marks the object) · מַכְתָּשָׁא=the affliction · בִמְשַׁךְ=in the skin of · בִּסְרָא=the meat · וְשֵׂעָר=and hair · בְּמַכְתָּשָׁא=in the affliction · אִתְהֲפִיךְ=has turned · לְמֶחֱוָר=white (lit. to whiteness) · וּמֶחֱזֵי=and the appearance of · מַכְתָּשָׁא=the affliction · עַמִּיק=deep · בִּמְשַׁךְ=in the skin of · בִּסְרֵיהּ=its meat  [15]
+    E: The kohein shall see the plague in the skin of the flesh and [if] the hair in the skin-eruption has turned white and the appearance of the plague is deeper than the skin of his body,
+ *2 T: מַכְתַּשׁ=plague, blow · סְגִירוּתָא=the tzara'at · הוּא=it  [3]
+    E: it is the skin-eruption of tzoraas. [{‘confinement’}]
+  3 T: וְיֶחֱזִנֵּיהּ=and (the priest) shall see him · כַּהֲנָא=the priest · וִיסָאֵב=and (the priest) shall declare impure · יָתֵיהּ=him  [4]
+    E: The kohein shall see it and declare him [to be] unclean.
+@ 13:5
+  1 T: וְיֶחֱזִנֵּיהּ=and (the priest) shall see him · כַּהֲנָא=the priest · בְּיוֹמָא=on the day · שְׁבִיעָאָה=the seventh  [4]
+    E: The kohein shall see him on the seventh day
+ *2 T: וְהָא=and behold · מַכְתְּשָׁא=the affliction · קָם=stood · כַּד=when · הֲוָה=was  [5]
+    E: and behold! [if] the skin-eruption has maintained its hue [{remained as it was}];
+ *3 T: לָא=not · אוֹסֵף=I will (no longer) · מַכְתָּשָׁא=the affliction · בְּמַשְׁכָּא=in the hide  [4]
+    E: the skin-eruption did not spread [{increase}] in the skin.
+  4 T: וְיַסְגְּרִנֵּיהּ=and he shall quarantine him · כַּהֲנָא=the priest · שִׁבְעָא=seven · יוֹמִין=days · תִּנְיָנוּת=a second time  [5]
+    E: The kohein shall confine him for seven days, a second time,
+@ 13:6
+  1 T: וְיֶחֱזֵי=and (the priest) shall see · כַהֲנָא=the priest · יָתֵיהּ=him · בְּיוֹמָא=on the day · שְׁבִיעָאָה=the seventh · תִּנְיָנוּת=a second time  [6]
+    E: The kohein shall see him on the seventh day for the second time
+  2 T: וְהָא=and behold · עַמְיָא=has faded (lit. is dim) · מַכְתָּשָׁא=the affliction  [3]
+    E: and behold! [if] the skin-eruption became dimmer
+ *3 T: וְלָא=and not · אוֹסֵף=I will (no longer) · מַכְתָּשָׁא=the affliction · בְּמַשְׁכָּא=in the hide  [4]
+    E: and the skin-eruption did not spread [{increase}] in the skin,
+ *4 T: וִידַכִּנֵּיהּ=and he shall declare him pure · כַּהֲנָא=the priest · עֲדִיתָא=the scab · הִיא=she  [4]
+    E: the kohein shall declare him [to be] clean; it is [merely] a [{removed}] white discoloration.
+  5 T: וִיצַבַּע=and he shall wash (his clothes) · לְבוּשׁוֹהִי=his clothes · וְיִדְכֵּי=and it becomes pure  [3]
+    E: He shall wash his garments and he will be cleansed.
+@ 13:7
+ *1 T: וְאִם=and if · אוֹסָפָא=(with) spreading (doubles the verb: if it spreads further) · תוֹסֵף=(it) will increase (spread; lit. add) · עֲדִיתָא=the scab  [4]
+    E: If the [{removed}] white discoloration has spread [{increased}] in the skin
+  2 T: בְּמַשְׁכָּא=in the hide · בָּתַר=after · דִּאִתַּחֲזִי=that appeared (lit. was seen) · לְכַהֲנָא=to the priest · לְדַכּוּתֵיהּ=for his purification  [5]
+    E: after it was shown to the kohein, who pronounced that it was clean,
+  3 T: וְיִתַּחֲזִי=and he shall be seen · תִנְיָנוּת=a second time · לְכַהֲנָא=to the priest  [3]
+    E: it must be shown a second time to the kohein.
+@ 13:8
+  1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest  [2]
+    E: The kohein shall see
+ *2 T: וְהָא=and behold · אוֹסֵפַת=it has spread · עֲדִיתָא=the scab · בְּמַשְׁכָּא=in the hide  [4]
+    E: and behold! [if] the [{removed}] white discoloration has spread [{increased}] in the skin,
+ *3 T: וִיסָאֵבִנֵּיהּ=and he shall declare him impure · כַּהֲנָא=the priest · סְגִירוּתָא=the tzara'at · הִיא=she  [4]
+    E: the kohein shall declare him unclean, it is tzoraas. [{‘confinement’}]
+@ 13:9
+ *1 T: מַכְתַּשׁ=plague, blow · סְגִירוּ=tzara'at  [2]
+    E: When there is a skin-eruption of tzoraas [{‘confinement’}]
+  2 T: אֲרֵי=that · תְהֵי=shall be · בֶּאֱנָשָׁא=among men  [3]
+    E: on a person
+  3 T: וְיִתֵּתֵי=then he shall be brought · לְוָת=to · כַּהֲנָא=the priest  [3]
+    E: he shall be brought to the kohein.
+@ 13:10
+ *1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · וְהָא=and behold · עַמְקָא=a (sunken) lesion · חַוְּרָא=white · בְּמַשְׁכָּא=in the hide  [6]
+    E: The kohein shall see and behold! there is an intensely [{deep}] white spot on the skin
+  2 T: וְהִיא=and she · הֲפָכַת=it has turned · שֵׂעָר=hair · לְחִוָּר=to white  [4]
+    E: and it has turned the hair white
+ *3 T: וְרשֶׁם=and a mark of · בִּסְרָא=the meat · חַיְתָא=living · בְּעַמִּקְתָּא=in the deep (part)  [4]
+    E: or there is [{an impression of}] healthy flesh in the spot of intense [{deep}] whiteness,
+@ 13:11
+ *1 T: סְגִירוּת=the tzara'at of · עַתִּיקָא=chronic (lit. old) · הִיא=she · בִּמְשַׁךְ=in the skin of · בִּסְרֵיהּ=its meat  [5]
+    E: it is an old tzoraas [{‘confinement’}] in the skin of his body
+  2 T: וִיסָאֵבִנֵּיהּ=and he shall declare him impure · כַּהֲנָא=the priest  [2]
+    E: and the kohein shall declare him unclean
+  3 T: לָא=not · יַסְגְּרִנֵיהּ=he shall (not) quarantine him  [2]
+    E: he shall not confine him,
+  4 T: אֲרֵי=that · מְסָאָב=impure · הוּא=it  [3]
+    E: since he is [obviously] unclean.
+@ 13:12
+ *1 T: וְאִם=and if · מִסְגָּא=(with) spreading (doubles the verb: if it spreads widely) · תִסְגֵּי=it spreads · סְגִירוּתָא=the tzara'at · בְּמַשְׁכָּא=in the hide  [5]
+    E: And if the tzoraas [{‘confinement’}] sprouts on the skin
+ *2 T: וְתַחֲפֵי=and you shall overlay · סְגִירוּתָא=the tzara'at · יָת=(marks the object) · כָּל=every, all · מְשַׁךְ=the skin of · מַכְתָּשָׁא=the affliction  [6]
+    E: and if the tzoraas [{‘confinement’}] covered the entire skin of the [one affected by] the eruption
+  3 T: מֵרֵישֵׁיהּ=from his head · וְעַד=and until · רַגְלוֹהִי=his feet  [3]
+    E: from his head until his feet
+  4 T: לְכָל=to all (of) · חֵיזוּ=appearance · עֵינֵי=the eyes of · כַהֲנָא=the priest  [4]
+    E: to the extent that the kohein can see.
+@ 13:13
+ *1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · וְהָא=and behold · חֲפַת=it has covered · סְגִירוּתָא=the tzara'at · יָת=(marks the object) · כָּל=every, all · בִּסְרֵיהּ=its meat  [8]
+    E: The kohein shall see and behold! the tzoraas [{‘confinement’}] has covered all of his body,
+  2 T: וִידַכִּי=and he shall declare pure · יָת=(marks the object) · מַכְתָּשָׁא=the affliction  [3]
+    E: he shall declare the skin-eruption to be cleansed,
+  3 T: כֻּלֵּיהּ=all of him · אִתְהֲפִיךְ=has turned · לְמֶחֱוַר=white · דְּכֵי=pure, clean · הוּא=it  [5]
+    E: it has turned completely white, he is clean.
+@ 13:15
+  1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · יָת=(marks the object) · בִּסְרָא=the meat · חַיָּא=of life · וִיסָאֵבִנֵּיהּ=and he shall declare him impure  [6]
+    E: The kohein shall see the healthy flesh and declare him unclean.
+ *2 T: בִּסְרָא=the meat · חַיָּא=of life · מְסָאָב=impure · הוּא=it · סְגִירוּת=the tzara'at of · הוּא=it  [6]
+    E: The healthy flesh is unclean, it is tzoraas. [{‘confinement’}]
+@ 13:16
+  1 T: אוֹ=or · אֲרֵי=that · יְתוּב=it turns back · בִּסְרָא=the meat · חַיָּא=of life · וְיִתְהֲפִיךְ=and it turns · לְמֶחֱוָר=white (lit. to whiteness)  [7]
+    E: Or, if the healthy flesh turns again and it was changed to white,
+ *2 T: וְיִתֵּתֵי=then he shall be brought · לְוָת=to · כַּהֲנָא=the priest  [3]
+    E: he shall come [{be brought}] to the kohein.
+@ 13:19
+ *1 T: וִיהֵי=and will be; let there be · בַּאֲתַר=in the place of · שִׁחֲנָא=a boil · עַמְקָא=a (sunken) lesion · חַוְּרָא=white  [5]
+    E: If there was on the area of the inflammation a spot of intense [{deep}] whiteness
+  2 T: אוֹ=or · בַהֲרָא=a bright spot · חַוְּרָא=white · סַמְקָא=reddish  [4]
+    E: or a snow-white spot tinged with red
+  3 T: וְיִתַּחֲזִי=and he shall be seen · לְכַהֲנָא=to the priest  [2]
+    E: it shall be shown to the kohein.
+@ 13:20
+  1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · וְהָא=and behold · מֶחֱזָהָא=its appearance · מַכִּיךְ=lower · מִן=from · מַשְׁכָּא=the hide  [7]
+    E: The kohein shall see it and behold! its appearance is lower than the skin,
+  2 T: וּשְׂעָרַהּ=and its hair · אִתְהֲפִיךְ=has turned · לְמֶחֱוָר=white (lit. to whiteness)  [3]
+    E: and its hair has turned white,
+ *3 T: וִיסָאֵבִינֵיהּ=and he shall declare him impure · כַּהֲנָא=the priest · מַכְתַּשׁ=plague, blow · סְגִירוּתָא=the tzara'at · הִיא=she · בְּשִׁחֲנָא=in the boil · סְגִיאַת=(it) was great (lit. multiplied)  [7]
+    E: the kohein shall declare him unclean; It is the skin-eruption of tzoraas [{‘confinement’}] that has sprouted through the inflammation.
+@ 13:22
+ *1 T: וְאִם=and if · אוֹסָפָא=(with) spreading (doubles the verb: if it spreads further) · תוֹסֵף=(it) will increase (spread; lit. add) · בְּמַשְׁכָּא=in the hide  [4]
+    E: If it spread [{increased}] in the skin,
+  2 T: וִיסָאֵב=and (the priest) shall declare impure · כַּהֲנָא=the priest · יָתֵיהּ=him · מַכְתָּשָׁא=the affliction · הִיא=she  [5]
+    E: the kohein shall declare him unclean, it is a skin eruption.
+@ 13:23
+ *1 T: וְאִם=and if · בְּאַתְרָהָא=in its place · קָמַת=(she) stood; stopped (lit. stood still) · בֶּהַרְתָּא=the bright spot · לָא=not · אוֹסֵפַת=it has spread  [6]
+    E: If the snow-white spot remains in its place and it did not spread [{increase}],
+ *2 T: רשֶׁם=the mark of · שִׁחֲנָא=a boil · הִיא=she  [3]
+    E: it is [merely] a scar [{an impression}] of the inflammation
+  3 T: וִידַכִּנֵּיהּ=and he shall declare him pure · כַּהֲנָא=the priest  [2]
+    E: and the kohein shall declare him clean.
+@ 13:24
+  1 T: אוֹ=or · בִסְרָא=the meat  [2]
+    E: When a person
+  2 T: אֲרֵי=that · יְהֵי=will be; let there be · בְמַשְׁכֵּיהּ=in its skin · כְּוָאָה=a burn · דְנוּר=of fire  [5]
+    E: has on his skin a burn from a fire
+ *3 T: וּתְהֵי=and shall be · רשֶׁם=the mark of · כְּוָאָה=a burn · בַּהֲרָא=a bright spot · חַוְּרָא=white · סַמְקָא=reddish · אוֹ=or · חַוְּרָא=white  [8]
+    E: and [on] the healthy flesh [{impression}] of the burnt part, came a snow-white spot tinged with red or pure white spot.
+@ 13:25
+  1 T: וְיֶחֱזֵי=and he shall see · יָתַהּ=it · כַּהֲנָא=the priest · וְהָא=and behold · אִתְהֲפִיךְ=has turned · שֵׂעָר=hair · חִוָּר=white · בְּבַהֶרְתָּא=in the bright spot · וּמֶחֱזָהָא=and its appearance · עַמִּיק=deep · מִן=from · מַשְׁכָּא=the hide  [12]
+    E: The kohein shall see it and behold! the hair has turned white in the snow-white spot and its appearance is deeper than the skin;
+ *2 T: סְגִירוּתָא=the tzara'at · הִיא=she  [2]
+    E: it is tzoraas [{‘confinement’}]
+  3 T: בִּכְוָאָה=in a burn · סְגִיאָה=spreading (lit. increasing)  [2]
+    E: that has sprouted in the burn.
+  4 T: וִיסָאֵב=and (the priest) shall declare impure · יָתֵיהּ=him · כַּהֲנָא=the priest  [3]
+    E: The kohein shall declare him unclean,
+ *5 T: מַכְתַּשׁ=plague, blow · סְגִירוּתָא=the tzara'at · הִיא=she  [3]
+    E: it is the skin-eruption of tzoraas. [{‘confinement’}]
+@ 13:27
+  1 T: וְיֶחֱזִנֵּיהּ=and (the priest) shall see him · כַּהֲנָא=the priest · בְּיוֹמָא=on the day · שְׁבִיעָאָה=the seventh  [4]
+    E: The kohein shall see him on the seventh day.
+ *2 T: אִם=if · אוֹסָפָא=(with) spreading (doubles the verb: if it spreads further) · תוֹסֵף=(it) will increase (spread; lit. add) · בְּמַשְׁכָּא=in the hide  [4]
+    E: If it has spread [{increased}] in the skin,
+  3 T: וִיסָאֵב=and (the priest) shall declare impure · כַּהֲנָא=the priest · יָתֵיהּ=him  [3]
+    E: the kohein shall declare him unclean,
+ *4 T: מַכְתַּשׁ=plague, blow · סְגִירוּתָא=the tzara'at · הִיא=she  [3]
+    E: it is the skin-eruption of tzoraas. [{‘confinement’}]
+@ 13:28
+ *1 T: וְאִם=and if · בְּאַתְרָהָא=in its place · קָמַת=(she) stood; stopped (lit. stood still) · בַּהֶרְתָּא=the bright spot · לָא=not · אוֹסֵפַת=it has spread · בְּמַשְׁכָּא=in the hide · וְהִיא=and she · עָמְיָא=dim  [9]
+    E: If the snow-white spot remains in its place and it did not spread [{increase}] in the skin and it is faint,
+ *2 T: עֹמֶק=a (sunken) lesion (as in the Hebrew: שְׂאֵת) · כְּוָאָה=a burn · הִיא=she  [3]
+    E: it is the [{deep}] white spot of the burn.
+  3 T: וִידַכִּנֵּיהּ=and he shall declare him pure · כַּהֲנָא=the priest  [2]
+    E: The kohein shall declare him clean
+ *4 T: אֲרֵי=that · רשֶׁם=the mark of · כְּוָאָה=a burn · הִיא=she  [4]
+    E: for it is [merely] the scar [{impression}] of the burn.
+@ 13:30
+  1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · יָת=(marks the object) · מַכְתָּשָׁא=the affliction · וְהָא=and behold · מֶחֱזוֹהִי=its appearance · עַמִּיק=deep · מִן=from · מַשְׁכָּא=the hide  [9]
+    E: The kohein shall see the skin-eruption, and behold! its appearance is deeper than the skin
+ *2 T: וּבֵיהּ=and in it · שֵׂעָר=hair · סֻמָּק=red(dish) · דַּעְדָּק=thin  [4]
+    E: and there is thin golden [{reddish}] hair in it.
+  3 T: וִיסָאֵב=and (the priest) shall declare impure · יָתֵיהּ=him · כַּהֲנָא=the priest · נִתְקָא=a bald spot · הוּא=it  [5]
+    E: The kohein shall pronounce it unclean, It is a nesek,
+ *4 T: סְגִירוּת=the tzara'at of · רֵישָׁא=the head (of) · אוֹ=or · דִקְנָא=of the beard · הוּא=it  [5]
+    E: it is tzoraas [{‘confinement’}] of the head or the beard.
+@ 13:32
+  1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · יָת=(marks the object) · מַכְתָּשָׁא=the affliction · בְּיוֹמָא=on the day · שְׁבִיעָאָה=the seventh  [6]
+    E: The kohein shall see the skin-eruption on the seventh day,
+ *2 T: וְהָא=and behold · לָא=not · אוֹסֵף=I will (no longer) · נִתְקָא=a bald spot  [4]
+    E: and behold! the nesek did not spread [{increase}]
+ *3 T: וְלָא=and not · הֲוָה=was · בֵיהּ=in it · שֵׂעָר=hair · סֻמָּק=red(dish)  [5]
+    E: and there was no golden [{reddish}] hair in it
+  4 T: וּמֶחֱזֵי=and the appearance of · נִתְקָא=a bald spot  [2]
+    E: and the appearance of the nesek
+  5 T: לֵית=there was no (one) · עַמִּיק=deep · מִן=from · מַשְׁכָּא=the hide  [4]
+    E: is not deeper than the skin.
+@ 13:33
+ *1 T: וִיגַלַּח=and he shall shave · סָחֳרָנֵי=the surroundings of · נִתְקָא=a bald spot · וּדְעִם=and that with · נִתְקָא=a bald spot · לָא=not · יְגַלַּח=he shall (not) shave  [7]
+    E: He shall be shaved [{shave around the nesek}] but he shall not shave [{close to}] the nesek,
+  2 T: וְיַסְגַּר=and he shall quarantine · כַּהֲנָא=the priest · יָת=(marks the object) · נִתְקָא=a bald spot · שִׁבְעָא=seven · יוֹמִין=days · תִּנְיָנוּת=a second time  [7]
+    E: and the kohein shall confine the nesek for a second seven day period.
+@ 13:34
+ *1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · יָת=(marks the object) · נִתְקָא=a bald spot · בְּיוֹמָא=on the day · שְׁבִיעָאָה=the seventh · וְהָא=and behold · לָא=not · אוֹסֵף=I will (no longer) · נִתְקָא=a bald spot · בְּמַשְׁכָּא=in the hide  [11]
+    E: The kohein shall see the nesek on the seventh day and behold! if the nesek did not spread [{increase}] in the skin
+  2 T: וּמֶחֱזוֹהִי=and its appearance · לֵיתוֹהִי=is not (there is not in it) · עַמִּיק=deep · מִן=from · מַשְׁכָּא=the hide  [5]
+    E: and its appearance is not deeper than the skin.
+  3 T: וִידַכֵּי=and he shall declare pure · יָתֵיהּ=him · כַּהֲנָא=the priest  [3]
+    E: The kohein shall declare him clean.
+  4 T: וִיצַבַּע=and he shall wash (his clothes) · לְבוּשׁוֹהִי=his clothes · וְיִדְכֵּי=and it becomes pure  [3]
+    E: He shall wash his garments and he will be clean.
+@ 13:35
+ *1 T: וְאִם=and if · אוֹסָפָא=(with) spreading (doubles the verb: if it spreads further) · יוֹסֵף=Yosef · נִתְקָא=a bald spot · בְּמַשְׁכָּא=in the hide  [5]
+    E: If the nesek spreads [{increases}] [extensively] in the skin
+  2 T: בָּתַר=after · דָּכוּתֵיהּ=his purification  [2]
+    E: after he is pronounced clean,
+@ 13:36
+  1 T: וְיֶחֱזִנֵּיהּ=and (the priest) shall see him · כַּהֲנָא=the priest  [2]
+    E: the kohein shall see him
+ *2 T: וְהָא=and behold · אוֹסֵף=I will (no longer) · נִתְקָא=a bald spot · בְּמַשְׁכָּא=in the hide  [4]
+    E: and behold! the nesek has spread [{increased}] in the skin.
+ *3 T: לָא=not · יְבַקֵּר=(the priest) need (not) seek · כַּהֲנָא=the priest · לְשֵׂעָר=the hair · סֻמָּק=red(dish) · מְסָאָב=impure · הוּא=it  [7]
+    E: The kohein shall not [even] look for golden [{reddish}] hair, he is unclean.
+@ 13:42
+  1 T: וַאֲרֵי=and that · יְהֵי=will be; let there be · בְקָרָחוּתֵיהּ=in his baldness (at the back) · אוֹ=or · בִגְלוֹשׁוּתֵיהּ=in his baldness in front  [5]
+    E: If there will be, in the baldness in back of the head or in the baldness in front of the head
+  2 T: מַכְתַּשׁ=plague, blow · חִוָּר=white · סַמּוֹק=reddish  [3]
+    E: a white skin-eruption, tinged with red,
+ *3 T: סְגִירוּת=the tzara'at of · סָגְיָא=spreading · הִיא=she  [3]
+    E: it is tzoraas [{‘confinement’}] sprouting
+  4 T: בְּקָרָחוּתֵיהּ=in his baldness (at the back) · אוֹ=or · בִגְלוֹשׁוּתֵיהּ=in his baldness in front  [3]
+    E: in his frontal baldness or in his posterior baldness.
+@ 13:43
+ *1 T: וְיֶחֱזֵי=and he shall see · יָתֵיהּ=him · כַּהֲנָא=the priest · וְהָא=and behold · עַמִּיק=deep · מַכְתָּשָׁא=the affliction · חַוְּרָא=white · סַמְּקָא=reddish  [8]
+    E: The kohein shall see him, and behold! the spot of intense [{deep}] whiteness is tinged with red
+  2 T: בְּקָרָחוּתֵיהּ=in his baldness (at the back) · אוֹ=or · בִגְלוֹשׁוּתֵיהּ=in his baldness in front  [3]
+    E: in his frontal baldness or in his posterior baldness
+ *3 T: כְּמֶחֱזֵי=like the appearance of · סְגִירוּתָא=the tzara'at · מְשַׁךְ=the skin of · בִּסְרָא=the meat  [4]
+    E: just as the appearance tzoraas [{‘confinement’}] of the skin of the flesh.
+@ 13:44
+ *1 T: גְּבַר=a man · סְגִיר=afflicted with tzara'at (מְצֹרָע) · הוּא=it · מְסָאָב=impure · הוּא=it  [5]
+    E: He is a person with tzoraas, [{‘confinement’}] he is unclean.
+  2 T: סָאֳבָא=impure · יְסָאֵבִנֵּיהּ=he shall declare him impure · כַּהֲנָא=the priest · בְּרֵישֵׁיהּ=in his head · מַכְתָּשֵׁיהּ=his affliction  [5]
+    E: The kohein shall declare him unclean; his skin-eruption is on his head.
+@ 13:45
+ *1 T: וּסְגִירָא=and the one afflicted with tzara'at · דִּי=that, which · בֵיהּ=in it · מַכְתָּשָׁא=the affliction · לְבוּשׁוֹהִי=his clothes · יְהוֹן=(they) will be; let there be · מְבַזְּעִין=torn · וְרֵישֵׁיהּ=and its top (lit. head) · יְהֵי=will be; let there be · פְרִיעַ=loose (i.e. unshorn)  [10]
+    E: The tzorua [{one who is ‘confined’}] — [the person] who has the skin-eruption — his garments shall have a tear in them, his hair shall be grown long,
+ *2 T: וְעַל=and on · שָׂפָם=(his) upper lip · כַּאֲבֵלָא=like a mourner · יִתְעַטָּף=he shall wrap himself  [4]
+    E: and he must cover his head down to his upper lip [{like a mourner}],
+ *3 T: וְלָא=and not · תִסְתַּאֲבוּן=you shall (not) make yourselves impure · וְלָא=and not · תִסְתַּאֲבוּן=you shall (not) make yourselves impure · יִקְרֵי=he would call  [5]
+    E: and [{do not become}] Unclean, [{do not become}] unclean, shall he call out.
+@ 13:47
+ *1 T: וּלְבוּשָׁא=and the garment · אֲרֵי=that · יְהֵי=will be; let there be · בֵיהּ=in it · מַכְתַּשׁ=plague, blow · סְגִירוּ=tzara'at  [6]
+    E: When in a garment there is a skin-eruption of tzoraas, [{‘confinement’}]
+  2 T: בִּלְבוּשׁ=in a garment · עֲמַר=wool  [2]
+    E: whether a woolen garment
+  3 T: אוֹ=or · בִּלְבוּשׁ=in a garment · כִּתָּן=linen  [3]
+    E: or in a linen garment.
+@ 13:49
+ *1 T: וִיהֵי=and will be; let there be · מַכְתָּשָׁא=the affliction · יָרוֹק=green(ish) · אוֹ=or · סַמּוֹק=reddish · בִּלְבוּשָׁא=in the garment · אוֹ=or · בְמַשְׁכָּא=in the hide · אוֹ=or · בְשִׁתְיָא=in the warp · אוֹ=or · בְעַרְבָא=in the woof · אוֹ=or · בְכָל=in all (of) · מַאן=an article of · דִּמְשַׁךְ=of the skin of  [16]
+    E: If the plague is deep green or deep red [{green or red}], in the garment, or in the leather hide or in the warp threads, or in the woof threads, or if it is in any object made of leather;
+ *2 T: מַכְתַּשׁ=plague, blow · סְגִירוּתָא=the tzara'at · הוּא=it  [3]
+    E: it is the eruption of tzoraas [{‘confinement’}]
+  3 T: וְיִתַּחֲזֵי=and it shall be shown · לְכַהֲנָא=to the priest  [2]
+    E: and it shall be shown to the kohein.
+@ 13:51
+ *1 T: וְיֶחֱזֵי=and he shall see · יָת=(marks the object) · מַכְתָּשָׁא=the affliction · בְּיוֹמָא=on the day · שְׁבִיעָאָה=the seventh · אֲרֵי=that · אוֹסֵף=I will (no longer) · מַכְתָּשָׁא=the affliction · בִּלְבוּשָׁא=in the garment · אוֹ=or · בְשִׁתְיָא=in the warp · אוֹ=or · בְעַרְבָא=in the woof · אוֹ=or · בְמַשְׁכָּא=in the hide  [15]
+    E: He shall see the eruption on the seventh day. If the eruption has spread [{increased}] in the garment or in the warp thread, or in the woof thread, or in the leather hide,
+  2 T: לְכֹל=to all, every · דִּי=that, which · יִתְעֲבֵד=shall be done, shall be made · מַשְׁכָּא=the hide · לְעִבִידָא=to craftsmanship (lit. work)  [5]
+    E: or in the work made of leather,
+ *3 T: סְגִירוּת=the tzara'at of · מְחַסְרָא=harmful · מַכְתָּשָׁא=the affliction · מְסָאָב=impure · הוּא=it  [5]
+    E: it is a prickly tzoraas, [{‘confinement’ of loss}] it is unclean.
+@ 13:52
+  1 T: וְיוֹקִיד=and he shall burn · יָת=(marks the object) · לְבוּשָׁא=the garment · אוֹ=or · יָת=(marks the object) · שִׁתְיָא=the warp · אוֹ=or · יָת=(marks the object) · עַרְבָא=the woof · בְּעַמְרָא=in wool · אוֹ=or · בְכִתָּנָא=in linen  [12]
+    E: He shall burn the garment, or the warp [lengthwise] threads, or the woof [widthwise] threads, be it in wool or in linen,
+  2 T: אוֹ=or · יָת=(marks the object) · כָּל=every, all · מָאן=who · דִּמְשַׁךְ=of the skin of  [5]
+    E: or in all leather made objects,
+  3 T: דִּי=that, which · יְהֵי=will be; let there be · בֵיהּ=in it · מַכְתָּשָׁא=the affliction  [4]
+    E: in which there is the eruption.
+ *4 T: אֲרֵי=that · סְגִירוּת=the tzara'at of · מְחַסְרָא=harmful · הִיא=she  [4]
+    E: For it is a prickly tzoraas. [{‘confinement’ of loss}]
+  5 T: בְּנוּרָא=in fire · תִּתּוֹקָד=shall be burned  [2]
+    E: It shall be burned in fire.
+@ 13:53
+  1 T: וְאִם=and if · יֶחֱזֵי=will see · כַהֲנָא=the priest  [3]
+    E: If the kohein will see,
+ *2 T: וְהָא=and behold · לָא=not · אוֹסֵף=I will (no longer) · מַכְתָּשָׁא=the affliction  [4]
+    E: and behold! the eruption did not spread [{increase}]
+  3 T: בִּלְבוּשָׁא=in the garment · אוֹ=or · בְשִׁתְיָא=in the warp · אוֹ=or · בְעַרְבָא=in the woof  [5]
+    E: in the garment, or in the warp threads, or in the woof threads,
+  4 T: אוֹ=or · בְּכָל=in all (of) · מָאן=who · דִּמְשָׁךְ=of leather  [4]
+    E: or in any leather made object.
+@ 13:55
+ *1 T: וְיֶחֱזֵי=and he shall see · כַהֲנָא=the priest · בָּתַר=after · דְּחַוָּרוּ=after they washed (lit. whitened) · יָת=(marks the object) · מַכְתָּשָׁא=the affliction · וְהָא=and behold · לָא=not · שְׁנָא=a year · מַכְתָּשָׁא=the affliction · מִן=from · כַּד=when · הֲוָה=was · וּמַכְתָּשָׁא=and the affliction · לָא=not · אוֹסֵף=I will (no longer)  [16]
+    E: The kohein shall see it after the eruption was washed and behold! [even if] the eruption did not change its hue [{from what it was}] and the eruption did not spread [{increase}];
+  2 T: מְסָאָב=impure · הוּא=it  [2]
+    E: it is unclean,
+  3 T: בְּנוּרָא=in fire · תּוֹקְדִנֵּיהּ=you shall burn it  [2]
+    E: you shall burn it in fire.
+ *4 T: תַּבְרָא=a break (i.e. a fret, wearing away) · הִיא=she  [2]
+    E: It is a deep mark [{break}]
+  5 T: בְּשְׁחִיקוּתֵיהּ=in its worn side · אוֹ=or · בְחַדָּתוּתֵיהּ=in its new side  [3]
+    E: be it in a worn [garment] or in a new [garment].
+@ 13:59
+ *1 T: דָּא=this · אוֹרַיְתָא=the Torah · דְמַכְתַּשׁ=of plague, blow · סְגִירוּ=tzara'at · בִּלְבוּשׁ=in a garment · עֲמַר=wool · אוֹ=or · כִתָּנָא=linen · אוֹ=or · שִׁתְיָא=the warp · אוֹ=or · עַרְבָא=the woof  [12]
+    E: This is the law of the eruption of tzoraas [{‘confinement’}] be it in a woolen garment, or a linen garment, or in the warp [lengthwise] thread, or in the woof [widthwise] thread,
+  2 T: אוֹ=or · כָּל=every, all · מָאן=who · דִּמְשָׁךְ=of leather  [4]
+    E: or in any leather-made object,
+  3 T: לְדַכָּיוּתֵיהּ=to declare it pure · אוֹ=or · לְסַאֲבוּתֵיהּ=to declare it impure  [3]
+    E: that it be pronounced pure, or that it be pronounced impure.

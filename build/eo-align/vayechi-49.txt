@@ -14,7 +14,6 @@ E: <b>accept chastisement from</b> Yisrael, your father.
 מִן = from
 יִשְׂרָאֵל = Yisrael
 אֲבוּכוֹן = your father
-! The ו of וְקַבִּילוּ ("and") is not rendered, as in Metsudah; adding it would not read better.
 
 @ 49:3
 = same
@@ -49,7 +48,7 @@ E: <b>However, because you went towards your anger like flowing water, you will 
 יַתִּיר = an additional
 לָא = not
 תִסָּב = you will receive
-! הָא ("behold") is not rendered in Metsudah's bracket; "like" covers הָא כְ-. Metsudah moves בְּרַם ("however") to the front.
+! Metsudah moves בְּרַם ("however") to the front.
 E: for you have gone up <b>to the place of</b> your father’s bed.
 אֲרֵי = for
 סְלֶקְתָּא = you have gone up
@@ -137,7 +136,6 @@ E: Your father’s sons will <b>greet you first</b>.
 בִּשְׁלָמָךְ = you
 בְּנֵי = sons
 אָבוּךְ = Your father’s
-! וִיהוֹן begins with ו ("and"), not rendered in Metsudah's English.
 
 @ 49:9
 E: <b>He will be a ruler at the beginning, and at the end, a king will be anointed from the house of Yehudah.</b>
@@ -166,7 +164,7 @@ E: <b>and like a lioness; there is no kingdom that can make him tremble.</b>
 וְלֵית = there is no
 מַלְכוּ = kingdom
 דִתְזַעְזְעִנֵּיהּ = that can make him tremble
-! Metsudah's bracket here gives only "there is no kingdom that can make him tremble"; "and like a lioness" (וּכְלֵיתָא) is added from the Targum. וְלֵית also has "and", left out for English flow.
+! Metsudah's bracket here gives only "there is no kingdom that can make him tremble"; "and like a lioness" (וּכְלֵיתָא) is added from the Targum.
 
 @ 49:10
 E: The rod <b>of the ruler</b> will not depart from <b>the house of</b> Yehudah,
@@ -225,7 +223,6 @@ E: <b>and his clothes of fine wool colored in scarlet and other colors</b>.
 זְהוֹרִי = scarlet
 וְצִבְעוֹנִין = and other colors
 + and
-! "and" at the start has no Aramaic word (כְּסוּתֵיהּ has no ו).
 
 @ 49:12
 E: <b>His mountains will become red with his vineyards, his winepresses will be flowing with wine,</b>
@@ -235,7 +232,7 @@ E: <b>His mountains will become red with his vineyards, his winepresses will be 
 יְטוּפוּן = will be flowing
 נַעֲווֹהִי = his winepresses
 בַּחֲמָר = with wine
-! The glossary has נַעֲווֹהִי as "his hills"; Metsudah has "his winepresses". To check.
+! נַעֲווֹהִי is "his hills": his hills will drip with wine.
 E: <b>His valleys will appear white from the abundance of grain and flocks of sheep</b>.
 יְחַוְּרָן = will appear white
 בִּקְעֲתֵיהּ = His valleys
@@ -254,7 +251,6 @@ E: he will <b>conquer the borders with ships</b>; <b>he will consume the best of
 וְטוּב = the best of
 יַמָּא = the sea
 יֵיכוּל = he will consume
-! The ו of וְהוּא and of וְטוּב ("and") is not rendered, as in Metsudah; the English reads well without it.
 = same
 
 @ 49:14
@@ -275,7 +271,6 @@ E: He saw that <b>his portion</b> is good,
 חוּלָקָא = his portion
 אֲרֵי = that
 טַב = is good
-! וַחֲזָא has "and", not rendered.
 E: and that the land <b>produces fruit</b>;
 וְיָת =
 אַרְעָא = and … the land
@@ -297,7 +292,7 @@ E: <b>and those that remain will become workers to him and bring taxes</b>.
 פַּלְחִין = workers
 וּמַסְּקֵי = and bring
 מַסִּין = taxes
-! בְּהוֹן ("of them") is not rendered: "those of them that remain".
+! Literally "those of them that remain".
 
 @ 49:16
 E: <b>From the house of Dan a man will be chosen and will arise, in his day his people will be delivered</b>,
@@ -335,7 +330,7 @@ E: <b>The man that will be chosen and will arise from the house of Dan — his t
 יִשְׁרֵי = he will lie
 עַל = on
 אָרְחָא = the way
-! יְהֵי ("will be") is not rendered in Metsudah's sentence (literally "There will be a man who will be chosen …").
+! Literally "there will be a man who will be chosen …".
 E: <b>and like an old snake he will ambush on the path</b>,
 וּכְפִתְנָא = and like an old snake
 יִכְמוֹן = he will ambush
@@ -370,14 +365,13 @@ E: <b>From the house of</b> Gad <b>armed troops will pass over the Jordan before
 קֳדָם = before
 אֲחֵיהוֹן = their brothers
 לִקְרָבָא = to war
-! כַּד ("when") is not rendered by Metsudah: literally "armed troops, when they cross the Jordan before their brothers to war".
+! Literally "armed troops, when they cross the Jordan before their brothers to war".
 E: <b>and they will return to their land with much property</b>.
 וּבְנִכְסִין = with … property
 סַגִּיאִין = much
 יְתוּבוּן = they will return
 לְאַרְעֲהוֹן = to their land
 + and
-! The "and" belongs to וּבְנִכְסִין ("and with property").
 
 @ 49:20
 E: <b>The land of Asher is good</b>,
@@ -418,7 +412,6 @@ E: <b>Yoseif is a son who will increase,</b>
 דְיִסְגֵּי = who will increase
 יוֹסֵף = Yoseif
 + is
-! The glossary gives בְּרִי as "my son"; here it is "a son" (Hebrew בֵּן).
 E: <b>a son who will be blessed like a vine planted by a spring of water</b>.
 בְּרִי = a son
 דְיִתְבָּרַךְ = who will be blessed
@@ -447,7 +440,7 @@ E: <b>Mighty men, those who have half, afflicted him.</b>
 לֵיהּ = him
 גֻּבְרִין גִּבָּרִין = Mighty men
 בַּעֲלֵי פַלְגּוֹתָא = those who have half
-! וְאָעִיקוּ has "and", not rendered. בַּעֲלֵי פַלְגּוֹתָא is "those with a share (of the inheritance)", i.e. his brothers; Metsudah's "those who have half" kept.
+! בַּעֲלֵי פַלְגּוֹתָא is "those with a share (of the inheritance)", that is, his brothers.
 
 @ 49:24
 E: <b>His prophecy was fulfilled in them, because he secretly kept the Torah. He placed his trust in the Almighty,</b>
@@ -511,7 +504,6 @@ E: blessings <b>that flow from</b> the depths <b>of the earth</b> below,
 מִמַּעֲמַקֵּי = from the depths
 אַרְעָא = of the earth
 מִלְּרָע = below
-! Metsudah's "that lie below" — "that lie" has no Aramaic word and is dropped.
 E: blessings of <b>your father and your mother</b>.
 בִּרְכְּתָא = blessings
 דְאָבוּךְ = of your father
@@ -532,7 +524,7 @@ E: <b>for which the righteous of the earth longed</b>;
 לְהֶן = 
 רַבְרְבַיָּא = the righteous
 דְּמִן עָלְמָא = of the earth
-! Literally "which the great ones of old (of the world) desired"; Metsudah's bracket "the righteous of the earth" kept. לְהֶן ("them") is folded into "for which".
+! Literally "which the great ones of old (of the world) desired".
 E: <b>all these</b> shall be on Yoseif’s head,
 יֶהֶוְיַן = shall be
 כָּל אִלֵּין = all these
