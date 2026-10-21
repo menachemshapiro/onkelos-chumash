@@ -163,6 +163,7 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 - **Toolbar.** The parsha, perek and pasuk pickers come first. Next are small toggles for Te'amim, Targum, English (with its mode drop-down), Rashi and Word by word. Typography (Aa) and Export (⤓) are icons, with their full names in a tooltip.
 - **Verse size.** The default size of the Hebrew is 1.85rem.
 - **Phones.** No מקרא / תרגום / English labels are shown on a phone. The three texts are told apart by font and color. In the Stacked layout on a larger screen, the labels appear once at the start of each perek.
+- **Reopening.** The page remembers the last pasuk you were reading (and how far into it) in this browser, and opens there next time, including from the home-screen shortcut. A link to a specific pasuk still wins.
 - **Help.** The **?** button opens a short guide to the page's features.
 - **Report on the GitHub copy.** The copy on GitHub Pages has no place to save reports yet, so its Report buttons show a short notice that the feature is not available there yet. On claude.ai, reports are saved with the page.
 

@@ -636,11 +636,27 @@ function updateWhere(){
   if (peSel.value !== String(c)) peSel.value = String(c);
   fillPasuk(c);
   if (paSel.value !== String(i)) paSel.value = String(i);
+  if (posReady) {   // remember the place, so reopening the page (e.g. from the home screen) returns here
+    const off = Math.round(line - sec.getBoundingClientRect().top);
+    try { localStorage.setItem("bt-pos", JSON.stringify({ par: curPar, c: VERSES[i].c, v: VERSES[i].v, off })); } catch (e) {}
+  }
 }
+let posReady = false;
 addEventListener("scroll", () => { if (!ticking) { ticking = true; requestAnimationFrame(updateWhere); } }, { passive: true });
 addEventListener("resize", updateWhere);
 barReady = true;
-showParsha(() => goHash());
+showParsha(() => {
+  const ready = () => setTimeout(() => { posReady = true; }, 600);
+  if (location.hash.includes("/")) { goHash(); ready(); return; }
+  let pos = null; try { pos = JSON.parse(localStorage.getItem("bt-pos") || "null"); } catch (e) {}
+  const i = pos && pos.par === curPar ? idxOf(curPar).find(k => VERSES[k].c === pos.c && VERSES[k].v === pos.v) : undefined;
+  if (i !== undefined) {
+    goTo(i);
+    const off = Math.max(0, +pos.off || 0);
+    if (off) requestAnimationFrame(() => requestAnimationFrame(() => requestAnimationFrame(() => { scrollBy(0, off); updateWhere(); })));
+  }
+  ready();
+});
 // jump to a pasuk: from the go-to box or a #parsha/perek:pasuk link (the link only works outside claude.ai's frame)
 async function jump(par, c, v){
   try { await ensure(par); } catch (e) { return false; }
