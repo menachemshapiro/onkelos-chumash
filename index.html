@@ -140,6 +140,13 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .rep-act { display: flex; justify-content: flex-end; gap: 8px; }
 .rep-act button { font: inherit; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: 8px; padding: 7px 14px; cursor: pointer; }
 .jas-hw { font-family: var(--tg-font); font-size: 1.6rem; font-weight: 700; color: var(--targum); }
+.jas-tabs { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 0 10px; border-bottom: 1px solid var(--rule); }
+.jas-tabs:empty { display: none; }
+.jas-tabs button { font-family: var(--tg-font); font-size: 1rem; color: var(--muted); background: none; border: 1px solid transparent; border-bottom: 0; border-radius: 8px 8px 0 0; padding: 3px 10px 4px; margin-bottom: -1px; cursor: pointer; }
+.jas-tabs button[aria-selected="true"] { color: var(--targum); border-color: var(--rule); background: var(--surface); font-weight: 700; }
+.jas-tabs button { display: inline-flex; flex-direction: column; align-items: center; line-height: 1.25; }
+.jas-tabs .th { unicode-bidi: isolate; }
+.jas-tabs .tm { font-family: var(--f-ui); font-size: .62rem; color: var(--muted); font-weight: 400; unicode-bidi: isolate; }
 .jas-note { font-size: .8rem; color: var(--muted); margin: -4px 0 6px; }
 .jas-note:empty { display: none; }
 .jas-body { font-family: var(--en-font); font-size: .98rem; line-height: 1.55; }
@@ -388,6 +395,7 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
 </div></div>
 <div class="rep-pop help-pop" id="jas" hidden dir="ltr" lang="en"><div class="rep-card help-card jas-card" role="dialog" aria-modal="true" aria-labelledby="jas-t">
   <div class="rep-h"><b id="jas-t" class="jas-hw" dir="rtl"></b><button type="button" id="jas-x" class="help-x" aria-label="Close">×</button></div>
+  <div id="jas-tabs" class="jas-tabs" role="tablist" aria-label="Entries with this headword" dir="rtl"></div>
   <div id="jas-note" class="jas-note"></div>
   <div id="jas-body" class="jas-body"></div>
   <div id="jas-also" class="jas-also"></div>
@@ -858,22 +866,37 @@ const loadJ = path => fetch(path).then(r => { if (!r.ok) throw new Error(r.statu
 function jIndex(){ return JIDX || (JIDX = loadJ("j/index.json").catch(e => { JIDX = null; throw e; })); }
 function jGroup(rid){ const k = rid[0]; return JGRP[k] || (JGRP[k] = loadJ("j/" + k + ".json").catch(e => { delete JGRP[k]; throw e; })); }
 const jasPop = document.getElementById("jas");
-async function showJas(rid, kind, also){
-  const body = document.getElementById("jas-body");
+let JCUR = null;   // the entry the glossary matched, with its kind, other candidates and same-headword tabs
+async function showJas(rid, kind, also, tabs){
+  JCUR = { rid, kind, also: also || [], tabs: tabs || [] };
+  jasPop.hidden = false; await jasRender(rid);
+}
+async function jasRender(rid){
+  const C = JCUR, body = document.getElementById("jas-body"), tabsEl = document.getElementById("jas-tabs");
+  const escH = t => String(t).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
   document.getElementById("jas-t").textContent = ""; document.getElementById("jas-note").textContent = "";
-  document.getElementById("jas-also").innerHTML = ""; body.textContent = "Loading…"; jasPop.hidden = false;
-  let e; try { e = (await jGroup(rid))[rid]; } catch (err) { body.textContent = "Couldn't load the dictionary. Check your connection."; return; }
+  document.getElementById("jas-also").innerHTML = ""; tabsEl.innerHTML = ""; body.textContent = "Loading…";
+  let e, tabE = [], alsoE = [];
+  try {
+    e = (await jGroup(rid))[rid];
+    tabE = await Promise.all(C.tabs.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
+    alsoE = await Promise.all(C.also.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
+  } catch (err) { body.textContent = "Couldn't load the dictionary. Check your connection."; return; }
   if (!e) { body.textContent = "Entry not found."; return; }
   document.getElementById("jas-t").textContent = e.h;
-  document.getElementById("jas-note").textContent = kind === "root" ? "Jastrow has no entry for this exact word, so this is the entry for its root." : "";
-  body.innerHTML = e.html; body.scrollTop = 0; jasPop.querySelector(".jas-card").scrollTop = 0;
+  if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid}"><span class="th" dir="rtl">${escH(tabE[k].h)}</span>${r === C.rid ? '<span class="tm" dir="ltr">this word</span>' : ""}</button>` : "").join("");
+  const note = [];
+  if (rid === C.rid && C.kind === "root") note.push("Jastrow has no entry for this exact word, so this is the entry for its root.");
+  if (rid !== C.rid) note.push("Another entry with this headword. The one matched to this word is marked “this word”.");
+  document.getElementById("jas-note").textContent = note.join(" ");
+  body.innerHTML = e.html; jasPop.querySelector(".jas-card").scrollTop = 0;
   document.getElementById("jas-src").href = "https://www.sefaria.org/" + encodeURI("Jastrow,_" + e.h + ".1");
-  if (also && also.length) {
-    const g = await Promise.all(also.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
-    document.getElementById("jas-also").innerHTML = "Other possible entries: " + also.map((r, k) => g[k] ? `<button type="button" data-r="${r}" dir="rtl">${g[k].h.replace(/[&<>]/g, "")}</button>` : "").join("");
-    document.getElementById("jas-also").onclick = ev => { const b = ev.target.closest("button[data-r]"); if (b) showJas(b.dataset.r, "word", [rid, ...also.filter(x => x !== b.dataset.r)]); };
-  }
+  const others = C.also.map((r, k) => alsoE[k] && r !== rid ? `<button type="button" data-r="${r}" dir="rtl">${escH(alsoE[k].h)}</button>` : "").join("");
+  if (others) document.getElementById("jas-also").innerHTML = "Other possible entries: " + others + (rid !== C.rid && !C.tabs.includes(rid) ? "" : "");
+  if (!C.tabs.includes(rid) && rid !== C.rid) document.getElementById("jas-also").innerHTML += ` <button type="button" data-r="${C.rid}" dir="rtl">↩ back</button>`;
 }
+document.getElementById("jas-tabs").addEventListener("click", ev => { const b = ev.target.closest("button[data-r]"); if (b) jasRender(b.dataset.r); });
+document.getElementById("jas-also").addEventListener("click", ev => { const b = ev.target.closest("button[data-r]"); if (b) jasRender(b.dataset.r); });
 document.getElementById("jas-x").addEventListener("click", () => { jasPop.hidden = true; });
 jasPop.addEventListener("click", ev => { if (ev.target === jasPop) jasPop.hidden = true; });
 addEventListener("keydown", ev => { if (ev.key === "Escape" && !jasPop.hidden) { jasPop.hidden = true; ev.stopImmediatePropagation(); } }, true);
@@ -884,7 +907,7 @@ async function markJas(card){
 }
 glCard.addEventListener("click", ev => {
   const jb = ev.target.closest(".gl-jas");
-  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2]); }); return; }
+  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2], m[3]); }); return; }
   if (ev.target.closest(".gl-x")) closeGloss();
   else if (ev.target.closest(".gl-rep") && glOn) {
     const sec = glOn.closest(".verse"), w = glOn.textContent; closeGloss();

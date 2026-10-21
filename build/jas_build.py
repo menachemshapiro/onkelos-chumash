@@ -39,12 +39,22 @@ def render(e):
     head = ' '.join(x for x in [clean(e.get('language_code', '')), clean(e.get('language_reference', '')), html.escape((e.get('content') or {}).get('morphology', ''))] if x and x.strip())
     body = senses((e.get('content') or {}).get('senses'))
     return (f'<p class="jhead">{head}</p>' if head else '') + body
+import unicodedata as u
+def base(h): return re.sub(r'\s*([IVX]+|[¹²³⁴⁵])$', '', h.strip().lstrip('*'))
+def voc(h): return re.sub(r'[^\u05b0-\u05bc\u05c1\u05c2\u05c7\u05d0-\u05ea]', '', u.normalize('NFD', base(h)))
+BYV = collections.defaultdict(list)
+for r, e in E.items(): BYV[voc(e['headword'])].append(r)
+def homographs(rid):
+    """all Jastrow entries with the same headword (I, II, ¹, ² …), in dictionary order"""
+    return sorted(BYV[voc(E[rid]['headword'])])
 os.makedirs(SP + 'j', exist_ok=True)
 for f in glob.glob(SP + 'j/*.json'): os.remove(f)
 idx, groups = {}, collections.defaultdict(dict)
 for k, m in M.items():
-    idx[k] = [m['rid'], m['kind'], m['also']]
-    for r in [m['rid']] + m['also']:
+    tabs = homographs(m['rid'])
+    also = [r for r in m['also'] if r not in tabs]
+    idx[k] = [m['rid'], m['kind'], also, tabs if len(tabs) > 1 else []]
+    for r in [m['rid']] + also + tabs:
         groups[r[0]][r] = {'h': E[r]['headword'], 'html': render(E[r])}
 json.dump(idx, open(SP + 'j/index.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 for g, d in groups.items(): json.dump(d, open(SP + f'j/{g}.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
