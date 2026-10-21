@@ -692,6 +692,45 @@ function updateWhere(){
 let posReady = false;
 addEventListener("scroll", () => { if (!ticking) { ticking = true; requestAnimationFrame(updateWhere); } }, { passive: true });
 addEventListener("resize", updateWhere);
+// ----- keep your place: when a setting changes how tall the text is (English mode, toggles, fonts, rotating the phone),
+// stay on the pasuk you were reading instead of drifting to another one -----
+function placeNow(){
+  const line = bar.getBoundingClientRect().bottom + 12;
+  let sec = null;
+  for (const el of document.querySelectorAll("#text .verse")) { if (el.getBoundingClientRect().top > line) break; sec = el; }
+  if (!sec) return null;
+  const r = sec.getBoundingClientRect();
+  return { id: sec.id, frac: r.height ? (line - r.top) / r.height : 0 };
+}
+function placeRestore(p){
+  if (!p) return;
+  const el = document.getElementById(p.id); if (!el) return;
+  const line = bar.getBoundingClientRect().bottom + 12, r = el.getBoundingClientRect();
+  const delta = r.top + p.frac * r.height - line;
+  if (Math.abs(delta) > 1) scrollBy(0, delta);
+  updateWhere();
+}
+let placeHeld = null;
+function holdPlace(){
+  if (placeHeld) return;   // already holding from this interaction
+  placeHeld = placeNow();
+  const p = placeHeld;
+  requestAnimationFrame(() => requestAnimationFrame(() => { placeRestore(p); setTimeout(() => { placeRestore(p); placeHeld = null; }, 120); }));
+}
+// settings live in the toolbar and the Typography panel; capture before their handlers change the layout
+for (const ev of ["click", "change", "input"])
+  document.addEventListener(ev, e => {
+    const t = e.target;
+    if (!(t instanceof Element)) return;
+    if (t.closest(".controls button:not(.tp-open), .controls select, #tp select, #tp input, #tp-reset")) holdPlace();
+  }, true);
+{ let rw = innerWidth, rp = null, rt = 0;
+  addEventListener("resize", () => {
+    if (innerWidth === rw) return;   // only width changes (rotation, window resize), not the phone's toolbar showing/hiding
+    if (!rp) rp = placeNow();
+    clearTimeout(rt); rt = setTimeout(() => { rw = innerWidth; placeRestore(rp); rp = null; }, 150);
+  });
+}
 barReady = true;
 showParsha(() => {
   const ready = () => setTimeout(() => { posReady = true; }, 600);
