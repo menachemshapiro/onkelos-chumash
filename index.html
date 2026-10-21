@@ -139,6 +139,15 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .rep-msg.err { color: #c0392b; }
 .rep-act { display: flex; justify-content: flex-end; gap: 8px; }
 .rep-act button { font: inherit; border: 1px solid var(--rule); background: var(--surface); color: var(--ink); border-radius: 8px; padding: 7px 14px; cursor: pointer; }
+.na-p { margin: 4px 0 14px; line-height: 1.5; }
+.help-card { width: min(620px, 100%); max-height: min(85vh, 760px); overflow: auto; }
+.help-pop { align-items: center; }
+.help-x { font: inherit; font-size: 1.4rem; line-height: 1; background: none; border: 0; color: var(--muted); cursor: pointer; padding: 0 4px; }
+.help-body { font-size: .9rem; line-height: 1.5; }
+.help-body h3 { font-size: .75rem; letter-spacing: .07em; text-transform: uppercase; color: var(--targum); margin: 14px 0 4px; }
+.help-body p { margin: 0 0 6px; }
+.help-body ul { margin: 0; padding-inline-start: 1.2em; }
+.help-body li { margin: 3px 0; }
 .rep-act .pri { background: var(--targum); border-color: var(--targum); color: var(--surface); font-weight: 600; }
 .en .add { color: var(--muted); }
 /* word by word: a drop-down under each Targum line, shown when the "Word by word" setting is on */
@@ -293,6 +302,7 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
         <button id="t-rashi" type="button" aria-pressed="true" title="Show Rashi">Rashi</button>
         <button id="t-wbw" type="button" aria-pressed="false" title="Word-by-word table and notes under each Targum line">Word by word</button>
       </div>
+      <button id="t-help" class="tp-open ic" type="button" aria-haspopup="dialog" aria-label="Help" title="Help: what this page can do">?</button>
       <button id="t-panel" class="tp-open ic" type="button" aria-expanded="false" aria-controls="tp" aria-label="Typography" title="Typography: fonts, sizes, layout">Aa</button>
       <button id="t-export" class="tp-open ic" type="button" aria-expanded="false" aria-controls="xp" aria-label="Export" title="Export a PDF"><svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true"><path d="M8 2v8M4.5 6.5 8 10l3.5-3.5M3 13h10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
     </div>
@@ -320,6 +330,42 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
   </section>
 </div>
 
+<div class="rep-pop" id="rep-na" hidden dir="ltr" lang="en"><div class="rep-card" role="dialog" aria-modal="true" aria-labelledby="rep-na-t">
+  <div class="rep-h"><b id="rep-na-t">Report a problem</b></div>
+  <p class="na-p">Reporting isn't available on this copy of the page yet. It's coming soon.</p>
+  <div class="rep-act"><button type="button" id="rep-na-ok" class="pri">OK</button></div>
+</div></div>
+<div class="rep-pop help-pop" id="help" hidden dir="ltr" lang="en"><div class="rep-card help-card" role="dialog" aria-modal="true" aria-labelledby="help-t">
+  <div class="rep-h"><b id="help-t">How to use this page</b><button type="button" id="help-x" class="help-x" aria-label="Close">×</button></div>
+  <div class="help-body">
+    <p>Each pasuk is split into short clauses. Each clause shows the Hebrew, Targum Onkelos and the English side by side (stacked on a phone), so you can see which Aramaic words translate which Hebrew words. Rashi follows each pasuk.</p>
+    <h3>Getting around</h3>
+    <ul>
+      <li>Use the pickers at the top to choose a sefer, parsha, aliyah, perek or pasuk.</li>
+      <li>Type a reference in the small box to jump to it, e.g. <i>32:13</i>, <i>לב יג</i> or <i>Vayechi 49:11</i>.</li>
+    </ul>
+    <h3>What to show</h3>
+    <ul>
+      <li><b>Te'amim, Targum, English, Rashi</b> turn each part on or off.</li>
+      <li><b>Highlights:</b> where Onkelos departs from a word-for-word translation, the Aramaic is highlighted, and so is the English that explains it.</li>
+      <li><b>English drop-down:</b> <i>Combined</i> is the Metsudah English with Onkelos's wording in [brackets]. <i>Plain</i> takes the brackets out, so the English follows the Hebrew. <i>Onkelos</i> rewrites the English to follow the Targum, with Onkelos's own wording in bold.</li>
+      <li><b>Word by word</b> adds an <i>Onkelos word by word</i> drop-down under each line. It shows which English renders each Aramaic word, with short notes where something needs explaining.</li>
+    </ul>
+    <h3>The Targum glossary (beta)</h3>
+    <ul><li>Tap any Aramaic word for a card with its parts (prefixes, the word, endings), root, grammatical form, meaning in this pasuk, and dictionary entry. The glossary is new and will have mistakes.</li></ul>
+    <h3>Look and export</h3>
+    <ul>
+      <li><b>Aa</b> sets fonts, sizes and layout. Your choices are saved in this browser.</li>
+      <li><b>⤓</b> exports a parsha, aliyah, perek or range of pesukim as a PDF or Word document.</li>
+    </ul>
+    <h3>More</h3>
+    <ul>
+      <li><b>Show original</b> on a pasuk shows the English as printed, where it was reordered or corrected here.</li>
+      <li><b>Report</b> on a pasuk or a glossary card sends a note about a mistake.</li>
+      <li>On an iPhone, open the page in Safari and choose <i>Share → Add to Home Screen</i> to use it as an app. It also works offline.</li>
+    </ul>
+  </div>
+</div></div>
 <div class="gl-pop" id="gl" hidden><div class="gl-card" role="dialog" aria-label="Word" id="gl-card"></div></div>
 <div class="rep-pop" id="rep" hidden dir="ltr" lang="en"><div class="rep-card" role="dialog" aria-modal="true" aria-labelledby="rep-t">
   <div class="rep-h"><b id="rep-t">Report a problem</b><span id="rep-ref"></span></div>
@@ -680,7 +726,11 @@ function markReported(){
 })();
 const repPop = document.getElementById("rep"), repNote = document.getElementById("rep-note"), repMsg = document.getElementById("rep-msg"), repSend = document.getElementById("rep-send");
 let repI = null;
+const repNA = document.getElementById("rep-na");
+document.getElementById("rep-na-ok").addEventListener("click", () => { repNA.hidden = true; });
+repNA.addEventListener("click", ev => { if (ev.target === repNA) repNA.hidden = true; });
 function openReport(i){
+  if (!(window.claude && window.claude.use)) { repNA.hidden = false; return; }   // no place to save reports on this copy yet
   repI = i; const v = VERSES[i], P = parOf(v.pr);
   document.getElementById("rep-ref").textContent = `${P.en} ${v.c}:${v.v} · ${P.name} ${HNUM(v.c)}:${v.n}`;
   repPop.querySelectorAll(".rep-parts button").forEach(b => b.setAttribute("aria-pressed", "false"));
@@ -693,7 +743,11 @@ repPop.querySelector(".rep-parts").addEventListener("click", ev => {
 });
 document.getElementById("rep-cancel").addEventListener("click", closeReport);
 repPop.addEventListener("click", ev => { if (ev.target === repPop) closeReport(); });
-addEventListener("keydown", ev => { if (ev.key === "Escape" && !repPop.hidden) closeReport(); });
+addEventListener("keydown", ev => { if (ev.key === "Escape") { if (!repPop.hidden) closeReport(); repNA.hidden = true; helpPop.hidden = true; } });
+const helpPop = document.getElementById("help");
+document.getElementById("t-help").addEventListener("click", () => { helpPop.hidden = false; });
+document.getElementById("help-x").addEventListener("click", () => { helpPop.hidden = true; });
+helpPop.addEventListener("click", ev => { if (ev.target === helpPop) helpPop.hidden = true; });
 repSend.addEventListener("click", async () => {
   if (repI === null) return;
   const v = VERSES[repI], P = parOf(v.pr);

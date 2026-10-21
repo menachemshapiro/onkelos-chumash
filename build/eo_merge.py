@@ -1,6 +1,7 @@
 """Add the Onkelos-only English (build/eo/<parsha>.json) to the parsha data files (p/<parsha>.json) as field 'eo'.
 Run after build_page.py; build_page.py also calls it. Checks that every entry has one string per clause."""
 import json, os, glob
+import tg_hl
 HERE = os.path.dirname(os.path.abspath(__file__)); SP = os.path.dirname(HERE) + '/'
 def merge(verbose=True):
     n = 0
@@ -23,6 +24,11 @@ def merge(verbose=True):
             a = al.get(k)   # word-by-word match behind it, with notes ('ea')
             if a is not None and v.get('ea') != a: v['ea'] = a; changed = True
             elif a is None and 'ea' in v: del v['ea']; changed = True
+            if (pid, v['c']) in tg_hl.CHAPTERS and a and v.get('eo'):   # Targum highlights where the source has none
+                for j, cl in enumerate(a):
+                    if not cl: continue
+                    t = tg_hl.apply(v['t'][j], tg_hl.marks(v['eo'][j], cl['map']))
+                    if t is not None and t != v['t'][j]: v['t'][j] = t; changed = True
         if changed: json.dump(d, open(pf, 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
     if verbose: print('eo: ', n, 'pesukim with Onkelos-only English')
 if __name__ == '__main__': merge()
