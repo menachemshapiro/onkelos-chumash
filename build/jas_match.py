@@ -41,7 +41,16 @@ def dangling(rid):
 def verbal(e):
     d = json.dumps(e.get('content', {}), ensure_ascii=False)
     return bool(re.search(r'<i>\s*to |binyan|"Pa\.|Pa\. |Af\. |Ithpa', d[:1500]))
-def glosses(e):
+HWMAP = {}
+for _r, _e in E.items(): HWMAP.setdefault(_e['headword'].strip(), _r)
+def glosses(e, depth=0):
+    """meaning words of an entry; an Aramaic entry that says only "same" borrows them from the entry before it (Jastrow's convention)"""
+    g = _glosses(e)
+    head = re.sub(r'<[^>]+>', '', (e.get('language_reference') or '') + ' ' + text(e)[:120])
+    if depth < 2 and re.search(r'\bsame\b', head) and e.get('prev_hw') in HWMAP:
+        g |= glosses(E[HWMAP[e['prev_hw']]], depth + 1)
+    return g
+def _glosses(e):
     d = json.dumps(e.get('content', {}), ensure_ascii=False) + (e.get('language_reference') or '')
     return ew(' '.join(re.findall(r'<i>(.*?)</i>', d)) + ' ' + ' '.join(re.findall(r'[a-z][a-z ,;-]{2,40}', text(e)[:200])))
 def score(v, rid):
@@ -78,5 +87,10 @@ for k, v in lex.items():
         if ptr: out[k] = {'rid': ptr[0], 'kind': 'word', 'also': [x for x in seen if x != ptr[0]][:2]}; stat['pointer'] += 1; continue
     if sc: out[k] = {'rid': sc[0][2], 'kind': sc[0][1], 'also': seen[1:3]}; stat[sc[0][1]] += 1
     else: stat['none'] += 1
+OVR = {k: v for k, v in json.load(open(SP + 'build/jas-override.json', encoding='utf8')).items() if not k.startswith('_')}
+for k, rid in OVR.items():   # hand-checked corrections
+    if rid is None: out.pop(k, None)
+    else: out[k] = {'rid': rid, 'kind': 'word', 'also': [x for x in out.get(k, {}).get('also', []) if x != rid]}
+stat['hand-checked'] = len(OVR)
 json.dump(out, open(SP + 'build/jas-map.json', 'w', encoding='utf8'), ensure_ascii=False)
 print(stat)

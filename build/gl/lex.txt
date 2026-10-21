@@ -651,7 +651,7 @@ hsl | חסל | אִתְחֲסַל | verb (Itpe'el) | to be weaned
 raqba |  | רָקְבָּא | noun | water-skin, flask
 shlm | שלם | שְׁלֵים | verb | to be finished, come to an end
 rhq | רחק | אַרְחֵיק | verb (Af'el) | to go far away
-gry | גרי | גְּרָא | verb | to shoot (an arrow)
+gry | גרי | גְּרָא | verb | to shoot (an arrow); (Itpa'al) to provoke, stir oneself up (against)
 mota | מות | מוֹתָא | noun | death
 saad | סעד | סַעֲדָא | noun | support, help (בְּסַעֲדָךְ = with you, at your side)
 rabbay | רבי | רָבֵי | noun | archer (רָבֵי קַשְׁתָּא, lit. a shooter of the bow)
@@ -731,7 +731,7 @@ shiur | שער | שִׁעוּרָא | noun | estimate, measure
 shivta | שבט | שִׁבְטָא | noun | tribe
 shlhy | שלהי | שַׁלְהֵי | verb (4-letter) | to be faint, exhausted
 shmd | ידע | אִשְׁתְּמוֹדַע | verb (Ishtaf'al) | to recognize
-shr | סחר | אִסְתַּחַר | verb (Itpa'al) | to sit up, recline (at a meal)
+shr | סחר | אִסְתַּחַר | verb | to go around, surround; (Itpa'al) to turn; to sit up (at a meal)
 shwt | שוט | שָׁט | verb | to despise, scorn
 siata | | סִיעֲתָא | noun, f. | group, company
 simmoq | סמק | סִמּוֹק | adjective | red
