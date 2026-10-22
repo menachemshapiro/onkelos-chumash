@@ -2070,3 +2070,4 @@ qva | קבע | קְבַע | verb | to fix, set firmly
 ngf | נגף | נְגַף | verb | to strike, push (of an ox: to gore)
 tavra | תבר | תַּבְרָא | noun | breaking, brokenness (of heart)
 svy | סבא | סְבָא | verb | to drink (heavily); (participle) drinker, drunkard
+duqa | דוק | דּוּקָא | noun | dwarf (Jastrow: or a withered spot in the eye; Hebrew: דַּק)
