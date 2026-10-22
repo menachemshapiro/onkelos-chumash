@@ -4,7 +4,7 @@ import json, glob, re, os
 SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 F = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))
 API = {}
-for f in ['jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json']:
+for f in ['jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:
     if os.path.exists(SP + 'jastrow/' + f): API.update(json.load(open(SP + 'jastrow/' + f, encoding='utf8'))['entries'])
 ix = json.load(open(SP + 'j/index.json', encoding='utf8'))
 why = {}
@@ -20,7 +20,7 @@ for r in sorted(used):
     rows.append((r, (API.get(r) or F[r])['headword'], src, why.get(r, 'linked from another entry')))
 with open(SP + 'jastrow/entries-in-use.tsv', 'w', encoding='utf8') as fh:
     fh.write('rid\theadword\ttext from\twhy it is included\n' + '\n'.join('\t'.join(x) for x in rows) + '\n')
-NOT = set(json.load(open(SP + 'jastrow/not-on-sefaria.json'))) if os.path.exists(SP + 'jastrow/not-on-sefaria.json') else set()   # checked: Sefaria has no such entry
+NOT = set(json.load(open(SP + 'jastrow/not-in-word-search.json'))) if os.path.exists(SP + 'jastrow/not-in-word-search.json') else set()   # checked: Sefaria has no such entry
 want = {r: [F[r]['headword']] + F[r].get('alt_headwords', []) for r, h, s, w in rows if s == '2018' and r not in NOT}
 def q(h): return re.sub(r'\s+[IVX]+$', '', h.strip().lstrip('*')).strip()
 WANT = {r: [q(h) for h in hs if "'" not in h and '׳' not in h and q(h)] for r, hs in want.items()}

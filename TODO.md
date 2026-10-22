@@ -1,0 +1,53 @@
+# To do
+
+## Done (Oct 20–22)
+- **"As Onkelos reads it" English, word by word** for the whole Chumash (2,321 pesukim), including Bereishis 49 (reviewed by Menachem Oct 21). Steps for a parsha: worksheet build/ws/<pid>.txt → build/eo-align/<pid>.txt → eo_check.py → eo_merge.py → build/eotest.js → read the published p/*.json → publish.
+- **Notes cleanup and Metsudah notes.** Rule: no "Metsudah's X follows the Hebrew", "is the Hebrew name" or "this word/prefix is not translated" notes. Note only what adds something beyond Onkelos's own words, or where Metsudah's kept English is loose (checked against the glossary with build/flagnotes.py and full word lists in build/ws-full/).
+- **Interface cleanup.** Compact toolbar, short English-mode names with tooltips, Hebrew 1.85rem by default, no column labels on phones, "Onkelos word by word" under the English and kept when the English is off.
+- **GitHub** updated with all of the above (README, DECISIONS, build files).
+- **Targum highlights** filled in for Bereishis 49 and Vayikra 25–27 (build/tg_hl.py). **Help (?) button** with a feature guide. **README** cleaned up. Report on the GitHub copy shows a "not available yet" notice.
+- **Jastrow pop-up** (Oct 21): glossary card → Jastrow → Open entry. 1,840 of 2,160 glossary entries matched (build/jas_match.py, jas_build.py → j/*.json).
+- **Jastrow Onkelos citations open here** (Oct 21): tapping "Targ. O. …" in an entry jumps to that pasuk on the page (Ctrl/⌘-click opens a new tab on the GitHub copy). Other Targumim still link to Sefaria.
+- **Jastrow round 2** (Oct 21): 1,935 more entries (the ones round 1 points to). Pointers like "v. עִילָאָה" now resolve, and links from one Jastrow entry to another open inside the pop-up (← Back returns); about 14,200 of 24,000 such links. Links to entries still not downloaded go to Sefaria.
+- **Jastrow tabs** for all related entries, matched tab highlighted, "cites 12:8" / "Targ. O." badges.
+- **Go-to box** widens while typing (full row on phones). **Keep your place** when switching modes, toggles, fonts or rotating. **Reopens at the last pasuk** read.
+- **Link preview** (Open Graph picture and description) for sharing the GitHub link. Checked in WhatsApp Oct 21.
+- **Bereishis 49:12 fix:** נַעֲווֹהִי is the wine-press vat (Jastrow), not "hills"; wrong note removed.
+- **Weak Jastrow matches reviewed** (Oct 22): all 347 matches that shared no words with the glossary meaning were checked by hand. 97 were switched to the right entry (build/jas-override.json), 21 that had no right entry in the downloaded Jastrow were removed, the rest were already right.
+- **"Literally …" notes checked against Jastrow** (Oct 22): all 98 agree with Jastrow. The check turned up wrong glossary meanings for סחר (now "to go around, surround; to turn; to sit up") and גרי (added "to provoke, stir oneself up"), and wrong Jastrow entries for בְּנִין, נְפַק, קוּם, רוּם; all fixed.
+- **Translation check, three passes** (night of Oct 22; not yet published): meanings in each pasuk against the glossary and Jastrow (build/here_check.py, root_check.py), glossary words with no Jastrow entry (read by hand), and the Onkelos English against the glossary (build/eo_gloss_check.py). Fixes: 9 English lines, 103 word meanings, 14 new glossary words, 38 dictionary meanings. All glossary fixes are in build/glfix.tsv (applied with build/glfix.py, then gloss_build.py). Summary: overnight-review.md.
+- **Translation check published** (Oct 22, morning).
+- **Full Jastrow from Sefaria-Data's 2018 copy** (Oct 22): the last commit before Sefaria deleted its dictionaries (jastrow/full/). Compared with our downloads: same text, Sefaria's current version has small cleanups, the 2018 copy keeps some cross-references Sefaria's site lost. Used only where we have no current text (build/jas_2018.py). The pop-up now has about 14,100 entries; 99% of links between entries stay on the page; entries from the 2018 copy say so in the pop-up.
+- **Targ. O. citations** (Oct 22): every 2018 entry citing an Onkelos pasuk (3,388 citations) checked against the word in that pasuk (build/targ_check.py). 291 glossary words newly linked or relinked to the entry Jastrow cites for that very word (build/jas-targ.json); 2,430 citations now land on the linked entry.
+- **Empty stub tabs** (Oct 22): a numeral letter or bare pointer Sefaria doesn't have (ב', ל', שׁע') is no longer its own tab; it is shown after the entry next to it.
+- **The 32 entries Sefaria didn't return** (Oct 22, fetch_jastrow4.py): 5 were there under another spelling (now Sefaria text); 1 (קְשַׁשׁ I) is folded into the entry before it; 26 (19 Aramaic verb entries that start straight with a verb form, 7 stubs) ARE on Sefaria (their neighbours name them) but its word search doesn't return them; fetch_jastrow5.py asks for them by page name.
+- **Round 3, fourth download + page-name fetch** (Oct 22, evening): 801 more entries; the 27 entries Sefaria's word search misses were fetched by page name (jastrow/jastrow-pages.json; they are on Sefaria, the search just doesn't return them); 1,230 extra entries recovered from the progress log (jastrow/jastrow-extra.json). Pop-up: 20,321 entries, 20,044 with Sefaria's text, 277 still on the 2018 text.
+- **Round 3, third download** (Oct 22, 14:40): 2,382 more entries; 12,302 from round 3 in all. Pop-up: 19,942 entries, 19,105 with Sefaria's text.
+- **Round 3 finished** (Oct 22 afternoon): 9,916 entries now have Sefaria's current text; the pop-up has 19,140 entries, 16,721 from Sefaria, 2,419 from the 2018 copy.
+- **Round 3, first part** (Oct 22): 4,249 entries switched from the 2018 text to Sefaria's current text. Because Sefaria's text links to more entries, the pop-up grew to 16,781 entries.
+- **CAL vs Jastrow** (Oct 22, follow-up: where they differ the glossary follows Jastrow and notes CAL: דִּיצָא, מְרַגֵּג, סוֹבַר; סְבָרוּ in Haazinu relinked to סְבַר “think”): the 35 words looked up on CAL compared with Jastrow. They agree on meaning everywhere except דֵּיצָא (CAL ibex, Jastrow deer/gazelle); roots are framed differently for מְרַגֵּג and סוֹבָרַת. Fixed our links for דֻקָּא (now דּוּקָא, root דוק as in both) and וְעַדִּיאַת (Jastrow's עֲדֵי Pa. “conceive”).
+- **“Same” entries** (Oct 22): an Aramaic entry that says only “ch. same” is shown together with the entry it means, in dictionary order, each with its own title, in one tab (2,020 groups).
+- **List of entries in use**: jastrow/entries-in-use.tsv (id, headword, text source, why included).
+- Rule: add a connecting word Metsudah leaves out only when it reads better, in {curly brackets}. Bereishis 1:2 stays "wind".
+
+## Next
+- **Optional: one more round of jastrow/fetch_jastrow3.py** (keep jastrow-progress-3.jsonl next to it): 277 entries still show the 2018 text (newly linked); a few minutes.
+- **Texts to research** (where our Targum text differs from another source; left as is for now):
+  - Bereishis 3:5 גַּלֵּי (CAL: גְלֵי)
+  - Bereishis 3:6 אַסֵּי (CAL: אָסוּ)
+  - Noach (Bereishis 8:8) הֲקַלִּיאוּ (CAL: אִם)
+  - Bechukosai (Vayikra 26:32) וִיצָרְיוּן (CAL: וְיִצְדּוּן)
+  - Vayeshev (Bereishis 40:13) יַדְבְּרִנָּךְ (probably a misprint for יִדְכְּרִנָּךְ)
+  - Vayetzei (Bereishis 30:37) וְדִדְלוּף (possibly a misprint for וּדְדוּלְבָּא)
+  - Re'eh (Devarim 14:1) תִתְחַמְמוּן, "do not gash yourselves" (some editions: תִתְהַמְמוּן?)
+- **Metsudah typo** "form the river" (Eikev 11:24): needs a page rebuild (build/fixes.py).
+- **Report button on the GitHub copy.** On menachemshapiro.github.io there is no database, so reports have nowhere to go. Collect them somewhere Claude can read, for example a text file in the repo. A static page cannot write to the repo by itself, so options to weigh: a pre-filled GitHub issue (needs a GitHub account), a small free form service that saves to a file or sheet, or saving reports on the phone with a "send all" button. Also check that the claude.ai copy's reports still reach Claude.
+
+## Offered, not started
+- **Light / Dark / Auto setting** in the Aa panel (now the page only follows the phone).
+- **Tighten the Jastrow tab grouping** if it gets unwieldy (weak-letter rule only for verbs).
+
+## Later
+- **Rashi translation** (not soon).
+- **Text PDF** (deferred).
+- **Paseq issue** (left as is for now).

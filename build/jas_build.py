@@ -4,7 +4,7 @@
 import json, os, re, html, collections, glob
 SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 E = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))      # Sefaria-Data 2018 copy: fills gaps only
-for _f in ['jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json']:   # Sefaria's current text wins
+for _f in ['jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:   # Sefaria's current text wins
     if os.path.exists(SP + 'jastrow/' + _f): E.update(json.load(open(SP + 'jastrow/' + _f, encoding='utf8'))['entries'])
 DEPTH = int(os.environ.get('JDEPTH', '9'))   # how many link-steps away from a glossary word an entry is still included
 M = json.load(open(SP + 'build/jas-map.json', encoding='utf8'))
@@ -102,7 +102,7 @@ LEX = {}
 for f in glob.glob(SP + 'g/*.json'):
     for k, v in json.load(open(f, encoding='utf8'))['lex'].items(): LEX.setdefault(k, v)
 LINKED = set()
-NOTSEF = set(json.load(open(SP + 'jastrow/not-on-sefaria.json'))) if os.path.exists(SP + 'jastrow/not-on-sefaria.json') else set()
+NOTSEF = set(json.load(open(SP + 'jastrow/not-in-word-search.json'))) if os.path.exists(SP + 'jastrow/not-in-word-search.json') else set()
 EXTRA = {}
 def stub(r): return len(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', render(E[r])))) < 60
 def same_as(r):
@@ -144,7 +144,7 @@ for k, m in M.items():
     if gr in firsts: rid = firsts[gr]
     tabs = keep
     for t in list(tabs):           # an empty stub Sefaria doesn't have (a numeral letter, a bare pointer): fold it into the
-        if t == rid or t not in NOTSEF or not stub(t): continue       # listing next to it, or drop the tab
+        if t == rid or t not in NOTSEF or not stub(t): continue       # listing next to it, or drop the tab (NOTSEF: the stubs found only by page name)
         tabs.remove(t)
         nb = [x for x in (t[0] + '%05d' % (int(t[1:]) - 1), t[0] + '%05d' % (int(t[1:]) + 1)) if x in tabs or x == rid]
         if nb: EXTRA.setdefault(rid if rid in nb else nb[0], set()).add(t)
