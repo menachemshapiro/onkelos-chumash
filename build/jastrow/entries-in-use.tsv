@@ -47,7 +47,7 @@ A00070	אִבּוּלָא	sefaria	linked from another entry
 A00072	אבולי	sefaria	linked from another entry
 A00073	אבולין	sefaria	linked from another entry
 A00074	אַבּוּן	sefaria	linked from another entry
-A00075	אֲבוּנָא	2018	linked from another entry
+A00075	אֲבוּנָא	sefaria	linked from another entry
 A00077	אֵבוּס	sefaria	linked from another entry
 A00083	אַבְזָקַת	sefaria	linked from another entry
 A00085	אבחטס	sefaria	linked from another entry
@@ -138,7 +138,7 @@ A00228	אברסקין	sefaria	linked from another entry
 A00229	אַבְרְקִין	sefaria	linked from another entry
 A00231	אַבְשׁוּנָא	sefaria	linked from another entry
 A00233	אָגָא	sefaria	linked from another entry
-A00234	אגאלוגין	2018	linked from another entry
+A00234	אגאלוגין	sefaria	linked from another entry
 A00235	אַגַּב	sefaria	linked from another entry
 A00236	אַגַּבָּא	sefaria	linked from another entry
 A00237	אגבאסטס	sefaria	linked from another entry
@@ -161,6 +161,7 @@ A00258	אֲגוּדָּה	sefaria	linked from another entry
 A00259	אֲגוּדָל	sefaria	linked from another entry
 A00260	אֱגוֹז	sefaria	linked from another entry
 A00261	אֱגוּזָא	sefaria	linked from another entry
+A00263	אגוטרי	2018	linked from another entry
 A00264	*אַגְוִיסְטוֹר	sefaria	linked from another entry
 A00271	אָגוּסְטוֹס	sefaria	linked from another entry
 A00277	אֵגוֹר	sefaria	linked from another entry
@@ -178,7 +179,7 @@ A00294	אגינו	sefaria	linked from another entry
 A00298	אָגִיר	sefaria	related-entry tab
 A00301	אִגְלָא	sefaria	linked from another entry
 A00303	אֲגָלִים	sefaria	linked from another entry
-A00304	אגלין	2018	linked from another entry
+A00304	אגלין	sefaria	linked from another entry
 A00307	אֲגַם I	sefaria	linked from another entry
 A00308	אֲגַם II	sefaria	linked from another entry
 A00309	אַגָּם	sefaria	linked from another entry
@@ -276,8 +277,9 @@ A00451	אִדְרַבְלִיס	sefaria	linked from another entry
 A00454	אֶדְרוֹעָא	sefaria	linked from another entry
 A00456	*אִדְרוּתָא	sefaria	linked from another entry
 A00457	*אַדְרַזְדָּא	sefaria	linked from another entry
-A00458	אַדְרִיאָנוֹס	2018	linked from another entry
+A00458	אַדְרִיאָנוֹס	sefaria	linked from another entry
 A00463	אדריונטוס	sefaria	linked from another entry
+A00464	אַדְרְיָינוֹס	2018	linked from another entry
 A00475	אַדְרַכְתָּא	sefaria	linked from another entry
 A00479	אַדֶּרֶת	sefaria	linked from another entry
 A00481	אָהַב	sefaria	linked from another entry
@@ -381,7 +383,7 @@ A00654	אוּכָּף	sefaria	linked from another entry
 A00655	אוּכָּפָא	sefaria	linked from another entry
 A00657	אוכצנא	sefaria	linked from another entry
 A00658	אֲוַל	sefaria	linked from another entry
-A00662	אולוגלוגין	2018	linked from another entry
+A00662	אולוגלוגין	sefaria	linked from another entry
 A00671	אוֹלְיָאר	sefaria	linked from another entry
 A00674	אוּלָם I	sefaria	linked from another entry
 A00680	אוּלְפָן	sefaria	related-entry tab
@@ -444,7 +446,7 @@ A00769	אוּנְקַל	sefaria	linked from another entry
 A00770	אוּנְקְלָא	sefaria	linked from another entry
 A00771	אוּנְקְלָאוֹת	sefaria	linked from another entry
 A00772	אוּנְקְלָה	sefaria	linked from another entry
-A00773	אוֹנְקְלוֹס	2018	linked from another entry
+A00773	אוֹנְקְלוֹס	sefaria	linked from another entry
 A00775	אוּנְקְלַי I	sefaria	linked from another entry
 A00776	אוּנְקְלַי II	sefaria	linked from another entry
 A00779	אוס	sefaria	linked from another entry
@@ -818,7 +820,7 @@ A01385	אִינְיָינִי	sefaria	linked from another entry
 A01386	אִינִין	sefaria	linked from another entry
 A01387	אִינִישׁ	sefaria	related-entry tab
 A01388	אִינָךְ	sefaria	linked from another entry
-A01392	אִינְקוֹרָא	2018	linked from another entry
+A01392	אִינְקוֹרָא	sefaria	linked from another entry
 A01394	אֱינָשׁ	sefaria	matched to a glossary word
 A01400	אִיסָדָא	sefaria	matched to a glossary word
 A01401	אֵיסוּ	sefaria	linked from another entry
@@ -963,7 +965,7 @@ A01713	אָכַם	sefaria	matched to a glossary word
 A01714	*אִכְמַר	sefaria	linked from another entry
 A01718	*אַכְסָא	sefaria	linked from another entry
 A01720	אַכְסַדְרָא	sefaria	linked from another entry
-A01723	אָכְסִיגָרוֹן	2018	linked from another entry
+A01723	אָכְסִיגָרוֹן	sefaria	linked from another entry
 A01727	אכסילין	sefaria	linked from another entry
 A01732	*אכסלי	sefaria	linked from another entry
 A01734	אַכְסָן	sefaria	linked from another entry
@@ -1105,6 +1107,7 @@ A01937	אַלְפָא	sefaria	related-entry tab
 A01938	אִלְפָא	sefaria	related-entry tab
 A01942	אִלְפֵּס	sefaria	linked from another entry
 A01943	*אִלְצָרִין	sefaria	linked from another entry
+A01944	*אלקולאון	2018	linked from another entry
 A01946	אלקט	sefaria	linked from another entry
 A01947	אִלְקְטִי	sefaria	linked from another entry
 A01948	אִלְקָטִית	sefaria	linked from another entry
@@ -1172,7 +1175,7 @@ A02027	אֲמִירָה II	sefaria	related-entry tab
 A02028	אַמִּיתָא	sefaria	linked from another entry
 A02031	אֲמַךְ	sefaria	linked from another entry
 A02032	*אמכותי	sefaria	linked from another entry
-A02033	אמלוגין	2018	linked from another entry
+A02033	אמלוגין	sefaria	linked from another entry
 A02036	אֲמַלְתְּרָא	sefaria	linked from another entry
 A02037	אָמַם	sefaria	linked from another entry
 A02038	אָמַן	sefaria	related-entry tab
@@ -1222,6 +1225,7 @@ A02093	*אַנְבְּטֵי	sefaria	linked from another entry
 A02096	אנבקראות	sefaria	linked from another entry
 A02097	אנגטוס	sefaria	linked from another entry
 A02098	*אנגיטוס	sefaria	linked from another entry
+A02103	אנגלין	2018	linked from another entry
 A02104	*אַנִּגְרָא	sefaria	linked from another entry
 A02106	*אנגרוטינא	sefaria	linked from another entry
 A02108	אַנְגַּרְיָא	sefaria	linked from another entry
@@ -1286,7 +1290,8 @@ A02245	*אֲנָךְ I	sefaria	linked from another entry
 A02246	אֲנָךְ II	sefaria	linked from another entry
 A02247	אָנָךְ	sefaria	linked from another entry
 A02248	אָנֹכִי	sefaria	linked from another entry
-A02250	אַנְלוֹגִין	2018	linked from another entry
+A02249	אנלגין	2018	linked from another entry
+A02250	אַנְלוֹגִין	sefaria	linked from another entry
 A02252	אָנַן	sefaria	linked from another entry
 A02253	אֲנַן	sefaria	linked from another entry
 A02255	אֲנָנָא	sefaria	linked from another entry
@@ -1485,7 +1490,7 @@ A02633	אפוספיס	sefaria	linked from another entry
 A02634	אִפֹּופֹּודִין	sefaria	linked from another entry
 A02636	אפופלסמון	sefaria	linked from another entry
 A02638	אַפֹּופְסִין	sefaria	linked from another entry
-A02642	אפוקלוס	2018	linked from another entry
+A02642	אפוקלוס	sefaria	linked from another entry
 A02647	אַפּוּתָא	sefaria	linked from another entry
 A02648	אפותיק	sefaria	linked from another entry
 A02651	אָפֵז	sefaria	linked from another entry
@@ -1558,7 +1563,7 @@ A02772	אָפַץ	sefaria	linked from another entry
 A02773	אֲפַץ	sefaria	linked from another entry
 A02774	אַפְצָא	sefaria	linked from another entry
 A02775	אַפֵּק	sefaria	linked from another entry
-A02776	אפקוליס	2018	linked from another entry
+A02776	אפקוליס	sefaria	linked from another entry
 A02777	אַפְקוֹתָא	sefaria	linked from another entry
 A02778	אפקימא	sefaria	linked from another entry
 A02786	אַפִּקַרְסוּת	sefaria	linked from another entry
@@ -1599,7 +1604,7 @@ A02863	אַצְוָתָא	sefaria	related-entry tab
 A02864	אִצְט־	sefaria	linked from another entry
 A02865	אִצְטַדְיָא	sefaria	linked from another entry
 A02866	אִצְטַדִּין	sefaria	linked from another entry
-A02869	אצטרא	2018	linked from another entry
+A02869	אצטרא	sefaria	linked from another entry
 A02871	אִצְטַרְיָא	sefaria	linked from another entry
 A02872	אִצְטָרִין	sefaria	linked from another entry
 A02876	אַצִּיל	sefaria	linked from another entry
@@ -1664,7 +1669,7 @@ A02988	אַרְגִּיז	sefaria	related-entry tab
 A02990	אַרְגִּירָא	sefaria	linked from another entry
 A02991	אֶרְגַּלְיָא	sefaria	linked from another entry
 A02992	אַרְגָּמָן	sefaria	linked from another entry
-A02997	*ארגסטירין	2018	linked from another entry
+A02997	*ארגסטירין	sefaria	linked from another entry
 A03009	אַרְדַּפְנֵי	sefaria	linked from another entry
 A03012	אַרְדְּשִׁיר	sefaria	linked from another entry
 A03013	אָרָה	sefaria	related-entry tab
@@ -1958,6 +1963,7 @@ B00047	בָּאַשׁ	sefaria	linked from another entry
 B00048	בָּאתַר	sefaria	related-entry tab
 B00049	בָּב	sefaria	linked from another entry
 B00050	בָּב II	sefaria	linked from another entry
+B00052	בָּבָא II	sefaria	linked from another entry
 B00053	בָּבָה	sefaria	linked from another entry
 B00058	בָּבִיתָא I	sefaria	linked from another entry
 B00061	בָּבֶל	sefaria	linked from another entry
@@ -1990,6 +1996,7 @@ B00116	בדודיות	sefaria	linked from another entry
 B00117	בָּדוֹחָא	sefaria	linked from another entry
 B00120	בְּדוֹלַח	sefaria	linked from another entry
 B00121	בְּדוּלְחָא	sefaria	matched to a glossary word
+B00122	בדולקי	2018	linked from another entry
 B00125	בִּדּוּר	sefaria	linked from another entry
 B00128	בְּדַח	sefaria	linked from another entry
 B00129	בדי	sefaria	linked from another entry
@@ -2062,7 +2069,7 @@ B00221	בּוּז ²	sefaria	linked from another entry
 B00223	*בּוֹזָנָא	sefaria	linked from another entry
 B00224	בּוּזְתָא	sefaria	related-entry tab
 B00225	בּוֹחַל	sefaria	linked from another entry
-B00226	בּוּטָא	2018	linked from another entry
+B00226	בּוּטָא	sefaria	linked from another entry
 B00227	*בּוֹטֵט	sefaria	linked from another entry
 B00228	בּוֹטְטָא	sefaria	linked from another entry
 B00230	בּוֹטִיטָא	sefaria	linked from another entry
@@ -2696,8 +2703,9 @@ B01191	בָּרָה	sefaria	related-entry tab
 B01192	בִּרְוָון	sefaria	linked from another entry
 B01196	*בָּרוּךְ	sefaria	linked from another entry
 B01197	בְּרוֹכִי	sefaria	linked from another entry
+B01198	ברולקי	2018	linked from another entry
 B01200	בְּרוּנָא I	sefaria	linked from another entry
-B01205	*בְּרוּקְלֵי	2018	linked from another entry
+B01205	*בְּרוּקְלֵי	sefaria	linked from another entry
 B01207	בָּרוּר	sefaria	linked from another entry
 B01209	בְּרוֹר	sefaria	linked from another entry
 B01210	בְּרוּרְיָא	sefaria	linked from another entry
@@ -3629,8 +3637,8 @@ C01235	גָּרָב	sefaria	linked from another entry
 C01236	גָּרְבָא	sefaria	linked from another entry
 C01238	גַּרְבֵּל	sefaria	linked from another entry
 C01239	גַּרְבָּן	sefaria	linked from another entry
-C01240	גְּרַבְתָּא	2018	linked from another entry
-C01241	גְּרַבְתָּן	2018	linked from another entry
+C01240	גְּרַבְתָּא	sefaria	linked from another entry
+C01241	גְּרַבְתָּן	sefaria	linked from another entry
 C01242	גְּרַג	sefaria	linked from another entry
 C01244	גַּרגּוּתָא	sefaria	linked from another entry
 C01245	גַּרְגּוּתְנִי	sefaria	linked from another entry
@@ -3970,6 +3978,7 @@ D00348	דּוּרָא II	sefaria	linked from another entry
 D00349	דּוּרָא III	sefaria	linked from another entry
 D00351	*דּוּרָא IV	sefaria	linked from another entry
 D00355	דּוּרְבָּנָא	sefaria	linked from another entry
+D00358	דּוֹרְדַּנְיָא	2018	linked from another entry
 D00363	דּוֹרוֹן II	sefaria	linked from another entry
 D00364	דּוֹרְיָא	sefaria	linked from another entry
 D00366	דּוֹרָיוֹת	sefaria	linked from another entry
@@ -4337,7 +4346,7 @@ D00955	דָּפוּס	sefaria	linked from another entry
 D00957	דפוסיו׳	sefaria	linked from another entry
 D00961	דֹּפִי	sefaria	related-entry tab
 D00962	דְּפִיחַ	sefaria	linked from another entry
-D00963	דפליסט'	2018	linked from another entry
+D00963	דפליסט׳	sefaria	linked from another entry
 D00970	דְּפַנּוֹת	sefaria	linked from another entry
 D00984	דַּק I	sefaria	linked from another entry
 D00985	דַּק	sefaria	linked from another entry
@@ -4382,7 +4391,7 @@ D01040	דַּרְגִּישִׁין	sefaria	linked from another entry
 D01041	דַּרְגֵּשׁ	sefaria	linked from another entry
 D01042	דַּרְגְּשָׁא	sefaria	linked from another entry
 D01045	דַּרְדּוּר	sefaria	linked from another entry
-D01047	דַּרְדַּנְיָא	2018	linked from another entry
+D01047	דַּרְדַּנְיָא	sefaria	linked from another entry
 D01048	דַּרְדְּסָא	sefaria	linked from another entry
 D01049	דַּרְדַּק	sefaria	linked from another entry
 D01051	דַּרְדֵּר	sefaria	linked from another entry
@@ -4570,7 +4579,7 @@ E00156	הִדְרוֹקָן	sefaria	linked from another entry
 E00162	הַדְּרֵיס	sefaria	linked from another entry
 E00165	*הִדְרָנִיקוֹס	sefaria	linked from another entry
 E00167	הַדְּרֵס	sefaria	linked from another entry
-E00169	הִדְרָקוֹן	2018	linked from another entry
+E00169	הִדְרָקוֹן	sefaria	linked from another entry
 E00170	הֲדַרְתָּא	sefaria	linked from another entry
 E00172	הָהּ	sefaria	linked from another entry
 E00173	הֵה	sefaria	linked from another entry
@@ -4648,7 +4657,7 @@ E00302	הַזְמָנָה	sefaria	linked from another entry
 E00304	*הזמת	sefaria	linked from another entry
 E00305	הֶזֵּק	sefaria	linked from another entry
 E00306	*הֲזָר	sefaria	linked from another entry
-E00307	הֶחְלֵט	2018	linked from another entry
+E00307	הֶחְלֵט	sefaria	linked from another entry
 E00310	הֲטָבָה	sefaria	linked from another entry
 E00311	הַטְבָּלַה	sefaria	linked from another entry
 E00314	הֶטֵּחַ	sefaria	linked from another entry
@@ -4858,7 +4867,7 @@ E00658	הַנְדֵּז	sefaria	linked from another entry
 E00659	הַנְדְּזָא	sefaria	linked from another entry
 E00660	הנדיוסין	sefaria	linked from another entry
 E00664	הִנְדְּקָא	sefaria	linked from another entry
-E00665	הִנְדְּקָאֵי	2018	linked from another entry
+E00665	הִנְדְּקָאֵי	sefaria	linked from another entry
 E00666	הִנְדְּקוֹקֵי	sefaria	linked from another entry
 E00667	הַנָּה	sefaria	related-entry tab
 E00668	הִנֵּה	sefaria	related-entry tab
@@ -4957,7 +4966,7 @@ E00847	הַרְזְבוֹנִית	sefaria	linked from another entry
 E00850	הַרְזֵיק	sefaria	linked from another entry
 E00851	הַרְזִיקֵי	sefaria	linked from another entry
 E00852	הַרְזֵק	sefaria	linked from another entry
-E00856	הַרְטָבָה'	2018	linked from another entry
+E00856	הַרְטָבָה׳	sefaria	linked from another entry
 E00857	הֲרֵי I	sefaria	linked from another entry
 E00864	הָרִיס	sefaria	linked from another entry
 E00865	הֲרִיעָה	sefaria	linked from another entry
@@ -6279,6 +6288,7 @@ H00988	חַלָּה	sefaria	related-entry tab
 H00990	חֲלוּדָה	sefaria	linked from another entry
 H00991	חַלְוָון	sefaria	linked from another entry
 H00992	חֲלוּז	sefaria	linked from another entry
+H00993	חִלּוּט	sefaria	linked from another entry
 H00994	חָלוּט	sefaria	linked from another entry
 H00995	חֲלוּטִין	sefaria	matched to a glossary word
 H00997	חָלוּל	sefaria	linked from another entry
@@ -6317,6 +6327,7 @@ H01037	חֲלִיטָא II	sefaria	linked from another entry
 H01038	חֲלִיטָא III	sefaria	linked from another entry
 H01039	חֲלִיטָה I	sefaria	linked from another entry
 H01040	חֲלִיטָה II	sefaria	linked from another entry
+H01041	חֲלִיטָה III	sefaria	linked from another entry
 H01042	חֲלִיטָר	sefaria	linked from another entry
 H01044	חָלֵיל	sefaria	related-entry tab
 H01045	חָלִיל	sefaria	related-entry tab
@@ -7042,7 +7053,7 @@ I00143	טוֹחֵן	sefaria	linked from another entry
 I00144	טוֹחֲנוֹת	sefaria	linked from another entry
 I00146	טוֹטַלְוָותָא	sefaria	linked from another entry
 I00147	טוֹטְפָא	sefaria	linked from another entry
-I00148	טוֹטַפְרָאוֹת	2018	linked from another entry
+I00148	טוֹטַפְרָאוֹת	sefaria	linked from another entry
 I00149	טוֹטָפֶת	sefaria	linked from another entry
 I00150	טוֹטֶפְתָּא	sefaria	linked from another entry
 I00152	טוי	sefaria	related-entry tab
@@ -7111,9 +7122,9 @@ I00273	טַחֲנָה	sefaria	linked from another entry
 I00274	*טָחַף	sefaria	linked from another entry
 I00275	טְחַר	sefaria	linked from another entry
 I00276	*טֹט	sefaria	linked from another entry
-I00278	טֹטַפְרָאוֹת	2018	linked from another entry
+I00278	טֹטַפְרָאוֹת	sefaria	linked from another entry
 I00280	טֶטְרָאמוּלִי	sefaria	linked from another entry
-I00289	טטרפאות	2018	linked from another entry
+I00289	טטרפאות	sefaria	linked from another entry
 I00292	טיאטרון	sefaria	linked from another entry
 I00293	טְיָארִין	sefaria	linked from another entry
 I00294	טִיב I	sefaria	linked from another entry
@@ -7601,6 +7612,7 @@ J00172	יוֹדְקֶרֶת	sefaria	linked from another entry
 J00173	יוֹהֲרָא	sefaria	linked from another entry
 J00174	יָוָון	sefaria	linked from another entry
 J00177	יוֹחָנָא I	sefaria	linked from another entry
+J00178	יוֹחָנָא II	sefaria	linked from another entry
 J00179	יוֹחָנִי	sefaria	linked from another entry
 J00180	יוֹחָנָן	sefaria	linked from another entry
 J00181	יוֹחָס	sefaria	linked from another entry
@@ -7627,6 +7639,7 @@ J00213	יוֹסָא	sefaria	linked from another entry
 J00217	יוֹסֵי	sefaria	linked from another entry
 J00219	יוֹסֵף	sefaria	linked from another entry
 J00224	יוֹפְיוּת	sefaria	linked from another entry
+J00225	יוֹצְאָנִית	2018	linked from another entry
 J00228	יוֹצֵר	sefaria	linked from another entry
 J00230	יוֹקֵידְתָּא	sefaria	linked from another entry
 J00235	יוֹקֶרֶת	sefaria	linked from another entry
@@ -7818,7 +7831,7 @@ J00500	יָפֶה	sefaria	linked from another entry
 J00502	יָפוֹ	sefaria	linked from another entry
 J00504	*יַפַּח	sefaria	linked from another entry
 J00505	יָפְיוּת	sefaria	linked from another entry
-J00506	יְפֵיפָה	2018	linked from another entry
+J00506	יְפֵיפָה	sefaria	linked from another entry
 J00511	יָפַע	sefaria	linked from another entry
 J00512	יְפַע	sefaria	linked from another entry
 J00513	יֶפֶת	sefaria	linked from another entry
@@ -7849,7 +7862,7 @@ J00549	יְצַר	sefaria	linked from another entry
 J00550	יֵצֶר	sefaria	matched to a glossary word
 J00551	יֵצֶר ²	sefaria	linked from another entry
 J00552	יָצַת	sefaria	linked from another entry
-J00554	יָקַב	2018	linked from another entry
+J00554	יָקַב	sefaria	linked from another entry
 J00556	יָקַד	sefaria	matched to a glossary word
 J00557	יְקַד	sefaria	other possible entry
 J00558	יְקֵדָא	sefaria	linked from another entry
@@ -7905,7 +7918,7 @@ J00615	יָרוֹר	sefaria	linked from another entry
 J00616	יְרוּשָּׁה	sefaria	linked from another entry
 J00617	יְרוּשָׁלַיִם	sefaria	linked from another entry
 J00618	יְרוּשְׁלֵם	sefaria	linked from another entry
-J00619	יְרוּשַׁלְמִי	2018	linked from another entry
+J00619	יְרוּשַׁלְמִי	sefaria	linked from another entry
 J00620	יָרוֹתָא	sefaria	related-entry tab
 J00621	יְרוּתָּא	sefaria	related-entry tab
 J00622	יָרֵחַ	sefaria	related-entry tab
@@ -8831,7 +8844,7 @@ K01205	כרכין	sefaria	linked from another entry
 K01207	כַּרְכִיתָא	sefaria	linked from another entry
 K01208	כִּרְכִּם	sefaria	linked from another entry
 K01211	כַּרְכְּמִין	sefaria	linked from another entry
-K01212	כַּרְכְּמִישָׁא	2018	linked from another entry
+K01212	כַּרְכְּמִישָׁא	sefaria	linked from another entry
 K01218	כִּרְכֵּר	sefaria	linked from another entry
 K01219	כַּרְכָּר	sefaria	linked from another entry
 K01220	*כַּרְכָּר	sefaria	linked from another entry
@@ -9212,8 +9225,8 @@ L00410	לִיבְדְּקוֹס	sefaria	linked from another entry
 L00413	לִיבּוּן	sefaria	linked from another entry
 L00415	לִיבּוּנָא	sefaria	linked from another entry
 L00416	לִיבּוּנָאָה	sefaria	linked from another entry
-L00425	ליגגין	2018	linked from another entry
-L00428	ליגנין	2018	linked from another entry
+L00425	ליגגין	sefaria	linked from another entry
+L00428	ליגנין	sefaria	linked from another entry
 L00429	לֵיד	sefaria	linked from another entry
 L00430	לֵידָה	sefaria	linked from another entry
 L00437	לִיזְבֵּז	sefaria	linked from another entry
@@ -9905,7 +9918,7 @@ M00791	מָחָא II	sefaria	related-entry tab
 M00792	מְחָא II	sefaria	related-entry tab
 M00793	מְחָאָה	sefaria	linked from another entry
 M00794	מַחֲבֵא I	sefaria	linked from another entry
-M00800	מַחְבְּטָא	2018	linked from another entry
+M00800	מַחְבְּטָא	sefaria	linked from another entry
 M00801	מְחַבֵּל	sefaria	linked from another entry
 M00802	מְחַבְּלָא	sefaria	linked from another entry
 M00804	מְחַבַּלְתָּא	sefaria	linked from another entry
@@ -10421,7 +10434,7 @@ M01650	מְמוֹמֵי	sefaria	linked from another entry
 M01651	מָמוֹן	sefaria	matched to a glossary word
 M01652	מָמוֹן ²	sefaria	linked from another entry
 M01653	מְמוּנֶּה	sefaria	related-entry tab
-M01654	מְמוּשׁ	2018	linked from another entry
+M01654	מְמוּשׁ	sefaria	linked from another entry
 M01655	מְמוֹתָא	sefaria	linked from another entry
 M01657	מַמְזִיג	sefaria	linked from another entry
 M01659	מַמְזֵר	sefaria	linked from another entry
@@ -10551,6 +10564,7 @@ M01863	מַסְוֶה	sefaria	linked from another entry
 M01866	מַסּוֹי	sefaria	linked from another entry
 M01868	מְסוּכָּן	sefaria	linked from another entry
 M01869	מְסוּכְסָךְ	sefaria	linked from another entry
+M01870	מְסוֹכְרָיָא	2018	linked from another entry
 M01874	מְסוּמָּר	sefaria	linked from another entry
 M01878	מסופות	sefaria	linked from another entry
 M01882	מָסוֹר	sefaria	linked from another entry
@@ -11092,7 +11106,7 @@ M02698	מֶרְכָּב	sefaria	linked from another entry
 M02699	מַרְכְּבָא	sefaria	matched to a glossary word
 M02700	מֶרְכָּבָה	sefaria	related-entry tab
 M02705	מַרְכּוֹף	sefaria	linked from another entry
-M02706	מָרְכְּיוֹתָא	2018	linked from another entry
+M02706	מָרְכְּיוֹתָא	sefaria	linked from another entry
 M02707	מַרְכָּל	sefaria	linked from another entry
 M02708	מרכנתא	sefaria	linked from another entry
 M02709	מְרָמָא	sefaria	linked from another entry
@@ -11642,8 +11656,8 @@ N00424	נוֹתָר	sefaria	linked from another entry
 N00426	נָזָה	sefaria	linked from another entry
 N00433	נזי	sefaria	linked from another entry
 N00435	נָזִיד	sefaria	linked from another entry
-N00440	נִזְיֵי	2018	linked from another entry
-N00441	נִזְיָיתָא	2018	linked from another entry
+N00440	נִזְיֵי	sefaria	linked from another entry
+N00441	נִזְיָיתָא	sefaria	linked from another entry
 N00442	נְזִיפָה	sefaria	linked from another entry
 N00443	נְזִיפוּתָא	sefaria	linked from another entry
 N00444	נָזִיק	sefaria	linked from another entry
@@ -11783,7 +11797,7 @@ N00627	נִיהוּ	sefaria	linked from another entry
 N00631	נִיוּוּל	sefaria	linked from another entry
 N00632	נִיוּוּלָא	sefaria	linked from another entry
 N00634	נִיוְיָהּ	sefaria	linked from another entry
-N00639	נִיוְתִּי	2018	linked from another entry
+N00639	נִיוְתִּי	sefaria	linked from another entry
 N00641	נִיזָּק	sefaria	related-entry tab
 N00643	נִיחַ	sefaria	related-entry tab
 N00644	נְיָח	sefaria	related-entry tab
@@ -11802,7 +11816,7 @@ N00660	נְיָיח	sefaria	other possible entry
 N00661	נְיָיחָה	sefaria	related-entry tab
 N00663	נְיָיקָא	sefaria	linked from another entry
 N00664	נְיָיר	sefaria	linked from another entry
-N00665	ניכו'	2018	linked from another entry
+N00665	ניכו׳	sefaria	linked from another entry
 N00666	נִיכּוּשׁ	sefaria	linked from another entry
 N00667	נִיכְלָא	sefaria	linked from another entry
 N00669	נִים	sefaria	linked from another entry
@@ -12077,8 +12091,9 @@ N01083	נְפֵשׁ	sefaria	related-entry tab
 N01084	נֶפֶשׁ	sefaria	matched to a glossary word
 N01085	נְפַשׁ	sefaria	other possible entry
 N01086	נֹפֶת	sefaria	linked from another entry
-N01088	נַפְתּוֹחָא	2018	linked from another entry
-N01089	נִפְתִּי	2018	linked from another entry
+N01087	נִפְתָּאֵי	2018	linked from another entry
+N01088	נַפְתּוֹחָא	sefaria	linked from another entry
+N01089	נִפְתִּי	sefaria	linked from another entry
 N01090	נֵץ I	sefaria	matched to a glossary word
 N01091	נֵץ	sefaria	linked from another entry
 N01092	נֵץ II	sefaria	related-entry tab
@@ -12149,7 +12164,7 @@ N01193	נקי	sefaria	linked from another entry
 N01194	נְקֵי	sefaria	linked from another entry
 N01195	נָּקִי I	sefaria	linked from another entry
 N01199	נָקִיד	sefaria	linked from another entry
-N01200	נְקִידָא	2018	linked from another entry
+N01200	נְקִידָא	sefaria	linked from another entry
 N01201	נְקִיָּה	sefaria	linked from another entry
 N01202	נִקָּיוֹן	sefaria	linked from another entry
 N01205	נָקִיט	sefaria	linked from another entry
@@ -12241,7 +12256,7 @@ N01325	נָשַךְ	sefaria	linked from another entry
 N01326	נֶשֶׁךְ	sefaria	linked from another entry
 N01328	נָשַׁל	sefaria	linked from another entry
 N01330	נָשַׁם	sefaria	linked from another entry
-N01331	נְשַׁם	2018	linked from another entry
+N01331	נְשַׁם	sefaria	linked from another entry
 N01332	נֶשֶׁם	sefaria	linked from another entry
 N01333	נִשְׁמָא	sefaria	related-entry tab
 N01334	נְשָׁמָה	sefaria	matched to a glossary word
@@ -12368,6 +12383,7 @@ O00097	סֵבְתָא	sefaria	related-entry tab
 O00099	סְגָא	sefaria	related-entry tab
 O00100	סְגַד	sefaria	matched to a glossary word
 O00101	סִגְדָּא	sefaria	matched to a glossary word
+O00104	סגדיות	2018	linked from another entry
 O00109	סְגוּיָינָא	sefaria	linked from another entry
 O00113	סְגוּלָּה	sefaria	linked from another entry
 O00115	סְגוּלָרִין	sefaria	linked from another entry
@@ -12387,7 +12403,7 @@ O00129	סְגֵיד	sefaria	related-entry tab
 O00131	סְגִיּוּתָא	sefaria	related-entry tab
 O00132	סגיין	sefaria	linked from another entry
 O00135	סגילאדין	sefaria	linked from another entry
-O00138	סְגִיעַ	2018	linked from another entry
+O00138	סְגִיעַ	sefaria	linked from another entry
 O00139	סַגִּיעָא	sefaria	linked from another entry
 O00140	סְגִיעוּתָא	sefaria	linked from another entry
 O00141	סְגִיעֵי	sefaria	linked from another entry
@@ -12410,6 +12426,7 @@ O00164	סְגַף	sefaria	linked from another entry
 O00165	סָגַר	sefaria	matched to a glossary word
 O00166	סְגַר	sefaria	linked from another entry
 O00167	סֶגֶר	sefaria	related-entry tab
+O00170	סִגָּרִיוֹת	2018	linked from another entry
 O00174	סַד	sefaria	linked from another entry
 O00175	סַדָּא	sefaria	linked from another entry
 O00179	סְדוֹם	sefaria	linked from another entry
@@ -12618,7 +12635,7 @@ O00501	סָטַף	sefaria	linked from another entry
 O00502	סָטַר	sefaria	related-entry tab
 O00503	סְטַר I	sefaria	linked from another entry
 O00504	סְטַר II	sefaria	matched to a glossary word
-O00506	סטרגלים	2018	linked from another entry
+O00506	סטרגלים	sefaria	linked from another entry
 O00509	סְטַרְטֵיגוֹס	sefaria	linked from another entry
 O00514	סְטַרְנַלְיָיא	sefaria	linked from another entry
 O00516	סִיאָה	sefaria	linked from another entry
@@ -12804,7 +12821,7 @@ O00835	סֵירוּב	sefaria	linked from another entry
 O00836	סֵירוּג	sefaria	linked from another entry
 O00837	סֵירוּחַ	sefaria	linked from another entry
 O00838	סִירְוַות	sefaria	linked from another entry
-O00840	סִירוֹנִי	2018	linked from another entry
+O00840	סִירוֹנִי	sefaria	linked from another entry
 O00841	סֵירוּס	sefaria	linked from another entry
 O00843	סִירְחָא II	sefaria	linked from another entry
 O00844	סֵירָחוֹן	sefaria	linked from another entry
@@ -12931,7 +12948,7 @@ O01032	סלקונטית	sefaria	linked from another entry
 O01034	סלקטירין	sefaria	linked from another entry
 O01035	סלקיתא	sefaria	linked from another entry
 O01037	סִלְקָתָא	sefaria	linked from another entry
-O01039	סָלַרְיָא	2018	linked from another entry
+O01039	סָלַרְיָא	sefaria	linked from another entry
 O01040	סָלָרִין	sefaria	linked from another entry
 O01041	סָלַת	sefaria	related-entry tab
 O01042	סְלַת	sefaria	related-entry tab
@@ -13027,6 +13044,7 @@ O01164	סִנְאֲתָא	sefaria	linked from another entry
 O01165	סַנְבּוּטִין	sefaria	linked from another entry
 O01168	סִנַּבְרַאי	sefaria	linked from another entry
 O01173	סִנְגְּלָרִין	sefaria	linked from another entry
+O01176	סנדיות	2018	linked from another entry
 O01178	סַנְדָּל	sefaria	linked from another entry
 O01179	סַנְדְּלָא	sefaria	linked from another entry
 O01181	סַנְדַּלְכוֹן	sefaria	linked from another entry
@@ -13034,8 +13052,11 @@ O01182	סַנְדַּלְכוֹנִים	sefaria	linked from another entry
 O01183	סַנְדַּלְכִין	sefaria	linked from another entry
 O01185	סנדלפונין	sefaria	linked from another entry
 O01187	סנדלריאות	sefaria	linked from another entry
+O01190	סַנְדְּרֵי	2018	linked from another entry
 O01193	סְנֶה	sefaria	related-entry tab
 O01194	סנדריוטי	sefaria	linked from another entry
+O01195	סַנְהֶדְרֵי	2018	linked from another entry
+O01196	סַנְהֶדְרִי	2018	linked from another entry
 O01197	סַנּוֹא	sefaria	related-entry tab
 O01199	סְנוּאֲתָא	sefaria	linked from another entry
 O01200	סַנְוֵור	sefaria	linked from another entry
@@ -13062,10 +13083,11 @@ O01229	סְנִיאָס	sefaria	linked from another entry
 O01230	סְנִיאֲתָא	sefaria	linked from another entry
 O01231	סְנֵיגוֹר	sefaria	linked from another entry
 O01232	סַנִּיגוֹרָא	sefaria	linked from another entry
+O01234	סְנִיגְרוֹן	2018	linked from another entry
 O01238	סְנֵין	sefaria	linked from another entry
 O01239	סָנִיף	sefaria	linked from another entry
 O01240	סְנִיפָא	sefaria	linked from another entry
-O01242	סנירתא	2018	linked from another entry
+O01242	סנירתא	sefaria	linked from another entry
 O01243	סְנֵיתָא	sefaria	linked from another entry
 O01244	סָנַן	sefaria	linked from another entry
 O01245	סְנַן	sefaria	linked from another entry
@@ -13080,6 +13102,7 @@ O01256	סְנַפְתָּא	sefaria	linked from another entry
 O01257	סָנַק	sefaria	linked from another entry
 O01258	סְנַק	sefaria	linked from another entry
 O01262	סנקלוס	sefaria	linked from another entry
+O01269	סנריות	2018	linked from another entry
 O01270	סָס	sefaria	linked from another entry
 O01271	סָסָא	sefaria	linked from another entry
 O01272	סַסְגּוֹנָא	sefaria	matched to a glossary word
@@ -13440,7 +13463,8 @@ P00081	עֻגָּה	sefaria	linked from another entry
 P00083	עָגוֹל	sefaria	linked from another entry
 P00084	עֲגוֹל	sefaria	linked from another entry
 P00085	עִגּוּל	sefaria	linked from another entry
-P00087	עָגִיל	2018	linked from another entry
+P00086	עֲגוּלְגּוֹלֶת	2018	linked from another entry
+P00087	עָגִיל	sefaria	linked from another entry
 P00088	עֲגִיל	sefaria	linked from another entry
 P00089	עָגַל	sefaria	linked from another entry
 P00090	עֲגַל I	sefaria	linked from another entry
@@ -13600,8 +13624,8 @@ P00281	עוּמָּה	sefaria	linked from another entry
 P00283	עוֹמֶק	sefaria	other possible entry
 P00284	עוּמְקָא I	sefaria	matched to a glossary word
 P00285	עוּמְקָא II	sefaria	related-entry tab
-P00286	עוֹמְקָן	2018	linked from another entry
-P00287	עוּמְקָנָא	2018	linked from another entry
+P00286	עוֹמְקָן	sefaria	linked from another entry
+P00287	עוּמְקָנָא	sefaria	linked from another entry
 P00288	עוֹמֶר	sefaria	related-entry tab
 P00289	עוּמְרָא	sefaria	matched to a glossary word
 P00290	עָוֹן	sefaria	linked from another entry
@@ -13938,6 +13962,7 @@ P00790	עלי	sefaria	related-entry tab
 P00791	עֲלֵי	sefaria	linked from another entry
 P00792	עֱלִי	sefaria	related-entry tab
 P00794	עֲלִיָּה	sefaria	linked from another entry
+P00795	עֶלְיוֹן	2018	linked from another entry
 P00799	עִלְיָיאתָא	sefaria	linked from another entry
 P00800	עֲלִיָּיה	sefaria	linked from another entry
 P00803	עֲלִיל	sefaria	linked from another entry
@@ -14288,7 +14313,7 @@ P01281	עֲרָבי	sefaria	linked from another entry
 P01283	עֲרָבִית	sefaria	linked from another entry
 P01284	עַרְבִית	sefaria	linked from another entry
 P01285	עַרְבֵּל	sefaria	matched to a glossary word
-P01287	עַרְבְּלָאִין	2018	linked from another entry
+P01287	עַרְבְּלָאִין	sefaria	linked from another entry
 P01289	עֲרַבְרְבִין	sefaria	related-entry tab
 P01290	עֲרַבְתָּא	sefaria	matched to a glossary word
 P01291	עָרַג	sefaria	linked from another entry
@@ -14475,10 +14500,10 @@ Q00006	פֵּאָה	sefaria	linked from another entry
 Q00007	פָּאוֹטוֹת	sefaria	linked from another entry
 Q00008	פְּאוֹרוֹת	sefaria	linked from another entry
 Q00010	פָּאחֵים	sefaria	linked from another entry
-Q00011	פָּאטִי	2018	linked from another entry
+Q00011	פָּאטִי	sefaria	linked from another entry
 Q00012	פאטן	sefaria	linked from another entry
-Q00015	פָּאנִיקְנִין	2018	linked from another entry
-Q00017	פאנקין	2018	linked from another entry
+Q00015	פָּאנִיקְנִין	sefaria	linked from another entry
+Q00017	פאנקין	sefaria	linked from another entry
 Q00022	פָּאפִילְיוֹן	sefaria	linked from another entry
 Q00023	פְּאֵר	sefaria	linked from another entry
 Q00024	פָּאַר	sefaria	linked from another entry
@@ -14546,7 +14571,7 @@ Q00113	פדורוילי	sefaria	linked from another entry
 Q00117	פדי	sefaria	linked from another entry
 Q00120	פְּדָיָה	sefaria	linked from another entry
 Q00121	פִּדְיוֹן	sefaria	linked from another entry
-Q00126	פדיעא	2018	linked from another entry
+Q00126	פדיעא	sefaria	linked from another entry
 Q00129	פַּדָּן	sefaria	linked from another entry
 Q00130	פָּדַע	sefaria	related-entry tab
 Q00131	פְּדַע I	sefaria	related-entry tab
@@ -14591,7 +14616,7 @@ Q00196	פּוֹטְסוֹת	sefaria	linked from another entry
 Q00197	פּוּטְרה	sefaria	linked from another entry
 Q00198	פוטרין	sefaria	linked from another entry
 Q00199	פּוּטְרִיתָא	sefaria	linked from another entry
-Q00201	פּוֹיְיטָן	2018	linked from another entry
+Q00201	פּוֹיְיטָן	sefaria	linked from another entry
 Q00202	פּוּךְ	sefaria	linked from another entry
 Q00205	פּוֹל	sefaria	linked from another entry
 Q00207	*פּוּל	sefaria	linked from another entry
@@ -14622,9 +14647,9 @@ Q00255	פּוּמְפַּיָּיא	sefaria	linked from another entry
 Q00256	פּוֹן	sefaria	matched to a glossary word
 Q00257	*פּוּנָא	sefaria	linked from another entry
 Q00281	פּוּנִין	sefaria	linked from another entry
-Q00283	פונקין	2018	linked from another entry
+Q00283	פונקין	sefaria	linked from another entry
 Q00284	פּוּנְקְלִין	sefaria	linked from another entry
-Q00290	פּוּסְיָאנִי	2018	linked from another entry
+Q00290	פּוּסְיָאנִי	sefaria	linked from another entry
 Q00291	פוסיטים	sefaria	linked from another entry
 Q00292	פוסלין	sefaria	linked from another entry
 Q00293	פּוּסְקָא	sefaria	linked from another entry
@@ -14889,6 +14914,7 @@ Q00766	פִּיסְקָא	sefaria	linked from another entry
 Q00767	פִּיסְקוֹן	sefaria	linked from another entry
 Q00768	פִּיסְקְיָא	sefaria	linked from another entry
 Q00772	פִּיסְּתָא	sefaria	linked from another entry
+Q00775	פִּיעפּוּעָא	2018	linked from another entry
 Q00776	פִּיף	sefaria	linked from another entry
 Q00777	פִּיפָה	sefaria	linked from another entry
 Q00779	פֵּיפוּר	sefaria	linked from another entry
@@ -15098,7 +15124,6 @@ Q01162	פָּנָה	sefaria	related-entry tab
 Q01163	פָּנֶה	sefaria	related-entry tab
 Q01164	פִּנָּה	sefaria	related-entry tab
 Q01167	פָּנוּי	sefaria	linked from another entry
-Q01175	פַּנְטֵי	2018	linked from another entry
 Q01176	*פַּנְטִי	sefaria	linked from another entry
 Q01186	פַּנְטֵרָא	sefaria	related-entry tab
 Q01187	פַּנְטֵרִי II	sefaria	related-entry tab
@@ -15125,7 +15150,7 @@ Q01221	פַּס I	sefaria	related-entry tab
 Q01222	פַּס II	sefaria	matched to a glossary word
 Q01223	פַּס	sefaria	related-entry tab
 Q01224	פְּסָא	sefaria	related-entry tab
-Q01225	פסאני	2018	linked from another entry
+Q01225	פסאני	sefaria	linked from another entry
 Q01227	פָּסַג	sefaria	linked from another entry
 Q01228	פְּסַג	sefaria	linked from another entry
 Q01229	פַּסְגָּא	sefaria	linked from another entry
@@ -15150,11 +15175,11 @@ Q01254	פסח	sefaria	linked from another entry
 Q01255	פִּסֵּחַ	sefaria	linked from another entry
 Q01256	פֶּסַח	sefaria	other possible entry
 Q01257	פִּסְחָא	sefaria	matched to a glossary word
-Q01262	פַּסְטִי	2018	linked from another entry
+Q01262	פַּסְטִי	sefaria	linked from another entry
 Q01269	פסי	sefaria	related-entry tab
 Q01270	פְּסֵי	sefaria	linked from another entry
 Q01271	פְּסֵי ²	sefaria	related-entry tab
-Q01273	פִּסְיָאנִי	2018	linked from another entry
+Q01273	פִּסְיָאנִי	sefaria	linked from another entry
 Q01274	פְּסִיגָא	sefaria	linked from another entry
 Q01275	פָּסֵיד	sefaria	linked from another entry
 Q01276	פְּסִידָא	sefaria	linked from another entry
@@ -15227,7 +15252,7 @@ Q01379	פְּעֵי	sefaria	linked from another entry
 Q01380	פְּעִיָּה	sefaria	linked from another entry
 Q01383	פָּעַל I	sefaria	linked from another entry
 Q01389	פְּעַע	sefaria	linked from another entry
-Q01391	פַּעְפּוּעָא II	2018	linked from another entry
+Q01391	פַּעְפּוּעָא II	sefaria	linked from another entry
 Q01392	פַּעְפּוּעִין	sefaria	linked from another entry
 Q01395	פַּעְפֵּעַ II	sefaria	linked from another entry
 Q01396	פָּעַר	sefaria	linked from another entry
@@ -15330,11 +15355,11 @@ Q01551	פַּרְגּוֹד	sefaria	linked from another entry
 Q01552	פַּרְגּוֹד ²	sefaria	linked from another entry
 Q01553	פַּרְגּוֹל	sefaria	linked from another entry
 Q01554	*פִּרְגּוֹל	sefaria	linked from another entry
-Q01560	פרגילנין	2018	linked from another entry
+Q01560	פרגילנין	sefaria	linked from another entry
 Q01561	פרגינן	sefaria	linked from another entry
 Q01562	פַּרְגִּית	sefaria	linked from another entry
 Q01564	פַּרְגָּל	sefaria	linked from another entry
-Q01565	פְּרַגְלִינִין	2018	linked from another entry
+Q01565	פְּרַגְלִינִין	sefaria	linked from another entry
 Q01569	פְּרַגְמַטְיָא	sefaria	linked from another entry
 Q01572	פָּרַד	sefaria	linked from another entry
 Q01573	פְּרַד	sefaria	linked from another entry
@@ -15360,7 +15385,7 @@ Q01614	פרובטייה	sefaria	linked from another entry
 Q01620	פרוגינון	sefaria	linked from another entry
 Q01623	פרוד	sefaria	linked from another entry
 Q01630	פרוובטה	sefaria	linked from another entry
-Q01633	פרווטי'	2018	linked from another entry
+Q01633	פרווטי׳	sefaria	linked from another entry
 Q01637	פַּרְוַונְקָא	sefaria	linked from another entry
 Q01638	פַּרְוָור	sefaria	linked from another entry
 Q01639	פַּרְוָורָא	sefaria	linked from another entry
@@ -15510,7 +15535,7 @@ Q01930	פַּרְסָי	sefaria	linked from another entry
 Q01931	פַּרְסֵים	sefaria	linked from another entry
 Q01934	פִּרְסֵם	sefaria	linked from another entry
 Q01935	פַּרְסֵם	sefaria	linked from another entry
-Q01936	פַּרְסָנִית	2018	linked from another entry
+Q01936	פַּרְסָנִית	sefaria	linked from another entry
 Q01943	פָּרַע	sefaria	matched to a glossary word
 Q01944	פְּרַע I	sefaria	other possible entry
 Q01945	פְּרַע II	sefaria	related-entry tab
@@ -15520,7 +15545,7 @@ Q01953	פָּרַף	sefaria	linked from another entry
 Q01955	פִּרְפּוּר	sefaria	linked from another entry
 Q01960	פרפלי	sefaria	linked from another entry
 Q01961	פִּרְפֵּר	sefaria	linked from another entry
-Q01962	פַּרְפֵּר	2018	linked from another entry
+Q01962	פַּרְפֵּר	sefaria	linked from another entry
 Q01963	פִּרְפֵּר ²	sefaria	linked from another entry
 Q01964	פַּרְפֵּר ²	sefaria	linked from another entry
 Q01965	פּרְפְּרָאוֹת	sefaria	linked from another entry
@@ -15538,12 +15563,12 @@ Q01983	פִּרְקָא	sefaria	linked from another entry
 Q01993	פֵּרָקוֹן	sefaria	linked from another entry
 Q01994	פִּרְקוּנָא	sefaria	linked from another entry
 Q01995	פרקוניס	sefaria	linked from another entry
-Q02001	פרקילינין	2018	linked from another entry
+Q02001	פרקילינין	sefaria	linked from another entry
 Q02002	פרקינא	sefaria	linked from another entry
 Q02004	פְּרַקְלִיט	sefaria	linked from another entry
 Q02005	פְּרַקְלִיטָא	sefaria	linked from another entry
 Q02006	פְּרַקְלִימִין	sefaria	linked from another entry
-Q02007	פרקלינין	2018	linked from another entry
+Q02007	פרקלינין	sefaria	linked from another entry
 Q02015	פּרַקְסִיס	sefaria	linked from another entry
 Q02017	פָּרַר	sefaria	linked from another entry
 Q02018	פְּרַר	sefaria	linked from another entry
@@ -15981,7 +16006,7 @@ R00464	צִירְעָא	sefaria	linked from another entry
 R00465	צִירְתָּא	sefaria	linked from another entry
 R00467	צִית	sefaria	related-entry tab
 R00468	צֵית	sefaria	matched to a glossary word
-R00472	צִיתְרֵי	2018	linked from another entry
+R00472	צִיתְרֵי	sefaria	linked from another entry
 R00473	צכוונא	sefaria	linked from another entry
 R00475	צֵל	sefaria	linked from another entry
 R00476	צְלָא	sefaria	related-entry tab
@@ -16268,7 +16293,7 @@ S00076	קַבְּלָנָא	sefaria	linked from another entry
 S00078	קַבְּלָנוּת	sefaria	linked from another entry
 S00079	קבלנית	sefaria	linked from another entry
 S00080	קְבֵלְתָּא	sefaria	matched to a glossary word
-S00082	קבסיו	2018	linked from another entry
+S00082	קבסיו	sefaria	linked from another entry
 S00084	קָבַע I	sefaria	related-entry tab
 S00085	קְבַע	sefaria	other possible entry
 S00086	קָבַע II	sefaria	matched to a glossary word
@@ -16391,7 +16416,8 @@ S00251	קוֹדֶשׁ	sefaria	matched to a glossary word
 S00252	קוֹדַשׁ	sefaria	linked from another entry
 S00264	קָווּץ	sefaria	linked from another entry
 S00265	קְווּצּוֹת	sefaria	linked from another entry
-S00271	קוזות	2018	linked from another entry
+S00271	קוזות	sefaria	linked from another entry
+S00272	קוֹזְזוֹת	2018	linked from another entry
 S00273	קוּזִּית	sefaria	linked from another entry
 S00277	קוֹזְמוֹקְרָטוֹר	sefaria	linked from another entry
 S00285	קְוָחָא	sefaria	linked from another entry
@@ -16504,7 +16530,7 @@ S00512	קופלא	sefaria	linked from another entry
 S00514	קופלארגיא	sefaria	linked from another entry
 S00515	קוּפְלָיוֹת	sefaria	linked from another entry
 S00518	קוּפְסָא	sefaria	linked from another entry
-S00519	קוּפְסַאי	2018	linked from another entry
+S00519	קוּפְסַאי	sefaria	linked from another entry
 S00520	קוּפָּץ	sefaria	linked from another entry
 S00521	קופצא	sefaria	linked from another entry
 S00525	קוּפְתָא	sefaria	linked from another entry
@@ -16691,7 +16717,7 @@ S00873	קִידּוּשׁ	sefaria	linked from another entry
 S00874	קִידּוּשָׁא	sefaria	linked from another entry
 S00875	קִידְרָא	sefaria	linked from another entry
 S00877	קִיהוֹת	sefaria	linked from another entry
-S00878	קֵיוָא	2018	linked from another entry
+S00878	קֵיוָא	sefaria	linked from another entry
 S00879	קִיוָּאֵי	sefaria	linked from another entry
 S00880	קִיּוּהָא	sefaria	linked from another entry
 S00882	קִיוּוּיָה	sefaria	linked from another entry
@@ -16772,7 +16798,7 @@ S01023	קינדים	sefaria	linked from another entry
 S01024	קִינָה	sefaria	linked from another entry
 S01027	קִינּוּי	sefaria	linked from another entry
 S01028	קִינוּמָא	sefaria	linked from another entry
-S01038	קִינְטֵירָא	2018	linked from another entry
+S01038	קִינְטֵירָא	sefaria	linked from another entry
 S01044	קִינִים	sefaria	linked from another entry
 S01045	קִינִּין	sefaria	linked from another entry
 S01047	קִינָּמוֹן	sefaria	matched to a glossary word
@@ -16813,9 +16839,9 @@ S01106	קיפל	sefaria	linked from another entry
 S01107	קִיפְלָאוֹת	sefaria	linked from another entry
 S01108	קיפלוס	sefaria	linked from another entry
 S01110	קִיפְלַי	sefaria	linked from another entry
-S01111	קִיפָלִין	2018	linked from another entry
+S01111	קִיפָלִין	sefaria	linked from another entry
 S01112	קִיפָלִיס	sefaria	linked from another entry
-S01113	קיפלירוסים	2018	linked from another entry
+S01113	קיפלירוסים	sefaria	linked from another entry
 S01115	קִיץ	sefaria	related-entry tab
 S01116	קַיִץ	sefaria	linked from another entry
 S01120	קִיצּ־	sefaria	linked from another entry
@@ -16846,13 +16872,13 @@ S01173	קִירוּתָא	sefaria	linked from another entry
 S01178	קִירִי	sefaria	linked from another entry
 S01181	קִירְיוֹסִים	sefaria	linked from another entry
 S01195	קִירְסֵי	sefaria	linked from another entry
-S01197	קירצוד	2018	linked from another entry
+S01197	קירצוד	sefaria	linked from another entry
 S01198	קִירְצוּף	sefaria	linked from another entry
 S01201	קִירְקוּר	sefaria	linked from another entry
 S01202	קִירְקָנוֹת	sefaria	linked from another entry
 S01203	קִירְקָנֵי	sefaria	linked from another entry
 S01204	קירקוסיי	sefaria	linked from another entry
-S01205	קִישׁ I	2018	linked from another entry
+S01205	קִישׁ I	sefaria	linked from another entry
 S01209	קִישּׁוּאִים	sefaria	linked from another entry
 S01210	קִישּׁוּט	sefaria	linked from another entry
 S01211	קִישּׁוּטָא	sefaria	linked from another entry
@@ -17102,7 +17128,7 @@ S01626	קַנָּתָנִית	sefaria	linked from another entry
 S01631	קֵסָא	sefaria	linked from another entry
 S01632	קְסָאוֹת	sefaria	linked from another entry
 S01633	קִסְבָּא	sefaria	linked from another entry
-S01635	קַסְדָּא	2018	linked from another entry
+S01635	קַסְדָּא	sefaria	linked from another entry
 S01637	קַסְוָא	sefaria	related-entry tab
 S01638	קִסְוָה	sefaria	matched to a glossary word
 S01639	קַסְוָוא	sefaria	linked from another entry
@@ -17151,7 +17177,7 @@ S01715	קִפּוּי	sefaria	linked from another entry
 S01719	קִפּוֹף	sefaria	matched to a glossary word
 S01720	קָפוּף	sefaria	related-entry tab
 S01721	קִפּוּץ	sefaria	linked from another entry
-S01722	קְפוּצַאי	2018	linked from another entry
+S01722	קְפוּצַאי	sefaria	linked from another entry
 S01723	קָפֵז	sefaria	linked from another entry
 S01724	קְפַז	sefaria	linked from another entry
 S01725	קָפַח	sefaria	linked from another entry
@@ -17396,7 +17422,7 @@ S02144	קֶרֶץ	sefaria	linked from another entry
 S02145	קְרַץ III	sefaria	linked from another entry
 S02153	קְרָצִית	sefaria	linked from another entry
 S02154	קִרְצֵף	sefaria	linked from another entry
-S02155	קַרְצֵף	2018	linked from another entry
+S02155	קַרְצֵף	sefaria	linked from another entry
 S02156	קְרִצְתָּא	sefaria	linked from another entry
 S02157	*קְרַק	sefaria	linked from another entry
 S02158	קַרְקָא	sefaria	linked from another entry
@@ -17599,7 +17625,7 @@ T00133	רַבְעוּתָא II	sefaria	related-entry tab
 T00134	רְבָעִי	sefaria	linked from another entry
 T00135	*רִבְעִיּוֹת	sefaria	linked from another entry
 T00137	רָבַץ	sefaria	linked from another entry
-T00138	רְבַץ	2018	linked from another entry
+T00138	רְבַץ	sefaria	linked from another entry
 T00141	רַבְצָן	sefaria	linked from another entry
 T00143	רִבְקָה I	sefaria	linked from another entry
 T00145	רִבְרֵב	sefaria	matched to a glossary word
@@ -17793,7 +17819,7 @@ T00438	רוֹקֵחַ	sefaria	linked from another entry
 T00440	רוֹקֵין	sefaria	related-entry tab
 T00441	רוֹקֵן	sefaria	matched to a glossary word
 T00442	רוֹקֵן ²	sefaria	linked from another entry
-T00446	*רוֹרְבָא	2018	linked from another entry
+T00446	*רוֹרְבָא	sefaria	linked from another entry
 T00447	רוֹרֵם	sefaria	linked from another entry
 T00450	רוֹשֶׁם	sefaria	matched to a glossary word
 T00451	רוֹשַׁם	sefaria	linked from another entry
@@ -17949,7 +17975,7 @@ T00674	רֵיעִי	sefaria	related-entry tab
 T00677	רִיפּוּדִין	sefaria	linked from another entry
 T00678	רִיפּוּי	sefaria	linked from another entry
 T00679	רִיפֵי	sefaria	linked from another entry
-T00683	ריפע	2018	linked from another entry
+T00683	ריפע	sefaria	linked from another entry
 T00685	רִיפְתָּא	sefaria	linked from another entry
 T00687	רִיצָה	sefaria	linked from another entry
 T00688	רִיצּוּי	sefaria	linked from another entry
@@ -18252,7 +18278,7 @@ T01117	רָתָה	sefaria	linked from another entry
 T01120	*רִתּוּי	sefaria	linked from another entry
 T01122	רָתַח	sefaria	linked from another entry
 T01123	רְתַח	sefaria	linked from another entry
-T01124	רָתְחָא	2018	linked from another entry
+T01124	רָתְחָא	sefaria	linked from another entry
 T01125	רִתְחָא	sefaria	linked from another entry
 T01129	רתי	sefaria	linked from another entry
 T01131	רְתִיחָא	sefaria	linked from another entry
@@ -18607,8 +18633,9 @@ U00454	שׁוֹמֵר	sefaria	linked from another entry
 U00455	שׁוּמָּר	sefaria	linked from another entry
 U00456	שׁוּמְּרָה	sefaria	linked from another entry
 U00457	שׁוֹמֵרָה	sefaria	linked from another entry
-U00459	שׁוּמְשׁוּם	2018	linked from another entry
+U00459	שׁוּמְשׁוּם	sefaria	linked from another entry
 U00461	שׁוּמְשְׁמָא	sefaria	linked from another entry
+U00462	שׁוּמְשְׁמִים	2018	linked from another entry
 U00463	שׁוּמְשְׁמָנָא	sefaria	linked from another entry
 U00464	שׁוּמְשָׁנָא	sefaria	linked from another entry
 U00466	שׁוּנָאנָא	sefaria	linked from another entry
@@ -18874,7 +18901,7 @@ U00856	שַׂיָּח	sefaria	linked from another entry
 U00857	שָׁיֵחַ	sefaria	linked from another entry
 U00858	שִׁיחַ	sefaria	linked from another entry
 U00859	שִׁיחַ ²	sefaria	linked from another entry
-U00860	שִׁיחָה	2018	linked from another entry
+U00860	שִׁיחָה	sefaria	linked from another entry
 U00862	שִׁיחוּמֵי	sefaria	linked from another entry
 U00864	שִׁיחוֹר	sefaria	linked from another entry
 U00865	שִׁיחוֹרָא	sefaria	linked from another entry
@@ -19195,7 +19222,7 @@ U01392	שִׁלְשׁוּל ²	sefaria	linked from another entry
 U01395	שְׁלשִׁית	sefaria	linked from another entry
 U01396	שִׁלְשֵׁל	sefaria	linked from another entry
 U01397	שִׁלְשֵׁל II	sefaria	linked from another entry
-U01398	שַׁלְשֵׁל I	2018	linked from another entry
+U01398	שַׁלְשֵׁל I	sefaria	linked from another entry
 U01401	שַׁלְשֶׁלֶת	sefaria	linked from another entry
 U01402	שַׁלְשֶׁלְתָּא	sefaria	linked from another entry
 U01404	שְׁלשֶׁת	sefaria	linked from another entry
@@ -19291,6 +19318,7 @@ U01541	שַׁמָּשׁ	sefaria	related-entry tab
 U01542	שֶׁמֶשׁ	sefaria	other possible entry
 U01543	שִׁמְשָׁא	sefaria	matched to a glossary word
 U01544	שַׁמָּשָׁא	sefaria	related-entry tab
+U01546	שֻׁמְשׁוּם	2018	linked from another entry
 U01549	שִׁמְשַׁי	sefaria	related-entry tab
 U01550	שִׁמְשְׁמִין	sefaria	linked from another entry
 U01552	שְׁמַת	sefaria	linked from another entry
@@ -19543,7 +19571,7 @@ U01897	שְׁקַר	sefaria	linked from another entry
 U01898	שַׁקָּרָא	sefaria	related-entry tab
 U01899	שַׁקְרָן	sefaria	linked from another entry
 U01900	שַׁקְרָנָא	sefaria	linked from another entry
-U01902	שֹׁקֶת	2018	linked from another entry
+U01902	שֹׁקֶת	sefaria	linked from another entry
 U01906	שַׂר	sefaria	linked from another entry
 U01907	שָׂרָא	sefaria	linked from another entry
 U01908	שֵׁרָא	sefaria	related-entry tab
@@ -19939,7 +19967,8 @@ V00387	תַּחֲרוּתָא	sefaria	linked from another entry
 V00388	תַּחַשׁ	sefaria	linked from another entry
 V00390	תַּחַת	sefaria	linked from another entry
 V00391	תַּחַת ²	sefaria	linked from another entry
-V00393	תַּחְתּוֹן	2018	linked from another entry
+V00392	תַּחְתָּאָה	2018	linked from another entry
+V00393	תַּחְתּוֹן	sefaria	linked from another entry
 V00394	תַּחְתּוֹנִיּוֹת	sefaria	linked from another entry
 V00395	תַּחְתִּי	sefaria	linked from another entry
 V00396	תַּחְתִּים	sefaria	linked from another entry

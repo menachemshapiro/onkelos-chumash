@@ -20,7 +20,7 @@ for r in sorted(used):
     rows.append((r, (API.get(r) or F[r])['headword'], src, why.get(r, 'linked from another entry')))
 with open(SP + 'jastrow/entries-in-use.tsv', 'w', encoding='utf8') as fh:
     fh.write('rid\theadword\ttext from\twhy it is included\n' + '\n'.join('\t'.join(x) for x in rows) + '\n')
-NOT = set(json.load(open(SP + 'jastrow/not-in-word-search.json'))) if os.path.exists(SP + 'jastrow/not-in-word-search.json') else set()   # checked: Sefaria has no such entry
+NOT = set(json.load(open(SP + 'jastrow/not-in-word-search.json'))) if os.path.exists(SP + 'jastrow/not-in-word-search.json') else set()   # the word search misses these; fetched by page name instead (jastrow-pages.json)
 want = {r: [F[r]['headword']] + F[r].get('alt_headwords', []) for r, h, s, w in rows if s == '2018' and r not in NOT}
 def q(h): return re.sub(r'\s+[IVX]+$', '', h.strip().lstrip('*')).strip()
 WANT = {r: [q(h) for h in hs if "'" not in h and '׳' not in h and q(h)] for r, hs in want.items()}
