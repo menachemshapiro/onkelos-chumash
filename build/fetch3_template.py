@@ -9,7 +9,7 @@ How to run (needs Python 3, nothing else to install):
 It asks Sefaria's public dictionary API (https://www.sefaria.org/api/words/...) for each entry's
 headword, one request at a time with a pause between requests, and keeps only the Jastrow entries
 we want (matched by their id). If an entry is not found under its headword, it tries the entry's
-other spellings. Expect about 1 to 1.5 hours. If it stops, run it again: it picks up where it left off.
+other spellings. Expect a few minutes. If it stops, run it again: it picks up where it left off.
 When it finishes it writes  jastrow-lookups-3.json  next to this script. Attach that file in the Claude chat.
 """
 import json, os, time, urllib.parse, urllib.request, urllib.error
