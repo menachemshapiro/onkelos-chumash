@@ -102,15 +102,35 @@ LEX = {}
 for f in glob.glob(SP + 'g/*.json'):
     for k, v in json.load(open(f, encoding='utf8'))['lex'].items(): LEX.setdefault(k, v)
 LINKED = set()
+def same_as(r):
+    """Jastrow's "ch. same": an Aramaic entry whose meaning is the entry right before it. Returns that entry's id."""
+    e = E[r]
+    lead = re.sub(r'<[^>]+>', '', (e.get('language_reference') or '')).strip(' .,;')
+    first = next((x.get('definition', '') for x in (e.get('content') or {}).get('senses', []) if isinstance(x, dict) and x.get('definition')), '')
+    first = re.sub(r'<[^>]+>', '', first).strip(' .,;')
+    if not (lead.startswith('same') or re.match(r'^(ch\.\s*)?same\b', first)): return None
+    p = r[0] + '%05d' % (int(r[1:]) - 1)
+    return p if p in E else None
 def ent(r):
     d = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
+    p = same_as(r)
+    if p:   # show the entry it means, inside the same tab
+        d['html'] += f'<div class="jsame"><p class="jsame-h">“Same” means the entry before it: <a class="jx" data-r="{p}" dir="rtl" href="#">{html.escape(E[p]["headword"])}</a></p>{render(E[p])}</div>'
+        d['same'] = p; LINKED.add(p)
     if E[r].get('src') == '2018': d['s'] = 2018
     return d
 idx, groups = {}, collections.defaultdict(dict)
 for k, m in M.items():
     tabs = related(m['rid'], LEX[k]['h'])
-    also = [r for r in m['also'] if r not in tabs]
-    idx[k] = [m['rid'], m['kind'], also, tabs if len(tabs) > 1 else []]
+    rid = m['rid']
+    for t in list(tabs):           # a "same" entry already carries the entry before it: one tab for the two
+        p = same_as(t)
+        if p and p in tabs:
+            tabs.remove(p)
+            if rid == p: rid = t
+    also = [r for r in m['also'] if r not in tabs and r != rid]
+    idx[k] = [rid, m['kind'], also, tabs if len(tabs) > 1 else []]
+    m = dict(m, rid=rid)
     for r in [m['rid']] + also + tabs:
         groups[r[0]][r] = ent(r)
 have = {r for d in groups.values() for r in d}

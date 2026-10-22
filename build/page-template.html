@@ -149,12 +149,14 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-body .jhead { color: var(--muted); font-size: .9rem; }
 .jas-body .jsub { margin-inline-start: 1em; }
 .jas-body .jsub p { margin: .2em 0; }
-.jas-body span[dir="rtl"], .jas-body a[dir="rtl"] { font-family: var(--tg-font); font-size: 1.08em; }
+.jas-body span[dir="rtl"], .jas-body a[dir="rtl"] { font-family: var(--tg-font); font-size: 1.08em; unicode-bidi: isolate; }
 .jas-body a { color: var(--targum); text-decoration: none; }
 .jas-body a:hover { text-decoration: underline; }
 .jas-body a.jx { border-bottom: 1px solid color-mix(in srgb, currentColor 40%, transparent); }
 .jas-also .jback { font-family: var(--f-ui); font-size: .85rem; }
 .jas-body a.jonk { border-bottom: 1px dotted currentColor; }
+.jas-body .jsame { margin-top: .8em; padding-top: .6em; border-top: 1px solid var(--line, #ccc); }
+.jas-body .jsame-h { font-size: .9em; opacity: .8; margin: 0 0 .3em; }
 .jas-body a.jhere { background: var(--mark); color: var(--mark-ink); border-radius: 3px; padding: 0 .15em; }
 .jas-body .jn, .jas-body .jg { color: var(--targum); }
 .jas-also { margin-top: 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: .8rem; color: var(--muted); }
