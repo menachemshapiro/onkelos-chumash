@@ -4,7 +4,7 @@ import json, glob, re, os
 SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 F = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))
 API = {}
-for f in ['jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:
+for f in ['jastrow-all.json', 'jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:
     if os.path.exists(SP + 'jastrow/' + f): API.update(json.load(open(SP + 'jastrow/' + f, encoding='utf8'))['entries'])
 ix = json.load(open(SP + 'j/index.json', encoding='utf8'))
 why = {}

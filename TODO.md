@@ -1,6 +1,7 @@
 # To do
 
 ## Done (Oct 20–22)
+- **Full Jastrow downloaded** (Oct 22, evening): all 32,512 entries now have Sefaria's current text (jastrow-all.json: 11,520 from the word search, 72 by page name; kept off GitHub). The pop-up (21,518 entries) uses Sefaria's text throughout; nothing left on the 2018 text. A complete file for the other project: out/jastrow-complete-sefaria-2026.zip.
 - **Metsudah typo fixed** (Oct 22): Eikev 11:24 “form the river” → “from the river” (build/fixes.py and the word-by-word file).
 - **"As Onkelos reads it" English, word by word** for the whole Chumash (2,321 pesukim), including Bereishis 49 (reviewed by Menachem Oct 21). Steps for a parsha: worksheet build/ws/<pid>.txt → build/eo-align/<pid>.txt → eo_check.py → eo_merge.py → build/eotest.js → read the published p/*.json → publish.
 - **Notes cleanup and Metsudah notes.** Rule: no "Metsudah's X follows the Hebrew", "is the Hebrew name" or "this word/prefix is not translated" notes. Note only what adds something beyond Onkelos's own words, or where Metsudah's kept English is loose (checked against the glossary with build/flagnotes.py and full word lists in build/ws-full/).
@@ -38,7 +39,6 @@
 - Rule: add a connecting word Metsudah leaves out only when it reads better, in {curly brackets}. Bereishis 1:2 stays "wind".
 
 ## Next
-- **Waiting for jastrow-all.json** (fetch_jastrow_all.py running on Menachem's computer, ~6 h): then check all 32,512 entries are there, switch the 562 pop-up entries still on the 2018 text, publish. The full dictionary itself stays off GitHub.
 - **Abbreviations not on Jastrow's lists** (abbr-review.md, section 3: Ib., m., f., sq., Pa., Af. …): Menachem to decide which to add.
 - **Texts to research** (where our Targum text differs from another source; left as is for now):
   - Bereishis 3:5 גַּלֵּי (CAL: גְלֵי)

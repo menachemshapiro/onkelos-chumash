@@ -4,7 +4,7 @@
 import json, os, re, html, collections, glob
 SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
 E = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))      # Sefaria-Data 2018 copy: fills gaps only
-for _f in ['jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:   # Sefaria's current text wins
+for _f in ['jastrow-all.json', 'jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:   # Sefaria's current text wins
     if os.path.exists(SP + 'jastrow/' + _f): E.update(json.load(open(SP + 'jastrow/' + _f, encoding='utf8'))['entries'])
 DEPTH = int(os.environ.get('JDEPTH', '9'))   # how many link-steps away from a glossary word an entry is still included
 M = json.load(open(SP + 'build/jas-map.json', encoding='utf8'))

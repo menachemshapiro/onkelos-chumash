@@ -170,7 +170,7 @@ shutil.copytree(SP + 'build/gl', B + '/gl')
 # "as Onkelos reads it": worksheets, hand-written word-by-word matches, merged output
 for d in ['ws', 'ws-full', 'eo-align', 'eo']: shutil.copytree(SP + 'build/' + d, B + '/' + d)
 # Jastrow: the fetch script and what it brought back from Sefaria
-shutil.copytree(SP + 'jastrow', B + '/jastrow', ignore=shutil.ignore_patterns('__pycache__', '*progress*', 'html', 'separate', 'Jastrow-full.xml', 'jastrow-2018.json', 'jastrow-all.json', '*.zip'))
+shutil.copytree(SP + 'jastrow', B + '/jastrow', ignore=shutil.ignore_patterns('__pycache__', '*progress*', 'html', 'separate', 'Jastrow-full.xml', 'jastrow-2018.json', 'jastrow-all.json', 'jastrow-complete*', '*.zip'))
 for f in ['gl-aliyot.json', 'gl-stats.json', 'cal-log.json']:
     if os.path.exists(SP + 'build/' + f): shutil.copy(SP + 'build/' + f, B)
 shutil.copy(SP + 'decisions.md', OUT + '/DECISIONS.md')
