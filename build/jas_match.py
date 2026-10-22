@@ -36,6 +36,7 @@ def resolve(rid, depth=0):
     m = re.match(r'^(?:same,?\s*)?(?:v\.|=)\s*(?:sub\s+)?([\u0590-\u05ff*]+(?:\s+[IVX]+)?)', plain)
     if depth < 2 and m and len(plain) < 45:
         tgt = m.group(1).strip('*')
+        if '׳' in tgt or "'" in tgt: return rid      # an abbreviated pointer ("v. sub חז׳"): can't tell which entry
         for r in BYV.get(voc(re.sub(r'\s+[IVX]+$', '', tgt)), []) + BYC.get(cons(tgt), []):
             if r != rid and hw(E[r]) == re.sub(r'\s+[IVX]+$', '', tgt) or (r != rid and cons(hw(E[r])) == cons(tgt)):
                 return resolve(r, depth + 1)
