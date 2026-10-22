@@ -22,7 +22,7 @@
 - **Empty stub tabs** (Oct 22): a numeral letter or bare pointer Sefaria doesn't have (ב', ל', שׁע') is no longer its own tab; it is shown after the entry next to it.
 - **The 32 entries Sefaria didn't return** (Oct 22, fetch_jastrow4.py): 5 were there under another spelling (now Sefaria text); 1 (קְשַׁשׁ I) is folded into the entry before it; 26 (19 Aramaic verb entries that start straight with a verb form, 7 stubs) ARE on Sefaria (their neighbours name them) but its word search doesn't return them; fetch_jastrow5.py asks for them by page name.
 - **Abbreviations as tooltips + “preced.”/“next w.” groups** (Oct 22, 16:00; published 16:25): words on Jastrow's List of Abbreviations are underlined and show their meaning on hover/tap. Entries tied by “preced.” or “next w.” are shown together (pop-up now 21,178 entries; 562 still on the 2018 text, all covered by fetch_jastrow_all.py). Both abbreviation lists now from Sefaria (English matched regardless of capitals; pairs h. text, i.e., e.g., h. a. ch. as one tooltip). Still open: abbr-review.md section 3 (Menachem undecided); jastrow-all.json (running, ~6 h) to replace the 562 entries still on the 2018 text.
-- **Full Jastrow download** (for a separate project, not for GitHub): jastrow/fetch_jastrow_all.py (10,537 entries, ~2 h) → jastrow-all.json.
+- **Full Jastrow download** (for a separate project, not for GitHub): jastrow/fetch_jastrow_all.py (10,537 entries, ~6 h) → jastrow-all.json.
 - **Jastrow download complete** (Oct 22, 15:29): the last 4 came back. Every entry in the pop-up (20,431) now has Sefaria's current text; none left on the 2018 copy. The 2018 copy is still used for cross-checking (Targ. O. citations, links).
 - **Round 3, seventh download** (Oct 22, 15:25): all 26 came back. Pop-up: 20,431 entries, 20,427 with Sefaria's text, 4 on the 2018 text (newly linked: סיגרון I, סנדרייתא, פעפועא I, תחתיתא).
 - **Round 3, sixth download + 9 by page name** (Oct 22, 15:19): 85 more entries; the 9 the word search misses fetched by page name (fetch_jastrow6.py, added to jastrow-pages.json, now 36 entries). Pop-up: 20,427 entries, 20,401 with Sefaria's text, 26 on the 2018 text (newly linked).
@@ -37,6 +37,8 @@
 - Rule: add a connecting word Metsudah leaves out only when it reads better, in {curly brackets}. Bereishis 1:2 stays "wind".
 
 ## Next
+- **Waiting for jastrow-all.json** (fetch_jastrow_all.py running on Menachem's computer, ~6 h): then check all 32,512 entries are there, switch the 562 pop-up entries still on the 2018 text, publish. The full dictionary itself stays off GitHub.
+- **Abbreviations not on Jastrow's lists** (abbr-review.md, section 3: Ib., m., f., sq., Pa., Af. …): Menachem to decide which to add.
 - **Texts to research** (where our Targum text differs from another source; left as is for now):
   - Bereishis 3:5 גַּלֵּי (CAL: גְלֵי)
   - Bereishis 3:6 אַסֵּי (CAL: אָסוּ)
