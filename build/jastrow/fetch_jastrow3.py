@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Download Sefaria's current text for the Jastrow entries the Chumash with Onkelos site uses
-but so far has only from Sefaria's 2018 data (round 3; 4 entries).
+but so far has only from Sefaria's 2018 data (round 3; 0 entries).
 
 How to run (needs Python 3, nothing else to install):
     python3 fetch_jastrow3.py          (on Windows: py fetch_jastrow3.py)
@@ -21,20 +21,7 @@ OUT = os.path.join(HERE, "jastrow-lookups-3.json")
 UA = "onkelos-chumash glossary (github.com/menachemshapiro/onkelos-chumash); round 3, entries used by the site"
 
 # entry id -> [headword, other spellings...]
-WANT = {
-"O00573": [
-"סִיגָּרוֹן"
-],
-"O01191": [
-"סַנְדַּרְיָיתָא"
-],
-"Q01390": [
-"פַּעְפּוּעָא"
-],
-"V00398": [
-"תַּחְתֵּיתָא"
-]
-}
+WANT = {}
 
 def fetch(word):
     url = "https://www.sefaria.org/api/words/" + urllib.parse.quote(word) + "?always_consonants=1"
