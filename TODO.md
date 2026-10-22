@@ -1,6 +1,7 @@
 # To do
 
-## Done (Oct 20–22)
+## Done (Oct 20–23)
+- **Jastrow fixes from the 1903 scans** (Oct 23): binyan names, split entries, סָתַר I, the אָרִיחַ brick passages (build/jas_fix.py; see DECISIONS). To check on the scans: רְבֵי ² (Pa. or *Pa.), נרווד (p. 937), *דְּקִילִין (p. 319), אָחַז *Nif./Hif.
 - **Full Jastrow downloaded** (Oct 22, evening): all 32,512 entries now have Sefaria's current text (jastrow-all.json: 11,520 from the word search, 72 by page name; kept off GitHub). The pop-up (21,518 entries) uses Sefaria's text throughout; nothing left on the 2018 text. A complete file for the other project: out/jastrow-complete-sefaria-2026.zip.
 - **Metsudah typo fixed** (Oct 22): Eikev 11:24 “form the river” → “from the river” (build/fixes.py and the word-by-word file).
 - **"As Onkelos reads it" English, word by word** for the whole Chumash (2,321 pesukim), including Bereishis 49 (reviewed by Menachem Oct 21). Steps for a parsha: worksheet build/ws/<pid>.txt → build/eo-align/<pid>.txt → eo_check.py → eo_merge.py → build/eotest.js → read the published p/*.json → publish.

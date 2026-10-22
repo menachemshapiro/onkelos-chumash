@@ -6,6 +6,8 @@ SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad
 E = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))      # Sefaria-Data 2018 copy: fills gaps only
 for _f in ['jastrow-all.json', 'jastrow-extra.json', 'jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json', 'jastrow-pages.json']:   # Sefaria's current text wins
     if os.path.exists(SP + 'jastrow/' + _f): E.update(json.load(open(SP + 'jastrow/' + _f, encoding='utf8'))['entries'])
+import sys; sys.path.insert(0, SP + 'build'); import jas_fix
+SPLITOFF = jas_fix.apply(E)   # hand fixes checked against the 1903 scans (build/jas_fix.py)
 DEPTH = int(os.environ.get('JDEPTH', '9'))   # how many link-steps away from a glossary word an entry is still included
 M = json.load(open(SP + 'build/jas-map.json', encoding='utf8'))
 TAG = re.compile(r'<(/?)(\w+)([^>]*)>')
@@ -138,6 +140,7 @@ GMAX = 8
 def group(r):
     """the entry plus the entries it is tied to, in dictionary order: an entry marked "same" or "preced." comes after
     the entry it refers to. [first, the next tied one, ...]; long chains are cut to GMAX entries around r."""
+    if not re.fullmatch(r'[A-Z]\d{5}', r): return [r]   # an entry split off by jas_fix (no place in the numbering)
     first, seen = r, {r}
     while before(first) and before(first) not in seen: first = before(first); seen.add(first)
     out = [first]
@@ -147,7 +150,7 @@ def group(r):
         lo = max(0, min(i - 2, len(out) - GMAX)); out = out[lo:lo + GMAX]
     return out
 def ent(r):
-    d = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
+    d = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': jas_fix.fix_html(r, render(E[r]))}
     if E[r].get('src') == '2018': d['s'] = 2018
     g = group(r)
     if len(g) > 1:   # shown together, one under the other (the page puts each entry's title above it)
@@ -188,6 +191,13 @@ for nb, ts in EXTRA.items():     # show the folded stubs inside the listing they
     for t in ts:
         if t not in groups[t[0]]: groups[t[0]][t] = ent(t)
     d = groups[nb[0]][nb]; d['g'] = list(d.get('g') or [nb]) + sorted(ts)   # the real entry first, so it gives the heading
+for nid, host in SPLITOFF.items():   # an entry jas_fix split off its host: shown right after the host, wherever the host is shown
+    if host not in groups[host[0]]: continue
+    groups[nid[0]][nid] = ent(nid)
+    for d in groups[host[0]].values():
+        if host in (d.get('g') or []): d['g'].insert(d['g'].index(host) + 1, nid)
+    hd = groups[host[0]][host]
+    if not hd.get('g'): hd['g'] = [host, nid]
 json.dump(idx, open(SP + 'j/index.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 for g, d in groups.items(): json.dump(d, open(SP + f'j/{g}.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 print(len(idx), 'glossary words;', sum(len(d) for d in groups.values()), 'entries in', len(groups), 'files')
