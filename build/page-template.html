@@ -155,8 +155,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-body a.jx { border-bottom: 1px solid color-mix(in srgb, currentColor 40%, transparent); }
 .jas-also .jback { font-family: var(--f-ui); font-size: .85rem; }
 .jas-body a.jonk { border-bottom: 1px dotted currentColor; }
-.jas-body .jent { font-family: var(--tg-font); font-size: 1.15em; font-weight: 700; margin: 1em 0 .3em; padding-top: .6em; border-top: 1px solid var(--line, #ccc); text-align: right; }
-.jas-body .jent:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+.jas-body .jent { display: block; margin: 1em 0 10px; padding-top: .6em; border-top: 1px solid var(--line, #ccc); text-align: left; line-height: 1.3; }
+.jas-body .jent:first-child { display: none; }   /* the first entry's title is the pop-up heading */
 .jas-body a.jhere { background: var(--mark); color: var(--mark-ink); border-radius: 3px; padding: 0 .15em; }
 .jas-body .jn, .jas-body .jg { color: var(--targum); }
 .jas-also { margin-top: 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: .8rem; color: var(--muted); }
@@ -943,7 +943,7 @@ async function jasRender(rid){
   if (!C.tabs.includes(rid) && rid !== C.rid && !C.also.includes(rid)) note.push("Opened from a link in another entry.");
   if (e.s === 2018) note.push("This entry's text is from Sefaria's 2018 data; Sefaria's current version may have small corrections.");
   document.getElementById("jas-note").textContent = note.join(" ");
-  body.innerHTML = e.parts ? e.parts.map(m => `<h4 class="jent" dir="rtl">${escH([m.h, ...(m.a || [])].join(", "))}</h4>${m.html}`).join("") : e.html;
+  body.innerHTML = e.parts ? e.parts.map(m => `<h4 class="jent"><b class="jas-hw" dir="rtl">${escH([m.h, ...(m.a || [])].join(", "))}</b></h4>${m.html}`).join("") : e.html;
   jasPop.dataset.cur = rid;
   // Onkelos citations open the pasuk here (the parsha is found from the glossary's chapter ranges)
   body.querySelectorAll('a[href*="sefaria.org/Onkelos_"]').forEach(a => {
