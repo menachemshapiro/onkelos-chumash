@@ -21,6 +21,7 @@
 - **Targ. O. citations** (Oct 22): every 2018 entry citing an Onkelos pasuk (3,388 citations) checked against the word in that pasuk (build/targ_check.py). 291 glossary words newly linked or relinked to the entry Jastrow cites for that very word (build/jas-targ.json); 2,430 citations now land on the linked entry.
 - **Empty stub tabs** (Oct 22): a numeral letter or bare pointer Sefaria doesn't have (ב', ל', שׁע') is no longer its own tab; it is shown after the entry next to it.
 - **The 32 entries Sefaria didn't return** (Oct 22, fetch_jastrow4.py): 5 were there under another spelling (now Sefaria text); 1 (קְשַׁשׁ I) is folded into the entry before it; 26 (19 Aramaic verb entries that start straight with a verb form, 7 stubs) ARE on Sefaria (their neighbours name them) but its word search doesn't return them; fetch_jastrow5.py asks for them by page name.
+- **Round 3, seventh download** (Oct 22, 15:25): all 26 came back. Pop-up: 20,431 entries, 20,427 with Sefaria's text, 4 on the 2018 text (newly linked: סיגרון I, סנדרייתא, פעפועא I, תחתיתא).
 - **Round 3, sixth download + 9 by page name** (Oct 22, 15:19): 85 more entries; the 9 the word search misses fetched by page name (fetch_jastrow6.py, added to jastrow-pages.json, now 36 entries). Pop-up: 20,427 entries, 20,401 with Sefaria's text, 26 on the 2018 text (newly linked).
 - **Round 3, fifth download** (Oct 22, 15:06): 268 of the 277 came back. Their text links to 85 more entries. Pop-up: 20,398 entries, 20,304 with Sefaria's text, 94 on the 2018 text (85 newly linked; 9 the word search doesn't return: דפליסט׳, הרטבה׳, ניכו׳, נשם, פרווטי׳, פרפר, קרצף, רבץ, שלשל I).
 - **Round 3, fourth download + page-name fetch** (Oct 22, evening): 801 more entries; the 27 entries Sefaria's word search misses were fetched by page name (jastrow/jastrow-pages.json; they are on Sefaria, the search just doesn't return them); 1,230 extra entries recovered from the progress log (jastrow/jastrow-extra.json). Pop-up: 20,321 entries, 20,044 with Sefaria's text, 277 still on the 2018 text.
@@ -33,7 +34,7 @@
 - Rule: add a connecting word Metsudah leaves out only when it reads better, in {curly brackets}. Bereishis 1:2 stays "wind".
 
 ## Next
-- **Optional: one more round of jastrow/fetch_jastrow3.py** (keep jastrow-progress-3.jsonl next to it): 26 entries still show the 2018 text; under a minute.
+- **Optional: one more round of jastrow/fetch_jastrow3.py** (keep jastrow-progress-3.jsonl next to it): 4 entries still show the 2018 text; seconds.
 - **Texts to research** (where our Targum text differs from another source; left as is for now):
   - Bereishis 3:5 גַּלֵּי (CAL: גְלֵי)
   - Bereishis 3:6 אַסֵּי (CAL: אָסוּ)
