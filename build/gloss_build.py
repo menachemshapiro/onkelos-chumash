@@ -33,7 +33,7 @@ CODE = {
  'v': 'verb', 'n': 'noun', 'a': 'adjective', 'prep': 'preposition', 'conj': 'conjunction', 'adv': 'adverb',
  'part': 'particle', 'pron': 'pronoun', 'num': 'number', 'ord': 'ordinal number', 'interj': 'interjection', 'neg': 'negative',
  'G': 'Pe‘al', 'D': 'Pa‘el', 'C': 'Af‘el', 'Gt': 'Itpe‘el', 'Dt': 'Itpa‘al', 'Ct': 'Ittaf‘al', 'Gp': 'Pe‘il (passive)',
- 'Q': '4-letter root', 'Qt': 'passive of a 4-letter root', 'Sh': 'Shaf‘el', 'Sht': 'Ishtaf‘al',
+ 'Q': '4-letter root', 'Po': 'Po‘el', 'Qt': 'passive of a 4-letter root', 'Sh': 'Shaf‘el', 'Sht': 'Ishtaf‘al',
  'pf': 'past', 'impf': 'imperfect (future)', 'impv': 'imperative', 'ptc': 'participle', 'pp': 'passive participle', 'inf': 'infinitive',
  '3ms': '3rd masc. sing.', '3fs': '3rd fem. sing.', '2ms': '2nd masc. sing.', '2fs': '2nd fem. sing.', '1cs': '1st person sing.',
  '3mp': '3rd masc. pl.', '3fp': '3rd fem. pl.', '2mp': '2nd masc. pl.', '2fp': '2nd fem. pl.', '1cp': '1st person pl.',
@@ -52,7 +52,7 @@ def expand(code):
     main, *sfx = code.split('+')
     w = main.split()
     out = []
-    if w and w[0] in ('G', 'D', 'C', 'Gt', 'Dt', 'Ct', 'Gp', 'Q', 'Qt', 'Sh', 'Sht'): out.append('verb')
+    if w and w[0] in ('G', 'D', 'C', 'Gt', 'Dt', 'Ct', 'Gp', 'Q', 'Qt', 'Sh', 'Sht', 'Po'): out.append('verb')
     out += [CODE.get(x, x.replace('_', ' ')) for x in w]
     s = ', '.join(out)
     for p in sfx: s += ' + ' + SUFX(p)
@@ -60,7 +60,7 @@ def expand(code):
 
 def auto_note(code):
     w = code.split('+')[0].split()
-    if not w or w[0] not in ('G', 'D', 'C', 'Gt', 'Dt', 'Ct', 'Gp', 'Q', 'Qt', 'Sh', 'Sht') or len(w) < 2: return ''
+    if not w or w[0] not in ('G', 'D', 'C', 'Gt', 'Dt', 'Ct', 'Gp', 'Q', 'Qt', 'Sh', 'Sht', 'Po') or len(w) < 2: return ''
     t = w[1]; pgn = w[2] if len(w) > 2 else ''
     if t in T_SHORT and pgn in PGN_SHORT: return PGN_SHORT[pgn] + ', ' + T_SHORT[t]
     if t in ('ptc', 'pp'): return ('passive participle' if t == 'pp' else 'participle (‑ing)') + (', ' + CODE[pgn] if pgn in CODE else '')

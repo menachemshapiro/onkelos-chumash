@@ -24,7 +24,7 @@
 אָחֲרֵי | ohoran | a fs | another
 יְכִילַ.ת~she_p | ykl | G pf 3fs | (the land) could (not)
 תּוֹתָבוּתְ.הוֹן=their | totavuta | n fs+3mp | of their sojourning
-לְ=.סוֹבָר.ָא~inf_end | svr | Q inf | to support (lit. to bear)
+לְ=.סוֹבָר.ָא~inf_end | svr | Po inf | to support (lit. to bear)
 שְׁמָהַת | shum | n mp cs | the names of
 רַבְרְבָנ.ֵיהוֹן=their | rav | n mp+3mp | their chiefs
 מִ=from.לְּהַלָּא | lhalla | adv | beyond (מִלְּהַלָּא לְ… = beyond …)

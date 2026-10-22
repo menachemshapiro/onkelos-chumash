@@ -100,7 +100,7 @@
 מְאַבְּדֵי | abd | D ptc mp cs | who lose
 סוּכְלְתָנוּ | sukhletanu | n | understanding
 אִסְתַּכָּלוּ | skl | Itpa pf 3mp | they would consider
-סְבָרוּ | svr | G pf 3mp | they would perceive
+סְבָרוּ | svr2 | G pf 3mp | they would perceive
 יֶעֱרְקוּן | rq | G impf 3mp | will flee
 תַּקִּיפְ.הוֹן=their | taqqif | a+3mp | their Mighty One
 מְסָרִ.נּוּן=them | msr | G pf 3ms+3mp | gave them over

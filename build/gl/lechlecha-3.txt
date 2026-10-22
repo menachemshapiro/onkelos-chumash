@@ -1,6 +1,6 @@
 # Lech Lecha 13:5–13:18
 דְּ=that.אָזֵיל | azl | G ptc ms | who went
-סוֹבָר.ַת~she_p | svr | Q pf 3fs | (the land) could bear | CAL: swbr, 4-letter verb “to carry, bear”
+סוֹבָר.ַת~she_p | svr | Po pf 3fs | (the land) could bear | CAL: swbr, 4-letter verb “to carry, bear”
 לְ=.מִ~inf.יתַב | ytv | G inf | to dwell | the י of יתב merges with the מִ
 כַּחֲדָא | kahada | adv | together
 יְכִיל.וּ~they_p | ykl | G pf 3mp | (they) were able

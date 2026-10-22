@@ -12,7 +12,7 @@
 לַ=to.אֲבָהָתְ.כוֹן=your | av | n mp+2mp | to your fathers
 וְ=and.לִ=to.בְנֵ.יהוֹן=their | bnin | n mp+3mp | and to their children
 דַ=of.אֲבָהָתְ.כוֹן=your | av | n mp+2mp | of your fathers
-אֵסוֹבַר | svr | Q impf 1cs | can I bear
+אֵסוֹבַר | svr | Po impf 1cs | can I bear
 טָרְחֲ.כוֹן=your | tirha | n+2mp | your burden (lit. trouble)
 וְ=and.עִסְקֵ.יכוֹן=your | isqa | n mp+2mp | and your affairs
 וְ=and.דִינְ.כוֹן=your | din2 | n+2mp | and your disputes
@@ -52,8 +52,8 @@
 לִבָּ.נָא=our | lev | n+1cp | our heart
 רַבְרְב.ָן~fp | rav | a fp | great
 תִתָּבְרוּן | tvr | Gt impf 2mp | be broken (dismayed)
-סוֹבְרָ.ךְ=you | svr | Q pf 3ms+2ms | (Hashem) carried you
-מְסוֹבַר | svr | Q ptc ms | carries
+סוֹבְרָ.ךְ=you | svr | Po pf 3ms+2ms | (Hashem) carried you
+מְסוֹבַר | svr | Po ptc ms | carries
 הַלֶּכְתּוּן | hlk | D pf 2mp | you went
 מֵיתֵ.יכוֹן=your | meta | n+2mp | your coming
 לֵיתֵ.יכוֹן=you | leit | neg+2mp | you are not

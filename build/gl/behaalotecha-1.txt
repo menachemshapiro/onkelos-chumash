@@ -132,7 +132,7 @@
 מְטוּל | matula | n cs | the burden of
 הֲ=?.אַב | av | n | (am I) a father
 דְּ=that.אָמְרֵ.ת~you_p | amr | G pf 2ms | that You say
-דִ=that.מְסוֹבַר | svr | Q ptc ms | (as) carries
+דִ=that.מְסוֹבַר | svr | Po ptc ms | (as) carries
 תֻּרְבְּיָנָא | turbyana | n emph | a nurse (lit. one who rears)
 יַנְקָא | yanqa | n emph | the suckling
 מְנַן | menan | adv | from where
@@ -143,7 +143,7 @@
 וּ=and.תְדַבַּר | dbr | G impf 2ms | and you shall take
 וְ=and.יִתְעַתְּדוּן | td | Dt impf 3mp | and they shall stand ready (present themselves)
 דַּ=that.עֲלָ.ךְ=you | al | prep+2ms | that is upon you
-תְסוֹבַר | svr | Q impf 2ms | you (alone) bear
+תְסוֹבַר | svr | Po impf 2ms | you (alone) bear
 אִזְדַּמְּנוּ | zmn | Dt impv mp | prepare yourselves
 בְּכֵיתוּן | bky | G pf 2mp | you wept
 יֵכְלִ.נָּנָא=us | akhal | C impf 3ms+1cp | will feed us

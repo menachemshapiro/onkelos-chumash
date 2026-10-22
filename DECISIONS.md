@@ -194,3 +194,5 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 - A Jastrow entry that cites an Onkelos pasuk for the same word as our glossary word is taken as that word's entry (build/jas-targ.json), unless the citation is for a different part of speech (rejected by hand). Hand-checked choices (build/jas-override.json) still win.
 
 - Jastrow's “ch. same” means “same as the entry before”. Such an entry is shown together with that entry in one tab, in dictionary order, each under its own title (build/jas_build.py, group()).
+
+- Where CAL and Jastrow differ on a word's meaning or root, the glossary follows Jastrow and notes CAL's view in the meaning.

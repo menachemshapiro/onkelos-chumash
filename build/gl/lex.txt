@@ -26,7 +26,7 @@ ginta | גנן | גִּינְתָא | noun, f. | garden
 eden |  | עֵדֶן | proper name | Eden
 shwy | שוי | אַשְׁוֵי | verb (Af'el) | to put, place, set
 taman |  | תַּמָּן | adverb | there
-mraggeg | רגג | מְרַגֵּג | adjective | highly desirable, pleasant
+mraggeg | רגג | מְרַגֵּג | adjective | highly desirable, pleasant (Jastrow: from the root רגג; CAL lists it as a word of its own, מרגג)
 hkm | חכם | חַכִּים | adjective | wise, knowing
 bish | באש | בִּישׁ | adjective | bad, evil
 nahar | נהר | נַהֲרָא | noun | river
@@ -396,7 +396,7 @@ esaq | עסק | עֵיסַק | noun | matter, affair (עַל עֵיסַק = on a
 lwy | לוי | אַלְוִי | verb (Af'el) | to accompany, escort
 matlan | נטל | מַטְלָנָא | noun | journey, stage of travel
 qadmeita | קדם | קַדְמֵיתָא | noun / adverb | the beginning; (בְּקַדְמֵיתָא) at first, from the east
-svr | סבר | סוֹבַר | verb (4-letter root) | to carry, bear
+svr | סבר | סוֹבַר | verb (Po'el) | to carry, bear (Jastrow: Po'el of סבר; CAL: a four-letter root, סובר)
 kahada |  | כַּחֲדָא | adverb | together
 matsuta | נצי | מַצּוּתָא | noun, f. | quarrel, strife
 tsippuna | צפן | צִפּוּנָא | noun | north
@@ -905,7 +905,7 @@ tsby | צבי | צְבָא | verb | to want, desire
 asr | אסר | אֲסַר | verb | to bind, tie
 esarta | אסר | אֱסַרְתָּא | noun, f. | sheaf (lit. bundle)
 shultan | שלט | שׁוּלְטָנָא | noun | rule, dominion; ruler
-svr2 | סבר | סְבַר | verb | to think, expect, intend
+svr2 | סבר | סְבַר | verb | to think, expect, intend; to understand, perceive
 sihra | סהר | סִהֲרָא | noun | moon
 nzf | נזף | נְזַף | verb | to rebuke
 heikha | | הֵיכָא | question word | where
@@ -1926,7 +1926,7 @@ yhf | יחף | יְחֵף | verb | to be barefoot
 baqra | בקר | בַּקְרָא | noun | herd (of cattle)
 abbof | עבף | עַבּוֹף | adjective | leafy, thick with leaves
 ayla | איל | אַיְלָא | noun | deer, hart
-ditsa | | דִּיצָא | noun | ibex (Hebrew: זֶמֶר)
+ditsa | | דִּיצָא | noun | deer, gazelle (Jastrow; CAL: ibex; Hebrew: זֶמֶר)
 hesrona | חסר | חֶסְרוֹנָא | noun | lack, need
 hrv | חרב | חֲרַב | verb | to be destroyed, laid waste
 kewan | כון | כֵּוָן | adjective | correct, certain (lit. aimed true)

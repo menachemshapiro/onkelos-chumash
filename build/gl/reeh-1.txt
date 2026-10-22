@@ -100,7 +100,7 @@
 וְ=and.יַעְלָא | yala2 | n emph | and the wild goat
 וְ=and.רֵימָא | rema | n emph | and the wild goat (Hebrew: דִישֹׁן)
 וְ=and.תוֹרְבָּלָא | torbala | n emph | and the wild ox (Hebrew: תְאוֹ)
-וְ=and.דִיצָא | ditsa | n emph | and the ibex (Hebrew: זָמֶר)
+וְ=and.דִיצָא | ditsa | n emph | and the deer (Hebrew: זָמֶר; CAL: ibex)
 מַטִּלְפ.ֵי=pl | tlf | C ptc mp cs | that have split
 טִלְפ.ַיָּא=pl | tilfa | n mp emph | the hooves
 מַסְּק.ֵי=pl | slq | C ptc mp cs | that bring up (chew)
