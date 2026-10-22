@@ -33,7 +33,7 @@ def clean(s):
                 jx = j18.group(1)
                 if jx not in E: return '<a>'
                 LINKED.add(jx)
-                return f'<a dir="rtl" class="jx" data-r="{jx}" href="https://www.sefaria.org/{urllib.parse.quote("Jastrow,_" + E[jx]["headword"] + ".1")}" target="_blank" rel="noopener">'
+                return f'<a dir="rtl" class="jx" data-r="{jx}" role="link" tabindex="0">'   # opened inside the pop-up; no link out to Sefaria
             h = re.search(r'href="([^"]*)"', attrs)
             if not h: return '<a>'
             href = h.group(1); href = href if href.startswith('/') else '/' + href
@@ -44,7 +44,7 @@ def clean(s):
             jx = (HW2RID.get(tgt) or HW2KEY.get(hwkey(tgt))) if m else None
             if jx:   # a link to another Jastrow entry we have: opened inside the pop-up
                 LINKED.add(jx)
-                return f'<a{rtl} class="jx" data-r="{jx}" href="https://www.sefaria.org{html.escape(href, quote=True)}" target="_blank" rel="noopener">'
+                return f'<a{rtl} class="jx" data-r="{jx}" role="link" tabindex="0">'
             return f'<a{rtl} href="https://www.sefaria.org{html.escape(href, quote=True)}" target="_blank" rel="noopener">'
         return ''
     s = TAG.sub(fix, s or '')
@@ -152,6 +152,10 @@ def ent(r):
     g = group(r)
     if len(g) > 1:   # shown together, one under the other (the page puts each entry's title above it)
         d['g'] = g; LINKED.update(g)
+    t = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', d['html']))).strip()
+    if len(t) < 90 and re.match(r'^[,;\s]*(v\.|read\b|=|corr\.|s\. )', t):   # a bare pointer ("v. X"): the page shows X with it,
+        v = list(dict.fromkeys(x for x in re.findall(r'class="jx" data-r="([^"]+)"', d['html']) if x != r))   # unless X is already in another tab
+        if v: d['v'] = v
     return d
 idx, groups = {}, collections.defaultdict(dict)
 for k, m in M.items():

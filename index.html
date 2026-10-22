@@ -189,7 +189,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-body span[dir="rtl"], .jas-body a[dir="rtl"] { font-family: var(--tg-font); font-size: 1.08em; unicode-bidi: isolate; }
 .jas-body a { color: var(--targum); text-decoration: none; }
 .jas-body a:hover { text-decoration: underline; }
-.jas-body a.jx { border-bottom: 1px solid color-mix(in srgb, currentColor 40%, transparent); }
+.jas-body a.jx { cursor: pointer; border-bottom: 1px solid color-mix(in srgb, currentColor 40%, transparent); }
 .jas-also .jback { font-family: var(--f-ui); font-size: .85rem; }
 .jas-body a.jonk { border-bottom: 1px dotted currentColor; }
 .jas-body .jent { display: block; margin: 1em 0 10px; padding-top: .6em; border-top: 1px solid var(--line, #ccc); text-align: left; line-height: 1.3; }
@@ -958,13 +958,24 @@ async function jasRender(rid){
   document.getElementById("jas-also").innerHTML = ""; tabsEl.innerHTML = ""; body.textContent = "Loading…";
   let e, tabE = [], alsoE = [];
   // entries Jastrow marks "same" (the Aramaic entry after a Hebrew one) are shown together, in dictionary order
-  const full = async r => { const x = (await jGroup(r))[r]; if (!x || !x.g) return x;
-    const ms = await Promise.all(x.g.map(m => jGroup(m).then(y => y[m])));
-    if (ms.some(m => !m)) return x;
-    return { h: ms[0].h, a: ms[0].a || [], html: ms.map(m => m.html).join(""), s: ms.some(m => m.s === 2018) ? 2018 : undefined, parts: ms, g: x.g }; };
+  // a bare pointer ("v. X") also shows X, unless X is already in another tab (skip)
+  const full = async (r, skip) => { const x = (await jGroup(r))[r]; if (!x) return x;
+    const g = x.g || [r];
+    let ms = await Promise.all(g.map(m => jGroup(m).then(y => y[m])));
+    if (ms.some(m => !m)) { if (!x.g) return x; ms = [x]; }
+    const vs = [...new Set(ms.flatMap(m => m.v || []))].filter(t => !g.includes(t) && !(skip && skip.has(t)));
+    const extra = (await Promise.all(vs.map(t => jGroup(t).then(y => y[t]).catch(() => null)))).filter(Boolean);
+    if (!x.g && !extra.length) return x;
+    ms = [...ms, ...extra];
+    return { h: ms[0].h, a: ms[0].a || [], html: ms.map(m => m.html).join(""), s: ms.some(m => m.s === 2018) ? 2018 : undefined, parts: ms, g: [...g, ...vs] }; };
   try {
-    e = await full(rid);
-    tabE = await Promise.all(C.tabs.map(r => full(r).catch(() => null)));
+    const raw = await Promise.all(C.tabs.map(r => jGroup(r).then(y => y[r]).catch(() => null)));
+    const inTabs = new Set(C.tabs.flatMap((r, k) => [r, ...((raw[k] && raw[k].g) || [])]));
+    const own = new Set([rid, ...(((await jGroup(rid))[rid] || {}).g || [])]);
+    const skip = new Set([...inTabs].filter(t => !own.has(t)));
+    e = await full(rid, skip);
+    tabE = await Promise.all(C.tabs.map((r, k) => { const mine = new Set([r, ...((raw[k] && raw[k].g) || [])]);
+      return full(r, new Set([...inTabs].filter(t => !mine.has(t)))).catch(() => null); }));
     alsoE = await Promise.all(C.also.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
   } catch (err) { body.textContent = "Couldn't load the dictionary. Check your connection."; return; }
   if (!e) { body.textContent = "Entry not found."; return; }
@@ -1001,9 +1012,10 @@ async function jasRender(rid){
   if (JHIST.length) document.getElementById("jas-also").innerHTML += ` <button type="button" class="jback" dir="ltr">← Back</button>`;
   else if (!C.tabs.includes(rid) && rid !== C.rid) document.getElementById("jas-also").innerHTML += ` <button type="button" data-r="${C.rid}" dir="ltr">↩ This word</button>`;
 }
+document.getElementById("jas-body").addEventListener("keydown", ev => { const x = ev.target.closest("a.jx"); if (x && (ev.key === "Enter" || ev.key === " ")) { ev.preventDefault(); x.click(); } });
 document.getElementById("jas-body").addEventListener("click", ev => {
   const x = ev.target.closest("a.jx");
-  if (x && !(ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.button === 1)) {   // another Jastrow entry: open it here
+  if (x) {   // another Jastrow entry: open it here
     ev.preventDefault(); const cur = jasPop.dataset.cur; if (cur) JHIST.push(cur); jasRender(x.dataset.r); return;
   }
   const a = ev.target.closest("a.jonk"); if (!a) return;
