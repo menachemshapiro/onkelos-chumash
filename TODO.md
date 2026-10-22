@@ -53,6 +53,7 @@
 - **Tighten the Jastrow tab grouping** if it gets unwieldy (weak-letter rule only for verbs).
 
 ## Later
+- **Inspect whether it is worth splitting at revi'i in longer clauses** (from the Lech Lecha 15:2 report, Oct 22). Now the rule never breaks at revi'a. Counted: splitting lines of 8+ words where both pieces have 3+ words changes 504 pesukim (7 words: 708; 9: 312; 10: 192; with 2+ words a side, 575 at 8 words; every revi'a with 2+ a side: about 1,850 lines). 15:2 itself (5-word line) would not change. Cost: the Onkelos and English must be split at the same point (mostly automatic, the rest by hand). Before deciding: show a sample of splits.
 - **Rashi translation** (not soon).
 - **Text PDF** (deferred).
 - **Paseq issue** (left as is for now).
