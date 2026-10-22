@@ -3,13 +3,23 @@
   j/<A..Z>.json     {rid: {"h": headword, "html": entry as safe HTML}}, grouped by the first letter of the rid"""
 import json, os, re, html, collections, glob
 SP = '/tmp/claude-0/-home-claude/b2b6b330-0f50-5db3-a7e4-69fa01b487e5/scratchpad/'
-E = json.load(open(SP + 'jastrow/jastrow-lookups.json', encoding='utf8'))['entries']
-E.update(json.load(open(SP + 'jastrow/jastrow-lookups-2.json', encoding='utf8'))['entries'])   # round 2
+E = json.load(open(SP + 'jastrow/jastrow-2018.json', encoding='utf8'))      # Sefaria-Data 2018 copy: fills gaps only
+for _f in ['jastrow-lookups.json', 'jastrow-lookups-2.json', 'jastrow-lookups-3.json']:   # Sefaria's current text wins
+    if os.path.exists(SP + 'jastrow/' + _f): E.update(json.load(open(SP + 'jastrow/' + _f, encoding='utf8'))['entries'])
+DEPTH = int(os.environ.get('JDEPTH', '9'))   # how many link-steps away from a glossary word an entry is still included
 M = json.load(open(SP + 'build/jas-map.json', encoding='utf8'))
 TAG = re.compile(r'<(/?)(\w+)([^>]*)>')
 import urllib.parse
 HW2RID = {}
-for _r, _e in E.items(): HW2RID.setdefault(_e['headword'].strip(), _r)
+for _r, _e in sorted(E.items(), key=lambda x: x[1].get('src') == '2018'): HW2RID.setdefault(_e['headword'].strip(), _r)
+def hwkey(h):
+    h = u.normalize('NFD', h.replace('²', ' II').replace('³', ' III').replace('⁴', ' IV').replace('¹', ' I')); num = re.search(r'\s([IVX]+)$', h.strip())
+    return re.sub(r'[^\u05d0-\u05ea]', '', h) + (' ' + num.group(1) if num else '')
+import unicodedata as u
+HW2KEY, _seen = {}, collections.Counter()
+for _r, _e in E.items(): _seen[hwkey(_e['headword'])] += 1
+for _r, _e in E.items():
+    if _seen[hwkey(_e['headword'])] == 1: HW2KEY[hwkey(_e['headword'])] = _r
 def clean(s):
     """keep <i>, <b>, <sup>, rtl spans and Sefaria reference links; drop every other tag"""
     def fix(m):
@@ -18,12 +28,20 @@ def clean(s):
         if tag == 'span': return '</span>' if close else ('<span dir="rtl">' if 'rtl' in attrs else '<span>')
         if tag == 'a':
             if close: return '</a>'
+            j18 = re.search(r'data-r="([^"]+)"', attrs)
+            if 'jx2018' in attrs and j18:
+                jx = j18.group(1)
+                if jx not in E: return '<a>'
+                LINKED.add(jx)
+                return f'<a dir="rtl" class="jx" data-r="{jx}" href="https://www.sefaria.org/{urllib.parse.quote("Jastrow,_" + E[jx]["headword"] + ".1")}" target="_blank" rel="noopener">'
             h = re.search(r'href="([^"]*)"', attrs)
             if not h: return '<a>'
             href = h.group(1); href = href if href.startswith('/') else '/' + href
             rtl = ' dir="rtl"' if 'rtl' in attrs else ''
             m = re.match(r'^/Jastrow,_(.+)\.\d+$', urllib.parse.unquote(href))
-            jx = HW2RID.get(m.group(1).replace('_', ' ').strip()) if m else None
+            tgt = m.group(1).replace('_', ' ').strip() if m else ''
+            if m and re.fullmatch(r'[\u05d0-\u05ea]׳', tgt): return '<a>'       # Sefaria links abbreviations like נ׳ to nowhere
+            jx = (HW2RID.get(tgt) or HW2KEY.get(hwkey(tgt))) if m else None
             if jx:   # a link to another Jastrow entry we have: opened inside the pop-up
                 LINKED.add(jx)
                 return f'<a{rtl} class="jx" data-r="{jx}" href="https://www.sefaria.org{html.escape(href, quote=True)}" target="_blank" rel="noopener">'
@@ -84,19 +102,22 @@ LEX = {}
 for f in glob.glob(SP + 'g/*.json'):
     for k, v in json.load(open(f, encoding='utf8'))['lex'].items(): LEX.setdefault(k, v)
 LINKED = set()
+def ent(r):
+    d = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
+    if E[r].get('src') == '2018': d['s'] = 2018
+    return d
 idx, groups = {}, collections.defaultdict(dict)
 for k, m in M.items():
     tabs = related(m['rid'], LEX[k]['h'])
     also = [r for r in m['also'] if r not in tabs]
     idx[k] = [m['rid'], m['kind'], also, tabs if len(tabs) > 1 else []]
     for r in [m['rid']] + also + tabs:
-        groups[r[0]][r] = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
+        groups[r[0]][r] = ent(r)
 have = {r for d in groups.values() for r in d}
-todo = set(LINKED) - have
-while todo:
-    r = todo.pop()
-    groups[r[0]][r] = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
-    have.add(r); todo |= set(LINKED) - have
+for step in range(DEPTH):
+    todo = set(LINKED) - have
+    if not todo: break
+    for r in sorted(todo): groups[r[0]][r] = ent(r); have.add(r)
 json.dump(idx, open(SP + 'j/index.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 for g, d in groups.items(): json.dump(d, open(SP + f'j/{g}.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 print(len(idx), 'glossary words;', sum(len(d) for d in groups.values()), 'entries in', len(groups), 'files')

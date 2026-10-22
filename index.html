@@ -961,6 +961,7 @@ async function jasRender(rid){
   if (rid === C.rid && C.kind === "root") note.push("Jastrow has no entry for this exact word, so this is the entry for its root.");
   if (rid !== C.rid && C.tabs.includes(rid)) note.push("Another related entry. The one matched to this word is the highlighted tab, marked “this word”.");
   if (!C.tabs.includes(rid) && rid !== C.rid && !C.also.includes(rid)) note.push("Opened from a link in another entry.");
+  if (e.s === 2018) note.push("This entry's text is from Sefaria's 2018 data; Sefaria's current version may have small corrections.");
   document.getElementById("jas-note").textContent = note.join(" ");
   body.innerHTML = e.html; jasPop.dataset.cur = rid;
   // Onkelos citations open the pasuk here (the parsha is found from the glossary's chapter ranges)

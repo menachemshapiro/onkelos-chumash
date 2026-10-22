@@ -188,3 +188,7 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 ## Translation check (Oct 22)
 - A word's meaning in a pasuk is checked against its dictionary meaning and Jastrow; where the link was to the wrong word (a homograph, or a form matched by letters alone) it is relinked; where Onkelos's meaning differs from Metsudah's English and the English was ours, the English follows Onkelos.
 - Hand fixes to the glossary live in build/glfix.tsv so they survive a rebuild: F = relink/re-gloss a form, A = a verse-scoped line added to gl/cleanup.txt, L = a dictionary meaning.
+
+## Jastrow sources (Oct 22)
+- Sefaria's current text (from its API) is always preferred. Sefaria-Data's 2018 XML (commit 947c1b9, the one before "Delete dicts") is used only for entries not yet downloaded, and for cross-referencing and citation checks done locally, so Sefaria's servers are not asked for them. Entries shown from the 2018 copy carry a note in the pop-up.
+- A Jastrow entry that cites an Onkelos pasuk for the same word as our glossary word is taken as that word's entry (build/jas-targ.json), unless the citation is for a different part of speech (rejected by hand). Hand-checked choices (build/jas-override.json) still win.
