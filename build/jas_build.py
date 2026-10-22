@@ -102,6 +102,9 @@ LEX = {}
 for f in glob.glob(SP + 'g/*.json'):
     for k, v in json.load(open(f, encoding='utf8'))['lex'].items(): LEX.setdefault(k, v)
 LINKED = set()
+NOTSEF = set(json.load(open(SP + 'jastrow/not-on-sefaria.json'))) if os.path.exists(SP + 'jastrow/not-on-sefaria.json') else set()
+EXTRA = {}
+def stub(r): return len(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', render(E[r])))) < 60
 def same_as(r):
     """Jastrow's "ch. same": an Aramaic entry whose meaning is the entry right before it. Returns that entry's id."""
     e = E[r]
@@ -140,6 +143,11 @@ for k, m in M.items():
     gr = group(rid)[0]
     if gr in firsts: rid = firsts[gr]
     tabs = keep
+    for t in list(tabs):           # an empty stub Sefaria doesn't have (a numeral letter, a bare pointer): fold it into the
+        if t == rid or t not in NOTSEF or not stub(t): continue       # listing next to it, or drop the tab
+        tabs.remove(t)
+        nb = [x for x in (t[0] + '%05d' % (int(t[1:]) - 1), t[0] + '%05d' % (int(t[1:]) + 1)) if x in tabs or x == rid]
+        if nb: EXTRA.setdefault(rid if rid in nb else nb[0], set()).add(t)
     also = [r for r in m['also'] if r not in tabs and r != rid]
     idx[k] = [rid, m['kind'], also, tabs if len(tabs) > 1 else []]
     m = dict(m, rid=rid)
@@ -150,6 +158,10 @@ for step in range(DEPTH):
     todo = set(LINKED) - have
     if not todo: break
     for r in sorted(todo): groups[r[0]][r] = ent(r); have.add(r)
+for nb, ts in EXTRA.items():     # show the folded stubs inside the listing they sit next to, after it
+    for t in ts:
+        if t not in groups[t[0]]: groups[t[0]][t] = ent(t)
+    d = groups[nb[0]][nb]; d['g'] = list(d.get('g') or [nb]) + sorted(ts)   # the real entry first, so it gives the heading
 json.dump(idx, open(SP + 'j/index.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 for g, d in groups.items(): json.dump(d, open(SP + f'j/{g}.json', 'w', encoding='utf8'), ensure_ascii=False, separators=(',', ':'))
 print(len(idx), 'glossary words;', sum(len(d) for d in groups.values()), 'entries in', len(groups), 'files')
