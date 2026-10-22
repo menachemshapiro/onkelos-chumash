@@ -1,6 +1,7 @@
 # To do
 
 ## Done (Oct 20–22)
+- **Metsudah typo fixed** (Oct 22): Eikev 11:24 “form the river” → “from the river” (build/fixes.py and the word-by-word file).
 - **"As Onkelos reads it" English, word by word** for the whole Chumash (2,321 pesukim), including Bereishis 49 (reviewed by Menachem Oct 21). Steps for a parsha: worksheet build/ws/<pid>.txt → build/eo-align/<pid>.txt → eo_check.py → eo_merge.py → build/eotest.js → read the published p/*.json → publish.
 - **Notes cleanup and Metsudah notes.** Rule: no "Metsudah's X follows the Hebrew", "is the Hebrew name" or "this word/prefix is not translated" notes. Note only what adds something beyond Onkelos's own words, or where Metsudah's kept English is loose (checked against the glossary with build/flagnotes.py and full word lists in build/ws-full/).
 - **Interface cleanup.** Compact toolbar, short English-mode names with tooltips, Hebrew 1.85rem by default, no column labels on phones, "Onkelos word by word" under the English and kept when the English is off.
@@ -47,7 +48,6 @@
   - Vayeshev (Bereishis 40:13) יַדְבְּרִנָּךְ (probably a misprint for יִדְכְּרִנָּךְ)
   - Vayetzei (Bereishis 30:37) וְדִדְלוּף (possibly a misprint for וּדְדוּלְבָּא)
   - Re'eh (Devarim 14:1) תִתְחַמְמוּן, "do not gash yourselves" (some editions: תִתְהַמְמוּן?)
-- **Metsudah typo** "form the river" (Eikev 11:24): needs a page rebuild (build/fixes.py).
 - **Report button on the GitHub copy.** On menachemshapiro.github.io there is no database, so reports have nowhere to go. Collect them somewhere Claude can read, for example a text file in the repo. A static page cannot write to the repo by itself, so options to weigh: a pre-filled GitHub issue (needs a GitHub account), a small free form service that saves to a file or sheet, or saving reports on the phone with a "send all" button. Also check that the claude.ai copy's reports still reach Claude.
 
 ## Offered, not started

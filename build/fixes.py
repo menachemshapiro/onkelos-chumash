@@ -6,6 +6,7 @@ import re, collections
 FIX = {
     ('chayeisarah', '24:28'): {'e': [('of these these happenings', 'of these happenings')]},  # report 2026-10-20
     ('lechlecha', '14:9'): {'e': [('Sidal, king of Goyim', 'Tidal, king of Goyim')]},        # as in 14:1
+    ('eikev', '11:24'): {'e': [('form the river', 'from the river')]},                   # Metsudah typo
 }
 
 WORDFIX = [
