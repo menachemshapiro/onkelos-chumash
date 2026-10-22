@@ -193,10 +193,10 @@
 23:11>וִ=and.ירִים | rwm | C impf 3ms | and he shall wave (lit. lift)
 23:14>וּ=and.קְלִי | qly | Gp ptc ms | and parched (grain)
 23:27>בְּ=on.עַשְׂרָא | asar | num | on the tenth (lit. on ten)
-23:29>מִתְעַנֵּי | any2 | Dt ptc ms | fasts (lit. is afflicted)
+23:29>מִתְעַנֵּי | any | Dt ptc ms | fasts (lit. is afflicted)
 23:34>בְּ=on.חַמְשָׁא | hamsha | num | on the fif(teenth)
 24:7>וְ=and.תִתֵּן | yhb | G impf 2ms | and you shall put
 24:11>דִּבְרִי | name | name | Divri
 24:15>וִ=and.יקַבֵּל | qbl | D impf 3ms | and he shall bear (lit. receive)
 24:18>וּ=and.דְ=whoever.יִקְטוֹל | qtl | G impf 3ms | and whoever kills
-וּ=and.תְעַנּוּן | any2 | D impf 2mp | and you shall afflict (yourselves)
+וּ=and.תְעַנּוּן | any | D impf 2mp | and you shall afflict (yourselves)

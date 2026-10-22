@@ -170,11 +170,11 @@ M: I thought | will fall | My anger | upon them | and I will destroy them
 
 @ 32:27
 = same
-E: lest their oppressors <b>plot</b>;
-M: lest | plot | their oppressors | ^
+E: lest their oppressors <b>boast</b>;
+M: lest | boast | their oppressors | ^
 = same
-E: and not <b>from before</b> Adonoy has performed all this.’
-M: and not | from | before | Adonoy | has performed | all | this
+E: and not <b>from before</b> Adonoy <b>was</b> all this.’
+M: and not | from | before | Adonoy | was | all | this
 
 @ 32:29
 = same

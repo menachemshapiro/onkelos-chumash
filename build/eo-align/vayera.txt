@@ -124,8 +124,8 @@ E: He said, I will not <b>inflict destruction</b>
 M: He said | not | I will | inflict destruction
 
 @ 18:31
-E: He said, Here I wished to speak <b>before</b> my Master.
-M: He said | Here | - | I wished | to speak | before | my Master
+E: He said, Here I <b>have begun</b> to speak <b>before</b> my Master.
+M: He said | Here | - | I have begun | to speak | before | my Master
 E: <b>Perhaps</b> twenty are found there?
 M: Perhaps | are found | there | twenty
 

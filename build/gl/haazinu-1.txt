@@ -1,6 +1,6 @@
 # Haazinu, all in one batch
 אַצִיתוּ | tsyt | C impv mp | listen
-אִמְרֵי | imra | n mp cs | the words of
+אִמְרֵי | meimra | n mp cs | the words of
 פֻמִּ.י=my | pum | n+1cs | my mouth
 אֻלְפָּנִ.י=my | ulpan | n+1cs | my teaching
 יִתְקַבַּל | qbl2 | Dt impf 3ms | will be received
@@ -28,7 +28,7 @@
 אַשְׁרִ.נּוּן=them | shry | C pf 3ms+3mp | He settled them
 אַלֵּפִ.נּוּן=them | lf | D pf 3ms+3mp | He taught them
 נְטָרִ.נּוּן=them | ntr | G pf 3ms+3mp | He guarded them
-כְּ=like.בָבַת | bavta | n cs | like the pupil of
+כְּ=like.בָבַת | bavat | n cs | like the pupil of
 דִּ=that.מְחִישׁ | mhsh | C ptc ms | that rouses
 לְ=its.קִנֵּ.יהּ=its | qinna | n+3ms | its nest
 מִתְחוֹפֵף | hwf | Itpa ptc ms | hovers
@@ -143,7 +143,7 @@
 דְבָבַ.י=my | dvavu | n+1cs | My enemies (lit. of My enmity)
 אֱשַׁלֵּם | shlm | D impf 1cs | I will repay
 אֱרַוֵּי | rwy | D impf 1cs | I will sate (lit. make drunk)
-גִּירַ.י=my | gira | n mp+1cs | My arrows
+גִּירַ.י=my | gira2 | n mp+1cs | My arrows
 קְטִיל.ָן=pl | qtl | Gp ptc mp | the slain
 וְ=and.שִׁבְי.ָן=pl | shivya | n mp | and captives
 לְ=to.אַעְדָּאָה | dy | C inf | to remove

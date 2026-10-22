@@ -6,7 +6,7 @@
 וּ=.בַרְד.ָּא=emph | barda | n emph | and hail
 דִ=.כְוָת.ֵיהּ=it | kwat | prep+3ms | (the) like of it
 לְ=.מִן | min | prep | from (the day)
-דְ=that.אִשְׁתַּ~passive (Ishtaf‘al).כְלָל.ַת~she_p | kol | !verb, Ishtaf‘al, past, 3rd fem. sing. | (Egypt) was founded | from כלל, “to complete”
+דְ=that.אִשְׁתַּ~passive (Ishtaf‘al).כְלָל.ַת~she_p | shkll | !verb, Ishtaf‘al, past, 3rd fem. sing. | (Egypt) was founded | from כלל, “to complete”
 כְּנוֹשׁ | kns | G impv 2ms | gather (in)!
 יִ~he_f.תְ~Gt.כְּנֵשׁ | kns | Gt impf 3ms | (and) is (not) gathered
 שְׁבַק | shbq | G pf 3ms | (he) left

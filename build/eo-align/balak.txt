@@ -130,8 +130,8 @@ M: listen closely | to my word | son of | Tzipor
 @ 23:19
 E: <b>God’s word is not as that of man who speaks with deceit.</b>
 M: is not | as that of | man | ^ | word | God’s | who | ^ | speaks | with deceit
-E: <b>Nor is it as that of mankind who decree and then change their mind.</b>
-M: Nor | is it | as that of | mankind | ^ | who | - | decree | - | and then | change their mind
+E: <b>Nor is it as the deeds of mankind, who decree to act, and then go back and reconsider.</b>
+M: Nor | is it | as the deeds of | mankind | ^ | who | - | decree | to act | and then go back | and reconsider
 E: <b>He says and does</b>,
 M: He | says | and does
 E: <b>and all His word endures</b>.
@@ -308,8 +308,8 @@ E: “<b>Woe to those evil people who are living when God does this</b>.
 M: Woe | to those evil people | who are living | when | does | God | - | this
 
 @ 24:24
-E: <b>groups will beg help from Rome</b>
-M: groups | will beg help | from Rome
+E: <b>groups will be summoned from Rome</b>
+M: groups | will be summoned | from Rome
 E: and destroy Ashur, and <b>will enslave those beyond Peras</b>,
 M: and destroy | Ashur | and will enslave | those beyond | Peras
 ! וִיעַנּוּן is literally "and they will afflict".

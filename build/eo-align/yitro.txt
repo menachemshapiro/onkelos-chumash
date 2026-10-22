@@ -38,7 +38,7 @@ M: Now | obey | me | I will give you advice
 E: and <b>the Word of</b> God <b>will</b> be <b>your support</b>.
 M: and will be | the Word of | God | your support
 E: You must <b>ask instruction from before God</b> for the people,
-M: You must | ask | for the people | instruction | from | before | God
+M: must | You | for the people | ask instruction | from | before | God
 E: and bring the[ir] problems <b>before</b> God.
 M: and | bring | - | - | the[ir] problems | before | God
 

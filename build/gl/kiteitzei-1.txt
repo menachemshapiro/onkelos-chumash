@@ -170,7 +170,7 @@
 לְ=to.מִ~inf.סְּבֵ.יהּ=it | nsv | G inf+3ms | to take it
 לְ=for.יִתַּמָּא | yatma | n emph | for the orphan
 תַחְבּוֹט | hbt | G impf 2ms | you beat (the olives)
-זֵיתָ.ךְ=your | zeita | n+2ms | your olive tree
+זֵיתָ.ךְ=your | zayta | n+2ms | your olive tree
 וִ=and.ידוּנֻ.נּוּן=them | dyn | G impf 3mp+3mp | and they judge them
 וִ=and.יזַכּוּן | zky | D impf 3mp | and they acquit
 לְ=to.אַלְקָאָה | lqy | C inf | to be flogged

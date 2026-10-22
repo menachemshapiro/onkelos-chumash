@@ -50,7 +50,7 @@
 בְּ=in.בִקְעָ.ן=pl | biqa | n fp | in valleys
 וּ=and.בְ=in.טוּר.ִין=pl | tura | n mp | and in mountains
 וְ=and.סַעֲר.ִין=pl | saarta | n fp | and barley
-דְּ=whose.זֵיתָ.הָא=its | zeita | n mp+3fs | whose olive trees
+דְּ=whose.זֵיתָ.הָא=its | zayta | n mp+3fs | whose olive trees
 דְבָשׁ | dvash | n | honey
 תֶחְסַר | hsr | G impf 2ms | you will (not) lack
 אַבְנָ.הָא=its | avna | n fp+3fs | its stones

@@ -59,7 +59,7 @@
 וְ=.יוֹ~they, future (Af‘el).כִיח.וּן~mp | ykh | C impf 3mp | and let them decide | Af‘el of יכח: the י becomes ו
 תַּרְוָ.נָא=us | tren | num+1cp | the two of us
 דְּנַן | denan | pron | these (דְּנַן עֶסְרִין שְׁנִין = these twenty years)
-עֶסְר.ִין=pl | asra | num | twenty
+עֶסְר.ִין=pl | asrin | num | twenty
 רְחֵל.ָךְ=your | rehela | n fp+2ms | your ewes
 וְ=.עִזּ.ָךְ=your | iza | n fp+2ms | and your she-goats
 אַ~C.תְכִּיל.וּ~they_p | tkl | C pf 3mp | (did not) miscarry
@@ -79,7 +79,7 @@
 שִׁנְתּ.ִי=my | shinta | n fs+1cs | my sleep
 מֵ=from.עֵינ.ָי=my | eina | n fp+1cs | from my eyes
 פְּלָחִ.תָּ~I_p.ךְ=you | plh | G pf 1cs+2ms | I served you
-עֶסְרֵי | asra | num | ten (אַרְבַּע עֶסְרֵי = fourteen)
+עֶסְרֵי | asar | num | ten (אַרְבַּע עֶסְרֵי = fourteen)
 בְּנָת.ָיךְ=your | bnat | n fp+2ms | your daughters
 וְ=.אַ~C.שְׁנֵי.תָא~you_p | shny | C pf 2ms | and you changed
 אִילוּלָא | ilula | conj | were it not that

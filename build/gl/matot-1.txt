@@ -40,7 +40,7 @@
 שָׁתֵק | shtq | G pf 3ms | he was silent
 דִ=that.שְׁמָע | shm | G pf 3ms | that he heard
 דִּ=that.שְׁמָע | shm | G pf 3ms | that he heard
-וִ=and.יקַבַּל | qbl | D impf 3ms | and he shall bear
+וִ=and.יקַבַּל | qbl2 | D impf 3ms | and he shall bear
 בְּ=in.רַביוּתָ.הָא=her | ravyut | n+3fs | in her youth
 אִתְפְּרַע | pra | Gt impv ms | exact retribution
 פֻּרְעֲנוּת | purenuta | n cs | the retribution of
@@ -61,7 +61,7 @@
 דְּבַרְתָּא | divrta | n emph | the captives (lit. what was taken)
 לְ=to.מֵישְׁר.ַיָּא=pl | meishar | n mp emph | to the plains
 וּ=and.רְגֵיז | rgz | G pf 3ms | and (Moshe) was angry
-מָאֲוָתָא | mea | num fp emph | hundreds
+מָאֲוָתָא | meah | num fp emph | hundreds
 הֲ=?.קַיֵּמְתּוּן | qwm2 | D pf 2mp | have you kept alive
 דִּ=who.ידַעַת | yd | G pf 3fs | who has known
 יְדָעָא | yd | G pf 3fp | they have (not) known
@@ -104,7 +104,7 @@
 נַפְשָׁתָ.נָא=our | nafsha | n fp+1cp | our souls
 אַפְרִישׁוּ | prsh | C pf 3mp | they set apart
 בָּזוּ | bzz | G pf 3mp | (they) took spoil
-וּ=and.מָאֲוָתָא | mea | num fp emph | and hundreds
+וּ=and.מָאֲוָתָא | meah | num fp emph | and hundreds
 מַכְלֶלְתָּא | name | name | Makhlelta (Hebrew: עֲטָרוֹת)
 וְ=and.כוּמְרִין | name | name | and Kumrin (Hebrew: וְדִיבֹן)
 נִמְרִין | name | name | Nimrin

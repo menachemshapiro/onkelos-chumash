@@ -87,7 +87,7 @@
 תּוּרְעֲמַת | turamut | n cs | the complaints of
 חֻטְר.ַיָּא=pl | hutra | n mp emph | the staffs
 נְעָא | nts2 | G pf 3ms | had blossomed
-וְ=and.אָנֵץ | nts | C pf 3ms | and it brought forth (blossom)
+וְ=and.אָנֵץ | nts2 | C pf 3ms | and it brought forth (blossom)
 וְ=and.כָפֵת | kft | G pf 3ms | and bore (lit. tied up)
 שִׁגְדּ.ִין=pl | shigda | n mp | almonds
 וְ=and.אִשְׁתְּמוֹדָע.וּ~they_p | shmd | Q pf 3mp | and they recognized

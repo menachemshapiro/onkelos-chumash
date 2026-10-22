@@ -21,7 +21,7 @@
 בְּ=in.חֶלְמ.ִי=my | helma | n+1cs | in my dream
 גוּפְנ.ָא=emph | gufna | n emph | a vine
 שִׁבְשׁ.ִין=pl | shivsha | n mp abs | branches
-אַ~C.פְרַחַ.ת~she_p | prh2 | C pf 3fs | it budded
+אַ~C.פְרַחַ.ת~she_p | prh3 | C pf 3fs | it budded
 אַ~C.פֵּקַ.ת~she_p | npq | C pf 3fs | it brought forth | the נ of נפק is absorbed (the dot in פ)
 לַבְלְב.ִין=pl | lavlev | n mp abs | buds
 וַ=.אֲ~C.נִיצַ.ת~she_p | nts2 | C pf 3fs | and it blossomed

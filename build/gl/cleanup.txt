@@ -24,7 +24,7 @@ emor/21:10>קָרִיב | qrb | D pf 3ms | (who) offered (lit. brought near)
 kitisa/32:19>קָרִיב | qrb | G pf 3ms | (he) drew near
 behaalotecha/9:13>קָרִיב | qrb | D pf 3ms | (he did not) offer (lit. bring near)
 achareimot/18:6>קָרִיב | qariv | a cs | (any) close relative of (lit. near one of)
-noach/7:21>וּ=and.בְ=in.חַיְתָא | hay | n emph | and among the beasts
+noach/7:21>וּ=and.בְ=in.חַיְתָא | heiva | n emph | and among the beasts
 toldot/26:27>מִ=from.לְּוָתְ.כוֹן=you | lwat | prep+2mp | from you (lit. from with you)
 beshalach/17:11>וַ=and.הֲוָא | hwy | G pf 3ms | and it was
 tetzaveh/29:33>לְ=to.קַדָּשָׁא | qdsh | D inf | to sanctify
@@ -266,3 +266,54 @@ vayechi/49:5>גַּבְר.ִין=pl | gvar | n mp | men (גַּבְרִין גִ
 vayechi/49:5>גִּבָּר.ִין=pl | gibbar | n mp | mighty (with גַּבְרִין: mighty warriors)
 vayechi/49:23>גֻּבְר.ִין=pl | gvar | n mp | men (גֻּבְרִין גִּבָּרִין = mighty warriors)
 vayechi/49:23>גִּבָּר.ִין=pl | gibbar | n mp | mighty (with גֻּבְרִין: mighty warriors)
+
+# --- Oct 22 meaning check ---
+bechukotai/26:33>חָרְבָּא | hrv | a emph | a ruin (lit. destroyed; Hebrew: חָרְבָּה)
+masei/35:33>אַשְׁדֵּ.יהּ=it | shd | C pf 3ms+3ms | (the one) who shed it
+masei/35:33>דְּ=that.אִתָּשַׁד | shd | Ct pf 3ms | that was shed
+שַׁיְט.ִין~mp | shwt2 | G ptc mp | (the people) roamed
+זֵית.ִין~mp | zayta | n mp | olive trees
+דְּ=whose.זֵיתָ.הָא=its | zayta | n mp+3fs | whose olive trees
+זֵית.ָךְ=your | zayta | n ms+2ms | your olive tree
+זֵיתָ.יךְ=your | zayta | n mp+2ms | your olives
+vayikra/3:11>וְ=and.יַסְּקִ.נֵּיהּ=it | slq | C impf 3ms+3ms | and he shall burn it (lit. bring it up)
+vayikra/3:16>וְ=and.יַסְּקִ.נּוּן=them | slq | C impf 3ms+3mp | and he shall burn them (lit. bring them up)
+vayikra/4:10>וְ=and.יַסֵּקִ.נּוּן=them | slq | C impf 3ms+3mp | and he shall burn them (lit. bring them up)
+יִשְׁתְּפֵךְ | shfk2 | Gt impf 3ms | shall be poured out
+balak/22:32>רָעֵי | ry | G ptc ms | want, desire (lit. are wanting)
+behaalotecha/12:1>רָחִיק | rhq | D pf 3ms | he sent away (lit. distanced)
+beshalach/15:2>דְחִילָא | dhl | pp ms emph | the Awesome One (lit. the feared one)
+bechukotai/26:36>תַּבְרָא | tavra | n emph | brokenness (lit. a breaking)
+balak/24:24>יִצְטָרְחַן | tsrh | Gt impf 3fp | will be summoned (called together)
+shemot/3:17>עַבְדָא | avad | G ptc fs emph | producing (Hebrew: זָבַת, flowing)
+bo/13:5>עַבְדָא | avad | G ptc fs emph | producing (Hebrew: זָבַת, flowing)
+chukat/19:15>מַן | mana | n cs | vessel (of)
+מַתְנָן | name | name | Matnan (Hebrew: בָּשָׁן)
+devarim/1:17>מִלֵּי | milla | n mp cs | the words of
+eikev/11:24>נְהַר | nahar | n cs | the river (of)
+kitavo/26:5>וְ=and.דָר | dwr | G pf 3ms | and (he) dwelt
+kiteitzei/21:20>וְ=and.סָבֵי | svy | G ptc ms cs | and a drinker of
+kiteitzei/21:20>חֲמַר | hamra | n | wine
+kiteitzei/23:25>תִתָּגַר | agr | Gt impf 2ms | you are hired (lit. you hire yourself out)
+kiteitzei/23:26>תִתָּגַר | agr | Gt impf 2ms | you are hired (lit. you hire yourself out)
+kitisa/33:3>עַבְדָּא | avad | G ptc fs emph | producing (Hebrew: זָבַת, flowing)
+miketz/41:43>אַבָּא | av | n emph | a father (i.e. an adviser)
+miketz/41:44>וּ=and.בַר | bara | prep | but without (lit. and outside of)
+mishpatim/21:6>עֲבַד | eved | n | a slave
+kitisa/33:23>דִּבְרַת | dbr | n cs | the leading of (i.e. the host accompanying)
+masei/34:3>רוּחַ | ruah | n cs | the side of (lit. the wind of)
+vayishlach/34:21>וְ=.יַ~they_f.עְבְּד.וּן~mp | avad | G impf 3mp | and do (business)
+nitzavim/29:17>פָּנֵי | pny | G ptc ms | turns away
+naso/5:19>בַּר | bara | prep | other than (lit. outside of)
+shemot/1:22>בְּרָא | bar | n emph | (every) son (lit. the son)
+tazria/13:55>שְׁנָא | shny | G pf 3ms | (did not) change
+כְּרוּבָא | kruv | n emph | the cherub
+vayechi/48:7>כְּרוּבָא | ruvta | n emph | about a stretch (of land) (Hebrew: כִּבְרַת)
+מִ=from.דְּכַר | dikhra | n cs | from the ram of
+naso/5:3>מִ=from.דְּכַר | dekhar | n | from male
+vayakhel/35:31>וְ=and.אַשְׁלֵם | shlm | C pf 3ms | and (He) filled (lit. completed)
+shoftim/20:20>עָבְדָא | avad | G ptc fs emph | making (war) (lit. doing)
+shoftim/21:7>וִ=and.יתִיב.וּן~mp | twv | C impf 3mp | and they will respond (lit. return)
+vezot/33:16>רָעֵי | ry | G ptc ms | (may He) favor (lit. is pleased with)
+vezot/34:7>שְׁנָא | shny | G pf 3ms | (did not) change
+vayishlach/35:5>דַּחֲלָא | dahalta | n cs | the fear of

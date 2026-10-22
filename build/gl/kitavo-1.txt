@@ -36,7 +36,7 @@
 רָמָא | ram | a ms emph | loud
 דְּ=who.יִקְלֵי | qll2 | C impf 3ms | who dishonors
 דְּ=who.יִשְׁנֵי | shny | C impf 3ms | who moves (lit. changes)
-דְּ=who.יַצְלֵי | sty | C impf 3ms | who perverts (lit. inclines)
+דְּ=who.יַצְלֵי | tsly2 | C impf 3ms | who perverts (lit. inclines)
 יִתַּמָּא | yatma | n emph | the orphan
 חֲמוֹתֵ.יהּ=his | hamota | n+3ms | his mother-in-law
 יְקַיַּם | qwm2 | D impf 3ms | upholds
@@ -119,10 +119,10 @@
 יִדְבְּרִ.נָּךְ=you | dbr | G impf 3ms+2ms | He will lead you
 יַחְסְלִ.נֵּיהּ=it | hsl | C impf 3ms+3ms | (the locust) will devour it
 תֹּלַעְתָּא | tolaa | n emph | the worm
-זֵית.ִין=pl | zeita | n mp | olive trees
+זֵית.ִין=pl | zayta | n mp | olive trees
 תְסוּךְ | swk | G impf 2ms | you will (not) anoint (yourself)
 יִתְּרוּן | ntr3 | G impf 3mp | (your olives) will drop off
-זֵיתָ.יךְ=your | zeita | n mp+2ms | your olives
+זֵיתָ.יךְ=your | zayta | n mp+2ms | your olives
 אִילָנָ.ךְ=your | ilan | n+2ms | your trees
 יַחְסְנִ.נֵּיהּ=it | hsn | C impf 3ms+3ms | (the locust) will take possession of it
 סַקָּאָה | saqqaa | n emph | the locust (Hebrew: הַצְּלָצַל)

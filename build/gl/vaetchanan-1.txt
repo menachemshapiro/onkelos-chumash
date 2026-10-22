@@ -154,7 +154,7 @@
 לִ=as.תְפִלִּ.ין=pl | tefillin | n fp | as tefillin
 וְ=and.תִכְתְּבִ.נּוּן=them | ktv | G impf 2ms+3mp | and you shall write them
 מְזוּזְי.ָן=pl | mezuzta | n fp | mezuzot (doorposts)
-וְ=and.תִקְבְּעִ.נּוּן=them | dts | G impf 2ms+3mp | and you shall fix them
+וְ=and.תִקְבְּעִ.נּוּן=them | qva | G impf 2ms+3mp | and you shall fix them
 בְּ=on.סִפֵּי | sippa | n mp cs | on the doorposts (lit. thresholds) of
 וּ=and.בְ=on.תַרְעָ.יךְ=your | tara | n mp+2ms | and on your gates
 בְנֵיתָא | bny | G pf 2ms | you built
@@ -162,7 +162,7 @@
 מַלֵּיתָא | mly | D pf 2ms | you filled
 פְסַלְתָּא | psl | G pf 2ms | you hewed
 כַּרְמ.ִין=pl | karma | n mp | vineyards
-וְ=and.זֵית.ִין=pl | zeita | n mp | and olive trees
+וְ=and.זֵית.ִין=pl | zayta | n mp | and olive trees
 נְצֶבְתָּא | nsb | G pf 2ms | you planted
 וְ=and.תִשְׂבָּע | sva | G impf 2ms | and you will be satisfied
 דַ | di | part | that (i.e. lest)

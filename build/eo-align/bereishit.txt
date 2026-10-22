@@ -181,8 +181,8 @@ M: from which he was created | ^
 
 @ 3:24
 = same
-E: and <b>before</b> the Garden of Eden He stationed the Cherubim and the flame of the rotating sword,
-M: and He stationed | before | the Garden | of Eden | - | the Cherubim | and | the flame of | sword | the rotating
+E: and <b>before</b> the Garden of Eden He stationed the Cherubim and <b>the sharp edge of</b> the rotating sword,
+M: and He stationed | before | the Garden | of Eden | - | the Cherubim | and | the sharp edge of | sword | the rotating
 ! שְׁנַן is "the sharp edge of"; Metsudah keeps "the flame of" from the Hebrew.
 
 @ 4:1

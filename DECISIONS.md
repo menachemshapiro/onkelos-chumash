@@ -184,3 +184,7 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 ## Jastrow matching (Oct 22)
 - Matches are made by script (build/jas_match.py). Any match whose Jastrow meaning shares no words with the glossary meaning was checked by hand; corrections are kept in build/jas-override.json (glossary id → Jastrow entry, or null for "no right entry downloaded"). Overrides win over the script.
 - Where Jastrow gives a short Aramaic entry ("ch. same") the pop-up shows it with the Hebrew entry it refers to; we point to the Aramaic entry when it cites Onkelos.
+
+## Translation check (Oct 22)
+- A word's meaning in a pasuk is checked against its dictionary meaning and Jastrow; where the link was to the wrong word (a homograph, or a form matched by letters alone) it is relinked; where Onkelos's meaning differs from Metsudah's English and the English was ours, the English follows Onkelos.
+- Hand fixes to the glossary live in build/glfix.tsv so they survive a rebuild: F = relink/re-gloss a form, A = a verse-scoped line added to gl/cleanup.txt, L = a dictionary meaning.

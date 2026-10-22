@@ -16,7 +16,7 @@
 בְרַתּ.ֵהּ=his | bnat | n fs+3ms | his daughter
 נֶפֶשׁ | nafsha | n | souls (= persons)
 שִׁית | shet6 | num | six
-עֶשְׂרֵי | asra | num | ten (שִׁית עֶשְׂרֵי = sixteen)
+עֶשְׂרֵי | asar | num | ten (שִׁית עֶשְׂרֵי = sixteen)
 עֲשָׂר | asar | num | ten (אַרְבְּעָה עֲשָׂר = fourteen)
 שִׁבְעָא | shava | num | seven
 דְּ=that.עַלָּא | ill | G ptc fs | that came

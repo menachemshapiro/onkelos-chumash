@@ -108,7 +108,7 @@
 וּ=and.בוּצְל.ֵי=pl | butsla | n mp | and onions
 וְ=and.תוּמ.ֵי=pl | tuma | n mp | and garlic
 נַפְשָׁ.נָא=our | nafsha | n+1cp | our soul
-תָאִיבָא | tav | G ptc fs | longs (for)
+תָאִיבָא | tav2 | G ptc fs | longs (for)
 עֵינָ.נָא=our | eina | n+1cp | our eyes
 גַּדָּא | gidda | n emph | coriander
 וְ=and.חֶזְוֵ.יהּ=its | hezu | n+3ms | and its appearance
@@ -206,7 +206,7 @@
 דְ=.חֶלְתּוּן | dhl | G pf 2mp | did you fear
 וְ=and.אִסְתַּלָּק | slq | Dt pf 3ms | and (the Glory) withdrew
 סְגִירָת | sgr | Gp ptc fs | afflicted with tzaraat (lit. shut up)
-דְּ=that.אִטְפַּשְׁנָא | skl2 | Dt pf 1cp | that we acted foolishly
+דְּ=that.אִטְפַּשְׁנָא | tpsh | Dt pf 1cp | that we acted foolishly
 סְרָחְנָא | srh | G pf 1cp | we have sinned (lit. acted corruptly)
 תִּתְרַחַק | rhq | Dt impf 3fs | let (her) be distanced
 צַלִּי | tsly | D impv ms | pray

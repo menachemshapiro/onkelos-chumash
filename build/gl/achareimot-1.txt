@@ -246,7 +246,7 @@
 16:23>וְ=and.יֵיעוֹל | ill | G impf 3ms | and he shall enter
 16:23>וְ=and.יַשְׁלַח | shlh2 | C impf 3ms | and he shall take off
 16:29>בְּ=on.עַשְׂרָא | asar | num | on the tenth (lit. on ten)
-16:31>וּ=and.תְעַנּוּן | any2 | D impf 2mp | and you shall afflict
+16:31>וּ=and.תְעַנּוּן | any | D impf 2mp | and you shall afflict
 17:4>לְ=to.קָרָבָא | qrb | D inf | to offer (lit. to bring near)
 17:10>דְּ=who.יֵכוּל | akhal | G impf 3ms | who eats
 17:16>וִ=and.יקַבֵּל | qbl | D impf 3ms | and he shall bear (lit. receive)

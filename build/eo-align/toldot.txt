@@ -15,8 +15,8 @@ M: She went | to ask for | instruction | from | before | Adonoy
 
 @ 25:27
 = same
-E: Eisov became <b>an idle man</b>, <b>a man going out to the field</b>.
-M: became | Eisov | man | an idle | a man | going out | to the field
+E: Eisov became <b>a hunter</b>, <b>a man going out to the field</b>.
+M: became | Eisov | - | a hunter | a man | going out | to the field
 = same
 E: <b>serving in the house of study</b>.
 M: serving | in the house of | study

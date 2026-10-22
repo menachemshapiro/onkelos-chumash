@@ -51,7 +51,7 @@
 גוֹב | guba | n | a pit
 יִ~he_f.כְרֶה | kry | G impf 3ms | (a man) digs
 יְ~he_f.כַסִ.נֵהּ=it | ksy | D impf 3ms+3ms | covers it
-יִ~he_f.גוֹף | ngh | !verb, Pe‘al, imperfect (future), 3rd masc. sing. | gores (lit. pushes) (Hebrew: יִגֹּף)
+יִ~he_f.גוֹף | ngf | !verb, Pe‘al, imperfect (future), 3rd masc. sing. | gores (lit. pushes) (Hebrew: יִגֹּף)
 וִ=and.י~they_f.זַבְּנ.וּן~mp | zvn | D impf 3mp | then they shall sell
 וִ=and.י~they_f.פַלְג.וּן~mp | plg | D impf 3mp | and divide
 יְ~they_f.פַלְג.וּן~mp | plg | D impf 3mp | they shall divide

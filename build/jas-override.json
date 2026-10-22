@@ -24,7 +24,7 @@
 "hala": null,
 "hasfa": "H01406",
 "hayyav": "H00724",
-"heiva": null,
+"heiva": "H00692",
 "herma": null,
 "heruta": "H01772",
 "hashokh": "H01822",
@@ -121,5 +121,6 @@
 "bnin": "B01154",
 "npq": "N01075",
 "qwm": "S00375",
-"rwm": "T00375"
+"rwm": "T00375",
+"gira2": "C00806"
 }

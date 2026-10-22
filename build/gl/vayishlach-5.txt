@@ -52,7 +52,7 @@
 קַרְתְּ.הוֹן=their | qarta | n fs+3mp | their city
 שָׁלְמ.ִין~mp | shlim | a mp | peaceable (lit. whole)
 וִ=.י~they_f.תִיב.וּן~mp | ytv | G impf 3mp | and let them dwell
-וְ=.יַ~they_f.עְבְּד.וּן~mp | avad | G impf 3mp | and do (business)
+וְ=.יַ~they_f.עְבְּד.וּן~mp | avad | G impf 3mp | and (they) shall do (make)
 פְתָיוּת | ptayut | n fs cs | the breadth of (פְתָיוּת יְדִין = spacious)
 בְּנָת.ֵיהוֹן=their | bnat | n fp+3mp | their daughters
 נִ~we_f.תֵּן | yhb | G impf 1cp | we will give | the future of יְהַב is built from נתן
