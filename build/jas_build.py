@@ -97,7 +97,7 @@ def related(rid, word):
     return sorted(out | {rid})
 def key_eq(a, b): return re.sub(r'[12]', 'ש', a) == re.sub(r'[12]', 'ש', b)
 os.makedirs(SP + 'j', exist_ok=True)
-for f in glob.glob(SP + 'j/*.json'): os.remove(f)
+for f in glob.glob(SP + 'j/[A-Z].json') + glob.glob(SP + 'j/index.json'): os.remove(f)   # j/abbr.json comes from jas_abbr.py
 LEX = {}
 for f in glob.glob(SP + 'g/*.json'):
     for k, v in json.load(open(f, encoding='utf8'))['lex'].items(): LEX.setdefault(k, v)
@@ -114,15 +114,31 @@ def same_as(r):
     if not (lead.startswith('same') or re.match(r'^(ch\.\s*)?same\b', first)): return None
     p = r[0] + '%05d' % (int(r[1:]) - 1)
     return p if p in E else None
+PRECED = re.compile(r'<a\b[^>]*?(?:href="/Jastrow,_([^"]+?)\.1"|data-r="([^"]+)")[^>]*>\s*preced\.(?:\s*wds?\.)?\s*</a>')
+def preced(r):
+    """Jastrow's "preced." / "preced. wds.": the entry refers to the one right before it ("(preced.)" = derived from it,
+    "v. preced.", "= preced.", "fem. of preced." ...). Returns that entry's id."""
+    p = r[0] + '%05d' % (int(r[1:]) - 1)
+    if p not in E: return None
+    e = E[r]; t = (e.get('language_reference') or '') + json.dumps(e.get('content') or {}, ensure_ascii=False).replace('\\"', '"')
+    for m in PRECED.finditer(t):
+        if m.group(2) == p or (m.group(1) and m.group(1).replace('_', ' ') == E[p]['headword']): return p
+    return None
+def before(r): return same_as(r) or preced(r)
 def nxt(r):
     n = r[0] + '%05d' % (int(r[1:]) + 1)
     return n if n in E else None
+GMAX = 8
 def group(r):
-    """the entry plus the "same" entries around it, in dictionary order: [first, its "same", the next "same", ...]"""
+    """the entry plus the entries it is tied to, in dictionary order: an entry marked "same" or "preced." comes after
+    the entry it refers to. [first, the next tied one, ...]; long chains are cut to GMAX entries around r."""
     first, seen = r, {r}
-    while same_as(first) and same_as(first) not in seen: first = same_as(first); seen.add(first)
+    while before(first) and before(first) not in seen: first = before(first); seen.add(first)
     out = [first]
-    while nxt(out[-1]) and same_as(nxt(out[-1])) == out[-1] and len(out) < 6: out.append(nxt(out[-1]))
+    while nxt(out[-1]) and before(nxt(out[-1])) == out[-1] and len(out) < 60: out.append(nxt(out[-1]))
+    if len(out) > GMAX:
+        i = out.index(r) if r in out else 0
+        lo = max(0, min(i - 2, len(out) - GMAX)); out = out[lo:lo + GMAX]
     return out
 def ent(r):
     d = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
