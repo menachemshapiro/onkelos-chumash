@@ -114,17 +114,23 @@ def same_as(r):
     if not (lead.startswith('same') or re.match(r'^(ch\.\s*)?same\b', first)): return None
     p = r[0] + '%05d' % (int(r[1:]) - 1)
     return p if p in E else None
-PRECED = re.compile(r'<a\b[^>]*?(?:href="/Jastrow,_([^"]+?)\.1"|data-r="([^"]+)")[^>]*>\s*preced\.(?:\s*wds?\.)?\s*</a>')
+def plain_text(r):
+    e = E[r]; return re.sub(r'<[^>]+>', ' ', (e.get('language_reference') or '') + ' ' + json.dumps(e.get('content') or {}, ensure_ascii=False))
 def preced(r):
     """Jastrow's "preced." / "preced. wds.": the entry refers to the one right before it ("(preced.)" = derived from it,
-    "v. preced.", "= preced.", "fem. of preced." ...). Returns that entry's id."""
+    "v. preced.", "= preced.", "fem. of preced." ...; every linked use points to the entry right before). Returns that entry's id."""
     p = r[0] + '%05d' % (int(r[1:]) - 1)
-    if p not in E: return None
-    e = E[r]; t = (e.get('language_reference') or '') + json.dumps(e.get('content') or {}, ensure_ascii=False).replace('\\"', '"')
-    for m in PRECED.finditer(t):
-        if m.group(2) == p or (m.group(1) and m.group(1).replace('_', ' ') == E[p]['headword']): return p
-    return None
-def before(r): return same_as(r) or preced(r)
+    return p if p in E and re.search(r'\bpreced\.', plain_text(r)) else None
+def next_w(r):
+    """Jastrow's "next w." / "next ws." / "next art.": the entry refers to the one right after it. Returns that entry's id."""
+    n = r[0] + '%05d' % (int(r[1:]) + 1)
+    return n if n in E and re.search(r'\bnext\s+(?:w|ws|art)\.', plain_text(r)) else None
+def before(r):
+    """the entry r is shown after: the one it calls "same" or "preced.", or the one before it that says "next w." """
+    b = same_as(r) or preced(r)
+    if b: return b
+    p = r[0] + '%05d' % (int(r[1:]) - 1)
+    return p if p in E and next_w(p) == r else None
 def nxt(r):
     n = r[0] + '%05d' % (int(r[1:]) + 1)
     return n if n in E else None

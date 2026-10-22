@@ -171,16 +171,14 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-tabs .tm { font-family: var(--f-ui); font-size: .62rem; color: var(--muted); font-weight: 400; unicode-bidi: isolate; }
 .jas-btns { display: flex; align-items: center; gap: 6px; flex: none; }
 .jas-q { font: 700 .85rem/1 var(--f-ui); width: 1.6rem; height: 1.6rem; border-radius: 50%; border: 1px solid var(--rule); background: none; color: var(--muted); cursor: pointer; padding: 0; }
-.jas-q:hover, .jas-q[aria-expanded="true"] { color: var(--targum); border-color: var(--targum); }
-.jas-ab { font-family: var(--f-ui); font-size: .82rem; line-height: 1.4; background: var(--bg); border: 1px solid var(--rule); border-radius: 8px; padding: 8px 10px; margin: 0 0 10px; }
-.jas-ab h5 { margin: 0 0 6px; font-size: .78rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); font-weight: 600; }
-.jas-ab dl { display: grid; grid-template-columns: max-content 1fr; gap: 3px 10px; margin: 0; }
-.jas-ab dt { font-family: var(--en-font); font-weight: 700; color: var(--targum); white-space: nowrap; }
-.jas-ab dt[dir="rtl"] { font-family: var(--tg-font); font-size: 1.05em; text-align: right; }
-.jas-ab dd { margin: 0; min-width: 0; }
-.jas-ab dd [dir="rtl"] { font-family: var(--tg-font); unicode-bidi: isolate; }
-.jas-ab .add { color: var(--muted); font-size: .9em; }
-.jas-ab p { margin: 6px 0 0; color: var(--muted); font-size: .72rem; }
+.jas-q:hover, .jas-q[aria-pressed="true"] { color: var(--targum); border-color: var(--targum); }
+.jas-card { position: relative; }
+.jas-body abbr.jab { text-decoration: underline dotted color-mix(in srgb, currentColor 55%, transparent); text-underline-offset: 3px; cursor: help; }
+.jas-off .jas-body abbr.jab { text-decoration: none; cursor: inherit; }
+.jas-tip { position: absolute; z-index: 5; max-width: min(320px, calc(100% - 24px)); box-sizing: border-box; font-family: var(--f-ui); font-size: .8rem; line-height: 1.35;
+  background: var(--ink); color: var(--surface); border-radius: 6px; padding: 5px 9px; box-shadow: 0 3px 12px rgba(0,0,0,.25); pointer-events: none; }
+.jas-tip b { font-weight: 700; }
+.jas-tip .h { font-family: var(--tg-font); font-size: 1.12em; unicode-bidi: isolate; }
 .jas-note { font-size: .8rem; color: var(--muted); margin: -4px 0 6px; }
 .jas-note:empty { display: none; }
 .jas-body { font-family: var(--en-font); font-size: .98rem; line-height: 1.55; }
@@ -434,10 +432,9 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
   </div>
 </div></div>
 <div class="rep-pop help-pop" id="jas" hidden dir="ltr" lang="en"><div class="rep-card help-card jas-card" role="dialog" aria-modal="true" aria-labelledby="jas-t">
-  <div class="rep-h"><b id="jas-t" class="jas-hw" dir="rtl"></b><span class="jas-btns"><button type="button" id="jas-q" class="jas-q" aria-expanded="false" aria-controls="jas-ab" title="What the abbreviations in this entry stand for" aria-label="Abbreviations in this entry">?</button><button type="button" id="jas-x" class="help-x" aria-label="Close">×</button></span></div>
+  <div class="rep-h"><b id="jas-t" class="jas-hw" dir="rtl"></b><span class="jas-btns"><button type="button" id="jas-q" class="jas-q" aria-pressed="true" title="Abbreviations: hover or tap a dotted word to see what it stands for (tap here to turn off)" aria-label="Explain abbreviations">?</button><button type="button" id="jas-x" class="help-x" aria-label="Close">×</button></span></div>
   <div id="jas-tabs" class="jas-tabs" role="tablist" aria-label="Entries with this headword" dir="rtl"></div>
   <div id="jas-note" class="jas-note"></div>
-  <div id="jas-ab" class="jas-ab" hidden></div>
   <div id="jas-body" class="jas-body"></div>
   <div id="jas-also" class="jas-also"></div>
   <div class="jas-foot">Jastrow, <i>A Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the Midrashic Literature</i> (1903), via <a id="jas-src" href="https://www.sefaria.org/" target="_blank" rel="noopener">Sefaria</a>. Matched to this word automatically, so it may be the wrong entry.</div>
@@ -985,7 +982,7 @@ async function jasRender(rid){
   document.getElementById("jas-note").textContent = note.join(" ");
   body.innerHTML = e.parts ? e.parts.map(m => `<h4 class="jent"><b class="jas-hw" dir="rtl">${escH([m.h, ...(m.a || [])].join(", "))}</b></h4>${m.html}`).join("") : e.html;
   jasPop.dataset.cur = rid;
-  if (!document.getElementById("jas-ab").hidden) jasAbbr();
+  jasTip(null); jasMarkAbbr();
   // Onkelos citations open the pasuk here (the parsha is found from the glossary's chapter ranges)
   body.querySelectorAll('a[href*="sefaria.org/Onkelos_"]').forEach(a => {
     const m = a.getAttribute("href").match(/Onkelos_(\w+)\.(\d+)\.(\d+)$/); if (!m) return;
@@ -1019,55 +1016,77 @@ document.getElementById("jas-also").addEventListener("click", ev => {
   if (ev.target.closest(".jback")) { jasRender(JHIST.pop()); return; }
   const b = ev.target.closest("button[data-r]"); if (b) { JHIST = []; jasRender(b.dataset.r); } });
 document.getElementById("jas-x").addEventListener("click", () => { jasPop.hidden = true; });
-// ---------- Jastrow abbreviations: the ? button lists the ones used in the entry on screen (j/abbr.json, loaded on first use) ----------
-let JABBR = null;
+// ---------- Jastrow abbreviations: words from Jastrow's two lists of abbreviations (English list matched regardless of capitals) get a dotted underline; hover (or tap, on a phone) shows the meaning.
+// j/abbr.json is loaded the first time an entry is opened, so it costs nothing when the page loads.
+let JABBR = null, JAB_ON = true, JPTR = "mouse";
+try { JAB_ON = localStorage.getItem("jasAbbr") !== "off"; } catch (e) {}
 function jAbbrData(){ return JABBR || (JABBR = loadJ("j/abbr.json").then(d => {
-  const heN = t => t.normalize("NFD").replace(/[\u0591-\u05c7]/g, "").replace(/\u05f4/g, '"').replace(/\u05f3/g, "'");
-  const en = new Map(), he = new Map();
-  const add = (m, k, v) => { if (!m.has(k)) m.set(k, []); m.get(k).push(v); };
-  for (const [a, v] of d.en) add(en, a, { v });
-  for (const [a, v] of d.x || []) add(en, a, { v, added: true });
-  for (const k of [...en.keys()]) { if (k.length < 4) continue; const f = k[0] === k[0].toLowerCase() ? k[0].toUpperCase() + k.slice(1) : k[0].toLowerCase() + k.slice(1); if (!en.has(f)) en.set(f, en.get(k)); }
-  for (const [a, v] of d.he) add(he, heN(a), { v });
+  const en = new Map(), low = new Map(), he = new Map();
+  const add = (m, k, v) => { if (!m.has(k)) m.set(k, []); if (!m.get(k).includes(v)) m.get(k).push(v); };
+  for (const [a, v] of [...d.en, ...(d.x || [])]) { const x = v.replace(/\.$/, ""); add(en, a, x); add(low, a.toLowerCase(), x); }
+  const hk = t => t.replace(/[\u0591-\u05c7]/g, "").replace(/\u05f4/g, '"').replace(/\u05f3/g, "'").replace(/\s+/g, " ");
+  for (const [a, v] of d.he || []) add(he, hk(a), v);
   const esc = k => k.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/ /g, "\\s+");
-  const keys = [...en.keys()].sort((a, b) => b.length - a.length);
-  const rx = new RegExp("(?<![A-Za-z\u00c0-\u024f\u2019'&])(?:" + keys.map(esc).join("|") + ")(?![A-Za-z\u00c0-\u024f])", "g");
-  return { en, he, rx, heN };
+  const L = "A-Za-z\\u00c0-\\u024f\\u1e00-\\u1eff\\u0300-\\u036f";
+  const rx = new RegExp("(?<![" + L + "\\u2019'&])(?:" + [...low.keys()].sort((a, b) => b.length - a.length).map(esc).join("|") + ")(?![" + L + "])", "gi");
+  const hesc = k => esc(k).replace(/'/g, "['\\u05f3]").replace(/"/g, "[\"\\u05f4]");
+  const hrx = new RegExp("(?<![\\u05d0-\\u05ea\\u0591-\\u05c7])([\\u05d5\\u05d3\\u05d1\\u05dc\\u05de\\u05d4\\u05e9\\u05db]?)(" + [...he.keys()].sort((a, b) => b.length - a.length).map(hesc).join("|") + ")(?![\\u05d0-\\u05ea])", "g");
+  const get = k => { if (/[\u05d0-\u05ea]/.test(k)) { const m = k.match(/^([ודבלמהשכ]?)(.*)$/); const h = he.get(hk(k)) ? [k, he.get(hk(k))] : null;
+      if (h) return { rtl: true, list: h[1] }; const r = he.get(hk(m[2])); return r ? { rtl: true, list: r.map(x => m[1] + "־" + x), pre: m[1] } : null; }
+    const l = en.get(k) || low.get(k.toLowerCase()); return l ? { list: l } : null; };
+  return { rx, hrx, get };
 }).catch(e => { JABBR = null; throw e; })); }
-async function jasAbbr(){
-  const box = document.getElementById("jas-ab"), body = document.getElementById("jas-body");
-  box.innerHTML = '<p style="margin:0">Loading…</p>';
-  let A; try { A = await jAbbrData(); } catch (e) { box.innerHTML = '<p style="margin:0">Couldn\'t load the abbreviations. Check your connection.</p>'; return; }
-  const escH = t => String(t).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  const found = new Map();   // key -> {t: shown text, rtl, list}
-  // each entry on screen (a group shows several) has its own headword, for "ס׳" = the entry's word
-  const parts = []; let cur = { hw: document.getElementById("jas-t").textContent.split(",")[0], nodes: [] };
-  for (const n of body.childNodes) { if (n.nodeType === 1 && n.classList.contains("jent")) { if (cur.nodes.length) parts.push(cur); cur = { hw: n.textContent.split(",")[0], nodes: [] }; continue; } cur.nodes.push(n); }
-  parts.push(cur);
-  const cons = t => A.heN(t).replace(/\s+[IVX]+$|[¹²³⁴⁵]/g, "").replace(/[^\u05d0-\u05ea]/g, "").replace(/[ךםןףץ]$/, c => "כמנפצ"["ךםןףץ".indexOf(c)]);
-  for (const p of parts) {
-    const text = p.nodes.map(n => n.textContent).join(" ");
-    for (const m of text.matchAll(A.rx)) { const k = m[0].replace(/\s+/g, " "); if (!found.has(k)) found.set(k, { t: k, list: A.en.get(k) }); }
-    const hw = cons(p.hw);
-    for (const m of A.heN(text).matchAll(/[\u05d0-\u05ea]+(?:"[\u05d0-\u05ea]+|')+/g)) {
-      const t = m[0]; if (found.has(t)) continue;
-      let list = A.he.get(t), pre = "";
-      if (!list && t.length > 3 && "ובלמהדשכ".includes(t[0]) && A.he.get(t.slice(1))) { pre = t[0]; list = A.he.get(t.slice(1)); }
-      if (list) { found.set(t, { t, rtl: true, list: pre ? list.map(x => ({ v: pre + "־" + x.v })) : list }); continue; }
-      if (t.endsWith("'") && !t.includes('"')) {   // Jastrow shortens the entry's own word: ס׳ for סַנְהֶדְרִין
-        const s = t.slice(0, -1); const own = hw.startsWith(s) ? "" : (s.length > 1 && "ובלמהדשכ".includes(s[0]) && hw.startsWith(s.slice(1)) ? s[0] : null);
-        if (own !== null && hw) found.set(t, { t, rtl: true, own: true, list: [{ v: (own ? own + "־" : "") + p.hw.replace(/\s+[IVX]+$|[¹²³⁴⁵]/g, "") }] });
-      }
+async function jasMarkAbbr(){
+  const body = document.getElementById("jas-body"), cur = jasPop.dataset.cur;
+  let A; try { A = await jAbbrData(); } catch (e) { return; }
+  if (jasPop.dataset.cur !== cur || body.querySelector("abbr.jab")) return;
+  const tw = document.createTreeWalker(body, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".jent, abbr") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+  const nodes = []; while (tw.nextNode()) nodes.push(tw.currentNode);
+  for (const n of nodes) {
+    const t = n.nodeValue, heb = /[\u05d0-\u05ea]/.test(t), rx = heb && n.parentElement.closest("[dir=rtl]") ? A.hrx : A.rx;
+    const ms = [...t.matchAll(rx)].filter(m => A.get(m[0].replace(/\s+/g, " ")));
+    if (!ms.length) continue;
+    const f = document.createDocumentFragment(); let i = 0;
+    for (const m of ms) {
+      if (m.index > i) f.append(t.slice(i, m.index));
+      const ab = document.createElement("abbr"); ab.className = "jab"; ab.dataset.k = m[0].replace(/\s+/g, " "); ab.textContent = m[0]; f.append(ab); i = m.index + m[0].length;
     }
+    if (i < t.length) f.append(t.slice(i));
+    n.replaceWith(f);
   }
-  const heQ = t => t.replace(/"/g, "\u05f4").replace(/'/g, "\u05f3");
-  const rows = [...found.values()].map(f => `<dt${f.rtl ? ' dir="rtl"' : ""}>${escH(f.rtl ? heQ(f.t) : f.t)}</dt><dd>${f.list.map(x => { const v = x.v.replace(/&(?!c\.)/g, "&amp;").replace(/<(?!\/?(?:i|sup)>)/g, "&lt;").replace(/\.$/, ""); return f.rtl ? v.replace(/[\u0590-\u05ff](?:[\u0590-\u05ff\s,"'\u05f3\u05f4־]*[\u0590-\u05ff'\u05f3])?/g, h => `<span dir="rtl">${h}</span>`) : v; }).join("; or ")}${f.own ? ' <span class="add">(this entry’s word)</span>' : ""}${f.list.some(x => x.added) ? ' <span class="add">*</span>' : ""}</dd>`).join("");
-  box.innerHTML = rows ? `<h5>Abbreviations in this entry</h5><dl>${rows}</dl><p>From Jastrow’s two lists of abbreviations (1903).${[...found.values()].some(f => f.list.some(x => x.added)) ? " * Not in Jastrow’s lists; added here." : ""}</p>` : '<p style="margin:0">No abbreviations from Jastrow’s lists in this entry.</p>';
 }
-document.getElementById("jas-q").addEventListener("click", ev => {
-  const box = document.getElementById("jas-ab"), b = ev.currentTarget, open = box.hidden;
-  box.hidden = !open; b.setAttribute("aria-expanded", open); if (open) jasAbbr();
-});
+const jasCard = jasPop.querySelector(".jas-card");
+let jasTipEl = null, jasTipFor = null;
+function jasTip(ab){
+  if (!ab) { if (jasTipEl) jasTipEl.hidden = true; jasTipFor = null; return; }
+  if (!JABBR) return;
+  JABBR.then(A => {
+    const g = A.get(ab.dataset.k); if (!g) return;
+    if (!jasTipEl) { jasTipEl = document.createElement("div"); jasTipEl.className = "jas-tip"; jasTipEl.setAttribute("role", "tooltip"); jasCard.append(jasTipEl); }
+    const safe = v => v.replace(/&(?!c\.)/g, "&amp;").replace(/<(?!\/?(?:i|sup)>)/g, "&lt;");
+    const heb = v => v.replace(/[\u0590-\u05ff](?:[\u0590-\u05ff\s,"'\u05f3\u05f4־]*[\u0590-\u05ff'\u05f3])?/g, h => `<span dir="rtl" class="h">${h}</span>`);
+    jasTipEl.innerHTML = `<b${g.rtl ? ' dir="rtl" class="h"' : ""}></b> = ` + g.list.map(v => g.rtl ? heb(safe(v)) : safe(v)).join("; or ");
+    jasTipEl.querySelector("b").textContent = ab.dataset.k;
+    jasTipEl.hidden = false; jasTipFor = ab;
+    const c = jasCard.getBoundingClientRect(), r = ab.getBoundingClientRect(), w = jasTipEl.offsetWidth, h = jasTipEl.offsetHeight;
+    let x = r.left - c.left + r.width / 2 - w / 2; x = Math.max(8, Math.min(x, jasCard.clientWidth - w - 8));
+    let y = r.bottom - c.top + jasCard.scrollTop + 6;
+    if (r.bottom + h + 10 > c.bottom && r.top - h - 10 > c.top) y = r.top - c.top + jasCard.scrollTop - h - 6;   // no room below: show above
+    jasTipEl.style.left = x + "px"; jasTipEl.style.top = y + "px";
+  });
+}
+jasPop.addEventListener("pointerdown", ev => { JPTR = ev.pointerType || "mouse"; }, true);
+document.getElementById("jas-body").addEventListener("mouseover", ev => { if (!JAB_ON || JPTR !== "mouse") return; const ab = ev.target.closest("abbr.jab"); if (ab && ab !== jasTipFor) jasTip(ab); });
+document.getElementById("jas-body").addEventListener("mouseout", ev => { if (JPTR !== "mouse") return; const ab = ev.target.closest("abbr.jab"); if (ab && !ab.contains(ev.relatedTarget)) jasTip(null); });
+// a tap on an abbreviation shows its meaning (and does not follow the link it may sit in); a tap anywhere else closes it
+jasPop.addEventListener("click", ev => {
+  const ab = JAB_ON && ev.target.closest("abbr.jab");
+  if (ab && JPTR !== "mouse") { ev.preventDefault(); ev.stopImmediatePropagation(); if (jasTipFor === ab) jasTip(null); else jasTip(ab); return; }
+  if (JPTR !== "mouse" && jasTipFor) jasTip(null);
+}, true);
+function jasAbbrMode(){ jasPop.classList.toggle("jas-off", !JAB_ON); document.getElementById("jas-q").setAttribute("aria-pressed", JAB_ON); if (!JAB_ON) jasTip(null); }
+jasAbbrMode();
+document.getElementById("jas-q").addEventListener("click", () => { JAB_ON = !JAB_ON; try { localStorage.setItem("jasAbbr", JAB_ON ? "on" : "off"); } catch (e) {} jasAbbrMode(); });
 jasPop.addEventListener("click", ev => { if (ev.target === jasPop) jasPop.hidden = true; });
 addEventListener("keydown", ev => { if (ev.key === "Escape" && !jasPop.hidden) { jasPop.hidden = true; ev.stopImmediatePropagation(); } }, true);
 async function markJas(card){
