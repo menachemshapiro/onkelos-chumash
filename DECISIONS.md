@@ -193,4 +193,4 @@ The Metsudah English was changed only in the places listed in the table. Everyth
 - Sefaria's current text (from its API) is always preferred. Sefaria-Data's 2018 XML (commit 947c1b9, the one before "Delete dicts") is used only for entries not yet downloaded, and for cross-referencing and citation checks done locally, so Sefaria's servers are not asked for them. Entries shown from the 2018 copy carry a note in the pop-up.
 - A Jastrow entry that cites an Onkelos pasuk for the same word as our glossary word is taken as that word's entry (build/jas-targ.json), unless the citation is for a different part of speech (rejected by hand). Hand-checked choices (build/jas-override.json) still win.
 
-- Jastrow's “ch. same” means “same as the entry before”. Such an entry is shown together with that entry in one tab (build/jas_build.py, same_as()).
+- Jastrow's “ch. same” means “same as the entry before”. Such an entry is shown together with that entry in one tab, in dictionary order, each under its own title (build/jas_build.py, group()).

@@ -111,23 +111,35 @@ def same_as(r):
     if not (lead.startswith('same') or re.match(r'^(ch\.\s*)?same\b', first)): return None
     p = r[0] + '%05d' % (int(r[1:]) - 1)
     return p if p in E else None
+def nxt(r):
+    n = r[0] + '%05d' % (int(r[1:]) + 1)
+    return n if n in E else None
+def group(r):
+    """the entry plus the "same" entries around it, in dictionary order: [first, its "same", the next "same", ...]"""
+    first, seen = r, {r}
+    while same_as(first) and same_as(first) not in seen: first = same_as(first); seen.add(first)
+    out = [first]
+    while nxt(out[-1]) and same_as(nxt(out[-1])) == out[-1] and len(out) < 6: out.append(nxt(out[-1]))
+    return out
 def ent(r):
     d = {'h': E[r]['headword'], 'a': alts(E[r])[:2], 'html': render(E[r])}
-    p = same_as(r)
-    if p:   # show the entry it means, inside the same tab
-        d['html'] += f'<div class="jsame"><p class="jsame-h">“Same” means the entry before it: <a class="jx" data-r="{p}" dir="rtl" href="#">{html.escape(E[p]["headword"])}</a></p>{render(E[p])}</div>'
-        d['same'] = p; LINKED.add(p)
     if E[r].get('src') == '2018': d['s'] = 2018
+    g = group(r)
+    if len(g) > 1:   # shown together, one under the other (the page puts each entry's title above it)
+        d['g'] = g; LINKED.update(g)
     return d
 idx, groups = {}, collections.defaultdict(dict)
 for k, m in M.items():
     tabs = related(m['rid'], LEX[k]['h'])
     rid = m['rid']
-    for t in list(tabs):           # a "same" entry already carries the entry before it: one tab for the two
-        p = same_as(t)
-        if p and p in tabs:
-            tabs.remove(p)
-            if rid == p: rid = t
+    keep, firsts = [], {}
+    for t in tabs:                 # entries shown together get one tab (the first of them)
+        f = group(t)[0]
+        if f in firsts: continue
+        firsts[f] = t; keep.append(t)
+    gr = group(rid)[0]
+    if gr in firsts: rid = firsts[gr]
+    tabs = keep
     also = [r for r in m['also'] if r not in tabs and r != rid]
     idx[k] = [rid, m['kind'], also, tabs if len(tabs) > 1 else []]
     m = dict(m, rid=rid)

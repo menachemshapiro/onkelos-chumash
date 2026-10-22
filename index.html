@@ -182,8 +182,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-body a.jx { border-bottom: 1px solid color-mix(in srgb, currentColor 40%, transparent); }
 .jas-also .jback { font-family: var(--f-ui); font-size: .85rem; }
 .jas-body a.jonk { border-bottom: 1px dotted currentColor; }
-.jas-body .jsame { margin-top: .8em; padding-top: .6em; border-top: 1px solid var(--line, #ccc); }
-.jas-body .jsame-h { font-size: .9em; opacity: .8; margin: 0 0 .3em; }
+.jas-body .jent { font-family: var(--tg-font); font-size: 1.15em; font-weight: 700; margin: 1em 0 .3em; padding-top: .6em; border-top: 1px solid var(--line, #ccc); text-align: right; }
+.jas-body .jent:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
 .jas-body a.jhere { background: var(--mark); color: var(--mark-ink); border-radius: 3px; padding: 0 .15em; }
 .jas-body .jn, .jas-body .jg { color: var(--targum); }
 .jas-also { margin-top: 10px; display: flex; gap: 6px; flex-wrap: wrap; align-items: center; font-size: .8rem; color: var(--muted); }
@@ -947,9 +947,14 @@ async function jasRender(rid){
   document.getElementById("jas-t").textContent = ""; document.getElementById("jas-note").textContent = "";
   document.getElementById("jas-also").innerHTML = ""; tabsEl.innerHTML = ""; body.textContent = "Loading…";
   let e, tabE = [], alsoE = [];
+  // entries Jastrow marks "same" (the Aramaic entry after a Hebrew one) are shown together, in dictionary order
+  const full = async r => { const x = (await jGroup(r))[r]; if (!x || !x.g) return x;
+    const ms = await Promise.all(x.g.map(m => jGroup(m).then(y => y[m])));
+    if (ms.some(m => !m)) return x;
+    return { h: ms[0].h, a: ms[0].a || [], html: ms.map(m => m.html).join(""), s: ms.some(m => m.s === 2018) ? 2018 : undefined, parts: ms, g: x.g }; };
   try {
-    e = (await jGroup(rid))[rid];
-    tabE = await Promise.all(C.tabs.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
+    e = await full(rid);
+    tabE = await Promise.all(C.tabs.map(r => full(r).catch(() => null)));
     alsoE = await Promise.all(C.also.map(r => jGroup(r).then(x => x[r]).catch(() => null)));
   } catch (err) { body.textContent = "Couldn't load the dictionary. Check your connection."; return; }
   if (!e) { body.textContent = "Entry not found."; return; }
@@ -958,14 +963,15 @@ async function jasRender(rid){
     if (r === C.rid) t.push("this word");
     if (C.here && x.html.includes(C.here)) t.push("cites " + C.ref); else if (x.html.includes("Onkelos_")) t.push("Targ. O.");
     return t.length ? `<span class="tm" dir="ltr">${t.join(" · ")}</span>` : ""; };
-  if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid}"${r === C.rid ? ' class="jmatch"' : ""}><span class="th" dir="rtl">${escH([tabE[k].h, ...(tabE[k].a || [])].join(", "))}</span>${tags(r, tabE[k])}</button>` : "").join("");
+  if (C.tabs.length > 1) tabsEl.innerHTML = C.tabs.map((r, k) => tabE[k] ? `<button type="button" role="tab" data-r="${r}" aria-selected="${r === rid || (tabE[k].g || []).includes(rid)}"${r === C.rid ? ' class="jmatch"' : ""}><span class="th" dir="rtl">${escH(tabE[k].parts ? tabE[k].parts.map(m => m.h).join(" · ") : [tabE[k].h, ...(tabE[k].a || [])].join(", "))}</span>${tags(r, tabE[k])}</button>` : "").join("");
   const note = [];
   if (rid === C.rid && C.kind === "root") note.push("Jastrow has no entry for this exact word, so this is the entry for its root.");
   if (rid !== C.rid && C.tabs.includes(rid)) note.push("Another related entry. The one matched to this word is the highlighted tab, marked “this word”.");
   if (!C.tabs.includes(rid) && rid !== C.rid && !C.also.includes(rid)) note.push("Opened from a link in another entry.");
   if (e.s === 2018) note.push("This entry's text is from Sefaria's 2018 data; Sefaria's current version may have small corrections.");
   document.getElementById("jas-note").textContent = note.join(" ");
-  body.innerHTML = e.html; jasPop.dataset.cur = rid;
+  body.innerHTML = e.parts ? e.parts.map(m => `<h4 class="jent" dir="rtl">${escH([m.h, ...(m.a || [])].join(", "))}</h4>${m.html}`).join("") : e.html;
+  jasPop.dataset.cur = rid;
   // Onkelos citations open the pasuk here (the parsha is found from the glossary's chapter ranges)
   body.querySelectorAll('a[href*="sefaria.org/Onkelos_"]').forEach(a => {
     const m = a.getAttribute("href").match(/Onkelos_(\w+)\.(\d+)\.(\d+)$/); if (!m) return;
