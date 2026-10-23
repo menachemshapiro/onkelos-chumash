@@ -435,6 +435,11 @@ const VERSES = [
 const RASHI = [];
 
 const TROPE = /[\u0591-\u05AF\u05BD\u05C0]/g; // cantillation, meteg, paseq (niqqud kept)
+// meteg right after a vowel: some fonts (Noto Serif Hebrew, the default) draw it in the middle of the vowel, so tzeirei + meteg
+// looks like a kamatz (Bereishis 16:8 אֵֽי). A zero-width joiner between them makes the font set the meteg beside the vowel.
+const METEG = s => s.replace(/([\u05b0-\u05bb])\u05bd/g, "$1\u200d\u05bd");
+// …and copied text loses the joiner again, so it matches the source
+document.addEventListener("copy", ev => { const t = String(getSelection() || ""); if (!t.includes("\u200d")) return; ev.clipboardData.setData("text/plain", t.replace(/\u200d/g, "")); ev.preventDefault(); });
 const NIQQUD = /[֑-ׇֽֿׁׂׅׄ]/g;
 // alternate readings printed in the Targum text — (נ"א …), (ס"א …), (לפרש"י …) — stay in the text, set apart in Rashi script
 const ALT_RE = /\((?:<small>\s*)?(נ"א|נ״א|נ"י|נ״י|ס"א|ס״א|לפרש"י|לפרש״י|גי' רמב"ן|גי׳ רמב״ן|בנ"י איננו|בנ״י איננו)\s*(?:<\/small>)?\s*([^()]*?)\s*\)/g;
@@ -601,7 +606,7 @@ document.addEventListener("toggle", ev => { if (ev.target.classList && ev.target
 function verseHTML(i, trope, par, tools){
   const v = VERSES[i], a = alOf(i, par);
   const rows = v.h.map((h,j) => {
-    const heb = trope ? h : h.replace(TROPE,"").replace(/\s{2,}/g," ");
+    const heb = trope ? METEG(h) : h.replace(TROPE,"").replace(/\s{2,}/g," ");
     return `<div class="clause">
       <div class="cell heb"><div class="lbl">מקרא</div>${j===0?`${a?`<span class="al-in">(${a})</span>`:''}<span class="vn">${v.n}:</span>`:''}${heb}${(v.p && j===v.h.length-1)?`<span class="pet">{${v.p}}</span>`:''}</div>
       <div class="cell tg"><div class="lbl">תרגום</div>${tools && glossHas(v) ? twrap(mk(v.t[j]||"")) : mk(v.t[j]||"")}</div>
@@ -1555,7 +1560,7 @@ async function exportDocx(s){
     }
     const rows = v.h.map((h, j) => {
       const first = j === 0, last = j === v.h.length - 1 && !(s.rashi && (RASHI[i] || []).length);
-      const heb = s.trope ? h : h.replace(TROPE, "").replace(/\s{2,}/g, " ");
+      const heb = s.trope ? METEG(h) : h.replace(TROPE, "").replace(/\s{2,}/g, " ");
       const hebKids = [];
       const al = alOf(i, s.par);
       if (first && al) hebKids.push(run(`(${al}) `, { font: F.heb, size: SZ.heb * .6, bold: true, color: TEAL, rtl: true }));

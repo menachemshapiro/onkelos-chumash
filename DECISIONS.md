@@ -12,6 +12,11 @@ Each pasuk is split into clauses by its te'amim, using one fixed rule:
 
 Where this rule gave a clause that the Targum or the English couldn't follow, the clauses were joined. The next section lists those pesukim.
 
+## Hebrew text checks (Oct 23)
+
+- **The Hebrew is Sefaria's text, unchanged.** build/heb_check.py compares every pasuk on the page with the Sefaria source (Tanach with Ta'amei Hamikra), letter, vowel and ta'am. Only the petucha/setuma signs, the paseq (left as is) and the line splits differ. Oct 23: all 5,846 pesukim match.
+- **Meteg next to a vowel.** In the default font (Noto Serif Hebrew), a meteg after a vowel is drawn in the middle of the vowel, so tzeirei + meteg looks like a kamatz (reported in Bereishis 16:8, אֵֽי־מִזֶּה; the text itself was right). The page puts a zero-width joiner between the vowel and the meteg when te'amim are shown, which makes the font set the meteg beside the vowel; copied text drops the joiner again. This affects about 9,000 places (tzeirei 1,092, segol 1,300, kamatz 2,915 and others). build/meteg_test.js draws every vowel + meteg in Noto Serif Hebrew, Frank Ruhl Libre and David Libre and fails if a meteg lands inside a vowel. Mekorot Vilna sets the meteg below the vowel rather than between its dots, with or without the joiner.
+
 ## Hebrew clauses joined, by parsha
 
 In these pesukim, two or more clauses from the rule were shown as a single line. Usually this was because the Targum or the English could not be split at the same point.
