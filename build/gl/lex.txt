@@ -1528,7 +1528,7 @@ ntsh | נצח | נְצַח | verb | to be victorious
 hlsh | חלש | חֲלַשׁ | verb | to be weak, defeated
 shwf | שוף | שָׁף | verb | to file, grind down
 zry | זרי | זְרָא | verb | to scatter, strew
-asabuta | | אֲסָבוּתָא | noun, f. | bad name, disgrace
+asabuta | נסב | אֲסָבוּתָא | verb (Af'el, infinitive) | to make (someone) take on, cause to take (here: a bad name, שׁוּם בִּישׁ; cf. Jastrow נְסַב Pa. "to cause to bear a bad reputation")
 shaa | שעי | שָׁעָא | noun | moment, hour
 dibra | דבר | דִּבְרָא | noun | back (part) (דִּבְרַת = what is behind)
 psl | פסל | פְּסַל | verb | to hew, carve

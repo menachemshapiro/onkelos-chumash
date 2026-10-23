@@ -110,7 +110,9 @@ stat['from Targ. O. citations'] = len(TARG)
 OVR = {k: v for k, v in json.load(open(SP + 'build/jas-override.json', encoding='utf8')).items() if not k.startswith('_')}
 for k, rid in OVR.items():   # hand-checked corrections
     if rid is None: out.pop(k, None)
-    else: out[k] = {'rid': rid, 'kind': 'word', 'also': [x for x in out.get(k, {}).get('also', []) if x != rid]}
+    else:   # "rid" for the word's own entry, "rid:root" for the entry of its root
+        rid, kind = (rid.split(':') + ['word'])[:2]
+        out[k] = {'rid': rid, 'kind': kind, 'also': [x for x in out.get(k, {}).get('also', []) if x != rid]}
 stat['hand-checked'] = len(OVR)
 json.dump(out, open(SP + 'build/jas-map.json', 'w', encoding='utf8'), ensure_ascii=False)
 print(stat)

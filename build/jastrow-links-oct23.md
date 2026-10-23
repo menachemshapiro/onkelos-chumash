@@ -1,19 +1,20 @@
 # Jastrow links for glossary words (Oct 23)
 
-## Still without a Jastrow entry (6)
+## Still without a Jastrow entry (5)
 
 | Word | Meaning | What Jastrow has |
 |---|---|---|
 | הֲלָא | is it not?, surely | Only הֲלָא as a pointer to הֲלִי, “to be faint” — a different word. |
 | אֵפוֹדָא | the ephod | No entry. |
 | גַּרְזְנָא | axe | No Aramaic entry; only the Hebrew קַרְדּוֹם. |
-| אֲסָבוּתָא | bad name, disgrace | No entry found. |
 | כְּבַר | like, resembling | His כְּבַר entries mean “already” and “to be heavy”. |
 | כְּרָא (תִּכְרוּן) | to buy | His כְּרֵי is “to dig”. |
 
+אֲסָבוּתָא (Shemos 32:25, לַאֲסָבוּתְהוֹן שׁוּם בִּישׁ) was mislabeled in the glossary as a noun, “bad name”. It is the Af‘el infinitive of נסב, “to make them take on (a bad name)”, and is now linked to Jastrow’s נְסַב (root entry; Af. “to cause to take”).
+
 Not counted: names, and יְיָ, which are left without a Jastrow link on purpose.
 
-## Linked today, second round (51)
+## Linked today, second round (52)
 
 Found by searching the whole dictionary, including words listed inside another entry (e.g. אִלֵּין, אִנּוּן, כְּרוּם יַמָּא under כְּרוּם ²).
 
