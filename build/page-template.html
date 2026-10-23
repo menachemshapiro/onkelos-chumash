@@ -971,6 +971,8 @@ async function jasRender(rid){
   body.innerHTML = e.parts ? e.parts.map(m => `<h4 class="jent"><b class="jas-hw" dir="rtl">${escH([m.h, ...(m.a || [])].join(", "))}</b></h4>${m.html}`).join("") : e.html;
   jasPop.dataset.cur = rid;
   jasTip(null); jasMarkAbbr();
+  if (C.here)   // highlight citations of the pasuk being read (before the links are pointed at this page)
+    body.querySelectorAll(`a[href*='${C.here.slice(0, -1)}']`).forEach(a => { if (a.getAttribute("href").endsWith(C.here.slice(0, -1))) a.classList.add("jhere"); });
   // Onkelos citations open the pasuk here (the parsha is found from the glossary's chapter ranges)
   body.querySelectorAll('a[href*="sefaria.org/Onkelos_"]').forEach(a => {
     const m = a.getAttribute("href").match(/Onkelos_(\w+)\.(\d+)\.(\d+)$/); if (!m) return;
@@ -981,7 +983,6 @@ async function jasRender(rid){
     a.title = "Open " + parOf(pid).en + " " + c + ":" + vv + " on this page";
     a.dataset.p = pid; a.dataset.c = c; a.dataset.v = vv;
   });
-  if (C.here) body.querySelectorAll(`a[href*='${C.here.slice(0, -1)}']`).forEach(a => { if (a.getAttribute("href").endsWith(C.here.slice(0, -1))) a.classList.add("jhere"); });
   jasPop.querySelector(".jas-card").scrollTop = 0;
   document.getElementById("jas-src").href = "https://www.sefaria.org/" + encodeURI("Jastrow,_" + e.h + ".1");
   const others = C.also.map((r, k) => alsoE[k] && r !== rid ? `<button type="button" data-r="${r}" dir="rtl">${escH(alsoE[k].h)}</button>` : "").join("");
