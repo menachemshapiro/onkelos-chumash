@@ -106,6 +106,7 @@ for f in glob.glob(SP + 'g/*.json'):
 LINKED = set()
 NOTSEF = set(json.load(open(SP + 'jastrow/not-in-word-search.json'))) if os.path.exists(SP + 'jastrow/not-in-word-search.json') else set()
 EXTRA = {}
+GIRSA = {k: v for k, v in json.load(open(SP + 'build/jas-girsa.json', encoding='utf8')).items() if not k.startswith('_')}
 def stub(r): return len(re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', render(E[r])))) < 60
 def same_as(r):
     """Jastrow's "ch. same": an Aramaic entry whose meaning is the entry right before it. Returns that entry's id."""
@@ -179,6 +180,7 @@ for k, m in M.items():
         if nb: EXTRA.setdefault(rid if rid in nb else nb[0], set()).add(t)
     also = [r for r in m['also'] if r not in tabs and r != rid]
     idx[k] = [rid, m['kind'], also, tabs if len(tabs) > 1 else []]
+    if GIRSA.get(k): idx[k].append(GIRSA[k])   # a note: Jastrow cites this pasuk with a different reading
     m = dict(m, rid=rid)
     for r in [m['rid']] + also + tabs:
         groups[r[0]][r] = ent(r)

@@ -181,6 +181,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .jas-tip .h { font-family: var(--tg-font); font-size: 1.12em; unicode-bidi: isolate; }
 .jas-note { font-size: .8rem; color: var(--muted); margin: -4px 0 6px; }
 .jas-note:empty { display: none; }
+.jas-note .jnh { font-family: var(--tg-font); font-size: 1.12em; unicode-bidi: isolate; }
 .jas-body { font-family: var(--en-font); font-size: .98rem; line-height: 1.55; }
 .jas-body p { margin: 0 0 .5em; }
 .jas-body .jhead { color: var(--muted); font-size: .9rem; }
@@ -950,9 +951,9 @@ function jGroup(rid){ const k = rid[0]; return JGRP[k] || (JGRP[k] = loadJ("j/" 
 const jasPop = document.getElementById("jas");
 let JCUR = null, JHIST = [];   // JHIST: entries visited through links inside the pop-up, for Back   // the entry the glossary matched, with its kind, other candidates and same-headword tabs
 const BOOK_EN = { "בראשית": "Genesis", "שמות": "Exodus", "ויקרא": "Leviticus", "במדבר": "Numbers", "דברים": "Deuteronomy" };
-async function showJas(rid, kind, also, tabs, v){
+async function showJas(rid, kind, also, tabs, v, girsa){
   const here = v ? `Onkelos_${BOOK_EN[parOf(v.pr).book] || ""}.${v.c}.${v.v}"` : null;
-  JCUR = { rid, kind, also: also || [], tabs: tabs || [], here, ref: v ? `${v.c}:${v.v}` : "" }; JHIST = [];
+  JCUR = { rid, kind, also: also || [], tabs: tabs || [], girsa: girsa || "", here, ref: v ? `${v.c}:${v.v}` : "" }; JHIST = [];
   jasPop.hidden = false; await jasRender(rid);
 }
 async function jasRender(rid){
@@ -993,8 +994,9 @@ async function jasRender(rid){
   if (rid === C.rid && C.kind === "root") note.push("Jastrow has no entry for this exact word, so this is the entry for its root.");
   if (rid !== C.rid && C.tabs.includes(rid)) note.push("Another related entry. The one matched to this word is the highlighted tab, marked “this word”.");
   if (!C.tabs.includes(rid) && rid !== C.rid && !C.also.includes(rid)) note.push("Opened from a link in another entry.");
+  if (C.girsa && (rid === C.rid || (e.g || []).includes(C.rid))) note.push(C.girsa);
   if (e.s === 2018) note.push("This entry's text is from Sefaria's 2018 data; Sefaria's current version may have small corrections.");
-  document.getElementById("jas-note").textContent = note.join(" ");
+  document.getElementById("jas-note").innerHTML = escH(note.join(" ")).replace(/[\u0590-\u05ff](?:[\u0590-\u05ff\s\u05f3\u05f4'"]*[\u0590-\u05ff])?/g, h => `<span dir="rtl" class="jnh">${h}</span>`);
   body.innerHTML = e.parts ? e.parts.map(m => `<h4 class="jent"><b class="jas-hw" dir="rtl">${escH([m.h, ...(m.a || [])].join(", "))}</b></h4>${m.html}`).join("") : e.html;
   jasPop.dataset.cur = rid;
   jasTip(null); jasMarkAbbr();
@@ -1113,7 +1115,7 @@ async function markJas(card){
 }
 glCard.addEventListener("click", ev => {
   const jb = ev.target.closest(".gl-jas");
-  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2], m[3], glOn ? VERSES[+glOn.closest(".verse").dataset.i] : null); }); return; }
+  if (jb) { jIndex().then(idx => { const m = idx[jb.dataset.l]; if (m) showJas(m[0], m[1], m[2], m[3], glOn ? VERSES[+glOn.closest(".verse").dataset.i] : null, m[4]); }); return; }
   if (ev.target.closest(".gl-x")) closeGloss();
   else if (ev.target.closest(".gl-rep") && glOn) {
     const sec = glOn.closest(".verse"), w = glOn.textContent; closeGloss();

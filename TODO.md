@@ -1,6 +1,7 @@
 # To do
 
 ## Done (Oct 20–23)
+- **62 more glossary words linked to Jastrow** (Oct 23), now that the whole dictionary is downloaded (hand-checked, build/jas-override.json; list: out/jastrow-new-links.md). 10 of them get a note that Jastrow cites the pasuk with a different reading. Also fixed: the citation of the pasuk being read is highlighted in the entry again.
 - **Jastrow fixes from the 1903 scans** (Oct 23): binyan names, split entries, סָתַר I, the אָרִיחַ brick passages (build/jas_fix.py; see DECISIONS). To check on the scans: רְבֵי ² (Pa. or *Pa.), נרווד (p. 937), *דְּקִילִין (p. 319), אָחַז *Nif./Hif.
 - **Full Jastrow downloaded** (Oct 22, evening): all 32,512 entries now have Sefaria's current text (jastrow-all.json: 11,520 from the word search, 72 by page name; kept off GitHub). The pop-up (21,518 entries) uses Sefaria's text throughout; nothing left on the 2018 text. A complete file for the other project: out/jastrow-complete-sefaria-2026.zip.
 - **Metsudah typo fixed** (Oct 22): Eikev 11:24 “form the river” → “from the river” (build/fixes.py and the word-by-word file).
@@ -40,6 +41,7 @@
 - Rule: add a connecting word Metsudah leaves out only when it reads better, in {curly brackets}. Bereishis 1:2 stays "wind".
 
 ## Next
+- **Find Targum editions with Jastrow's other readings (girsaot).** Where Jastrow cites a pasuk with a different reading than our text, the pop-up says so (build/jas-girsa.json): Bereishis 15:11 פַּגְלַיָּא (Jastrow: פִּגְרַיָּא ed. Bon.; פַּלְגַּיָּא ed. Berliner; פִּגְלַיָּא a manuscript), 31:2 וּמִדְּקַמּוֹהִי (ומִדְּקַדְּמוֹהִי; ed. Berliner מִדְּקָמוֹהִי), 16:8 רִבָּנְתִּי (רִבּוֹנְתִּי; ours = ed. Vienna), 35:16 כְּרוּבַת (כְּרוֹבָא), Shemos 8:5 לְאִמָּתַי (לְאֵימַת), Vayikra 11:21 קַרְצוּלִין (קַרְסוּלִּין), Bamidbar 5:15 שְׂעָרִין (סְעַרְתָּא), 12:8 חִדְוָן (חוֹדְיָן ed. Berliner; חִידְוָן ed. Amsterdam), 31:50 שִׁבְכִין (Ms. שִׁבְּבִין), Devarim 20:20 כַּרְקוֹמִין (כַּרְכּוֹמִין). See whether editions with those readings (Bomberg, Berliner, Vienna, Amsterdam, Sabbioneta …) can be found and compared.
 - **Abbreviations not on Jastrow's lists** (abbr-review.md, section 3: Ib., m., f., sq., Pa., Af. …): Menachem to decide which to add.
 - **Texts to research** (where our Targum text differs from another source; left as is for now):
   - Bereishis 3:5 גַּלֵּי (CAL: גְלֵי)
