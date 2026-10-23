@@ -159,7 +159,7 @@ open(OUT + '/.nojekyll', 'w').write('')
 B = OUT + '/build'
 if os.path.isdir(B): shutil.rmtree(B)
 os.makedirs(B)
-keep = ['*.py', 'ovr-*.json', 'data*.json', 'v9-first10.json', 'overrides*.json', 't17.js', 'trep.js', 'tgoto.js', 'tpdf.js', 'trc.js', 'ttypo.js', 'tperf.js', 'eotest.js', 'package.json', 'jas-map.json', 'jas-map.prev.json', 'jas-override.json', 'jas-targ.json', 'glfix.tsv', 'glapply.sh']
+keep = ['*.py', 'ovr-*.json', 'data*.json', 'v9-first10.json', 'overrides*.json', 't17.js', 'trep.js', 'tgoto.js', 'tpdf.js', 'trc.js', 'ttypo.js', 'tperf.js', 'eotest.js', 'package.json', 'jas-map.json', 'jas-map.prev.json', 'jas-override.json', 'jas-targ.json', 'glfix.tsv', 'glapply.sh', 'jastrow-links-oct23.md', 'jas-girsa.json', 'jas_fix.py']
 for pat in keep:
     for f in glob.glob(SP + 'build/' + pat):
         if f.endswith('.bak') or '.before' in f or os.path.basename(f).startswith('data-') and '.prev.' in f: continue
