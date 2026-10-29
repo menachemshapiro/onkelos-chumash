@@ -4,11 +4,14 @@ File format:  "@ c:v.clause"  then one line per Aramaic word, or per group of wo
     Aramaic | exact English
 The groups must cover the clause's Aramaic words in order (the same words as the word-by-word match, v['ea']).
 Writes v['el'][clause] = [[Aramaic, exact English, English used in the translation], ...] into p/<parsha>.json.
-The page shows the exact English, with the English used in parentheses when it is different.
+The page shows the exact English, with the English used in parentheses when it is different. A clause with no
+word-by-word match (no Onkelos change to the English) is split into the Targum's own words, and has no "English used" (null).
+"Hashem" in the exact English stands for the Divine Name: it is shown the way the translation writes it (Adonoy, my Master ...).
 Run after eo_merge.py (eo_merge.py calls it)."""
 import json, os, re, glob, sys, unicodedata as u
 HERE = os.path.dirname(os.path.abspath(__file__)); SP = os.path.dirname(HERE) + '/'
 N = lambda s: u.normalize('NFC', s)
+NAME = r'Adonoy|[Mm]y Master|the Lord|LORD|Hashem|Elohim'
 
 def read(fn):
     out, cur = {}, None
@@ -28,24 +31,36 @@ def merge(verbose=True):
         changed = False
         for v in d['V']:
             el = None
-            for j, a in enumerate(v.get('ea') or []):
+            for j in range(len(v['t'])):
                 key = f"{v['c']}:{v['v']}.{j}"
                 if key not in L: continue
-                if not a: raise SystemExit(f'{pid} {key}: no word-by-word match for this clause')
-                words = [N(w) for ar, en in a['map'] for w in ar.split()]
-                owner = [k for k, (ar, en) in enumerate(a['map']) for w in ar.split()]
+                a = (v.get('ea') or [None] * len(v['t']))[j]
+                if a:
+                    words = [N(w) for ar, en in a['map'] for w in ar.split()]
+                    owner = [k for k, (ar, en) in enumerate(a['map']) for w in ar.split()]
+                else:   # the Targum's own words, as the page's word-by-word table splits them
+                    words = [N(w) for w in re.sub(r'<[^>]+>|\([^)]*\)|[:׃,.;]', ' ', v['t'][j]).split()]
+                    owner = None
+                eng = re.sub(r'<[^>]+>', '', (v.get('eo') or v['e'])[j])
+                name = (re.search(NAME, eng) or [None])[0] or 'Adonoy'
                 rows, i = [], 0
                 for ar, ex in L[key]:
                     ws = ar.split()
                     if words[i:i + len(ws)] != ws:
                         raise SystemExit(f'{pid} {key}: "{ar}" does not match the next words "{" ".join(words[i:i + len(ws)])}"')
-                    used = []
-                    for k in dict.fromkeys(owner[i:i + len(ws)]):
-                        e = a['map'][k][1]
-                        if e and e not in used: used.append(e)
-                    rows.append([ar, ex, ' '.join(used)]); i += len(ws)
+                    if owner is None: used = None
+                    else:
+                        used = []
+                        for k in dict.fromkeys(owner[i:i + len(ws)]):
+                            e = a['map'][k][1]
+                            if e and e not in used: used.append(e)
+                        used = ' '.join(used)
+                    if 'Hashem' in ex:   # the Divine Name as the translation writes it
+                        nm = (re.search(NAME, used or '') or [None])[0] or name
+                        ex = ex.replace('Hashem', nm[0].lower() + nm[1:] if nm.startswith('My ') and not ex.startswith('Hashem') else nm)
+                    rows.append([ar, ex, used]); i += len(ws)
                 if i != len(words): raise SystemExit(f'{pid} {key}: words left over: {" ".join(words[i:])}')
-                el = el or [None] * len(v['ea']); el[j] = rows; n += 1
+                el = el or [None] * len(v['t']); el[j] = rows; n += 1
             if el != v.get('el'):
                 if el: v['el'] = el
                 else: v.pop('el', None)
