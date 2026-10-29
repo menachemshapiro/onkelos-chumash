@@ -168,7 +168,7 @@ shutil.copy(SP + 'bereishit-onkelos.html', B + '/page-template.html')
 # glossary sources: dictionary, per-aliyah word lists, aliyah index, log of lookups on the CAL site
 shutil.copytree(SP + 'build/gl', B + '/gl')
 # "as Onkelos reads it": worksheets, hand-written word-by-word matches, merged output
-for d in ['ws', 'ws-full', 'eo-align', 'eo', 'test-fonts']: shutil.copytree(SP + 'build/' + d, B + '/' + d)
+for d in ['ws', 'ws-full', 'eo-align', 'eo', 'test-fonts', 'lit']: shutil.copytree(SP + 'build/' + d, B + '/' + d)
 # Jastrow: the fetch script and what it brought back from Sefaria
 shutil.copytree(SP + 'jastrow', B + '/jastrow', ignore=shutil.ignore_patterns('__pycache__', '*progress*', 'html', 'separate', 'Jastrow-full.xml', 'jastrow-2018.json', 'jastrow-all.json', 'jastrow-complete*', '*.zip'))
 for f in ['gl-aliyot.json', 'gl-stats.json', 'cal-log.json']:

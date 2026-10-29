@@ -1,0 +1,185 @@
+# Literal ("exact") English for the Onkelos word-by-word table: one line per Aramaic word or group read together.
+# @ chapter:verse.clause   then   Aramaic (as in the table; several words = read together) | exact English
+@ 18:1.0
+וְאִתְגְּלִי | and revealed Himself
+לֵיהּ | to him
+יְיָ | Hashem
+@ 18:1.1
+בְּמֵשְׁרֵי מַמְרֵא | in the plains of Mamre
+@ 18:3.1
+יְיָ | Hashem
+אִם כְּעַן | if now
+אַשְׁכָּחִית | I have found
+רַחֲמִין | mercy
+קֳדָמָךְ | before You
+@ 18:3.2
+לָא כְעַן | please do not
+תְּעִבַּר מֵעַל | pass on from
+עַבְדָּךְ | your servant
+@ 18:4.0
+יִסְּבוּן כְּעַן | let them now take
+זְעֵיר | a little
+מַיָּא | water
+@ 18:8.2
+וְהוּא | and he
+מְשַׁמֵּשׁ עִלָּוֵיהוֹן | was serving over them
+תְּחוֹת | under
+אִילָנָא | the tree
+וַאֲכָלוּ | and they ate
+@ 18:10.0
+וַאֲמַר | and he said
+מִתַּב אִתּוּב | I will surely return
+לְוָתָךְ | to you
+כְּעִדָּן דְּאַתּוּן קַיָּמִין | at the time when you (all) are alive
+@ 18:12.1
+בָּתַר דְּסֵיבִית | after I have grown old
+הֲוַת לִי | I have had
+עוּלֵימוּ | youth
+@ 18:14.0
+הֲיִתְכַּסֵּא | is hidden
+מִן קֳדָם יְיָ | from before Hashem
+פִּתְגָּמָא | a word
+@ 18:14.1
+לִזְמַן | at the set time
+אִתּוּב | I will return
+לְוָתָךְ | to you
+כְּעִדָּן דְּאַתּוּן קַיָּמִין | at the time when you (all) are alive
+וּלְשָׂרָה | and to Sarah
+בָר | a son
+@ 18:15.1
+וַאֲמַר | and he said
+לָא | no
+בְּרָם | but
+חַיָּכְתְּ | you laughed
+@ 18:16.2
+וְאַבְרָהָם | and Avraham
+אָזֵל | was going
+עִמְּהוֹן | with them
+לְאַלְווֹאֵיהוֹן | to escort them
+@ 18:18.1
+וְיִתְבָּרְכוּן | and will be blessed
+בְּדִילֵיהּ | for his sake
+@ 18:19.0
+אֲרֵי | for
+גְלִי קֳדָמַי | it is revealed before Me
+בְּדִיל דִּי | so that
+יְפַקֵּד | he will command
+יָת בְּנוֹהִי | his sons
+וְיָת אֱנַשׁ בֵּיתֵיהּ | and the people of his house
+בַּתְרוֹהִי | after him
+@ 18:19.1
+וְיִטְּרוּן | and they will keep
+אָרְחָן | ways
+דְּתַקְּנָן | that are proper
+קֳדָם יְיָ | before Hashem
+@ 18:21.0
+אִתְגְּלִי | I will reveal Myself
+כְעַן | now
+וְאֶדּוּן | and I will judge
+@ 18:21.1
+הֲכִי | whether
+קְבִלְתְּהוֹן | (as) their outcry
+דְּעַלַּת לִקֳדָמַי | that has come before Me
+עֲבָדוּ | they have done
+אֶעְבֵּד עִמְּהוֹן גְּמֵירָא | I will make an end with them
+@ 18:21.2
+וְאִם | and if
+תָּיְבִין | they repent
+לָא אֶתְפְּרָע | I will not exact punishment
+@ 18:22.2
+וְאַבְרָהָם | and Avraham
+עַד כְּעַן | until now
+מְשַׁמֵּשׁ בִּצְלוֹ | was serving in prayer
+קֳדָם יְיָ | before Hashem
+@ 18:23.1
+הֲבִרְגַז | in anger?
+תְּשֵׁיצֵי | will You destroy
+@ 18:23.2
+זַכָּאָה | the righteous
+עִם | with
+חַיָּבָא | the wicked
+@ 18:24.0
+מָאִים | perhaps
+אִית | there are
+חַמְשִׁין | fifty
+זַכָּאִין | righteous
+בְּגוֹ קַרְתָּא | in the midst of the city
+@ 18:24.1
+הֲבִרְגַז | in anger?
+תְּשֵׁיצֵי | will You destroy
+וְלָא תִשְׁבּוֹק | and not forgive
+לְאַתְרָא | the place
+@ 18:25.0
+קוּשְׁטָא | true
+אִנּוּן | are
+דִּינָךְ | Your judgments
+מִלְּמֶעְבַּד | from doing
+כְּפִתְגָּמָא הָדֵין | like this thing
+לְקַטָּלָא | to kill
+זַכָּאָה | the righteous
+עִם | with
+חַיָּבָא | the wicked
+@ 18:25.2
+קוּשְׁטָא | true
+אִנּוּן | are
+דִּינָךְ | Your judgments
+@ 18:27.1
+הָא כְעַן | behold, now
+שָׁרֵיתִי | I have begun
+לְמַלָּלָא | to speak
+קֳדָם יְיָ | before Hashem
+@ 18:28.0
+מָאִים | perhaps
+יַחְסְרוּן | will lack
+חַמְשִׁין זַכָּאִין | the fifty righteous
+חַמְשָׁא | five
+@ 18:29.0
+וְאוֹסֵיף עוֹד | and he added again
+לְמַלָּלָא | to speak
+קֳדָמוֹהִי | before Him
+וַאֲמַר | and he said
+@ 18:29.1
+מָאִים | perhaps
+יִשְׁתַּכְּחוּן | will be found
+תַּמָּן | there
+אַרְבְּעִין | forty
+@ 18:29.2
+וַאֲמַר | and he said
+לָא | not
+אֶעְבֵּד גְּמֵרָא | I will make an end
+@ 18:30.1
+מָאִים | perhaps
+יִשְׁתַּכְּחוּן | will be found
+תַּמָּן | there
+תְּלָתִין | thirty
+@ 18:30.2
+וַאֲמַר | and he said
+לָא | not
+אֶעְבֵּד גְּמֵרָא | I will make an end
+@ 18:31.0
+וַאֲמַר | and he said
+הָא כְעַן | behold, now
+שָׁרֵיתִי | I have begun
+לְמַלָּלָא | to speak
+קֳדָם יְיָ | before Hashem
+@ 18:31.1
+מָאִים | perhaps
+יִשְׁתַּכְּחוּן | will be found
+תַּמָּן | there
+עֶשְׂרִין | twenty
+@ 18:32.0
+וַאֲמַר | and he said
+לָא כְעַן | please let not
+יִתְקֹף | it be strong (= be anger)
+קֳדָם יְיָ | before Hashem
+וֶאֱמַלֵּל | and I will speak
+בְּרַם | but, only
+זִמְנָא הָדָא | this time
+@ 18:32.1
+מָאִים | perhaps
+יִשְׁתַּכְּחוּן | will be found
+תַּמָּן | there
+עַשְׂרָא | ten
+@ 18:33.0
+וְאִסְתַּלַּק | and went up
+יְקָרָא דַיְיָ | the Glory of Hashem
