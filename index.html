@@ -216,6 +216,18 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .help-body p { margin: 0 0 6px; }
 .help-body ul { margin: 0; padding-inline-start: 1.2em; }
 .help-body li { margin: 3px 0; }
+.rep-sel { border-inline-start: 3px solid var(--targum); background: var(--bg); border-radius: 6px; padding: 6px 10px; margin-bottom: 10px; }
+.rep-sel-h { display: flex; justify-content: space-between; align-items: baseline; font-size: .78rem; color: var(--targum); font-weight: 600; }
+.rep-sel-t { max-height: 6.5em; overflow: auto; font-size: 1rem; line-height: 1.5; margin-top: 2px; unicode-bidi: plaintext; text-align: start; }
+.rep-card .lnk { font: inherit; font-size: .8rem; background: none; border: 0; padding: 0; color: var(--targum); text-decoration: underline; cursor: pointer; }
+#rep .rep-card { max-height: calc(100dvh - 32px); overflow-y: auto; }
+.rep-gh { font-size: .88rem; line-height: 1.45; margin-top: 10px; border-top: 1px solid var(--rule); padding-top: 8px; }
+.rep-gh p { margin: 0 0 6px; } .rep-gh ol { margin: 0 0 6px; padding-inline-start: 1.3em; } .rep-gh li { margin-bottom: 6px; }
+.rep-gh a { color: var(--targum); font-weight: 600; }
+#rep-gh-tok { display: block; width: 100%; box-sizing: border-box; margin-top: 4px; font: 16px ui-monospace, monospace; color: var(--ink); background: var(--bg); border: 1px solid var(--rule); border-radius: 8px; padding: 7px 8px; }
+.rep-gh-alt { font-size: .8rem; opacity: .85; }
+.rep-act { align-items: center; flex-wrap: wrap; }
+.rep-who { margin-inline-end: auto; font-size: .78rem; opacity: .8; }
 .rep-act .pri { background: var(--targum); border-color: var(--targum); color: var(--surface); font-weight: 600; }
 .en .add { color: var(--muted); }
 /* word by word: a drop-down under each Targum line, shown when the "Word by word" setting is on */
@@ -399,11 +411,6 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
   </section>
 </div>
 
-<div class="rep-pop" id="rep-na" hidden dir="ltr" lang="en"><div class="rep-card" role="dialog" aria-modal="true" aria-labelledby="rep-na-t">
-  <div class="rep-h"><b id="rep-na-t">Report a problem</b></div>
-  <p class="na-p">Reporting isn't available on this copy of the page yet. It's coming soon.</p>
-  <div class="rep-act"><button type="button" id="rep-na-ok" class="pri">OK</button></div>
-</div></div>
 <div class="rep-pop help-pop" id="help" hidden dir="ltr" lang="en"><div class="rep-card help-card" role="dialog" aria-modal="true" aria-labelledby="help-t">
   <div class="rep-h"><b id="help-t">How to use this page</b><button type="button" id="help-x" class="help-x" aria-label="Close">×</button></div>
   <div class="help-body">
@@ -431,7 +438,7 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
     <h3>More</h3>
     <ul>
       <li><b>Show original</b> on a pasuk shows the English as printed, where it was reordered or corrected here.</li>
-      <li><b>Report</b> on a pasuk or a glossary card sends a note about a mistake.</li>
+      <li><b>Report</b> on a pasuk or a glossary card sends a note about a mistake. If you highlight a word or phrase first, it goes into the report. On the GitHub site (and the home-screen app) the first report asks for a one-time GitHub key; after that, reports go straight from the page as GitHub issues.</li>
       <li>On an iPhone, open the page in Safari and choose <i>Share → Add to Home Screen</i> to use it as an app. It also works offline.</li>
     </ul>
   </div>
@@ -450,9 +457,18 @@ body.stacked .perek + .verse .clause:first-child .lbl { display: block; }
   <div class="rep-parts" role="group" aria-label="What needs fixing">
     <button type="button" aria-pressed="false" data-p="hebrew">Hebrew</button><button type="button" aria-pressed="false" data-p="targum">Targum</button><button type="button" aria-pressed="false" data-p="english">English</button><button type="button" aria-pressed="false" data-p="split">Line split</button><button type="button" aria-pressed="false" data-p="rashi">Rashi</button><button type="button" aria-pressed="false" data-p="other">Other</button>
   </div>
+  <div class="rep-sel" id="rep-sel" hidden><div class="rep-sel-h"><span id="rep-sel-l">Selected text</span><button type="button" id="rep-sel-x" class="lnk">leave out</button></div><div id="rep-sel-t" class="rep-sel-t"></div></div>
   <textarea id="rep-note" rows="4" placeholder="What should change? (optional)"></textarea>
+  <div class="rep-gh" id="rep-gh" hidden>
+    <p><b>One-time setup.</b> Reports go to GitHub as issues. To send them from this page, it needs a key (a GitHub token) that can only open issues on this project.</p>
+    <ol>
+      <li><a id="rep-gh-new" href="#" target="_blank" rel="noopener">Make the key on GitHub</a> (sign in if asked). Under <i>Repository access</i> choose <i>Only select repositories</i> → <i>onkelos-chumash</i>. <i>Issues: Read and write</i> is already filled in. Tap <i>Generate token</i> and copy it.</li>
+      <li>Come back and paste it here:<input id="rep-gh-tok" type="password" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="github_pat_…"></li>
+    </ol>
+    <p class="rep-gh-alt">The key is kept only in this browser. Not the page's owner? <a id="rep-gh-web" href="#" target="_blank" rel="noopener">Open the report on GitHub</a> instead.</p>
+  </div>
   <div class="rep-msg" id="rep-msg" role="status"></div>
-  <div class="rep-act"><button type="button" id="rep-cancel">Cancel</button><button type="button" id="rep-send" class="pri">Send report</button></div>
+  <div class="rep-act"><span class="rep-who" id="rep-who" hidden>Sends a GitHub issue · <button type="button" id="rep-gh-forget" class="lnk">remove key</button></span><button type="button" id="rep-cancel">Cancel</button><button type="button" id="rep-send" class="pri">Send report</button></div>
 </div></div>
 <script>
 // Each verse: [hebrew clauses], [targum clauses], [english clauses]. <b> marks Onkelos departures.
@@ -843,8 +859,16 @@ document.getElementById("goto").addEventListener("submit", async ev => {
 });
 gotoIn.addEventListener("input", () => gotoIn.classList.remove("bad"));
 
-// ----- per-pasuk tools: Show original · Report (reports are saved in the page's shared store for Claude to read) -----
+// ----- per-pasuk tools: Show original · Report -----
+// On claude.ai, reports are saved in the page's shared store for Claude to read.
+// Everywhere else (GitHub Pages, the home-screen app), they are opened as GitHub issues through GitHub's API,
+// with a key (fine-grained token, Issues: read and write on this repository only) pasted once and kept in this browser.
 var DB = null, REPORTED = new Set();  // var: render() runs before this line
+const ON_CLAUDE = !!(window.claude && window.claude.use);
+const GH_REPO = "menachemshapiro/onkelos-chumash", GH_API = "https://api.github.com/repos/" + GH_REPO;
+const GH_SITE = "https://menachemshapiro.github.io/onkelos-chumash/";
+const GH_KEY = "bt-gh-token", GH_QUEUE = "bt-rep-queue";
+const ghTok = () => { try { return localStorage.getItem(GH_KEY) || ""; } catch (e) { return ""; } };
 function vkey(v){ return v.pr + " " + v.c + ":" + v.v; }
 function markReported(){
   if (!REPORTED) return;
@@ -854,7 +878,7 @@ function markReported(){
   });
 }
 (async () => {
-  try { DB = window.claude && window.claude.use ? await window.claude.use("db") : null; } catch (e) { DB = null; }
+  try { DB = ON_CLAUDE ? await window.claude.use("db") : null; } catch (e) { DB = null; }
   if (!DB) return;
   try {
     DB.collection("reports").onSnapshot(snap => {
@@ -863,52 +887,190 @@ function markReported(){
     }, () => {});
   } catch (e) {}
 })();
+
+// --- GitHub: send, queue while offline, and flag pesukim that have an open report ---
+function ghHeaders(tok){ const h = { Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28" }; if (tok) h.Authorization = "Bearer " + tok; return h; }
+async function ghPost(issue, tok){
+  const post = body => fetch(GH_API + "/issues", { method: "POST", headers: { ...ghHeaders(tok), "Content-Type": "application/json" }, body: JSON.stringify(body) });
+  let r = await post({ ...issue, labels: ["report"] });
+  if (r.status === 422) r = await post(issue);   // label refused: send without it
+  return r;
+}
+const ghQueue = () => { try { return JSON.parse(localStorage.getItem(GH_QUEUE) || "[]"); } catch (e) { return []; } };
+const ghSetQueue = q => { try { q.length ? localStorage.setItem(GH_QUEUE, JSON.stringify(q)) : localStorage.removeItem(GH_QUEUE); } catch (e) {} };
+let ghFlushing = false;
+async function ghFlush(){
+  const tok = ghTok(); if (ON_CLAUDE || !tok || ghFlushing || !ghQueue().length) return;
+  ghFlushing = true;
+  try {
+    for (const it of ghQueue()) {
+      let r; try { r = await ghPost(it.issue, tok); } catch (e) { break; }   // still offline
+      if (!r.ok && r.status >= 500) break;
+      ghSetQueue(ghQueue().filter(x => x.id !== it.id));
+    }
+  } finally { ghFlushing = false; }
+}
+async function ghLoadReported(){
+  if (ON_CLAUDE) return;
+  try {
+    const r = await fetch(GH_API + "/issues?state=open&per_page=100", { headers: ghHeaders(ghTok()) });
+    if (!r.ok) return;
+    for (const is of await r.json()) { const m = /<!-- report (\{.*?\}) -->/.exec(is.body || ""); if (m) try { const x = JSON.parse(m[1]); REPORTED.add(x.pr + " " + x.c + ":" + x.v); } catch (e) {} }
+    ghQueue().forEach(it => REPORTED.add(it.key));
+    markReported();
+  } catch (e) {}
+}
+if (!ON_CLAUDE) { ghLoadReported(); ghFlush(); addEventListener("online", ghFlush); }
+
+// --- highlighted text: whatever is selected when Report is pressed goes into the report ---
+// Taken at pointerdown, because on a phone the tap on the button clears the selection before the click arrives.
+const PART_OF = [[".cell.heb", "hebrew"], [".cell.tg", "targum"], [".cell.en", "english"], [".orig", "english"], [".rashi", "rashi"]];
+function readSel(){
+  const s = getSelection(); if (!s || s.isCollapsed || !s.rangeCount) return null;
+  const text = String(s).replace(/‍/g, "").replace(/[ \t]+/g, " ").replace(/\s*\n\s*/g, "\n").trim(); if (!text) return null;
+  const elOf = n => n && (n.nodeType === 1 ? n : n.parentElement);
+  const a = elOf(s.anchorNode), f = elOf(s.focusNode);
+  if (!a || !a.closest("#text")) return null;
+  const sec = a.closest(".verse[data-i]") || (f && f.closest(".verse[data-i]"));
+  const parts = [...new Set([a, f].map(el => { const p = el && PART_OF.find(([q]) => el.closest(q)); return p ? p[1] : null; }).filter(Boolean))];
+  return { text: text.slice(0, 1500), i: sec ? +sec.dataset.i : null, parts };
+}
+let selNow = null, selGone = null, selAtPress = null;
+document.addEventListener("selectionchange", () => {
+  const s = readSel();
+  if (s) { selNow = s; selGone = null; } else if (selNow) { selGone = { ...selNow, t: Date.now() }; selNow = null; }
+});
+document.addEventListener("pointerdown", () => {
+  selAtPress = readSel() || (selGone && Date.now() - selGone.t < 700 ? selGone : null);
+  if (selAtPress) selAtPress = { ...selAtPress, t: Date.now() };
+}, true);
+function takeSel(){
+  const s = readSel() || (selAtPress && Date.now() - selAtPress.t < 3000 ? selAtPress : null);
+  selAtPress = null; return s;
+}
+
+// --- the Report card ---
 const repPop = document.getElementById("rep"), repNote = document.getElementById("rep-note"), repMsg = document.getElementById("rep-msg"), repSend = document.getElementById("rep-send");
-let repI = null;
-const repNA = document.getElementById("rep-na");
-document.getElementById("rep-na-ok").addEventListener("click", () => { repNA.hidden = true; });
-repNA.addEventListener("click", ev => { if (ev.target === repNA) repNA.hidden = true; });
-function openReport(i){
-  if (!(window.claude && window.claude.use)) { repNA.hidden = false; return; }   // no place to save reports on this copy yet
-  repI = i; const v = VERSES[i], P = parOf(v.pr);
-  document.getElementById("rep-ref").textContent = `${P.en} ${v.c}:${v.v} · ${P.name} ${HNUM(v.c)}:${v.n}`;
+const repSelBox = document.getElementById("rep-sel"), repSelT = document.getElementById("rep-sel-t"), repGh = document.getElementById("rep-gh"), repTok = document.getElementById("rep-gh-tok"), repWho = document.getElementById("rep-who");
+let repI = null, repSel = null;
+const refOf = v => { const P = parOf(v.pr); return { en: `${P.en} ${v.c}:${v.v}`, he: `${P.name} ${HNUM(v.c)}:${v.n}` }; };
+function repMode(){   // which way Send goes, and what the card shows for it
+  const gh = !ON_CLAUDE, tok = gh && ghTok();
+  repGh.hidden = !gh || !!tok; repWho.hidden = !tok;
+  repSend.textContent = gh && !tok ? "Save key and send" : "Send report";
+}
+function openReport(i, sel){
+  if (sel === undefined) sel = takeSel();
+  repI = i; const v = VERSES[i], R = refOf(v);
+  document.getElementById("rep-ref").textContent = `${R.en} · ${R.he}`;
   repPop.querySelectorAll(".rep-parts button").forEach(b => b.setAttribute("aria-pressed", "false"));
-  repNote.value = ""; repMsg.textContent = ""; repMsg.classList.remove("err"); repSend.disabled = false;
+  repSel = sel;
+  if (sel) {
+    const other = sel.i !== null && sel.i !== i ? refOf(VERSES[sel.i]).en : "";
+    document.getElementById("rep-sel-l").textContent = "Selected text" + (other ? ` (from ${other})` : "");
+    repSelT.textContent = sel.text;
+    sel.parts.forEach(p => { const b = repPop.querySelector(`.rep-parts [data-p="${p}"]`); if (b) b.setAttribute("aria-pressed", "true"); });
+  }
+  repSelBox.hidden = !sel;
+  repNote.value = ""; repMsg.textContent = ""; repMsg.classList.remove("err"); repSend.disabled = false; repTok.value = "";
+  repMode();
   repPop.hidden = false; setTimeout(() => repNote.focus(), 50);
 }
-function closeReport(){ repPop.hidden = true; repI = null; }
+function closeReport(){ repPop.hidden = true; repI = null; repSel = null; }
+document.getElementById("rep-sel-x").addEventListener("click", () => { repSel = null; repSelBox.hidden = true; });
+document.getElementById("rep-gh-forget").addEventListener("click", () => { try { localStorage.removeItem(GH_KEY); } catch (e) {} repMode(); repMsg.classList.remove("err"); repMsg.textContent = "Key removed from this browser."; });
+document.getElementById("rep-gh-new").href = "https://github.com/settings/personal-access-tokens/new?" + new URLSearchParams({
+  name: "Chumash reports", description: "Lets the Chumash with Onkelos page open report issues on onkelos-chumash. Choose Only select repositories → onkelos-chumash.",
+  target_name: GH_REPO.split("/")[0], expires_in: "366", issues: "write" });
 repPop.querySelector(".rep-parts").addEventListener("click", ev => {
   const b = ev.target.closest("button"); if (b) b.setAttribute("aria-pressed", b.getAttribute("aria-pressed") !== "true");
 });
 document.getElementById("rep-cancel").addEventListener("click", closeReport);
 repPop.addEventListener("click", ev => { if (ev.target === repPop) closeReport(); });
-addEventListener("keydown", ev => { if (ev.key === "Escape") { if (!repPop.hidden) closeReport(); repNA.hidden = true; helpPop.hidden = true; } });
+addEventListener("keydown", ev => { if (ev.key === "Escape") { if (!repPop.hidden) closeReport(); helpPop.hidden = true; } });
 const helpPop = document.getElementById("help");
 document.getElementById("t-help").addEventListener("click", () => { helpPop.hidden = false; });
 document.getElementById("help-x").addEventListener("click", () => { helpPop.hidden = true; });
 helpPop.addEventListener("click", ev => { if (ev.target === helpPop) helpPop.hidden = true; });
-repSend.addEventListener("click", async () => {
-  if (repI === null) return;
-  const v = VERSES[repI], P = parOf(v.pr);
+
+const PART_EN = { hebrew: "Hebrew", targum: "Targum", english: "English", split: "Line split", rashi: "Rashi", other: "Other" };
+function issueOf(rec){
+  const v = VERSES[repI], R = refOf(v), link = `${GH_SITE}#${v.pr}/${v.c}:${v.v}`;
+  const short = rec.note ? rec.note.split("\n")[0] : rec.sel ? "“" + rec.sel.replace(/\s+/g, " ") + "”" : "";
+  const title = `Report: ${R.en}${rec.parts.length ? " (" + rec.parts.map(p => PART_EN[p]).join(", ") + ")" : ""}${short ? " — " + (short.length > 70 ? short.slice(0, 69) + "…" : short) : ""}`;
+  const L = [`**Pasuk:** ${R.en} · ${R.he} — [open on the page](${link})`];
+  if (rec.parts.length) L.push(`**What needs fixing:** ${rec.parts.map(p => PART_EN[p]).join(", ")}`);
+  if (rec.sel) L.push("", `**Selected text**${rec.selFrom ? " (from " + rec.selFrom + ")" : ""}:`, rec.sel.split("\n").map(x => "> " + x).join("\n"));
+  if (rec.note) L.push("", "**Note:**", rec.note);
+  L.push("", `<sub>Sent from the page · ${({ both: "Combined", plain: "Plain", onk: "Onkelos" })[EN_MODE] || EN_MODE} English · ${new Date(rec.at).toLocaleString("en-GB")}</sub>`);
+  L.push(`<!-- report ${JSON.stringify({ pr: rec.pr, c: rec.c, v: rec.v, parts: rec.parts })} -->`);
+  return { title, body: L.join("\n") };
+}
+function say(t, err){ repMsg.textContent = t; repMsg.classList.toggle("err", !!err); }
+function buildRec(){
+  const v = VERSES[repI], R = refOf(v);
   const parts = [...repPop.querySelectorAll('.rep-parts button[aria-pressed="true"]')].map(b => b.dataset.p);
   const note = repNote.value.trim();
-  if (!parts.length && !note) { repMsg.textContent = "Pick what needs fixing or write a note."; repMsg.classList.add("err"); return; }
-  const rec = { pr: v.pr, c: v.c, v: v.v, ref: `${P.en} ${v.c}:${v.v}`, parts, note, status: "open", at: new Date().toISOString() };
-  const asText = `Report: ${rec.ref}${parts.length ? " — " + parts.join(", ") : ""}${note ? " — " + note : ""}`;
-  repSend.disabled = true; repMsg.classList.remove("err"); repMsg.textContent = "Sending…";
-  if (DB) {
-    try {
-      try { const u = await window.claude.use("user"); const id = u ? await u.id() : null; if (id) rec.by = id; } catch (e) {}
-      await DB.collection("reports").add(rec);
-      REPORTED.add(vkey(v)); markReported();
-      repMsg.textContent = "Sent. Claude will see it next time you ask it to check reports.";
-      setTimeout(closeReport, 1400); return;
-    } catch (e) { /* fall through to copy */ }
+  const rec = { pr: v.pr, c: v.c, v: v.v, ref: R.en, parts, note, status: "open", at: new Date().toISOString() };
+  if (repSel) { rec.sel = repSel.text; if (repSel.i !== null && repSel.i !== repI) rec.selFrom = refOf(VERSES[repSel.i]).en; }
+  return rec;
+}
+document.getElementById("rep-gh-web").addEventListener("click", ev => {
+  if (repI === null) { ev.preventDefault(); return; }
+  const is = issueOf(buildRec());
+  ev.currentTarget.href = `https://github.com/${GH_REPO}/issues/new?` + new URLSearchParams({ title: is.title, body: is.body });
+});
+repSend.addEventListener("click", async () => {
+  if (repI === null) return;
+  const v = VERSES[repI], i0 = repI, rec = buildRec(), { parts, note } = rec;
+  if (!parts.length && !note && !repSel) { say("Pick what needs fixing or write a note.", true); return; }
+  const asText = `Report: ${rec.ref}${parts.length ? " — " + parts.join(", ") : ""}${rec.sel ? " — selected: “" + rec.sel + "”" : ""}${note ? " — " + note : ""}`;
+  const done = t => { REPORTED.add(vkey(v)); markReported(); say(t); setTimeout(() => { if (repI === i0) closeReport(); }, 1400); };
+
+  if (ON_CLAUDE) {
+    repSend.disabled = true; say("Sending…");
+    if (DB) {
+      try {
+        try { const u = await window.claude.use("user"); const id = u ? await u.id() : null; if (id) rec.by = id; } catch (e) {}
+        await DB.collection("reports").add(rec);
+        done("Sent. Claude will see it next time you ask it to check reports."); return;
+      } catch (e) { /* fall through to copy */ }
+    }
+    let copied = false;
+    try { await navigator.clipboard.writeText(asText); copied = true; } catch (e) {}
+    repSend.disabled = false;
+    say(copied ? "Couldn't save here, so the report was copied. Paste it to Claude." : "Couldn't save here. Tell Claude: " + asText, true);
+    return;
   }
-  let copied = false;
-  try { await navigator.clipboard.writeText(asText); copied = true; } catch (e) {}
-  repMsg.classList.add("err"); repSend.disabled = false;
-  repMsg.textContent = copied ? "Couldn't save here, so the report was copied. Paste it to Claude." : "Couldn't save here. Tell Claude: " + asText;
+
+  // GitHub
+  const issue = issueOf(rec);
+  let tok = ghTok();
+  if (!tok) {
+    tok = repTok.value.trim().replace(/^Bearer\s+/i, "");
+    if (!tok) { say("Paste the key from GitHub first (step 2 below).", true); repTok.focus(); return; }
+    if (!/^(github_pat_|ghp_)\w{20,}$/.test(tok)) { say("That doesn't look like a GitHub key. It starts with github_pat_.", true); repTok.focus(); return; }
+  }
+  repSend.disabled = true; say("Sending…");
+  let r;
+  try { r = await ghPost(issue, tok); }
+  catch (e) {   // offline or GitHub unreachable: keep it and send later
+    try { localStorage.setItem(GH_KEY, tok); } catch (e2) {}
+    ghSetQueue([...ghQueue(), { id: Date.now() + "-" + Math.random().toString(36).slice(2, 7), key: vkey(v), issue }]);
+    repMode(); done("No connection. The report is saved here and will be sent when you're back online."); return;
+  }
+  repSend.disabled = false;
+  if (r.ok) {
+    try { localStorage.setItem(GH_KEY, tok); } catch (e) {}
+    let n = ""; try { n = " as issue #" + (await r.json()).number; } catch (e) {}
+    repMode(); done("Sent" + n + "."); ghFlush(); return;
+  }
+  if (r.status === 401) { try { localStorage.removeItem(GH_KEY); } catch (e) {} repMode(); say("GitHub didn't accept the key (wrong or expired). Make a new one below.", true); return; }
+  if (r.status === 403 || r.status === 404) {
+    try { localStorage.removeItem(GH_KEY); } catch (e) {} repMode();
+    say("That key can't open issues on onkelos-chumash. When making it, choose that repository and Issues: Read and write.", true); return;
+  }
+  say(`GitHub said no (${r.status}). Try again, or use “Open the report on GitHub” below.`, true); repGh.hidden = false;
 });
 const GLOSS = {}, glPop = document.getElementById("gl"), glCard = document.getElementById("gl-card");
 const gnorm = w => w.normalize("NFD").replace(/[^\u05d0-\u05ea\u05b0-\u05bc\u05be-\u05c2\u05c4-\u05c7]/g, "");
