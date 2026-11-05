@@ -13,6 +13,7 @@ A study page for learning Targum Onkelos alongside the Chumash, Bereishis throug
 - **Jastrow.** From a glossary card, open the word's entry in Jastrow's dictionary (matched automatically).
 - **Navigation.** Pick a sefer, parsha, aliyah, perek or pasuk, or type a reference like `32:13` or `Vayechi 49:11`.
 - **Your layout.** Turn te'amim, Targum, English and Rashi on or off; choose fonts and sizes.
+- **Report a mistake** on any pasuk or glossary word. Highlight a word or phrase first and it goes into the report. Reports become GitHub issues on this repository.
 - **Export** a parsha, aliyah, perek or range of pesukim as PDF or Word.
 - **Home-screen app.** In Safari, *Share → Add to Home Screen*. Works offline after the first visit.
 
